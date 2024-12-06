@@ -208,7 +208,7 @@ $$
 其中$Num_{mat}$是正确执行的步骤数，$Num_{sum}$是总步骤数。某些研究还引入了序列评分：
 
 $$
-SeqScore_i=\begin{cases} \beta_1+\beta_2(s-1), & \text{如果所有动作匹配} \\ 0, & \text{其他情况}\end{cases}
+SeqScore_i=\begin{cases} \beta_1+\beta_2(s-1), & \text{如果所有动作匹配} \newline 0, & \text{其他情况}\end{cases}
 $$
 
 在**集合包含评估**方面，我们将智能体视为模块集合或将输出结果视为属性集合进行评估。例如，WebShop 设计了一个奖励函数来评估产品购买的符合度：
