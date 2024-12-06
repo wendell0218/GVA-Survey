@@ -1,15 +1,67 @@
-# 基本信息
-### 论文题目：
-通用型虚拟智能体：一项关于跨数字平台自主智能体的调查研究
+<div align="center"><h2>Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms</h2></div>
 
-### 作者：
-Minghe Gao, Wendong Bu, Bingchen Miao, Yang Wu, Yunfei Li, Juncheng Li, Siliang Tang, Qi Wu, Yueting Zhuang, Meng Wang
+<div align="center">
+    <p>
+        <a>Minghe Gao</a><sup>1</sup>, 
+        <a>Wendong Bu</a><sup>1</sup>, 
+        <a>Bingchen Miao</a><sup>1</sup>,
+        <a>Yang Wu</a><sup>2</sup>, 
+        <a>Yunfei Li</a><sup>2</sup>, <br>
+        <a>Juncheng Li</a><sup>1†</sup>,
+        <a>Siliang Tang</a><sup>1</sup>,
+        <a>Qi Wu</a><sup>3</sup>,
+        <a>Yueting Zhuang</a><sup>1</sup>,
+        <a>Meng Wang</a><sup>4</sup>
+    </p>
+    <p>
+        <sup>1</sup><a href="https://www.zju.edu.cn">Zhejiang University, Hangzhou, China</a> <br>
+        <sup>2</sup><a href="https://www.antgroup.com">Antgroup, China</a> <br>
+        <sup>3</sup><a href="https://www.adelaide.edu.au">The University of Adelaide, Adelaide, Australia</a> <br>
+        <sup>4</sup><a href="https://www.hfut.edu.cn">Hefei University of Technology, Hefei, China</a>
+    </p>
+</div>
 
-### 摘要：
+<div align="center"><small><sup>†</sup>Corresponding author: Juncheng Li (<a href="mailto:junchengli@zju.edu.cn">junchengli@zju.edu.cn</a>)</small></div>
+<br>
+
+# 摘要
+
 这篇综述介绍了**通用型虚拟智能体（GVA）**，一个能够在不同数字平台和环境中执行多种任务来协助用户的自主实体。文章回顾了 GVA 的发展历程，从早期的智能助手到目前结合大模型的实现。我们探讨了 GVA 的哲学基础和实践基础，分析了其发展过程中遇到的挑战以及当前使用的设计方法。通过对 GVA 的环境、任务和能力进行详细分类，文章旨在连接 GVA 的理论与实践，指出在接近真实世界环境中运行的 GVA 更可能表现出人类水平的智能。我们讨论了 GVA 研究的未来方向，强调需要现实的评估指标和增强长序列决策能力，以推动该领域向更系统化或具身化应用发展。这项工作不仅综合了现有文献，还为未来研究提出框架，对智能系统的持续发展做出了重要贡献。
 
-### 关键词：
-自主智能体，智能助手，智能体实现
+
+# 目录
+
+- [摘要](#摘要)
+- [综述结构](#综述结构)
+- [第一章 引言](#第一章-引言)
+- [第二章 GVA 是什么？](#第二章-gva-是什么)
+  - [2.1 环境](#21-环境)
+  - [2.2 任务](#22-任务)
+  - [2.3 观察空间](#23-观察空间)
+  - [2.4 动作空间](#24-动作空间)
+- [第三章 为什么需要 GVA？](#第三章-为什么需要-gva)
+  - [3.1 人工智能与机器学习层面](#31-人工智能与机器学习层面)
+  - [3.2 人机交互层面](#32-人机交互层面)
+  - [3.3 实际应用层面](#33-实际应用层面)
+- [第四章 如何实现 GVA？](#第四章-如何实现-gva)
+  - [4.1 环境](#41-环境)
+  - [4.2 模型](#42-模型)
+  - [4.3 策略](#43-策略)
+- [第五章 如何评估 GVA？](#第五章-如何评估-gva)
+  - [5.1 整体评估](#51-整体评估)
+  - [5.2 细节评估](#52-细节评估)
+  - [5.3 人工评估](#53-人工评估)
+  - [5.4 基于多模态大语言模型的评估](#54-基于多模态大语言模型的评估)
+- [第六章 GVA 的局限性](#第六章-gva-的局限性)
+  - [6.1 不真实的环境和数据集](#61-不真实的环境和数据集)
+  - [6.2 迁移性不足](#62-迁移性不足)
+  - [6.3 长序列决策能力有限](#63-长序列决策能力有限)
+  - [6.4 安全性问题](#64-安全性问题)
+- [第七章 GVA 的未来展望](#第七章-gva-的未来展望)
+  - [7.1 系统化](#71-系统化)
+  - [7.2 实体化](#72-实体化)
+- [第八章 总结](#第八章-总结)
+
 
 
 # 综述结构
