@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/Chinese--Version-white?style=flat&logo=google-docs">
     </a>
     <!-- Github -->
-    <a href="https://github.com/CCCloth/GVA-Survey">
+    <a href="https://github.com/wendell0218/GVA-Survey">
         <img src="https://img.shields.io/badge/Code-black?style=flat&logo=github">
     </a>
     <!-- HuggingFace -->
