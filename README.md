@@ -53,7 +53,9 @@
 ## 📖 Table of Content
 - [Introduction](#-introduction)
 
-- [Paper List](#-paper-list)
+- [Cited Papers](#-cited-papers)
+
+- [Related Papers](#-related-papers)
 
 - [How to Contribute](#-how-to-contribute)
 
@@ -68,11 +70,11 @@ Welcome to the GitHub repository for our survey paper titled *"Generalist Virtua
   <img src="./assets/overview_caption.jpeg"/>
 </div>
 
+## 📚 Cited Papers
 
+Here we list the most important references cited in our survey, organized by different sections. We particularly focus on works that have made substantial impact or proposed innovative methodologies.
 
-## 📚 Paper List
-
-Here we list the most important references cited in our survey, as well as the papers we consider worth noting.
+Additionally, we note that some papers may be cited across multiple sections. For the convenience of researchers, we provide complete citation information under each section. 
 
 ### Section 2: What is GVA?
 ![alt text](./assets/definition.png)
@@ -92,6 +94,12 @@ Here we list the most important references cited in our survey, as well as the p
 
 ### Section 7: Future
 ![alt text](./assets/future.png)
+
+## 🔍 Related Papers
+
+We are committed to offering researchers the latest advancements in the field. By regularly reviewing and evaluating recent research studies, we ensure that the list of papers stays up-to-date.
+
+
 
 ## 💪 How to Contribute
 
