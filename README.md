@@ -45,7 +45,9 @@
 <div align="center"><small><sup>†</sup>Corresponding author: Juncheng Li (<a href="mailto:junchengli@zju.edu.cn">junchengli@zju.edu.cn</a>)</small></div>
 
 ## 🔥 News
+
 - **[December 7, 2024]** We have released a Chinese version of the survey, please click [中文版综述](./CN_survey.md) to access!
+
 - **[November 17, 2024]** Our survey paper is available on the arXiv platform: https://arxiv.org/abs/2411.10943
 
 ## 📖 Table of Content
@@ -69,19 +71,37 @@ Welcome to the GitHub repository for our survey paper titled *"Generalist Virtua
 
 
 ## 📚 Paper List
-- **Introduction**
-- What is Generalist Virtual Agent?
-- Why Generalist Virtual Agent?
-- How to Implement Generalist Virtual Agent?
-- How to Evaluate Generalist Virtual Agent?
-- Limitations and Future Work
+
+Here we list the most important references cited in our survey, as well as the papers we consider worth noting.
+
+### Section 2: What is GVA?
+![alt text](./assets/definition.png)
+
+
+### Section 3: Why we need GVA?
+![alt text](./assets/necessity.png)
+
+### Section 4: How to implement GVA?
+![alt text](./assets/implementation.png)
+
+### Section 5: How to evaluate GVA?
+![alt text](./assets/evaluation.png)
+
+### Section 6: Limitations
+![alt text](./assets/limitations.png)
+
+### Section 7: Future
+![alt text](./assets/future.png)
 
 ## 💪 How to Contribute
+
 If you have a paper or are aware of relevant research that should be incorporated, please contribute via pull requests, issues, email, or other suitable methods.
 
 
 ## 📝 Citation
+
 If you find this survey useful, please cite our paper:
+
 ```
 @article{gao2024generalist,
   title={Generalist virtual agents: A survey on autonomous agents across digital platforms},
