@@ -62,12 +62,18 @@
 Welcome to the GitHub repository for our survey paper titled *"Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms"*. This repository includes all the resources, code, and references related to the paper. Our objective is to provide a comprehensive overview of **Generalist Virtual Agents (GVAs)**, covering their definition, necessity, implementation approaches, evaluation methods, limitations and future directions. We aim to bridge the gap between theory and practice in GVA research, providing a systematic framework for future development in this field.
 
 <div align="center">
-  <img src="./assets/image-12.jpg"/>
+  <img src="./assets/overview.png"/>
 </div>
+<p style="font-size:0.8em">An illustration of the GVA executing a travel arrangement task based on the user’s command. The inference process (left) demonstrates the step-by-step decision-making of the GVA, incorporating user preferences to create a travel plan, select a flight, and reserve a hotel. The components of the GVAs (right) show the relationship between the task, action space, observation space, and environment.</p>
+
 
 ## 📚 Paper List
-
-
+- **Introduction**
+- What is Generalist Virtual Agent?
+- Why Generalist Virtual Agent?
+- How to Implement Generalist Virtual Agent?
+- How to Evaluate Generalist Virtual Agent?
+- Limitations and Future Work
 
 ## 💪 How to Contribute
 If you have a paper or are aware of relevant research that should be incorporated, please contribute via pull requests, issues, email, or other suitable methods.
