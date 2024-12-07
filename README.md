@@ -18,21 +18,21 @@
         <img src="https://img.shields.io/badge/-%F0%9F%A4%97%20Hugging_Face-orange?style=flat"/>
     </a> -->
     <!-- Last commit -->
-    <img src="https://img.shields.io/github/last-commit/CCCloth/GVA-Survey?color=green">
+    <img src="https://img.shields.io/github/last-commit/wendell0218/GVA-Survey?color=green">
 </p>
 
 <div align="center">
     <p>
-        <a>Minghe Gao</a><sup>1</sup>, 
+        <a href="https://scholar.google.com/citations?user=xMORwU8AAAAJ">Minghe Gao</a><sup>1</sup>, 
         <a>Wendong Bu</a><sup>1</sup>, 
         <a>Bingchen Miao</a><sup>1</sup>,
         <a>Yang Wu</a><sup>2</sup>, 
         <a>Yunfei Li</a><sup>2</sup>, <br>
-        <a>Juncheng Li</a><sup>1†</sup>,
-        <a>Siliang Tang</a><sup>1</sup>,
-        <a>Qi Wu</a><sup>3</sup>,
-        <a>Yueting Zhuang</a><sup>1</sup>,
-        <a>Meng Wang</a><sup>4</sup>
+        <a href="https://scholar.google.com/citations?user=lm9s-QgAAAAJ">Juncheng Li</a><sup>1†</sup>,
+        <a href="https://scholar.google.com/citations?user=8e7H3PcAAAAJ">Siliang Tang</a><sup>1</sup>,
+        <a href="https://scholar.google.com/citations?user=aKXe1FEAAAAJ">Qi Wu</a><sup>3</sup>,
+        <a href="https://scholar.google.com/citations?user=1RD7UJAAAAAJ">Yueting Zhuang</a><sup>1</sup>,
+        <a href="https://scholar.google.com/citations?user=rHagaaIAAAAJ">Meng Wang</a><sup>4</sup>
     </p>
     <p>
         <sup>1</sup><a href="https://www.zju.edu.cn">Zhejiang University, Hangzhou, China</a> <br>
