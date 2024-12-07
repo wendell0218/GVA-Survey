@@ -48,21 +48,32 @@
 - **[December 7, 2024]** We have released a Chinese version of the survey, please click [中文版综述](./CN_survey.md) to access!
 - **[November 17, 2024]** Our survey paper is available on the arXiv platform: https://arxiv.org/abs/2411.10943
 
-## 📰 Table of Content
-- [🔍 Introduction](#-introduction)
+## 📖 Table of Content
+- [Introduction](#-introduction)
 
-- [📖 Paper List](#-paper-list)
+- [Paper List](#-paper-list)
 
-- [📚 Citation](#-citation)
+- [How to Contribute](#-how-to-contribute)
 
-## 🔍 Introduction
+- [Citation](#-citation)
+
+## 🤖 Introduction
+
+Welcome to the GitHub repository for our survey paper titled *"Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms"*. This repository includes all the resources, code, and references related to the paper. Our objective is to provide a comprehensive overview of **Generalist Virtual Agents (GVAs)**, covering their definition, necessity, implementation approaches, evaluation methods, limitations and future directions. We aim to bridge the gap between theory and practice in GVA research, providing a systematic framework for future development in this field.
+
+<div align="center">
+  <img src="./assets/image-12.jpg"/>
+</div>
+
+## 📚 Paper List
 
 
-## 📖 Paper List
+
+## 💪 How to Contribute
+If you have a paper or are aware of relevant research that should be incorporated, please contribute via pull requests, issues, email, or other suitable methods.
 
 
-
-## 📚 Citation
+## 📝 Citation
 If you find this survey useful, please cite our paper:
 ```
 @article{gao2024generalist,
