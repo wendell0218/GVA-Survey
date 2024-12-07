@@ -45,11 +45,21 @@
 <div align="center"><small><sup>†</sup>Corresponding author: Juncheng Li (<a href="mailto:junchengli@zju.edu.cn">junchengli@zju.edu.cn</a>)</small></div>
 
 ## 🔥 News
-- **[2024/12/07]** We have released a Chinese version of the survey, please click [中文版综述](./CN_survey.md) to access!
-- **[2024/12/06]** Our survey paper is available on the arXiv platform: https://arxiv.org/abs/2411.10943
+- **[December 7, 2024]** We have released a Chinese version of the survey, please click [中文版综述](./CN_survey.md) to access!
+- **[November 17, 2024]** Our survey paper is available on the arXiv platform: https://arxiv.org/abs/2411.10943
 
-## Table of Content
+## 📰 Table of Content
+- [🔍 Introduction](#-introduction)
+
+- [📖 Paper List](#-paper-list)
+
 - [📚 Citation](#-citation)
+
+## 🔍 Introduction
+
+
+## 📖 Paper List
+
 
 
 ## 📚 Citation

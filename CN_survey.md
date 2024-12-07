@@ -22,7 +22,6 @@
 </div>
 
 <div align="center"><small><sup>†</sup>Corresponding author: Juncheng Li (<a href="mailto:junchengli@zju.edu.cn">junchengli@zju.edu.cn</a>)</small></div>
-<br>
 
 # 摘要
 
