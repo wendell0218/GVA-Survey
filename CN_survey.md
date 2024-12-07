@@ -69,7 +69,7 @@
 
 <div align="center">
   <img src="./assets/image-11.jpg"/>
-  <p><small><b>图1</b> 本文的整体框架及代表性研究成果概览。</small></p>
+  <p style="font-size:12px"><b>图1</b> 本文的整体框架及代表性研究成果概览。</p>
 </div>
 
 # 第一章 引言
