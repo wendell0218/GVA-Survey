@@ -1519,14 +1519,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.04454"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://aguvis-project.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2412.04454"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://aguvis-project.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AGUVIS, <b>Base Model:</b> Qwen2-VL, <b>Strategy:</b> Two-stage training<br>
-      • <b>Benchmark Name:</b> THE AGUVIS COLLECTION, <b>Task Number:</b> 35K, <b>Dataset Source:</b> VLM-augmented<br>
+      • Agent Name: AGUVIS, Base Model: Qwen2-VL, Strategy: Two-stage training<br>
+      • Benchmark Name: THE AGUVIS COLLECTION, Task Number: 35K, Dataset Source: VLM-augmented<br>
     </td>
   </tr>
   <tr>
@@ -1542,12 +1542,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.01268"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2412.01268"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Ponder & Press, <b>Base Model:</b> Qwen2-VL, <b>Strategy:</b> Divide-and-conquer<br>
+      • Agent Name: Ponder & Press, Base Model: Qwen2-VL, Strategy: Divide-and-conquer<br>
     </td>
   </tr>
   <tr>
@@ -1560,13 +1560,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.02776"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/palisaderesearch/intercode"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2412.02776"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/palisaderesearch/intercode"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ReAct&Plan, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> ReAct&Plan prompting strategy<br>
+      • Agent Name: ReAct&Plan, Base Model: GPT-4o, Strategy: ReAct&Plan prompting strategy<br>
     </td>
   </tr>
   <tr>
@@ -1579,12 +1579,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.02301"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2412.02301"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Agentic Approach, <b>Base Model:</b> Gemini 1.5 Flash and GPT-4o mini, <b>Strategy:</b> Two-tiered agentic approach<br>
+      • Agent Name: Agentic Approach, Base Model: Gemini 1.5 Flash and GPT-4o mini, Strategy: Two-tiered agentic approach<br>
     </td>
   </tr>
   <tr>
@@ -1597,12 +1597,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.02266"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2412.02266"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> BOTracle, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: BOTracle, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -1616,15 +1616,15 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.01778"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/aielte-research/HackSynth"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2412.01778"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/aielte-research/HackSynth"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> HackSynth, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> PicoCTF Benchmark, <b>Task Number:</b> 120, <b>Dataset Source:</b> CTF challenges<br>
-      • <b>Benchmark Name:</b> OverTheWire Benchmark, <b>Task Number:</b> 80, <b>Dataset Source:</b> CTF challenges<br>
+      • Agent Name: HackSynth, Base Model: GPT-4o, Strategy: Prompt<br>
+      • Benchmark Name: PicoCTF Benchmark, Task Number: 120, Dataset Source: CTF challenges<br>
+      • Benchmark Name: OverTheWire Benchmark, Task Number: 80, Dataset Source: CTF challenges<br>
     </td>
   </tr>
   <tr>
@@ -1637,13 +1637,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.00402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/UbiquitousLearning/DroidCall"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2412.00402"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/UbiquitousLearning/DroidCall"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> DroidCall, <b>Task Number:</b> 10000, <b>Dataset Source:</b> LLM synthesis<br>
+      • Benchmark Name: DroidCall, Task Number: 10000, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
   <tr>
@@ -1655,14 +1655,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.18279"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://aka.ms/gui-agent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2411.18279"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://aka.ms/gui-agent"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 374<br>
+      • Paper Number: 374<br>
     </td>
   </tr>
   <tr>
@@ -1676,13 +1676,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.17465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/showlab/ShowUI"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2411.17465"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/showlab/ShowUI"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ShowUI, <b>Base Model:</b> Qwen2-VL-2B, <b>Strategy:</b> UI-Guided Visual Token Selection<br>
+      • Agent Name: ShowUI, Base Model: Qwen2-VL-2B, Strategy: UI-Guided Visual Token Selection<br>
     </td>
   </tr>
   <tr>
@@ -1695,12 +1695,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.13451"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2411.13451"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AdaptAgent, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> In-context Learning<br>
+      • Agent Name: AdaptAgent, Base Model: GPT-4o, Strategy: In-context Learning<br>
     </td>
   </tr>
   <tr>
@@ -1715,14 +1715,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.10323"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/showlab/computer_use_ootb"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2411.10323"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/showlab/computer_use_ootb"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Claude 3.5 Computer Use, <b>Base Model:</b> Claude-3.5, <b>Strategy:</b> API-based GUI automation<br>
-      • <b>Benchmark Name:</b> Computer Use Out-of-the-Box, <b>Task Number:</b> 20, <b>Dataset Source:</b> human evaluation<br>
+      • Agent Name: Claude 3.5 Computer Use, Base Model: Claude-3.5, Strategy: API-based GUI automation<br>
+      • Benchmark Name: Computer Use Out-of-the-Box, Task Number: 20, Dataset Source: human evaluation<br>
     </td>
   </tr>
   <tr>
@@ -1734,12 +1734,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.04890"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2411.04890"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 100<br>
+      • Paper Number: 100<br>
     </td>
   </tr>
   <tr>
@@ -1753,14 +1753,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AUTOGLM, <b>Base Model:</b> ChatGLM, <b>Strategy:</b> Self-Evolving Online Curriculum RL<br>
+      • Agent Name: AUTOGLM, Base Model: ChatGLM, Strategy: Self-Evolving Online Curriculum RL<br>
     </td>
   </tr>
   <tr>
@@ -1772,12 +1772,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.10943"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2411.10943"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 139<br>
+      • Paper Number: 139<br>
     </td>
   </tr>
   <tr>
@@ -1791,15 +1791,15 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.04468"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://aka.ms/magentic-one"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2411.04468"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://aka.ms/magentic-one"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Magentic-One, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Multi-agent system<br>
-      • <b>Benchmark Name:</b> AutoGenBench, <b>Task Number:</b> 3, <b>Dataset Source:</b> LLM synthesis<br>
+      • Agent Name: Magentic-One, Base Model: GPT-4o, Strategy: Multi-agent system<br>
+      • Benchmark Name: AutoGenBench, Task Number: 3, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
   <tr>
@@ -1813,12 +1813,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.15927"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2411.15927"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Generative Context Distillation, <b>Base Model:</b> LLaMA-3-8B-Instruct, <b>Strategy:</b> Prompt Generation Loss<br>
+      • Agent Name: Generative Context Distillation, Base Model: LLaMA-3-8B-Instruct, Strategy: Prompt Generation Loss<br>
     </td>
   </tr>
   <tr>
@@ -1831,13 +1831,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.15004"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/colonylabs/ScribeAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2411.15004"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/colonylabs/ScribeAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ScribeAgent, <b>Base Model:</b> Qwen2, <b>Strategy:</b> Fine-tuning<br>
+      • Agent Name: ScribeAgent, Base Model: Qwen2, Strategy: Fine-tuning<br>
     </td>
   </tr>
   <tr>
@@ -1850,13 +1850,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.06559"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/OSU-NLP-Group/WebDreamer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2411.06559"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/OSU-NLP-Group/WebDreamer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> WEB-DREAMER, <b>Base Model:</b> LLMs, <b>Strategy:</b> Model-based planning<br>
+      • Agent Name: WEB-DREAMER, Base Model: LLMs, Strategy: Model-based planning<br>
     </td>
   </tr>
   <tr>
@@ -1869,8 +1869,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.06398"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://gitlab.com/mams-ucd/examples/HyperTicTacToe"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2411.06398"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://gitlab.com/mams-ucd/examples/HyperTicTacToe"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -1887,12 +1887,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.05209"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2411.05209"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Alopex, <b>Base Model:</b> Fox LLM, <b>Strategy:</b> fine-tuning with description-question-output format<br>
+      • Agent Name: Alopex, Base Model: Fox LLM, Strategy: fine-tuning with description-question-output format<br>
     </td>
   </tr>
   <tr>
@@ -1907,13 +1907,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.04671"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://gitlab.lrz.de/hctl/cuify"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2411.04671"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://gitlab.lrz.de/hctl/cuify"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CUIfy, <b>Base Model:</b> Various LLMs, <b>Strategy:</b> Integration of STT, LLM, and TTS models<br>
+      • Agent Name: CUIfy, Base Model: Various LLMs, Strategy: Integration of STT, LLM, and TTS models<br>
     </td>
   </tr>
   <tr>
@@ -1927,14 +1927,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.02337"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/THUDM/WebRL"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2411.02337"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/THUDM/WebRL"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> WEBRL, <b>Base Model:</b> Llama-3.1, <b>Strategy:</b> Reinforcement Learning<br>
-      • <b>Benchmark Name:</b> WebArena-Lite, <b>Task Number:</b> 165, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: WEBRL, Base Model: Llama-3.1, Strategy: Reinforcement Learning<br>
+      • Benchmark Name: WebArena-Lite, Task Number: 165, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -1946,13 +1946,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.02006"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/aialt/awesome-mobile-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2411.02006"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/aialt/awesome-mobile-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 100<br>
+      • Paper Number: 100<br>
     </td>
   </tr>
   <tr>
@@ -1966,14 +1966,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.01236"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Dizzy-K/AutoPT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2411.01236"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Dizzy-K/AutoPT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AutoPT, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Finite State Machine (FSM)<br>
-      • <b>Benchmark Name:</b> end-to-end penetration testing benchmark, <b>Task Number:</b> 20, <b>Dataset Source:</b> Vulhub<br>
+      • Agent Name: AutoPT, Base Model: GPT-4o, Strategy: Finite State Machine (FSM)<br>
+      • Benchmark Name: end-to-end penetration testing benchmark, Task Number: 20, Dataset Source: Vulhub<br>
     </td>
   </tr>
   <tr>
@@ -1986,12 +1986,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.00927"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2411.00927"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ReSpAct, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
+      • Agent Name: ReSpAct, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -2009,14 +2009,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.23218"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://osatlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.23218"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://osatlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> OS-Atlas, <b>Base Model:</b> InternVL-2-4B, <b>Strategy:</b> SFT<br>
-      • <b>Agent Name:</b> OS-Atlas, <b>Base Model:</b> Qwen2-VL-7B, <b>Strategy:</b> SFT<br>
+      • Agent Name: OS-Atlas, Base Model: InternVL-2-4B, Strategy: SFT<br>
+      • Agent Name: OS-Atlas, Base Model: Qwen2-VL-7B, Strategy: SFT<br>
     </td>
   </tr>
   <tr>
@@ -2032,13 +2032,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19461"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://anonymous.4open.science/r/EDGE-1CDB"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.19461"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://anonymous.4open.science/r/EDGE-1CDB"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> EDGE, <b>Base Model:</b> Monkey, <b>Strategy:</b> Data Synthesis<br>
+      • Agent Name: EDGE, Base Model: Monkey, Strategy: Data Synthesis<br>
     </td>
   </tr>
   <tr>
@@ -2052,12 +2052,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.18963"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.18963"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> OSCAR, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Task-driven Re-planning<br>
+      • Agent Name: OSCAR, Base Model: GPT-4, Strategy: Task-driven Re-planning<br>
     </td>
   </tr>
   <tr>
@@ -2070,13 +2070,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.11872"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Samsung/ClickAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.11872"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Samsung/ClickAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ClickAgent, <b>Base Model:</b> InternVL2.0, <b>Strategy:</b> Hybrid approach with UI location model<br>
+      • Agent Name: ClickAgent, Base Model: InternVL2.0, Strategy: Hybrid approach with UI location model<br>
     </td>
   </tr>
   <tr>
@@ -2090,12 +2090,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.11871"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.11871"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> TinyClick, <b>Base Model:</b> Florence-2-Base, <b>Strategy:</b> Multitask Training<br>
+      • Agent Name: TinyClick, Base Model: Florence-2-Base, Strategy: Multitask Training<br>
     </td>
   </tr>
   <tr>
@@ -2110,15 +2110,15 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.08164"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/simular-ai/Agent-S"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.08164"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/simular-ai/Agent-S"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Agent S, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Experience-Augmented Hierarchical Planning<br>
-      • <b>Benchmark Name:</b> OSWorld, <b>Task Number:</b> 369, <b>Dataset Source:</b> not specified<br>
-      • <b>Benchmark Name:</b> WindowsAgentArena, <b>Task Number:</b> 154, <b>Dataset Source:</b> not specified<br>
+      • Agent Name: Agent S, Base Model: GPT-4o, Strategy: Experience-Augmented Hierarchical Planning<br>
+      • Benchmark Name: OSWorld, Task Number: 369, Dataset Source: not specified<br>
+      • Benchmark Name: WindowsAgentArena, Task Number: 154, Dataset Source: not specified<br>
     </td>
   </tr>
   <tr>
@@ -2134,14 +2134,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.05243"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://osu-nlp-group.github.io/UGround/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.05243"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://osu-nlp-group.github.io/UGround/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> UGround, <b>Base Model:</b> LLaV A, <b>Strategy:</b> Slight adaptation<br>
-      • <b>Benchmark Name:</b> ScreenSpot, <b>Task Number:</b> 1272, <b>Dataset Source:</b> web-based synthetic data<br>
+      • Agent Name: UGround, Base Model: LLaV A, Strategy: Slight adaptation<br>
+      • Benchmark Name: ScreenSpot, Task Number: 1272, Dataset Source: web-based synthetic data<br>
     </td>
   </tr>
   <tr>
@@ -2154,13 +2154,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.00467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/sqzhang-lazy/D-PoT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.00467"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/sqzhang-lazy/D-PoT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Dynamic Planning of Thoughts (D-PoT), <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Dynamic Planning<br>
+      • Agent Name: Dynamic Planning of Thoughts (D-PoT), Base Model: GPT-4V, Strategy: Dynamic Planning<br>
     </td>
   </tr>
   <tr>
@@ -2173,13 +2173,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.24024"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/THUDM/Android-Lab"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.24024"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/THUDM/Android-Lab"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> ANDROID LAB, <b>Task Number:</b> 138, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: ANDROID LAB, Task Number: 138, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -2193,12 +2193,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.15222"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.15222"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AutoFLUKA, <b>Base Model:</b> gpt-4o, <b>Strategy:</b> LangChain<br>
+      • Agent Name: AutoFLUKA, Base Model: gpt-4o, Strategy: LangChain<br>
     </td>
   </tr>
   <tr>
@@ -2213,14 +2213,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.18603"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://chengyou-jia.github.io/AgentStore-Home"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.18603"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://chengyou-jia.github.io/AgentStore-Home"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> MetaAgent, <b>Base Model:</b> InternVL2-8B, <b>Strategy:</b> AgentToken<br>
-      • <b>Benchmark Name:</b> OSWorld, <b>Task Number:</b> 369, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: MetaAgent, Base Model: InternVL2-8B, Strategy: AgentToken<br>
+      • Benchmark Name: OSWorld, Task Number: 369, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -2233,8 +2233,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.17401"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://ai-secure.github.io/AdvWeb/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.17401"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://ai-secure.github.io/AdvWeb/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
@@ -2251,12 +2251,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.22552"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.22552"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Auto-Intent, <b>Base Model:</b> GPT-3.5, <b>Strategy:</b> Self-Exploration<br>
+      • Agent Name: Auto-Intent, Base Model: GPT-3.5, Strategy: Self-Exploration<br>
     </td>
   </tr>
   <tr>
@@ -2269,13 +2269,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.03225"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/lucagioacchini/auto-pen-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.03225"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/lucagioacchini/auto-pen-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> AUTOPENBENCH, <b>Task Number:</b> 33, <b>Dataset Source:</b> <br>
+      • Benchmark Name: AUTOPENBENCH, Task Number: 33, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -2288,13 +2288,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.00689"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://anonymous.4open.science/r/Agent-E-7E43"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.00689"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://anonymous.4open.science/r/Agent-E-7E43"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Agent-E, <b>Base Model:</b> GPT-4-Turbo, <b>Strategy:</b> Self-Refinement<br>
+      • Agent Name: Agent-E, Base Model: GPT-4-Turbo, Strategy: Self-Refinement<br>
     </td>
   </tr>
   <tr>
@@ -2307,7 +2307,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.23555"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.23555"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -2324,12 +2324,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.23252"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.23252"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> CASA, <b>Task Number:</b> 2, <b>Dataset Source:</b> <br>
+      • Benchmark Name: CASA, Task Number: 2, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -2342,12 +2342,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.22916"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.22916"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> EBC-LLMAgent, <b>Base Model:</b> LLM, <b>Strategy:</b> Behavior Cloning<br>
+      • Agent Name: EBC-LLMAgent, Base Model: LLM, Strategy: Behavior Cloning<br>
     </td>
   </tr>
   <tr>
@@ -2360,13 +2360,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.21220"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/cnzzx/VSA"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.21220"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/cnzzx/VSA"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Vision Search Assistant, <b>Base Model:</b> LLaVA-1.6-7B, <b>Strategy:</b> Retrieval-Augmented Generation<br>
+      • Agent Name: Vision Search Assistant, Base Model: LLaVA-1.6-7B, Strategy: Retrieval-Augmented Generation<br>
     </td>
   </tr>
   <tr>
@@ -2379,13 +2379,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19609"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/MinorJerry/OpenWebVoyager"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.19609"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/MinorJerry/OpenWebVoyager"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> OpenWebVoyager, <b>Base Model:</b> Idefics2-8b-instruct, <b>Strategy:</b> Imitation Learning<br>
+      • Agent Name: OpenWebVoyager, Base Model: Idefics2-8b-instruct, Strategy: Imitation Learning<br>
     </td>
   </tr>
   <tr>
@@ -2398,14 +2398,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> VideoWebArena, <b>Task Number:</b> 2021, <b>Dataset Source:</b> manually crafted video tutorials<br>
+      • Benchmark Name: VideoWebArena, Task Number: 2021, Dataset Source: manually crafted video tutorials<br>
     </td>
   </tr>
   <tr>
@@ -2418,13 +2418,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19054"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/gangiswag/infogent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.19054"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/gangiswag/infogent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> INFOGENT, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: INFOGENT, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -2437,12 +2437,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.18528"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.18528"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> PRAct, <b>Base Model:</b> GPT-3.5-Turbo, <b>Strategy:</b> Reflective Principle Optimization (RPO)<br>
+      • Agent Name: PRAct, Base Model: GPT-3.5-Turbo, Strategy: Reflective Principle Optimization (RPO)<br>
     </td>
   </tr>
   <tr>
@@ -2455,13 +2455,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.18312"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/kmheckel/HeckelMLMIThesis"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.18312"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/kmheckel/HeckelMLMIThesis"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ReAct agent, <b>Base Model:</b> Llama3-405B, <b>Strategy:</b> ReAct<br>
+      • Agent Name: ReAct agent, Base Model: Llama3-405B, Strategy: ReAct<br>
     </td>
   </tr>
   <tr>
@@ -2474,12 +2474,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.17883"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.17883"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> LiMAC, <b>Base Model:</b> Florence2, <b>Strategy:</b> Fine-tuning<br>
+      • Agent Name: LiMAC, Base Model: Florence2, Strategy: Fine-tuning<br>
     </td>
   </tr>
   <tr>
@@ -2492,13 +2492,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.17520"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://mobilesafetybench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.17520"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://mobilesafetybench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> MobileSafetyBench, <b>Task Number:</b> 100, <b>Dataset Source:</b> <br>
+      • Benchmark Name: MobileSafetyBench, Task Number: 100, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -2512,14 +2512,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.17236"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.17236"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> PUMA, <b>Base Model:</b> LLM, <b>Strategy:</b> SFT, DPO<br>
-      • <b>Benchmark Name:</b> PersonalWAB, <b>Task Number:</b> 3, <b>Dataset Source:</b> Amazon review dataset<br>
+      • Agent Name: PUMA, Base Model: LLM, Strategy: SFT, DPO<br>
+      • Benchmark Name: PersonalWAB, Task Number: 3, Dataset Source: Amazon review dataset<br>
     </td>
   </tr>
   <tr>
@@ -2532,15 +2532,15 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.16464"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/yueqis/API-Based-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://yueqis.github.io/API-Based-Agent/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.16464"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/yueqis/API-Based-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://yueqis.github.io/API-Based-Agent/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> API-calling agent, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> API calling<br>
-      • <b>Agent Name:</b> Hybrid Agent, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> API calling and web browsing<br>
+      • Agent Name: API-calling agent, Base Model: GPT-4o, Strategy: API calling<br>
+      • Agent Name: Hybrid Agent, Base Model: GPT-4o, Strategy: API calling and web browsing<br>
     </td>
   </tr>
   <tr>
@@ -2553,13 +2553,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.16232"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://salt-nlp.github.io/Sketch2Code-Project-Page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.16232"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://salt-nlp.github.io/Sketch2Code-Project-Page/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Sketch2Code, <b>Task Number:</b> , <b>Dataset Source:</b> <br>
+      • Benchmark Name: Sketch2Code, Task Number: , Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -2572,12 +2572,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.15285"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.15285"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Copilot for Xcode, <b>Base Model:</b> OpenAI GPT series, <b>Strategy:</b> Retrieval-Augmented Generation (RAG)<br>
+      • Agent Name: Copilot for Xcode, Base Model: OpenAI GPT series, Strategy: Retrieval-Augmented Generation (RAG)<br>
     </td>
   </tr>
   <tr>
@@ -2590,12 +2590,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.15164"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.15164"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> SPA-BENCH, <b>Task Number:</b> 340, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: SPA-BENCH, Task Number: 340, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -2609,13 +2609,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.14803"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.14803"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> DISTRL, <b>Base Model:</b> T5-based multimodal generation architecture, <b>Strategy:</b> Reinforcement Learning<br>
-      • <b>Benchmark Name:</b> AitW, <b>Task Number:</b> 128, <b>Dataset Source:</b> expert-curated task sets<br>
+      • Agent Name: DISTRL, Base Model: T5-based multimodal generation architecture, Strategy: Reinforcement Learning<br>
+      • Benchmark Name: AitW, Task Number: 128, Dataset Source: expert-curated task sets<br>
     </td>
   </tr>
   <tr>
@@ -2628,7 +2628,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.14569"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.14569"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -2645,12 +2645,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13886"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.13886"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> BrowserART, <b>Task Number:</b> 100, <b>Dataset Source:</b> HarmBench, AirBench 2024, and original behaviors<br>
+      • Benchmark Name: BrowserART, Task Number: 100, Dataset Source: HarmBench, AirBench 2024, and original behaviors<br>
     </td>
   </tr>
   <tr>
@@ -2663,12 +2663,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13825"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.13825"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AGENT OCCAM, <b>Base Model:</b> GPT-4-turbo, <b>Strategy:</b> Observation and Action Space Alignment<br>
+      • Agent Name: AGENT OCCAM, Base Model: GPT-4-turbo, Strategy: Observation and Action Space Alignment<br>
     </td>
   </tr>
   <tr>
@@ -2681,13 +2681,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13824"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://neulab.github.io/MultiUI/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.13824"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://neulab.github.io/MultiUI/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> MultiUI, <b>Task Number:</b> 9, <b>Dataset Source:</b> LLM synthesis<br>
+      • Benchmark Name: MultiUI, Task Number: 9, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
   <tr>
@@ -2701,13 +2701,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13757"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.13757"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> MobA, <b>Base Model:</b> multimodal large language models, <b>Strategy:</b> two-level agent architecture<br>
-      • <b>Benchmark Name:</b> MobBench, <b>Task Number:</b> 50, <b>Dataset Source:</b> real-life tasks<br>
+      • Agent Name: MobA, Base Model: multimodal large language models, Strategy: two-level agent architecture<br>
+      • Benchmark Name: MobBench, Task Number: 50, Dataset Source: real-life tasks<br>
     </td>
   </tr>
   <tr>
@@ -2720,13 +2720,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13232"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/kyle8581/WMA-Agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.13232"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/kyle8581/WMA-Agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> World-Model-Augmented (WMA) web agent, <b>Base Model:</b> Llama-3.1-8B-Instruct, <b>Strategy:</b> Policy optimization with world model<br>
+      • Agent Name: World-Model-Augmented (WMA) web agent, Base Model: Llama-3.1-8B-Instruct, Strategy: Policy optimization with world model<br>
     </td>
   </tr>
   <tr>
@@ -2739,12 +2739,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.09006"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.09006"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Impact Actions Dataset, <b>Task Number:</b> 250, <b>Dataset Source:</b> crowdsourcing<br>
+      • Benchmark Name: Impact Actions Dataset, Task Number: 250, Dataset Source: crowdsourcing<br>
     </td>
   </tr>
   <tr>
@@ -2757,12 +2757,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.08136"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.08136"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> SoundScape, <b>Base Model:</b> ChatGPT, <b>Strategy:</b> Conversational Agent<br>
+      • Agent Name: SoundScape, Base Model: ChatGPT, Strategy: Conversational Agent<br>
     </td>
   </tr>
   <tr>
@@ -2775,13 +2775,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.07331"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://da-code-bench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.07331"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://da-code-bench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> DA-Code, <b>Task Number:</b> 500, <b>Dataset Source:</b> real, challenging data analysis tasks<br>
+      • Benchmark Name: DA-Code, Task Number: 500, Dataset Source: real, challenging data analysis tasks<br>
     </td>
   </tr>
   <tr>
@@ -2794,13 +2794,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.06703"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://sites.google.com/view/st-webagentbench/home"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.06703"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://sites.google.com/view/st-webagentbench/home"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> ST-WebAgentBench, <b>Task Number:</b> 234, <b>Dataset Source:</b> <br>
+      • Benchmark Name: ST-WebAgentBench, Task Number: 234, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -2814,13 +2814,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.06153"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/tsinghua-fib-lab/AgentSquare"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.06153"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/tsinghua-fib-lab/AgentSquare"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AgentSquare, <b>Base Model:</b> LLM, <b>Strategy:</b> module evolution and recombination<br>
+      • Agent Name: AgentSquare, Base Model: LLM, Strategy: module evolution and recombination<br>
     </td>
   </tr>
   <tr>
@@ -2834,13 +2834,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.05434"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://leap-llm.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2410.05434"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://leap-llm.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> LEAP, <b>Base Model:</b> Llama3-8B, <b>Strategy:</b> SFT<br>
+      • Agent Name: LEAP, Base Model: Llama3-8B, Strategy: SFT<br>
     </td>
   </tr>
   <tr>
@@ -2853,12 +2853,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.02907"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.02907"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> NNetscape Navigator, <b>Base Model:</b> GPT-4o-mini, <b>Strategy:</b> Supervised Fine-Tuning<br>
+      • Agent Name: NNetscape Navigator, Base Model: GPT-4o-mini, Strategy: Supervised Fine-Tuning<br>
     </td>
   </tr>
   <tr>
@@ -2871,13 +2871,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.02052"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://aka.ms/ExACT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.02052"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://aka.ms/ExACT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> R-MCTS, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Reflective Monte Carlo Tree Search<br>
+      • Agent Name: R-MCTS, Base Model: GPT-4o, Strategy: Reflective Monte Carlo Tree Search<br>
     </td>
   </tr>
   <tr>
@@ -2889,13 +2889,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.01945"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.01945"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> CALF, <b>Task Number:</b> 1476, <b>Dataset Source:</b> Chinese examination questions<br>
+      • Benchmark Name: CALF, Task Number: 1476, Dataset Source: Chinese examination questions<br>
     </td>
   </tr>
   <tr>
@@ -2909,13 +2909,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.09354"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Z2sJ4t/PeriGuru"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.09354"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Z2sJ4t/PeriGuru"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> PeriGuru, <b>Base Model:</b> LLM, <b>Strategy:</b> Prompt<br>
+      • Agent Name: PeriGuru, Base Model: LLM, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -2927,12 +2927,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.14457"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2409.14457"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 231<br>
+      • Paper Number: 231<br>
     </td>
   </tr>
   <tr>
@@ -2947,8 +2947,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.12089"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/waynchi/gui-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.12089"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/waynchi/gui-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -2965,8 +2965,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.11295"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/OSU-NLP-Group/EIA_against_webagent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.11295"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/OSU-NLP-Group/EIA_against_webagent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -2983,13 +2983,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Cognitive Kernel, <b>Base Model:</b> LLama3, <b>Strategy:</b> fine-tuning<br>
+      • Agent Name: Cognitive Kernel, Base Model: LLama3, Strategy: fine-tuning<br>
     </td>
   </tr>
   <tr>
@@ -3002,13 +3002,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Cognitive Kernel, <b>Base Model:</b> LLama3, <b>Strategy:</b> fine-tuning<br>
+      • Agent Name: Cognitive Kernel, Base Model: LLama3, Strategy: fine-tuning<br>
     </td>
   </tr>
   <tr>
@@ -3021,12 +3021,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.17140"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2409.17140"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AXIS, <b>Base Model:</b> LLM, <b>Strategy:</b> API-first approach<br>
+      • Agent Name: AXIS, Base Model: LLM, Strategy: API-first approach<br>
     </td>
   </tr>
   <tr>
@@ -3040,14 +3040,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.16165"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.16165"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> EnIGMA, <b>Base Model:</b> GPT-4 Turbo, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> NYU CTF Benchmark, <b>Task Number:</b> 200, <b>Dataset Source:</b> public and open source CTF challenges<br>
+      • Agent Name: EnIGMA, Base Model: GPT-4 Turbo, Strategy: Prompt<br>
+      • Benchmark Name: NYU CTF Benchmark, Task Number: 200, Dataset Source: public and open source CTF challenges<br>
     </td>
   </tr>
   <tr>
@@ -3060,13 +3060,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.15637"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://oootttyyy.github.io/synatra"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.15637"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://oootttyyy.github.io/synatra"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Synatra-CodeLlama, <b>Base Model:</b> CodeLlama, <b>Strategy:</b> finetuning<br>
+      • Agent Name: Synatra-CodeLlama, Base Model: CodeLlama, Strategy: finetuning<br>
     </td>
   </tr>
   <tr>
@@ -3079,12 +3079,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.14913"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2409.14913"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Realistic Long-Term Benchmark for Open-Web Research Agents, <b>Task Number:</b> not specified, <b>Dataset Source:</b> not specified<br>
+      • Benchmark Name: Realistic Long-Term Benchmark for Open-Web Research Agents, Task Number: not specified, Dataset Source: not specified<br>
     </td>
   </tr>
   <tr>
@@ -3098,14 +3098,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.14818"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/XiaoMi/mobilevlm"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.14818"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/XiaoMi/mobilevlm"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> MobileVLM, <b>Base Model:</b> Qwen-VL-Chat, <b>Strategy:</b> Pre-training and fine-tuning<br>
-      • <b>Benchmark Name:</b> Mobile3M, <b>Task Number:</b> 4, <b>Dataset Source:</b> real-world interactions<br>
+      • Agent Name: MobileVLM, Base Model: Qwen-VL-Chat, Strategy: Pre-training and fine-tuning<br>
+      • Benchmark Name: Mobile3M, Task Number: 4, Dataset Source: real-world interactions<br>
     </td>
   </tr>
   <tr>
@@ -3118,12 +3118,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.13711"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2409.13711"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WebQuest, <b>Task Number:</b> 3, <b>Dataset Source:</b> <br>
+      • Benchmark Name: WebQuest, Task Number: 3, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -3136,12 +3136,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.09345"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2409.09345"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> LLM Agent with Q-value Model, <b>Base Model:</b> Phi-3-mini-4k-instruct, <b>Strategy:</b> DPO<br>
+      • Agent Name: LLM Agent with Q-value Model, Base Model: Phi-3-mini-4k-instruct, Strategy: DPO<br>
     </td>
   </tr>
   <tr>
@@ -3154,12 +3154,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.09071"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2409.09071"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ELMS, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: ELMS, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -3173,15 +3173,15 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.08264"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/microsoft/WindowsAgentArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://microsoft.github.io/WindowsAgentArena"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2409.08264"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/microsoft/WindowsAgentArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://microsoft.github.io/WindowsAgentArena"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Navi, <b>Base Model:</b> GPT-4V-1106, <b>Strategy:</b> Set-of-Marks prompting<br>
-      • <b>Benchmark Name:</b> WINDOWS AGENT ARENA, <b>Task Number:</b> 154, <b>Dataset Source:</b> automatic execution-based evaluation<br>
+      • Agent Name: Navi, Base Model: GPT-4V-1106, Strategy: Set-of-Marks prompting<br>
+      • Benchmark Name: WINDOWS AGENT ARENA, Task Number: 154, Dataset Source: automatic execution-based evaluation<br>
     </td>
   </tr>
   <tr>
@@ -3194,13 +3194,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.07429"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/zorazrw/agent-workflow-memory"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.07429"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/zorazrw/agent-workflow-memory"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Agent Workflow Memory (AWM), <b>Base Model:</b> GPT-4, <b>Strategy:</b> Workflow Induction<br>
+      • Agent Name: Agent Workflow Memory (AWM), Base Model: GPT-4, Strategy: Workflow Induction<br>
     </td>
   </tr>
   <tr>
@@ -3213,13 +3213,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.04465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/jeswr/phd-language-dialogue-experiment"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.04465"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/jeswr/phd-language-dialogue-experiment"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Charlie, <b>Base Model:</b> LLM, <b>Strategy:</b> Dialogue<br>
+      • Agent Name: Charlie, Base Model: LLM, Strategy: Dialogue<br>
     </td>
   </tr>
   <tr>
@@ -3232,13 +3232,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.04402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://matwa.optimalmatching.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2409.04402"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://matwa.optimalmatching.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> MATWA, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: MATWA, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -3251,13 +3251,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.03789"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/snow10100/pena/"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.03789"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/snow10100/pena/"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> BreachSeek, <b>Base Model:</b> Claude 3.5 Sonnet, <b>Strategy:</b> <br>
+      • Agent Name: BreachSeek, Base Model: Claude 3.5 Sonnet, Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -3271,13 +3271,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.01927"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2409.01927"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> WebNaviX, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> Mind2Web, <b>Task Number:</b> 777, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: WebNaviX, Base Model: GPT-4o, Strategy: Prompt<br>
+      • Benchmark Name: Mind2Web, Task Number: 777, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -3290,13 +3290,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.00608"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/SqueezeAILab/TinyAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.00608"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/SqueezeAILab/TinyAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> TinyAgent, <b>Base Model:</b> TinyLlama-1.1B, <b>Strategy:</b> Fine-tuning<br>
+      • Agent Name: TinyAgent, Base Model: TinyLlama-1.1B, Strategy: Fine-tuning<br>
     </td>
   </tr>
   <tr>
@@ -3309,8 +3309,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.00009"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/ComplexData-MILA/webretrieval"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2409.00009"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/ComplexData-MILA/webretrieval"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -3331,12 +3331,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.00203"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2408.00203"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> OMNIPARSER, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> fine-tuning<br>
+      • Agent Name: OMNIPARSER, Base Model: GPT-4V, Strategy: fine-tuning<br>
     </td>
   </tr>
   <tr>
@@ -3349,13 +3349,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.16032"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/fengshuang-coding/KDD2024"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2408.16032"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/fengshuang-coding/KDD2024"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> DPO agent, <b>Base Model:</b> BERT, <b>Strategy:</b> DPO<br>
+      • Agent Name: DPO agent, Base Model: BERT, Strategy: DPO<br>
     </td>
   </tr>
   <tr>
@@ -3368,13 +3368,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.15978"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/WebPilot"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2408.15978"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/WebPilot"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> WebPilot, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Monte Carlo Tree Search (MCTS)<br>
+      • Agent Name: WebPilot, Base Model: GPT-4, Strategy: Monte Carlo Tree Search (MCTS)<br>
     </td>
   </tr>
   <tr>
@@ -3387,12 +3387,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.11824"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2408.11824"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AppAgent v2, <b>Base Model:</b> GPT-4, <b>Strategy:</b> RAG technology<br>
+      • Agent Name: AppAgent v2, Base Model: GPT-4, Strategy: RAG technology<br>
     </td>
   </tr>
   <tr>
@@ -3405,12 +3405,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.10738"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2408.10738"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> PhishAgent, <b>Base Model:</b> MLLMs, <b>Strategy:</b> Multimodal information retrieval framework<br>
+      • Agent Name: PhishAgent, Base Model: MLLMs, Strategy: Multimodal information retrieval framework<br>
     </td>
   </tr>
   <tr>
@@ -3423,13 +3423,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.08926"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://cybench.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2408.08926"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://cybench.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Cybench, <b>Task Number:</b> 40, <b>Dataset Source:</b> <br>
+      • Benchmark Name: Cybench, Task Number: 40, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -3442,12 +3442,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.07611"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2408.07611"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> WeKnow-RAG, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: WeKnow-RAG, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -3460,12 +3460,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.07199"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2408.07199"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Agent Q, <b>Base Model:</b> LLaMA-3 70B, <b>Strategy:</b> DPO<br>
+      • Agent Name: Agent Q, Base Model: LLaMA-3 70B, Strategy: DPO<br>
     </td>
   </tr>
   <tr>
@@ -3478,12 +3478,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.06520"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2408.06520"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> RAHL, <b>Base Model:</b> GPT-3.5-turbo, <b>Strategy:</b> Hierarchical Reinforcement Learning<br>
+      • Agent Name: RAHL, Base Model: GPT-3.5-turbo, Strategy: Hierarchical Reinforcement Learning<br>
     </td>
   </tr>
   <tr>
@@ -3497,13 +3497,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.06327"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/THUDM/VisualAgentBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2408.06327"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/THUDM/VisualAgentBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> VisualAgentBench, <b>Task Number:</b> 5, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: VisualAgentBench, Task Number: 5, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -3516,12 +3516,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.03827"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2408.03827"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> FixAlly, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> multi-agent LLM architecture<br>
+      • Agent Name: FixAlly, Base Model: GPT-4o, Strategy: multi-agent LLM architecture<br>
     </td>
   </tr>
   <tr>
@@ -3535,13 +3535,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.01999"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2408.01999"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Reinforcement Learning Post-Incident Malware Investigation Model, <b>Base Model:</b> , <b>Strategy:</b> Q-learning<br>
-      • <b>Benchmark Name:</b> Unified Markov Decision Process (MDP) Model, <b>Task Number:</b> , <b>Dataset Source:</b> <br>
+      • Agent Name: Reinforcement Learning Post-Incident Malware Investigation Model, Base Model: , Strategy: Q-learning<br>
+      • Benchmark Name: Unified Markov Decision Process (MDP) Model, Task Number: , Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -3554,13 +3554,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.17490"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://yuxiangchai.github.io/AMEX/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2407.17490"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://yuxiangchai.github.io/AMEX/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> AMEX, <b>Task Number:</b> 2946, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: AMEX, Task Number: 2946, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -3573,14 +3573,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.10956"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/xlang-ai/Spider2-V"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://spider2-v.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2407.10956"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/xlang-ai/Spider2-V"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://spider2-v.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Spider2-V, <b>Task Number:</b> 494, <b>Dataset Source:</b> real-world tasks<br>
+      • Benchmark Name: Spider2-V, Task Number: 494, Dataset Source: real-world tasks<br>
     </td>
   </tr>
   <tr>
@@ -3593,13 +3593,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.09018"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/bz-lab/AUITestAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2407.09018"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/bz-lab/AUITestAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AUITestAgent, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> multi-dimensional data extraction<br>
+      • Agent Name: AUITestAgent, Base Model: GPT-4o, Strategy: multi-dimensional data extraction<br>
     </td>
   </tr>
   <tr>
@@ -3612,12 +3612,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.04346"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2407.04346"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> MobileFlow, <b>Base Model:</b> Qwen-VL-Chat, <b>Strategy:</b> Mixture of Experts (MoE)<br>
+      • Agent Name: MobileFlow, Base Model: Qwen-VL-Chat, Strategy: Mixture of Experts (MoE)<br>
     </td>
   </tr>
   <tr>
@@ -3630,13 +3630,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.03037"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/testtest2024-art/Trident"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2407.03037"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/testtest2024-art/Trident"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Trident, <b>Base Model:</b> GPT-4 Vision, <b>Strategy:</b> Prompt<br>
+      • Agent Name: Trident, Base Model: GPT-4 Vision, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -3650,12 +3650,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.01511"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2407.01511"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Crab Benchmark-v0, <b>Task Number:</b> 120, <b>Dataset Source:</b> sub-task composition<br>
+      • Benchmark Name: Crab Benchmark-v0, Task Number: 120, Dataset Source: sub-task composition<br>
     </td>
   </tr>
   <tr>
@@ -3670,14 +3670,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.16741"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/All-Hands-AI/OpenHands"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2407.16741"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/All-Hands-AI/OpenHands"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> OpenHands, <b>Base Model:</b> CodeAct, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> OpenHands Evaluation, <b>Task Number:</b> 15, <b>Dataset Source:</b> not specified<br>
+      • Agent Name: OpenHands, Base Model: CodeAct, Strategy: Prompt<br>
+      • Benchmark Name: OpenHands Evaluation, Task Number: 15, Dataset Source: not specified<br>
     </td>
   </tr>
   <tr>
@@ -3690,14 +3690,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.20183"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/InternLM/MindSearch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://mindsearch.netlify.app"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2407.20183"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/InternLM/MindSearch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://mindsearch.netlify.app"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> MindSearch, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> multi-agent framework<br>
+      • Agent Name: MindSearch, Base Model: GPT-4o, Strategy: multi-agent framework<br>
     </td>
   </tr>
   <tr>
@@ -3709,12 +3709,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.19354"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2407.19354"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 135<br>
+      • Paper Number: 135<br>
     </td>
   </tr>
   <tr>
@@ -3728,15 +3728,15 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.15711"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2407.15711"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> SEEPLANACT (SPA), <b>Base Model:</b> GPT-4-Turbo, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> ASSISTANT BENCH, <b>Task Number:</b> 214, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: SEEPLANACT (SPA), Base Model: GPT-4-Turbo, Strategy: Prompt<br>
+      • Benchmark Name: ASSISTANT BENCH, Task Number: 214, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -3749,13 +3749,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.15734"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/simbianai/taskgen"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2407.15734"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/simbianai/taskgen"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> TaskGen, <b>Base Model:</b> LLM, <b>Strategy:</b> StrictJSON<br>
+      • Agent Name: TaskGen, Base Model: LLM, Strategy: StrictJSON<br>
     </td>
   </tr>
   <tr>
@@ -3768,12 +3768,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.13093"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2407.13093"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AI agent for CTI analysis, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Not explicitly mentioned<br>
+      • Agent Name: AI agent for CTI analysis, Base Model: GPT-4, Strategy: Not explicitly mentioned<br>
     </td>
   </tr>
   <tr>
@@ -3786,13 +3786,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.13032"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/EmergenceAI/Agent-E"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2407.13032"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/EmergenceAI/Agent-E"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Agent-E, <b>Base Model:</b> GPT-4-Turbo, <b>Strategy:</b> Hierarchical Architecture<br>
+      • Agent Name: Agent-E, Base Model: GPT-4-Turbo, Strategy: Hierarchical Architecture<br>
     </td>
   </tr>
   <tr>
@@ -3805,12 +3805,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.11843"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2407.11843"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> InferAct, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Belief Reasoning<br>
+      • Agent Name: InferAct, Base Model: GPT-4, Strategy: Belief Reasoning<br>
     </td>
   </tr>
   <tr>
@@ -3823,13 +3823,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.10718"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Ag2S1/Sibyl-System"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2407.10718"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Ag2S1/Sibyl-System"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Sibyl, <b>Base Model:</b> GPT-4, <b>Strategy:</b> multi-agent debate-based jury<br>
+      • Agent Name: Sibyl, Base Model: GPT-4, Strategy: multi-agent debate-based jury<br>
     </td>
   </tr>
   <tr>
@@ -3843,12 +3843,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.09295"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2407.09295"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> mobile agent security matrix, <b>Task Number:</b> 8, <b>Dataset Source:</b> <br>
+      • Benchmark Name: mobile agent security matrix, Task Number: 8, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -3861,13 +3861,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.05291"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/ServiceNow/WorkArena/tree/workarena-plus-plus"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2407.05291"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/ServiceNow/WorkArena/tree/workarena-plus-plus"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WorkArena++, <b>Task Number:</b> 682, <b>Dataset Source:</b> <br>
+      • Benchmark Name: WorkArena++, Task Number: 682, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -3881,13 +3881,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.03913"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2407.03913"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> MobileExperts, <b>Base Model:</b> LLM/VLM, <b>Strategy:</b> Code Combination Based Tool Formulation<br>
-      • <b>Benchmark Name:</b> Expert-Eval, <b>Task Number:</b> 28, <b>Dataset Source:</b> <br>
+      • Agent Name: MobileExperts, Base Model: LLM/VLM, Strategy: Code Combination Based Tool Formulation<br>
+      • Benchmark Name: Expert-Eval, Task Number: 28, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -3900,12 +3900,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.01502"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2407.01502"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WebArena, <b>Task Number:</b> 812, <b>Dataset Source:</b> <br>
+      • Benchmark Name: WebArena, Task Number: 812, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -3918,13 +3918,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.00993"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/XiaoMi/MobileBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2407.00993"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/XiaoMi/MobileBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Mobile-Bench, <b>Task Number:</b> 832, <b>Dataset Source:</b> LLM synthesis<br>
+      • Benchmark Name: Mobile-Bench, Task Number: 832, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
   <tr>
@@ -3937,8 +3937,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.01476"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://jykoh.com/search-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2407.01476"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://jykoh.com/search-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -3957,14 +3957,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.19263"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://screen-point-and-read.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.19263"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://screen-point-and-read.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Tree-of-Lens (ToL) agent, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Multi-lens Prompting<br>
-      • <b>Benchmark Name:</b> Screen Point-and-Read (ScreenPR) benchmark, <b>Task Number:</b> 1500, <b>Dataset Source:</b> manually annotated<br>
+      • Agent Name: Tree-of-Lens (ToL) agent, Base Model: GPT-4o, Strategy: Multi-lens Prompting<br>
+      • Benchmark Name: Screen Point-and-Read (ScreenPR) benchmark, Task Number: 1500, Dataset Source: manually annotated<br>
     </td>
   </tr>
   <tr>
@@ -3978,12 +3978,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.14314"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2406.14314"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Goal Identification from UI Trajectories, <b>Task Number:</b> , <b>Dataset Source:</b> <br>
+      • Benchmark Name: Goal Identification from UI Trajectories, Task Number: , Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -3996,13 +3996,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.13719"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://showlab.github.io/GUI-Narrator"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2406.13719"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://showlab.github.io/GUI-Narrator"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Act2Cap, <b>Task Number:</b> 4189, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: Act2Cap, Task Number: 4189, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -4016,15 +4016,15 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.11896"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/DigiRL-agent/digirl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://digirl-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2406.11896"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/DigiRL-agent/digirl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://digirl-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> DigiRL, <b>Base Model:</b> VLM, <b>Strategy:</b> Advantage-Weighted Regression<br>
-      • <b>Benchmark Name:</b> Android-in-the-Wild (AitW), <b>Task Number:</b> not specified, <b>Dataset Source:</b> not specified<br>
+      • Agent Name: DigiRL, Base Model: VLM, Strategy: Advantage-Weighted Regression<br>
+      • Benchmark Name: Android-in-the-Wild (AitW), Task Number: not specified, Dataset Source: not specified<br>
     </td>
   </tr>
   <tr>
@@ -4039,16 +4039,16 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.11317"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/yiye3/GUICourse"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.11317"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/yiye3/GUICourse"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Qwen-GUI, <b>Base Model:</b> Qwen-VL, <b>Strategy:</b> SFT<br>
-      • <b>Agent Name:</b> Fuyu-GUI, <b>Base Model:</b> Fuyu-8B, <b>Strategy:</b> SFT<br>
-      • <b>Agent Name:</b> MiniCPM-GUI, <b>Base Model:</b> MiniCPM-V, <b>Strategy:</b> SFT<br>
-      • <b>Benchmark Name:</b> GUICourse, <b>Task Number:</b> 3, <b>Dataset Source:</b> LLM synthesis<br>
+      • Agent Name: Qwen-GUI, Base Model: Qwen-VL, Strategy: SFT<br>
+      • Agent Name: Fuyu-GUI, Base Model: Fuyu-8B, Strategy: SFT<br>
+      • Agent Name: MiniCPM-GUI, Base Model: MiniCPM-V, Strategy: SFT<br>
+      • Benchmark Name: GUICourse, Task Number: 3, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
   <tr>
@@ -4064,13 +4064,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.10819"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://gui-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2406.10819"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://gui-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> GUI-WORLD, <b>Task Number:</b> 7, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: GUI-WORLD, Task Number: 7, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -4084,14 +4084,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.08451"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/OpenGVLab/GUI-Odyssey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.08451"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/OpenGVLab/GUI-Odyssey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> OdysseyAgent, <b>Base Model:</b> Qwen-VL, <b>Strategy:</b> fine-tuning with a history resampling module<br>
-      • <b>Benchmark Name:</b> GUI Odyssey, <b>Task Number:</b> 7735, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: OdysseyAgent, Base Model: Qwen-VL, Strategy: fine-tuning with a history resampling module<br>
+      • Benchmark Name: GUI Odyssey, Task Number: 7735, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -4104,13 +4104,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.08184"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://MobileAgentBench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2406.08184"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://MobileAgentBench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> MobileAgentBench, <b>Task Number:</b> 100, <b>Dataset Source:</b> <br>
+      • Benchmark Name: MobileAgentBench, Task Number: 100, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -4123,13 +4123,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.06947"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/caap-agent/caap-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.06947"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/caap-agent/caap-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CAAP, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
+      • Agent Name: CAAP, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -4143,15 +4143,15 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.04151"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/WooooDyy/AgentGym"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://agentgym.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2406.04151"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/WooooDyy/AgentGym"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://agentgym.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AGENT EVOL, <b>Base Model:</b> Llama-2-Chat-7B, <b>Strategy:</b> Behavioral Cloning<br>
-      • <b>Benchmark Name:</b> AGENT EVAL, <b>Task Number:</b> 89, <b>Dataset Source:</b> crowdsourcing and AI-based methods<br>
+      • Agent Name: AGENT EVOL, Base Model: Llama-2-Chat-7B, Strategy: Behavioral Cloning<br>
+      • Benchmark Name: AGENT EVAL, Task Number: 89, Dataset Source: crowdsourcing and AI-based methods<br>
     </td>
   </tr>
   <tr>
@@ -4164,12 +4164,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.12035"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2406.12035"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Lydia, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: Lydia, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -4182,13 +4182,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.01623"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/erichli1/websuite"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.01623"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/erichli1/websuite"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WebSuite, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: WebSuite, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -4202,13 +4202,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.14596"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://ical-learning.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2406.14596"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://ical-learning.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ICAL, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> In-Context Abstraction Learning<br>
+      • Agent Name: ICAL, Base Model: GPT-4V, Strategy: In-Context Abstraction Learning<br>
     </td>
   </tr>
   <tr>
@@ -4221,13 +4221,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.13381"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/xmhou2002/CoAct"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.13381"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/xmhou2002/CoAct"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CoAct, <b>Base Model:</b> gpt-3.5-turbo-16K-0613, <b>Strategy:</b> Hierarchical Planning<br>
+      • Agent Name: CoAct, Base Model: gpt-3.5-turbo-16K-0613, Strategy: Hierarchical Planning<br>
     </td>
   </tr>
   <tr>
@@ -4240,13 +4240,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.13264"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/HazyResearch/wonderbread"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.13264"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/HazyResearch/wonderbread"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WONDERBREAD, <b>Task Number:</b> 6, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: WONDERBREAD, Task Number: 6, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -4259,14 +4259,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.12814"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/ChenWu98/agent-attack"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://chenwu.io/attack-agent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2406.12814"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/ChenWu98/agent-attack"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://chenwu.io/attack-agent"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> VisualWebArena-Adv, <b>Task Number:</b> 200, <b>Dataset Source:</b> <br>
+      • Benchmark Name: VisualWebArena-Adv, Task Number: 200, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -4279,13 +4279,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.12373"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://www.imean.ai/web-canvas"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2406.12373"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://www.imean.ai/web-canvas"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WebCanvas, <b>Task Number:</b> 542, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: WebCanvas, Task Number: 542, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -4298,13 +4298,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.11176"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/WeiminXiong/IPR"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.11176"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/WeiminXiong/IPR"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> IPR, <b>Base Model:</b> Llama-2-7B, <b>Strategy:</b> SFT, DPO<br>
+      • Agent Name: IPR, Base Model: Llama-2-7B, Strategy: SFT, DPO<br>
     </td>
   </tr>
   <tr>
@@ -4318,14 +4318,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.09187"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2406.09187"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> GuardAgent, <b>Base Model:</b> GPT-4, <b>Strategy:</b> in-context learning<br>
-      • <b>Benchmark Name:</b> EICU-AC, <b>Task Number:</b> 316, <b>Dataset Source:</b> EICU dataset<br>
-      • <b>Benchmark Name:</b> Mind2Web-SC, <b>Task Number:</b> 200, <b>Dataset Source:</b> Mind2Web dataset<br>
+      • Agent Name: GuardAgent, Base Model: GPT-4, Strategy: in-context learning<br>
+      • Benchmark Name: EICU-AC, Task Number: 316, Dataset Source: EICU dataset<br>
+      • Benchmark Name: Mind2Web-SC, Task Number: 200, Dataset Source: Mind2Web dataset<br>
     </td>
   </tr>
   <tr>
@@ -4338,13 +4338,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.07822"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/aburns4/textualforesight"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.07822"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/aburns4/textualforesight"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> OpenApp, <b>Task Number:</b> 4, <b>Dataset Source:</b> newly constructed mobile app dataset<br>
+      • Benchmark Name: OpenApp, Task Number: 4, Dataset Source: newly constructed mobile app dataset<br>
     </td>
   </tr>
   <tr>
@@ -4356,13 +4356,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.05804"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/xinzhel/LLM-Agent-Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.05804"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/xinzhel/LLM-Agent-Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 100<br>
+      • Paper Number: 100<br>
     </td>
   </tr>
   <tr>
@@ -4376,13 +4376,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.03978"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/tencent-ailab/mini-hok"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.03978"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/tencent-ailab/mini-hok"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Mini Honor of Kings, <b>Task Number:</b> 7, <b>Dataset Source:</b> <br>
+      • Benchmark Name: Mini Honor of Kings, Task Number: 7, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -4395,8 +4395,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.03007"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/DPamK/BadAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.03007"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/DPamK/BadAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -4413,13 +4413,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.03679"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-research/google-research/tree/master/android_control"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.03679"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/google-research/google-research/tree/master/android_control"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> ANDROID CONTROL, <b>Task Number:</b> 15283, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: ANDROID CONTROL, Task Number: 15283, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -4431,12 +4431,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.02630"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2406.02630"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 215<br>
+      • Paper Number: 215<br>
     </td>
   </tr>
   <tr>
@@ -4450,13 +4450,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.01637"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2406.01637"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> HPTSA, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Hierarchical Planning and Task-Specific Agents<br>
-      • <b>Benchmark Name:</b> Benchmark of Zero-Day Vulnerabilities, <b>Task Number:</b> 15, <b>Dataset Source:</b> open-source software vulnerabilities<br>
+      • Agent Name: HPTSA, Base Model: GPT-4, Strategy: Hierarchical Planning and Task-Specific Agents<br>
+      • Benchmark Name: Benchmark of Zero-Day Vulnerabilities, Task Number: 15, Dataset Source: open-source software vulnerabilities<br>
     </td>
   </tr>
   <tr>
@@ -4468,13 +4468,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.00252"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/bowen-upenn/Agent_Rationality"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.00252"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/bowen-upenn/Agent_Rationality"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 200<br>
+      • Paper Number: 200<br>
     </td>
   </tr>
   <tr>
@@ -4487,13 +4487,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.01014"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2406.01014"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Mobile-Agent-v2, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Multi-agent collaboration<br>
+      • Agent Name: Mobile-Agent-v2, Base Model: GPT-4V, Strategy: Multi-agent collaboration<br>
     </td>
   </tr>
   <tr>
@@ -4506,13 +4506,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.20455"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Mohannadcse/DepsRAG"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2405.20455"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Mohannadcse/DepsRAG"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> DEPSRAG, <b>Base Model:</b> GPT-4-Turbo, <b>Strategy:</b> Retrieval-Augmented Generation (RAG)<br>
+      • Agent Name: DEPSRAG, Base Model: GPT-4-Turbo, Strategy: Retrieval-Augmented Generation (RAG)<br>
     </td>
   </tr>
   <tr>
@@ -4526,7 +4526,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.20309"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2405.20309"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -4543,13 +4543,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.18740"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/mi92/reverse-image-rag"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2405.18740"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/mi92/reverse-image-rag"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> RIR-augmented MLLM, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Reverse Image Retrieval<br>
+      • Agent Name: RIR-augmented MLLM, Base Model: GPT-4, Strategy: Reverse Image Retrieval<br>
     </td>
   </tr>
   <tr>
@@ -4562,12 +4562,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.16334"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2405.16334"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> DEVIL'S ADVOCATE, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Introspective Reflection<br>
+      • Agent Name: DEVIL'S ADVOCATE, Base Model: GPT-4, Strategy: Introspective Reflection<br>
     </td>
   </tr>
   <tr>
@@ -4580,12 +4580,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.15908"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2405.15908"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> DRLRM-PT, <b>Base Model:</b> , <b>Strategy:</b> Deep Q-learning with Reward Machine<br>
+      • Agent Name: DRLRM-PT, Base Model: , Strategy: Deep Q-learning with Reward Machine<br>
     </td>
   </tr>
   <tr>
@@ -4599,15 +4599,15 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.15793"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/princeton-nlp/SWE-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://swe-agent.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2405.15793"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/princeton-nlp/SWE-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://swe-agent.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> SWE-agent, <b>Base Model:</b> GPT-4 Turbo, <b>Strategy:</b> ReAct<br>
-      • <b>Benchmark Name:</b> SWE-bench, <b>Task Number:</b> 2294, <b>Dataset Source:</b> GitHub issues<br>
+      • Agent Name: SWE-agent, Base Model: GPT-4 Turbo, Strategy: ReAct<br>
+      • Benchmark Name: SWE-bench, Task Number: 2294, Dataset Source: GitHub issues<br>
     </td>
   </tr>
   <tr>
@@ -4620,13 +4620,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.14573"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2405.14573"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> ANDROID WORLD, <b>Task Number:</b> 116, <b>Dataset Source:</b> <br>
+      • Benchmark Name: ANDROID WORLD, Task Number: 116, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -4640,7 +4640,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.11120"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2405.11120"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -4656,12 +4656,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.10467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2405.10467"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 79<br>
+      • Paper Number: 79<br>
     </td>
   </tr>
   <tr>
@@ -4674,12 +4674,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.06356"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2405.06356"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CRATOR, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: CRATOR, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -4692,12 +4692,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.04497"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2405.04497"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 17<br>
+      • Paper Number: 17<br>
     </td>
   </tr>
   <tr>
@@ -4710,13 +4710,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.03710"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/HazyResearch/eclair-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2405.03710"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/HazyResearch/eclair-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ECLAIR, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
+      • Agent Name: ECLAIR, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -4729,7 +4729,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.01564"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2405.01564"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -4746,12 +4746,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.00516"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2405.00516"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> WebAI, <b>Base Model:</b> T5, <b>Strategy:</b> Behavioral Cloning<br>
+      • Agent Name: WebAI, Base Model: T5, Strategy: Behavioral Cloning<br>
     </td>
   </tr>
   <tr>
@@ -4766,14 +4766,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.07972"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/os-world"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://os-world.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2404.07972"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/os-world"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://os-world.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> OSWORLD, <b>Task Number:</b> 369, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: OSWORLD, Task Number: 369, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -4786,12 +4786,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.02475"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.02475"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> PromptRPA, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
+      • Agent Name: PromptRPA, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -4804,12 +4804,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.05902"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.05902"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> WILBUR, <b>Base Model:</b> LLM, <b>Strategy:</b> Adaptive In-Context Learning<br>
+      • Agent Name: WILBUR, Base Model: LLM, Strategy: Adaptive In-Context Learning<br>
     </td>
   </tr>
   <tr>
@@ -4822,13 +4822,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.16660"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://b-moca.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2404.16660"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://b-moca.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> B-MoCA, <b>Task Number:</b> 131, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: B-MoCA, Task Number: 131, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -4841,13 +4841,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.16054"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/LlamaTouch/LlamaTouch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2404.16054"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/LlamaTouch/LlamaTouch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> LlamaTouch, <b>Task Number:</b> 496, <b>Dataset Source:</b> human annotation<br>
+      • Benchmark Name: LlamaTouch, Task Number: 496, Dataset Source: human annotation<br>
     </td>
   </tr>
   <tr>
@@ -4860,12 +4860,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.15500"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.15500"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> GeoLLM-Engine, <b>Task Number:</b> 500000, <b>Dataset Source:</b> LLM synthesis<br>
+      • Benchmark Name: GeoLLM-Engine, Task Number: 500000, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
   <tr>
@@ -4877,13 +4877,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.13501"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/nuster1128/LLM_Agent_Memory_Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2404.13501"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/nuster1128/LLM_Agent_Memory_Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 174<br>
+      • Paper Number: 174<br>
     </td>
   </tr>
   <tr>
@@ -4896,13 +4896,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.12753"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/EZ-hwh/AutoScraper"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2404.12753"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/EZ-hwh/AutoScraper"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AUTOSCRAPER, <b>Base Model:</b> LLMs, <b>Strategy:</b> Progressive Understanding<br>
+      • Agent Name: AUTOSCRAPER, Base Model: LLMs, Strategy: Progressive Understanding<br>
     </td>
   </tr>
   <tr>
@@ -4915,12 +4915,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.11964"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.11964"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> LLM-powered general computer agent, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
+      • Agent Name: LLM-powered general computer agent, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -4932,12 +4932,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.11584"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.11584"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 38<br>
+      • Paper Number: 38<br>
     </td>
   </tr>
   <tr>
@@ -4950,12 +4950,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.11483"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.11483"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AgentKit, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
+      • Agent Name: AgentKit, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -4968,12 +4968,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.10887"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.10887"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> GLAINTEL, <b>Base Model:</b> Flan-T5, <b>Strategy:</b> Reinforcement Learning<br>
+      • Agent Name: GLAINTEL, Base Model: Flan-T5, Strategy: Reinforcement Learning<br>
     </td>
   </tr>
   <tr>
@@ -4986,12 +4986,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.09911"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.09911"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> ChatShop, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: ChatShop, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -5004,12 +5004,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.08755"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.08755"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> UI-VLM, <b>Base Model:</b> Qwen-VL, <b>Strategy:</b> next-token prediction and masked self-attention<br>
+      • Agent Name: UI-VLM, Base Model: Qwen-VL, Strategy: next-token prediction and masked self-attention<br>
     </td>
   </tr>
   <tr>
@@ -5023,13 +5023,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.08860"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.08860"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Action Prediction Model, <b>Base Model:</b> GPT4-V, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> MagicWand, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Agent Name: Action Prediction Model, Base Model: GPT4-V, Strategy: Prompt<br>
+      • Benchmark Name: MagicWand, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -5043,13 +5043,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.08144"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.08144"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> LLM CVE agent, <b>Base Model:</b> GPT-4, <b>Strategy:</b> ReAct agent framework<br>
-      • <b>Benchmark Name:</b> Real-world one-day vulnerabilities, <b>Task Number:</b> 15, <b>Dataset Source:</b> CVE database and academic papers<br>
+      • Agent Name: LLM CVE agent, Base Model: GPT-4, Strategy: ReAct agent framework<br>
+      • Benchmark Name: Real-world one-day vulnerabilities, Task Number: 15, Dataset Source: CVE database and academic papers<br>
     </td>
   </tr>
   <tr>
@@ -5062,13 +5062,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.09992"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://mmina.cliangyu.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2404.09992"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://mmina.cliangyu.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> MMInA, <b>Task Number:</b> 1050, <b>Dataset Source:</b> human-written tasks<br>
+      • Benchmark Name: MMInA, Task Number: 1050, Dataset Source: human-written tasks<br>
     </td>
   </tr>
   <tr>
@@ -5083,8 +5083,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.06474"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Berkeley-NLP/Agent-Eval-Refine"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2404.06474"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Berkeley-NLP/Agent-Eval-Refine"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -5101,13 +5101,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.05955"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://visualwebbench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2404.05955"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://visualwebbench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> VisualWebBench, <b>Task Number:</b> 7, <b>Dataset Source:</b> human-curated instances<br>
+      • Benchmark Name: VisualWebBench, Task Number: 7, Dataset Source: human-curated instances<br>
     </td>
   </tr>
   <tr>
@@ -5120,9 +5120,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.04902"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Avdpro/ai2apps"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://www.ai2apps.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2404.04902"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Avdpro/ai2apps"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://www.ai2apps.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
@@ -5138,12 +5138,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.04442"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.04442"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 117<br>
+      • Paper Number: 117<br>
     </td>
   </tr>
   <tr>
@@ -5157,14 +5157,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.03648"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/THUDM/AutoWebGLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2404.03648"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/THUDM/AutoWebGLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AutoWebGLM, <b>Base Model:</b> ChatGLM3-6B, <b>Strategy:</b> SFT, Reinforcement Learning, Rejection Sampling Finetuning<br>
-      • <b>Benchmark Name:</b> AutoWebBench, <b>Task Number:</b> 50, <b>Dataset Source:</b> model-assisted and manual methods<br>
+      • Agent Name: AutoWebGLM, Base Model: ChatGLM3-6B, Strategy: SFT, Reinforcement Learning, Rejection Sampling Finetuning<br>
+      • Benchmark Name: AutoWebBench, Task Number: 50, Dataset Source: model-assisted and manual methods<br>
     </td>
   </tr>
   <tr>
@@ -5176,13 +5176,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.02491"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://huggingface.co/datasets/socialnormdataset/social"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2404.02491"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://huggingface.co/datasets/socialnormdataset/social"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Social, <b>Task Number:</b> 12383, <b>Dataset Source:</b> <br>
+      • Benchmark Name: Social, Task Number: 12383, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -5195,12 +5195,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.01744"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2404.01744"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Octopus v2, <b>Base Model:</b> Gemma 2B, <b>Strategy:</b> Fine-tuning with functional tokens<br>
+      • Agent Name: Octopus v2, Base Model: Gemma 2B, Strategy: Fine-tuning with functional tokens<br>
     </td>
   </tr>
   <tr>
@@ -5216,13 +5216,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> AgentStudio, <b>Task Number:</b> 205, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: AgentStudio, Task Number: 205, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -5236,14 +5236,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.02713"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/IMNearth/CoAT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2403.02713"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/IMNearth/CoAT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CoAT, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> AITZ, <b>Task Number:</b> 18643, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: CoAT, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: AITZ, Task Number: 18643, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -5259,16 +5259,16 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> AgentStudio overall benchmark tasks, <b>Task Number:</b> 205, <b>Dataset Source:</b> human demonstration<br>
-      • <b>Benchmark Name:</b> GroundUI, <b>Task Number:</b> 18026, <b>Dataset Source:</b> existing datasets and AgentStudio-collected data<br>
-      • <b>Benchmark Name:</b> IDMBench, <b>Task Number:</b> 345, <b>Dataset Source:</b> Mind2Web, Android in the Wild, VisualWebArena, and AgentStudio<br>
-      • <b>Benchmark Name:</b> CriticBench, <b>Task Number:</b> 350, <b>Dataset Source:</b> Mind2Web, Android in the Wild, VisualWebArena, and AgentStudio<br>
+      • Benchmark Name: AgentStudio overall benchmark tasks, Task Number: 205, Dataset Source: human demonstration<br>
+      • Benchmark Name: GroundUI, Task Number: 18026, Dataset Source: existing datasets and AgentStudio-collected data<br>
+      • Benchmark Name: IDMBench, Task Number: 345, Dataset Source: Mind2Web, Android in the Wild, VisualWebArena, and AgentStudio<br>
+      • Benchmark Name: CriticBench, Task Number: 350, Dataset Source: Mind2Web, Android in the Wild, VisualWebArena, and AgentStudio<br>
     </td>
   </tr>
   <tr>
@@ -5282,14 +5282,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.03186"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://baai-agents.github.io/Cradle/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2403.03186"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://baai-agents.github.io/Cradle/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CRADLE, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Modular Framework<br>
-      • <b>Benchmark Name:</b> OSWorld, <b>Task Number:</b> 369, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: CRADLE, Base Model: GPT-4o, Strategy: Modular Framework<br>
+      • Benchmark Name: OSWorld, Task Number: 369, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -5302,12 +5302,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.14589"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2403.14589"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> A3T, <b>Base Model:</b> Mistral-7B-Instruct-v0.2, <b>Strategy:</b> Policy Gradient<br>
+      • Agent Name: A3T, Base Model: Mistral-7B-Instruct-v0.2, Strategy: Policy Gradient<br>
     </td>
   </tr>
   <tr>
@@ -5320,13 +5320,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.11905"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://turkingbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2403.11905"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://turkingbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> TURKING BENCH, <b>Task Number:</b> 158, <b>Dataset Source:</b> crowdsourcing tasks<br>
+      • Benchmark Name: TURKING BENCH, Task Number: 158, Dataset Source: crowdsourcing tasks<br>
     </td>
   </tr>
   <tr>
@@ -5339,12 +5339,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.10171"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2403.10171"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AUTONODE, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Neuro-graphic Operations<br>
+      • Agent Name: AUTONODE, Base Model: GPT-4V, Strategy: Neuro-graphic Operations<br>
     </td>
   </tr>
   <tr>
@@ -5357,12 +5357,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.08291"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2403.08291"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CleanAgent, <b>Base Model:</b> LLM-based Agents, <b>Strategy:</b> Declarative API Calls<br>
+      • Agent Name: CleanAgent, Base Model: LLM-based Agents, Strategy: Declarative API Calls<br>
     </td>
   </tr>
   <tr>
@@ -5375,12 +5375,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.08140"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2403.08140"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> BAGEL, <b>Base Model:</b> PaLM-2, <b>Strategy:</b> Iterative relabeling with LM components<br>
+      • Agent Name: BAGEL, Base Model: PaLM-2, Strategy: Iterative relabeling with LM components<br>
     </td>
   </tr>
   <tr>
@@ -5393,12 +5393,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.08978"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2403.08978"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AUTOGUIDE, <b>Base Model:</b> GPT-4-turbo, <b>Strategy:</b> Prompt<br>
+      • Agent Name: AUTOGUIDE, Base Model: GPT-4-turbo, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -5411,13 +5411,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.06221"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/skyriver-2000/TRAD-Official"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2403.06221"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/skyriver-2000/TRAD-Official"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> TRAD, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Thought Retrieval and Aligned Decision<br>
+      • Agent Name: TRAD, Base Model: GPT-4, Strategy: Thought Retrieval and Aligned Decision<br>
     </td>
   </tr>
   <tr>
@@ -5430,14 +5430,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.07718"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/ServiceNow/WorkArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2403.07718"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/ServiceNow/WorkArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WorkArena, <b>Task Number:</b> 33, <b>Dataset Source:</b> <br>
-      • <b>Benchmark Name:</b> BrowserGym, <b>Task Number:</b> , <b>Dataset Source:</b> <br>
+      • Benchmark Name: WorkArena, Task Number: 33, Dataset Source: <br>
+      • Benchmark Name: BrowserGym, Task Number: , Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -5450,13 +5450,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.02502"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Yifan-Song793/ETO"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2403.02502"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Yifan-Song793/ETO"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ETO, <b>Base Model:</b> Llama-2-7B-Chat, <b>Strategy:</b> Behavioral Cloning, DPO<br>
+      • Agent Name: ETO, Base Model: Llama-2-7B-Chat, Strategy: Behavioral Cloning, DPO<br>
     </td>
   </tr>
   <tr>
@@ -5469,13 +5469,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.11941"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/xbmxb/CoCo-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2402.11941"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/xbmxb/CoCo-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CoCo-Agent, <b>Base Model:</b> LLaV A, <b>Strategy:</b> Comprehensive Environment Perception (CEP) and Conditional Action Prediction (CAP)<br>
+      • Agent Name: CoCo-Agent, Base Model: LLaV A, Strategy: Comprehensive Environment Perception (CEP) and Conditional Action Prediction (CAP)<br>
     </td>
   </tr>
   <tr>
@@ -5490,14 +5490,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.07945"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/niuzaisheng/ScreenAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2402.07945"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/niuzaisheng/ScreenAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ScreenAgent, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Reinforcement Learning<br>
-      • <b>Benchmark Name:</b> ScreenAgent Dataset, <b>Task Number:</b> 273, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: ScreenAgent, Base Model: GPT-4V, Strategy: Reinforcement Learning<br>
+      • Benchmark Name: ScreenAgent Dataset, Task Number: 273, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -5511,14 +5511,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.07939"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2402.07939"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> UFO, <b>Base Model:</b> GPT-Vision, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> WindowsBench, <b>Task Number:</b> 50, <b>Dataset Source:</b> <br>
+      • Agent Name: UFO, Base Model: GPT-Vision, Strategy: Prompt<br>
+      • Benchmark Name: WindowsBench, Task Number: 50, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -5534,13 +5534,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.17553"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://huggingface.co/datasets/Writer/omniact"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2402.17553"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://huggingface.co/datasets/Writer/omniact"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> OmniACT, <b>Task Number:</b> 9802, <b>Dataset Source:</b> human annotation<br>
+      • Benchmark Name: OmniACT, Task Number: 9802, Dataset Source: human annotation<br>
     </td>
   </tr>
   <tr>
@@ -5554,13 +5554,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.07456"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://os-copilot.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2402.07456"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://os-copilot.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> FRIDAY, <b>Base Model:</b> GPT-4, <b>Strategy:</b> self-directed learning<br>
+      • Agent Name: FRIDAY, Base Model: GPT-4, Strategy: self-directed learning<br>
     </td>
   </tr>
   <tr>
@@ -5573,14 +5573,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.19446"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/YifeiZhou02/ArCHer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://yifeizhou02.github.io/archer.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2402.19446"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/YifeiZhou02/ArCHer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://yifeizhou02.github.io/archer.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ArCHer, <b>Base Model:</b> , <b>Strategy:</b> Hierarchical Multi-Turn RL<br>
+      • Agent Name: ArCHer, Base Model: , Strategy: Hierarchical Multi-Turn RL<br>
     </td>
   </tr>
   <tr>
@@ -5592,13 +5592,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.17644"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/xxxiaol/QRData"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2402.17644"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/xxxiaol/QRData"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> QRDATA, <b>Task Number:</b> 411, <b>Dataset Source:</b> <br>
+      • Benchmark Name: QRDATA, Task Number: 411, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -5612,13 +5612,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.17505"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2402.17505"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> BASES, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> WARRIORS, <b>Task Number:</b> 100000, <b>Dataset Source:</b> LLM synthesis<br>
+      • Agent Name: BASES, Base Model: GPT-4, Strategy: Prompt<br>
+      • Benchmark Name: WARRIORS, Task Number: 100000, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
   <tr>
@@ -5631,12 +5631,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.16965"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2402.16965"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WIPI, <b>Task Number:</b> 18, <b>Dataset Source:</b> real-world webpages<br>
+      • Benchmark Name: WIPI, Task Number: 18, Dataset Source: real-world webpages<br>
     </td>
   </tr>
   <tr>
@@ -5648,13 +5648,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.15116"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/jun0wanan/awesome-large-multimodal-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2402.15116"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/jun0wanan/awesome-large-multimodal-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 81<br>
+      • Paper Number: 81<br>
     </td>
   </tr>
   <tr>
@@ -5667,13 +5667,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.15057"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/magicgh/self-map"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2402.15057"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/magicgh/self-map"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> MT-Mind2Web, <b>Task Number:</b> 720, <b>Dataset Source:</b> expert-annotated web navigation dataset<br>
+      • Benchmark Name: MT-Mind2Web, Task Number: 720, Dataset Source: expert-annotated web navigation dataset<br>
     </td>
   </tr>
   <tr>
@@ -5686,8 +5686,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.13212"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/HanNight/soft_self_consistency"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2402.13212"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/HanNight/soft_self_consistency"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -5704,13 +5704,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.11208"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/lancopku/agent-backdoor-attacks"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2402.11208"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/lancopku/agent-backdoor-attacks"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Agent Backdoor Attacks, <b>Task Number:</b> 2, <b>Dataset Source:</b> LLM synthesis<br>
+      • Benchmark Name: Agent Backdoor Attacks, Task Number: 2, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
   <tr>
@@ -5724,14 +5724,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.07744"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://agent-force.github.io/unified-alignment-for-agents.html"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2402.07744"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://agent-force.github.io/unified-alignment-for-agents.html"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> UA2 Agent, <b>Base Model:</b> GPT-3.5, <b>Strategy:</b> Structured Memory<br>
-      • <b>Benchmark Name:</b> Retrofitted WebShop, <b>Task Number:</b> 500, <b>Dataset Source:</b> artificially constructed instructions<br>
+      • Agent Name: UA2 Agent, Base Model: GPT-3.5, Strategy: Structured Memory<br>
+      • Benchmark Name: Retrofitted WebShop, Task Number: 500, Dataset Source: artificially constructed instructions<br>
     </td>
   </tr>
   <tr>
@@ -5744,12 +5744,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.06664"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2402.06664"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> LLM Agent, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Function calling, document reading, and planning<br>
+      • Agent Name: LLM Agent, Base Model: GPT-4, Strategy: Function calling, document reading, and planning<br>
     </td>
   </tr>
   <tr>
@@ -5762,13 +5762,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.06360"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/pygongnlp/CoSearchAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2402.06360"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/pygongnlp/CoSearchAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CoSearchAgent, <b>Base Model:</b> ChatGPT, <b>Strategy:</b> Prompt<br>
+      • Agent Name: CoSearchAgent, Base Model: ChatGPT, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -5781,13 +5781,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.06596"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/AndroidArenaAgent/AndroidArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2402.06596"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/AndroidArenaAgent/AndroidArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> AndroidArena, <b>Task Number:</b> 221, <b>Dataset Source:</b> LLM synthesis<br>
+      • Benchmark Name: AndroidArena, Task Number: 221, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
   <tr>
@@ -5800,14 +5800,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.08702"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/yongchao98/PROMST"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://yongchao98.github.io/MIT-REALM-PROMST/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2402.08702"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/yongchao98/PROMST"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://yongchao98.github.io/MIT-REALM-PROMST/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> PROMST, <b>Task Number:</b> 11, <b>Dataset Source:</b> <br>
+      • Benchmark Name: PROMST, Task Number: 11, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -5820,14 +5820,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.05930"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2402.05930"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WEBLINX, <b>Task Number:</b> 2337, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: WEBLINX, Task Number: 2337, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -5841,13 +5841,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.04476"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2402.04476"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> DUAL-VCR, <b>Base Model:</b> , <b>Strategy:</b> <br>
-      • <b>Benchmark Name:</b> Mind2Web, <b>Task Number:</b> 2000, <b>Dataset Source:</b> <br>
+      • Agent Name: DUAL-VCR, Base Model: , Strategy: <br>
+      • Benchmark Name: Mind2Web, Task Number: 2000, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -5859,12 +5859,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.02716"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2402.02716"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 100<br>
+      • Paper Number: 100<br>
     </td>
   </tr>
   <tr>
@@ -5876,12 +5876,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.00262"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2402.00262"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 292<br>
+      • Paper Number: 292<br>
     </td>
   </tr>
   <tr>
@@ -5899,14 +5899,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.10935"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/njucckevin/SeeClick"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2401.10935"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/njucckevin/SeeClick"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> SeeClick, <b>Base Model:</b> Qwen-VL, <b>Strategy:</b> GUI grounding pre-training<br>
-      • <b>Benchmark Name:</b> ScreenSpot, <b>Task Number:</b> 1200, <b>Dataset Source:</b> automated curation from web and mobile<br>
+      • Agent Name: SeeClick, Base Model: Qwen-VL, Strategy: GUI grounding pre-training<br>
+      • Benchmark Name: ScreenSpot, Task Number: 1200, Dataset Source: automated curation from web and mobile<br>
     </td>
   </tr>
   <tr>
@@ -5918,12 +5918,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.03568"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2401.03568"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 100<br>
+      • Paper Number: 100<br>
     </td>
   </tr>
   <tr>
@@ -5937,14 +5937,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.01614"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://osu-nlp-group.github.io/SeeAct"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2401.01614"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://osu-nlp-group.github.io/SeeAct"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> SEEACT, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Prompt<br>
+      • Agent Name: SEEACT, Base Model: GPT-4V, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -5957,7 +5957,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.13604"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2401.13604"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -5974,13 +5974,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.13178"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/hkust-nlp/AgentBoard"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2401.13178"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/hkust-nlp/AgentBoard"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> AGENT BOARD, <b>Task Number:</b> 9, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: AGENT BOARD, Task Number: 9, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -5994,14 +5994,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.04124"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/alipay/mobile-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2401.04124"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/alipay/mobile-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Ant Intelligent Assistant (AIA), <b>Base Model:</b> QWen-7B, <b>Strategy:</b> Supervised Fine-Tuning (SFT) with LoRA<br>
-      • <b>Benchmark Name:</b> AitW, <b>Task Number:</b> 30000, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: Ant Intelligent Assistant (AIA), Base Model: QWen-7B, Strategy: Supervised Fine-Tuning (SFT) with LoRA<br>
+      • Benchmark Name: AitW, Task Number: 30000, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -6014,12 +6014,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.03547"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2401.03547"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> DRC2023, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: DRC2023, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -6032,12 +6032,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.02705"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2401.02705"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> XUAT-Copilot, <b>Base Model:</b> LLM, <b>Strategy:</b> Multi-Agent Collaborative Framework<br>
+      • Agent Name: XUAT-Copilot, Base Model: LLM, Strategy: Multi-Agent Collaborative Framework<br>
     </td>
   </tr>
   <tr>
@@ -6050,12 +6050,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.13649"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2401.13649"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> VisualWebArena, <b>Task Number:</b> 910, <b>Dataset Source:</b> <br>
+      • Benchmark Name: VisualWebArena, Task Number: 910, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -6069,14 +6069,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.13919"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/MinorJerry/WebVoyager"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2401.13919"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/MinorJerry/WebVoyager"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> WebVoyager, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> WebVoyager Benchmark, <b>Task Number:</b> 643, <b>Dataset Source:</b> self-instruct<br>
+      • Agent Name: WebVoyager, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: WebVoyager Benchmark, Task Number: 643, Dataset Source: self-instruct<br>
     </td>
   </tr>
   <tr>
@@ -6090,14 +6090,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.16158"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2401.16158"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Mobile-Agent, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Prompt<br>
-      • <b>Benchmark Name:</b> Mobile-Eval, <b>Task Number:</b> 10, <b>Dataset Source:</b> <br>
+      • Agent Name: Mobile-Agent, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: Mobile-Eval, Task Number: 10, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -6109,13 +6109,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.05459"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/MobileLLM/Personal_LLM_Agents_Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2401.05459"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/MobileLLM/Personal_LLM_Agents_Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 445<br>
+      • Paper Number: 445<br>
     </td>
   </tr>
   <tr>
@@ -6128,14 +6128,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.13108"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2312.13108"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> ASSIST GUI, <b>Task Number:</b> 100, <b>Dataset Source:</b> not specified<br>
+      • Benchmark Name: ASSIST GUI, Task Number: 100, Dataset Source: not specified<br>
     </td>
   </tr>
   <tr>
@@ -6150,13 +6150,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.08914"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/THUDM/CogVLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2312.08914"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/THUDM/CogVLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CogAgent, <b>Base Model:</b> CogVLM, <b>Strategy:</b> cross-attention module<br>
+      • Agent Name: CogAgent, Base Model: CogVLM, Strategy: cross-attention module<br>
     </td>
   </tr>
   <tr>
@@ -6170,14 +6170,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.15820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/WebVLN/WebVLN"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2312.15820"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/WebVLN/WebVLN"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Website-aware VLN Network (WebVLN-Net), <b>Base Model:</b> , <b>Strategy:</b> <br>
-      • <b>Benchmark Name:</b> WebVLN-v1, <b>Task Number:</b> 14925, <b>Dataset Source:</b> <br>
+      • Agent Name: Website-aware VLN Network (WebVLN-Net), Base Model: , Strategy: <br>
+      • Benchmark Name: WebVLN-v1, Task Number: 14925, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -6189,12 +6189,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.11970"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2312.11970"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 245<br>
+      • Paper Number: 245<br>
     </td>
   </tr>
   <tr>
@@ -6206,13 +6206,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.10763"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/OpenM3D/M3DBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2312.10763"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/OpenM3D/M3DBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> M3DBench, <b>Task Number:</b> 15, <b>Dataset Source:</b> LLM synthesis<br>
+      • Benchmark Name: M3DBench, Task Number: 15, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
   <tr>
@@ -6225,7 +6225,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.09187"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2312.09187"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -6242,13 +6242,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.13771"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://appagent-official.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2312.13771"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://appagent-official.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AppAgent, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Exploration and Observation<br>
+      • Agent Name: AppAgent, Base Model: GPT-4, Strategy: Exploration and Observation<br>
     </td>
   </tr>
   <tr>
@@ -6261,13 +6261,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.05742"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/facebookresearch/gen_dgrl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2312.05742"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/facebookresearch/gen_dgrl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Procgen and WebShop Datasets, <b>Task Number:</b> , <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: Procgen and WebShop Datasets, Task Number: , Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -6280,12 +6280,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.10170"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2312.10170"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> UINav, <b>Base Model:</b> SmallBERT, <b>Strategy:</b> Demonstration-based training<br>
+      • Agent Name: UINav, Base Model: SmallBERT, Strategy: Demonstration-based training<br>
     </td>
   </tr>
   <tr>
@@ -6298,13 +6298,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.08649"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/testing-agent/droidagent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2311.08649"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/testing-agent/droidagent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> DROID AGENT, <b>Base Model:</b> Large Language Models, <b>Strategy:</b> Autonomous GUI testing<br>
+      • Agent Name: DROID AGENT, Base Model: Large Language Models, Strategy: Autonomous GUI testing<br>
     </td>
   </tr>
   <tr>
@@ -6319,13 +6319,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.07562"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/zzxslp/MM-Navigator"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2311.07562"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/zzxslp/MM-Navigator"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> MM-Navigator, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Prompt<br>
+      • Agent Name: MM-Navigator, Base Model: GPT-4V, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -6338,13 +6338,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.18751"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl/compwob"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2311.18751"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl/compwob"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> CompWoB, <b>Task Number:</b> 50, <b>Dataset Source:</b> <br>
+      • Benchmark Name: CompWoB, Task Number: 50, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -6356,13 +6356,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.11797"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Zoeyyao27/CoT-Igniting-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2311.11797"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Zoeyyao27/CoT-Igniting-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 100<br>
+      • Paper Number: 100<br>
     </td>
   </tr>
   <tr>
@@ -6375,13 +6375,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.10538"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks/tree/master/paper"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2311.10538"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks/tree/master/paper"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> AgentMonitor, <b>Task Number:</b> 29, <b>Dataset Source:</b> <br>
+      • Benchmark Name: AgentMonitor, Task Number: 29, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -6394,14 +6394,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.05657"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/allenai/lumos"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://allenai.github.io/lumos/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2311.05657"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/allenai/lumos"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://allenai.github.io/lumos/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> LUMOS, <b>Base Model:</b> LLAMA-2-7B/13B, <b>Strategy:</b> Unified and Modular Training<br>
+      • Agent Name: LUMOS, Base Model: LLAMA-2-7B/13B, Strategy: Unified and Modular Training<br>
     </td>
   </tr>
   <tr>
@@ -6414,14 +6414,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.09835"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/gersteinlab/ML-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://ml-bench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2311.09835"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/gersteinlab/ML-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://ml-bench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> ML-BENCH, <b>Task Number:</b> 9641, <b>Dataset Source:</b> GitHub repositories<br>
+      • Benchmark Name: ML-BENCH, Task Number: 9641, Dataset Source: GitHub repositories<br>
     </td>
   </tr>
   <tr>
@@ -6434,13 +6434,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.16581"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/marcoantonioaav/Hybrid-Minimax-MCTS"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2310.16581"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/marcoantonioaav/Hybrid-Minimax-MCTS"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Hybrid Minimax-MCTS, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: Hybrid Minimax-MCTS, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -6454,14 +6454,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.14403"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2310.14403"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> O3D, <b>Base Model:</b> LLM, <b>Strategy:</b> Offline Data-driven Discovery and Distillation<br>
-      • <b>Benchmark Name:</b> ALFWorld, <b>Task Number:</b> 134, <b>Dataset Source:</b> human demonstration<br>
-      • <b>Benchmark Name:</b> WebShop, <b>Task Number:</b> 500, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: O3D, Base Model: LLM, Strategy: Offline Data-driven Discovery and Distillation<br>
+      • Benchmark Name: ALFWorld, Task Number: 134, Dataset Source: human demonstration<br>
+      • Benchmark Name: WebShop, Task Number: 500, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -6474,14 +6474,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.10634"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/xlang-ai/OpenAgents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://chat.xlang.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2310.10634"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/xlang-ai/OpenAgents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://chat.xlang.ai"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> OpenAgents, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
+      • Agent Name: OpenAgents, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -6494,13 +6494,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.08740"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2310.08740"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Zero-Shot Language Agent, <b>Base Model:</b> PaLM2, <b>Strategy:</b> Structured Reflection<br>
+      • Agent Name: Zero-Shot Language Agent, Base Model: PaLM2, Strategy: Structured Reflection<br>
     </td>
   </tr>
   <tr>
@@ -6513,13 +6513,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.04406"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/lapisrocks/LanguageAgentTreeSearch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2310.04406"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/lapisrocks/LanguageAgentTreeSearch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> LATS, <b>Base Model:</b> GPT-3.5, <b>Strategy:</b> Monte Carlo Tree Search<br>
+      • Agent Name: LATS, Base Model: GPT-3.5, Strategy: Monte Carlo Tree Search<br>
     </td>
   </tr>
   <tr>
@@ -6533,15 +6533,15 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.06830"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/OpenLemur/Lemur"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2310.06830"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/OpenLemur/Lemur"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Lemur, <b>Base Model:</b> Llama-2-70B, <b>Strategy:</b> Pre-training and instruction fine-tuning<br>
-      • <b>Agent Name:</b> Lemur-Chat, <b>Base Model:</b> Llama-2-70B, <b>Strategy:</b> Instruction fine-tuning<br>
-      • <b>Benchmark Name:</b> MINT, <b>Task Number:</b> 13, <b>Dataset Source:</b> Repurposed existing datasets<br>
+      • Agent Name: Lemur, Base Model: Llama-2-70B, Strategy: Pre-training and instruction fine-tuning<br>
+      • Agent Name: Lemur-Chat, Base Model: Llama-2-70B, Strategy: Instruction fine-tuning<br>
+      • Benchmark Name: MINT, Task Number: 13, Dataset Source: Repurposed existing datasets<br>
     </td>
   </tr>
   <tr>
@@ -6556,14 +6556,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.11436"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/cooelf/Auto-GUI"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2309.11436"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/cooelf/Auto-GUI"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Auto-GUI, <b>Base Model:</b> , <b>Strategy:</b> chain-of-action technique<br>
-      • <b>Benchmark Name:</b> AITW, <b>Task Number:</b> 30000, <b>Dataset Source:</b> <br>
+      • Agent Name: Auto-GUI, Base Model: , Strategy: chain-of-action technique<br>
+      • Benchmark Name: AITW, Task Number: 30000, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -6577,12 +6577,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.15518"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2309.15518"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Raijū, <b>Base Model:</b> , <b>Strategy:</b> Reinforcement Learning<br>
+      • Agent Name: Raijū, Base Model: , Strategy: Reinforcement Learning<br>
     </td>
   </tr>
   <tr>
@@ -6594,12 +6594,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.14365"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2309.14365"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 150<br>
+      • Paper Number: 150<br>
     </td>
   </tr>
   <tr>
@@ -6612,13 +6612,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.07870"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/aiwaves-cn/agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2309.07870"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/aiwaves-cn/agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AGENTS, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: AGENTS, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -6631,12 +6631,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.08172"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2309.08172"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> LASER, <b>Base Model:</b> GPT-4, <b>Strategy:</b> State-Space Exploration<br>
+      • Agent Name: LASER, Base Model: GPT-4, Strategy: State-Space Exploration<br>
     </td>
   </tr>
   <tr>
@@ -6650,7 +6650,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.02247"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2309.02247"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -6667,12 +6667,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.07773"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2309.07773"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Spoken Humanoid Embodied Conversational Agents (HECAs), <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: Spoken Humanoid Embodied Conversational Agents (HECAs), Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -6685,13 +6685,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.16570"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/prodaft/malware-ioc/blob/master/FluBot/FluBot.pdf"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2308.16570"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/prodaft/malware-ioc/blob/master/FluBot/FluBot.pdf"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> MONDEO, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: MONDEO, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -6704,13 +6704,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.15265"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Neelik/REdORank"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2308.15265"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/Neelik/REdORank"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> REdORank, <b>Base Model:</b> , <b>Strategy:</b> multi-perspective learning to rank<br>
+      • Agent Name: REdORank, Base Model: , Strategy: multi-perspective learning to rank<br>
     </td>
   </tr>
   <tr>
@@ -6724,13 +6724,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.11807"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2308.11807"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> On-device Agent for Text Rewriting, <b>Base Model:</b> PaLM 2-XXS, <b>Strategy:</b> SFT + heuristic RL<br>
-      • <b>Benchmark Name:</b> MESSAGE REWRITE EVAL, <b>Task Number:</b> 5, <b>Dataset Source:</b> human-donated message texts<br>
+      • Agent Name: On-device Agent for Text Rewriting, Base Model: PaLM 2-XXS, Strategy: SFT + heuristic RL<br>
+      • Benchmark Name: MESSAGE REWRITE EVAL, Task Number: 5, Dataset Source: human-donated message texts<br>
     </td>
   </tr>
   <tr>
@@ -6744,8 +6744,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.05960"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/salesforce/BOLAA"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2308.05960"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/salesforce/BOLAA"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -6762,12 +6762,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.03643"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2308.03643"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Mamba, <b>Base Model:</b> , <b>Strategy:</b> multi-agent reinforcement learning<br>
+      • Agent Name: Mamba, Base Model: , Strategy: multi-agent reinforcement learning<br>
     </td>
   </tr>
   <tr>
@@ -6780,14 +6780,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.03688"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://llmbench.ai/agent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2308.03688"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://llmbench.ai/agent"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> AGENT BENCH, <b>Task Number:</b> 8, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: AGENT BENCH, Task Number: 8, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -6799,12 +6799,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.11432"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2308.11432"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Paper Number:</b> 100<br>
+      • Paper Number: 100<br>
     </td>
   </tr>
   <tr>
@@ -6817,14 +6817,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.02151"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/weirayao/Retroformer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://Retroformer.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2308.02151"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/weirayao/Retroformer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://Retroformer.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Retroformer, <b>Base Model:</b> GPT-3, <b>Strategy:</b> Policy Gradient Optimization<br>
+      • Agent Name: Retroformer, Base Model: GPT-3, Strategy: Policy Gradient Optimization<br>
     </td>
   </tr>
   <tr>
@@ -6838,12 +6838,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2307.10693"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2307.10693"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> KorraAI, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: KorraAI, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -6856,12 +6856,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2307.12856"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2307.12856"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> WebAgent, <b>Base Model:</b> Flan-U-PaLM, <b>Strategy:</b> self-experience supervision<br>
+      • Agent Name: WebAgent, Base Model: Flan-U-PaLM, Strategy: self-experience supervision<br>
     </td>
   </tr>
   <tr>
@@ -6874,13 +6874,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2307.10088"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-research/google-research/tree/master/android_in_the_wild"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2307.10088"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/google-research/google-research/tree/master/android_in_the_wild"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> AITW, <b>Task Number:</b> 30378, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: AITW, Task Number: 30378, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -6893,13 +6893,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2307.13854"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://webarena.dev/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2307.13854"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://webarena.dev/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WebArena, <b>Task Number:</b> 812, <b>Dataset Source:</b> <br>
+      • Benchmark Name: WebArena, Task Number: 812, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -6913,13 +6913,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.00245"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-deepmind/pix2act"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2306.00245"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/google-deepmind/pix2act"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> PIX2ACT, <b>Base Model:</b> PIX2STRUCT, <b>Strategy:</b> Behavioral Cloning<br>
+      • Agent Name: PIX2ACT, Base Model: PIX2STRUCT, Strategy: Behavioral Cloning<br>
     </td>
   </tr>
   <tr>
@@ -6932,14 +6932,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.06070"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/OSU-NLP-Group/Mind2Web"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://osu-nlp-group.github.io/Mind2Web"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2306.06070"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/OSU-NLP-Group/Mind2Web"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://osu-nlp-group.github.io/Mind2Web"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> MIND2WEB, <b>Task Number:</b> 2000, <b>Dataset Source:</b> crowdsourced action sequences<br>
+      • Benchmark Name: MIND2WEB, Task Number: 2000, Dataset Source: crowdsourced action sequences<br>
     </td>
   </tr>
   <tr>
@@ -6953,14 +6953,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.02224"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/younghuman/LLMAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2306.02224"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/younghuman/LLMAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Auto-GPT, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Additional Opinions algorithm<br>
-      • <b>Benchmark Name:</b> WebShop, <b>Task Number:</b> 50, <b>Dataset Source:</b> simulated environment<br>
+      • Agent Name: Auto-GPT, Base Model: GPT-4, Strategy: Additional Opinions algorithm<br>
+      • Benchmark Name: WebShop, Task Number: 50, Dataset Source: simulated environment<br>
     </td>
   </tr>
   <tr>
@@ -6973,12 +6973,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.13587"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2306.13587"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Adversarial Malware Generator (AMG), <b>Base Model:</b> , <b>Strategy:</b> Reinforcement Learning<br>
+      • Agent Name: Adversarial Malware Generator (AMG), Base Model: , Strategy: Reinforcement Learning<br>
     </td>
   </tr>
   <tr>
@@ -6991,13 +6991,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.13818"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="www.ar2d2.site"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2306.13818"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="www.ar2d2.site"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> AR2-D2, <b>Base Model:</b> , <b>Strategy:</b> Behavior Cloning<br>
+      • Agent Name: AR2-D2, Base Model: , Strategy: Behavior Cloning<br>
     </td>
   </tr>
   <tr>
@@ -7010,13 +7010,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.07863"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://ltzheng.github.io/Synapse"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2306.07863"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://ltzheng.github.io/Synapse"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> SYNAPSE, <b>Base Model:</b> GPT-3.5, <b>Strategy:</b> Prompt<br>
+      • Agent Name: SYNAPSE, Base Model: GPT-3.5, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -7030,13 +7030,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.07929"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/OpenDFM/Rememberer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2306.07929"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/OpenDFM/Rememberer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> REMEMBERER, <b>Base Model:</b> GPT-3.5, <b>Strategy:</b> Reinforcement Learning with Experience Memory (RLEM)<br>
+      • Agent Name: REMEMBERER, Base Model: GPT-3.5, Strategy: Reinforcement Learning with Experience Memory (RLEM)<br>
     </td>
   </tr>
   <tr>
@@ -7049,12 +7049,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.03733"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2306.03733"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> UAS Parsing Methodology, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: UAS Parsing Methodology, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -7067,13 +7067,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2305.08144"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/X-LANCE/Mobile-Env"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2305.08144"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/X-LANCE/Mobile-Env"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Mobile-Env, <b>Task Number:</b> 74, <b>Dataset Source:</b> real-world apps<br>
+      • Benchmark Name: Mobile-Env, Task Number: 74, Dataset Source: real-world apps<br>
     </td>
   </tr>
   <tr>
@@ -7087,13 +7087,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2305.17246"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/jaromiru/NASimEmu"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2305.17246"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/jaromiru/NASimEmu"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> NASimEmu, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: NASimEmu, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -7106,13 +7106,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2305.12534"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/bert-rl-fuzzer/fuzzer.git"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2305.12534"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/bert-rl-fuzzer/fuzzer.git"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> BERT RLFuzzer, <b>Base Model:</b> BERT, <b>Strategy:</b> Reinforcement Learning<br>
+      • Agent Name: BERT RLFuzzer, Base Model: BERT, Strategy: Reinforcement Learning<br>
     </td>
   </tr>
   <tr>
@@ -7125,12 +7125,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2305.11854"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2305.11854"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> WebGUM, <b>Base Model:</b> Flan-T5, <b>Strategy:</b> Finetuning<br>
+      • Agent Name: WebGUM, Base Model: Flan-T5, Strategy: Finetuning<br>
     </td>
   </tr>
   <tr>
@@ -7143,12 +7143,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2304.03998"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2304.03998"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Critic network assisted Evolutionary Diversity Optimization (C-EDO), <b>Base Model:</b> , <b>Strategy:</b> Reinforcement Learning<br>
+      • Agent Name: Critic network assisted Evolutionary Diversity Optimization (C-EDO), Base Model: , Strategy: Reinforcement Learning<br>
     </td>
   </tr>
   <tr>
@@ -7161,12 +7161,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2304.01244"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2304.01244"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> CyGIL, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: CyGIL, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -7180,12 +7180,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2304.01366"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2304.01366"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> CyGIL, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: CyGIL, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -7198,12 +7198,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2303.13548"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2303.13548"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Dona, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: Dona, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7216,13 +7216,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2303.17491"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/posgnu/rci-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2303.17491"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/posgnu/rci-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> RCI Agent, <b>Base Model:</b> InstructGPT-3+RLHF, <b>Strategy:</b> Prompt<br>
+      • Agent Name: RCI Agent, Base Model: InstructGPT-3+RLHF, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -7235,7 +7235,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2302.06970"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2302.06970"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -7252,12 +7252,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2302.02898"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2302.02898"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Arena-Web, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: Arena-Web, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -7270,12 +7270,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2301.12158"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2301.12158"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Human-AI collaboration system, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: Human-AI collaboration system, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7289,7 +7289,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2301.03771"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2301.03771"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -7306,7 +7306,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2212.10504"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2212.10504"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -7323,12 +7323,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2212.04781"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2212.04781"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Bayesian Model Combination based analyzer, <b>Base Model:</b> , <b>Strategy:</b> Bayesian Model Combination<br>
+      • Agent Name: Bayesian Model Combination based analyzer, Base Model: , Strategy: Bayesian Model Combination<br>
     </td>
   </tr>
   <tr>
@@ -7341,12 +7341,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2211.00177"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2211.00177"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Wikipedia Navigation Agent, <b>Base Model:</b> Transformer, <b>Strategy:</b> Behavioral Cloning<br>
+      • Agent Name: Wikipedia Navigation Agent, Base Model: Transformer, Strategy: Behavioral Cloning<br>
     </td>
   </tr>
   <tr>
@@ -7359,12 +7359,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.06307"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2210.06307"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> DinoDroid, <b>Base Model:</b> , <b>Strategy:</b> Deep Q-Networks<br>
+      • Agent Name: DinoDroid, Base Model: , Strategy: Deep Q-Networks<br>
     </td>
   </tr>
   <tr>
@@ -7377,14 +7377,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.15852"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://sites.google.com/view/swarm-game-benchmark"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2210.15852"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://sites.google.com/view/swarm-game-benchmark"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> Swarm vs. Swarm Game, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: Swarm vs. Swarm Game, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -7397,13 +7397,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.05671"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="http://iMedBot.odpac.net/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2210.05671"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="http://iMedBot.odpac.net/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> iMedBot, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: iMedBot, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7416,8 +7416,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.04624"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://vhlab.com.br/projects/webcrowds/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2210.04624"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://vhlab.com.br/projects/webcrowds/"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
@@ -7434,13 +7434,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.02400"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="http://emo20q.org"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2210.02400"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="http://emo20q.org"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> EMO20Q Dialog Agent, <b>Base Model:</b> BERT, <b>Strategy:</b> Classification<br>
+      • Agent Name: EMO20Q Dialog Agent, Base Model: BERT, Strategy: Classification<br>
     </td>
   </tr>
   <tr>
@@ -7453,12 +7453,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2209.15099"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2209.15099"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> MUG, <b>Task Number:</b> 77820, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: MUG, Task Number: 77820, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -7471,13 +7471,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2209.08655"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-research/google-research/tree/master/llm4mobile"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2209.08655"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/google-research/google-research/tree/master/llm4mobile"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Conversational Interaction Agent, <b>Base Model:</b> PaLM, <b>Strategy:</b> Prompt<br>
+      • Agent Name: Conversational Interaction Agent, Base Model: PaLM, Strategy: Prompt<br>
     </td>
   </tr>
   <tr>
@@ -7490,8 +7490,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2208.12261"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/MEPalma/SyntheticEndUserTesting-Prototype"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2208.12261"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/MEPalma/SyntheticEndUserTesting-Prototype"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -7508,14 +7508,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2208.03188"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://parl.ai/projects/bb3"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://blenderbot.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2208.03188"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://parl.ai/projects/bb3"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://blenderbot.ai"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> BlenderBot 3, <b>Base Model:</b> OPT-175B, <b>Strategy:</b> fine-tuning<br>
+      • Agent Name: BlenderBot 3, Base Model: OPT-175B, Strategy: fine-tuning<br>
     </td>
   </tr>
   <tr>
@@ -7528,13 +7528,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2207.11300"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/bsLab/jam"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2207.11300"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/bsLab/jam"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> JavaScript Agent Machine (JAM), <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: JavaScript Agent Machine (JAM), Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7549,7 +7549,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2207.09372"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2207.09372"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -7566,13 +7566,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2207.06105"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://griddly.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2207.06105"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://griddly.ai"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> GriddlyJS, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: GriddlyJS, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -7584,13 +7584,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2207.03586"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-research/causal-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2207.03586"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/google-research/causal-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> CausalAgents, <b>Task Number:</b> , <b>Dataset Source:</b> <br>
+      • Benchmark Name: CausalAgents, Task Number: , Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -7603,13 +7603,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2207.01206"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://webshop-pnlp.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2207.01206"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://webshop-pnlp.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> WebShop, <b>Task Number:</b> not specified, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: WebShop, Task Number: not specified, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -7623,13 +7623,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2205.11029"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://x-lance.github.io/META-GUI-Leaderboard/"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2205.11029"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://x-lance.github.io/META-GUI-Leaderboard/"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> META-GUI, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: META-GUI, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -7643,7 +7643,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2205.12648"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2205.12648"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -7661,8 +7661,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2204.03514"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://ram81.github.io/projects/habitat-web"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2204.03514"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://ram81.github.io/projects/habitat-web"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
@@ -7679,13 +7679,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2204.10374"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/deepmind/acme/tree/master/acme/agents/tf/dqn"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2204.10374"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/deepmind/acme/tree/master/acme/agents/tf/dqn"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Hierarchical Distributed Deep Reinforcement Learning architecture, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: Hierarchical Distributed Deep Reinforcement Learning architecture, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7698,7 +7698,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2203.09016"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2203.09016"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -7715,12 +7715,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2203.12465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2203.12465"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> multi-agent security system, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: multi-agent security system, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7734,13 +7734,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2202.08137"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2202.08137"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> CC-Net, <b>Base Model:</b> , <b>Strategy:</b> Behavioral Cloning<br>
-      • <b>Benchmark Name:</b> MiniWob++, <b>Task Number:</b> 104, <b>Dataset Source:</b> human demonstration<br>
+      • Agent Name: CC-Net, Base Model: , Strategy: Behavioral Cloning<br>
+      • Benchmark Name: MiniWob++, Task Number: 104, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -7753,7 +7753,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2202.02574"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2202.02574"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -7770,12 +7770,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2202.01365"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2202.01365"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> RSA prototype, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: RSA prototype, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7788,13 +7788,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2202.02312"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/aburns4/MoTIF"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2202.02312"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/aburns4/MoTIF"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> MoTIF, <b>Task Number:</b> 6100, <b>Dataset Source:</b> human demonstration<br>
+      • Benchmark Name: MoTIF, Task Number: 6100, Dataset Source: human demonstration<br>
     </td>
   </tr>
   <tr>
@@ -7807,14 +7807,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2201.08896"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2201.08896"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> compositional MiniGrid, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
-      • <b>Benchmark Name:</b> gMiniWoB, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: compositional MiniGrid, Task Number: None, Dataset Source: None<br>
+      • Benchmark Name: gMiniWoB, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -7828,7 +7828,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2112.03210"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2112.03210"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -7845,12 +7845,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2112.07620"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2112.07620"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> TRES, <b>Base Model:</b> , <b>Strategy:</b> Reinforcement Learning<br>
+      • Agent Name: TRES, Base Model: , Strategy: Reinforcement Learning<br>
     </td>
   </tr>
   <tr>
@@ -7863,14 +7863,14 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2110.10973"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/ibm/loa"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
-      <a href="https://ibm.biz/acl21-loa"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2110.10973"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/ibm/loa"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://ibm.biz/acl21-loa"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Logical Optimal Actions (LOA), <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: Logical Optimal Actions (LOA), Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7883,12 +7883,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2110.08952"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2110.08952"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Benchmark Name:</b> FedEdge simulator, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
+      • Benchmark Name: FedEdge simulator, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
   <tr>
@@ -7901,12 +7901,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2110.05955"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2110.05955"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Lecture Video Recording System, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: Lecture Video Recording System, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7920,12 +7920,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2110.08653"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2110.08653"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> UI navigation agent, <b>Base Model:</b> , <b>Strategy:</b> Behavioral Cloning<br>
+      • Agent Name: UI navigation agent, Base Model: , Strategy: Behavioral Cloning<br>
     </td>
   </tr>
   <tr>
@@ -7939,13 +7939,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2106.02325"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://youtu.be/PLPEBXLeKJI"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2106.02325"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://youtu.be/PLPEBXLeKJI"><img src="https://img.shields.io/badge/Website-9cf"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ERICA, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: ERICA, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7958,13 +7958,13 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2008.11045"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/noetits/ICE-Talk"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2008.11045"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/noetits/ICE-Talk"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> ICE-Talk, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: ICE-Talk, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7977,12 +7977,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2003.02622"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2003.02622"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> SUGILITE, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: SUGILITE, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -7995,12 +7995,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1912.10084"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/1912.10084"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> SensAI+Expanse, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: SensAI+Expanse, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -8013,12 +8013,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1909.00031"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/1909.00031"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> PUMICE, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: PUMICE, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -8033,8 +8033,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1906.06726"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/scenerygraphics/scenery"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/1906.06726"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://github.com/scenerygraphics/scenery"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
     </td>
   </tr>
   <tr>
@@ -8052,7 +8052,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1905.02219"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/1905.02219"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
@@ -8069,12 +8069,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1811.05902"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/1811.05902"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> 3D ECA, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: 3D ECA, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -8087,12 +8087,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1607.00061"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/1607.00061"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> Helpa, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: Helpa, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -8105,12 +8105,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1601.06919"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/1601.06919"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> BUbiNG, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: BUbiNG, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -8123,12 +8123,12 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1206.5884"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/1206.5884"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • <b>Agent Name:</b> MAINWAVE, <b>Base Model:</b> , <b>Strategy:</b> <br>
+      • Agent Name: MAINWAVE, Base Model: , Strategy: <br>
     </td>
   </tr>
   <tr>
@@ -8141,7 +8141,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1006.5263"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/1006.5263"><img src="https://img.shields.io/badge/Paper-red"></a>
     </td>
   </tr>
   <tr>
