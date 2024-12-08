@@ -1428,7 +1428,7 @@ Additionally, we note that some papers may be cited across multiple sections. Fo
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2305.10250)
   [![Star](https://img.shields.io/github/stars/zhongwanjun/MemoryBank-SiliconFriend.svg?style=social&label=Star)](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
 
-- **Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**
+- <b>Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning</b>
 
   Skywork AI, arXiv preprint arXiv:2406.14283, 2024
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2406.14283)
