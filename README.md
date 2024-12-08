@@ -76,7 +76,7 @@ Here we list the most important references cited in our survey, organized by dif
 
 Additionally, we note that some papers may be cited across multiple sections. For the convenience of researchers, we provide complete citation information under each section. 
 
-### Section 2: What is GVA?
+### Section II: What is GVA?
 ![alt text](./assets/definition.png)
 
 #### Environment - Web
@@ -183,7 +183,7 @@ Additionally, we note that some papers may be cited across multiple sections. Fo
 
   The University of Hong Kong, arXiv preprint arXiv:2404.07972, 2024
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2404.07972)
-  [![Star](https://img.shields.io/github/stars//os-world.github.io.svg?style=social&label=Star)](https://os-world.github.io)
+  [![Star](https://img.shields.io/github/stars/xlang-ai/OSWorld.svg?style=social&label=Star)](https://github.com/xlang-ai/OSWorld)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://os-world.github.io)
 
 - **AgentStudio: A Toolkit for Building General Virtual Agents**
@@ -260,7 +260,7 @@ Additionally, we note that some papers may be cited across multiple sections. Fo
 
   Microsoft Azure AI, arXiv preprint arXiv:2303.11381, 2023
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2303.11381)
-  [![Star](https://img.shields.io/github/stars/multimodal-react.github.io/.svg?style=social&label=Star)](https://multimodal-react.github.io/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://multimodal-react.github.io/)
 
 - **WebVLN: Vision-and-Language Navigation on Websites**
 
@@ -507,7 +507,7 @@ Additionally, we note that some papers may be cited across multiple sections. Fo
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2209.09937)
 
 
-### Section 3: Why we need GVA?
+### Section III: Why we need GVA?
 ![alt text](./assets/necessity.png)
 
 #### Perspective of AI and Machine Learning
@@ -618,7 +618,7 @@ Additionally, we note that some papers may be cited across multiple sections. Fo
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2403.07952)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://aesopai.github.io/)
 
-### Section 4: How to implement GVA?
+### Section IV: How to implement GVA?
 ![alt text](./assets/implementation.png)
 
 #### Environment - Off-line
@@ -778,7 +778,7 @@ Additionally, we note that some papers may be cited across multiple sections. Fo
 
   Microsoft Azure AI, arXiv preprint arXiv:2303.11381, 2023
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2303.11381)
-  [![Star](https://img.shields.io/github/stars/multimodal-react.github.io/.svg?style=social&label=Star)](https://multimodal-react.github.io/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://multimodal-react.github.io/)
 
 - **Mind2Web: Towards a Generalist Agent for the Web**
 
@@ -927,7 +927,7 @@ Additionally, we note that some papers may be cited across multiple sections. Fo
 
   Microsoft Azure AI, arXiv preprint arXiv:2303.11381, 2023
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2303.11381)
-  [![Star](https://img.shields.io/github/stars/multimodal-react.github.io/.svg?style=social&label=Star)](https://multimodal-react.github.io/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://multimodal-react.github.io/)
 
 - **Plan-and-solve prompting: Improving zero-shot chain-of-thought reasoning by large language models**
 
@@ -1112,7 +1112,7 @@ Additionally, we note that some papers may be cited across multiple sections. Fo
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2308.09853)
   [![Star](https://img.shields.io/github/stars/Amir-pyh/LOGICOM.svg?style=social&label=Star)](https://github.com/Amir-pyh/LOGICOM)
 
-### Section 5: How to evaluate GVA?
+### Section V: How to evaluate GVA?
 ![alt text](./assets/evaluation.png)
 
 #### Overall Evaluation
@@ -1382,7 +1382,7 @@ Additionally, we note that some papers may be cited across multiple sections. Fo
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2406.10819)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://gui-world.github.io/)
 
-### Section 6: Limitations
+### Section VI: Limitations
 ![alt text](./assets/limitations.png)
 
 #### Unrealistic Environment and Dataset
@@ -1458,7 +1458,7 @@ Additionally, we note that some papers may be cited across multiple sections. Fo
   MIT, Proceedings of Machine Learning and Systems, 2024
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2306.00978)
 
-### Section 7: Future
+### Section VII: Future
 ![alt text](./assets/future.png)
 
 #### From Individual to Systematic
