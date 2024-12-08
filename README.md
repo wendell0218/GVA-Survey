@@ -1502,9 +1502,9 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td><strong>Date</strong></td>
     <td><strong>Paper</strong></td>
-    <td><strong>Env.</strong></td>
-    <td><strong>Contrib.</strong></td>
-    <td><strong>Link</strong></td>
+    <td><strong>Environment</strong></td>
+    <td><strong>Contribution</strong></td>
+    <td><strong>Available Link</strong></td>
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
@@ -1519,8 +1519,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.04454"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://aguvis-project.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2412.04454"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://aguvis-project.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -1542,7 +1542,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.01268"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2412.01268"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1560,8 +1560,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.02776"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/palisaderesearch/intercode"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2412.02776"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/palisaderesearch/intercode"><img src="https://img.shields.io/github/stars/palisaderesearch/intercode.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1579,7 +1579,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.02301"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2412.02301"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1597,7 +1597,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.02266"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2412.02266"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1616,8 +1616,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.01778"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/aielte-research/HackSynth"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2412.01778"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aielte-research/HackSynth"><img src="https://img.shields.io/github/stars/aielte-research/HackSynth.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1637,8 +1637,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.00402"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/UbiquitousLearning/DroidCall"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2412.00402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/UbiquitousLearning/DroidCall"><img src="https://img.shields.io/github/stars/UbiquitousLearning/DroidCall.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1655,9 +1655,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.18279"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://aka.ms/gui-agent"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2411.18279"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey"><img src="https://img.shields.io/github/stars/vyokky/LLM-Brained-GUI-Agents-Survey.svg?style=social&label=Star"></a><br>
+      <a href="https://aka.ms/gui-agent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -1676,8 +1676,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.17465"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/ShowUI"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.17465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/ShowUI"><img src="https://img.shields.io/github/stars/showlab/ShowUI.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1695,7 +1695,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.13451"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.13451"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1715,8 +1715,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.10323"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/computer_use_ootb"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.10323"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/computer_use_ootb"><img src="https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1734,7 +1734,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.04890"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.04890"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1753,9 +1753,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/THUDM/AutoGLM.svg?style=social&label=Star"></a><br>
+      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -1772,7 +1772,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.10943"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.10943"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1791,9 +1791,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.04468"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://aka.ms/magentic-one"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2411.04468"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/github/stars/microsoft/autogen.svg?style=social&label=Star"></a><br>
+      <a href="https://aka.ms/magentic-one"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -1813,7 +1813,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.15927"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.15927"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1831,8 +1831,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.15004"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/colonylabs/ScribeAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.15004"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/colonylabs/ScribeAgent"><img src="https://img.shields.io/github/stars/colonylabs/ScribeAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1850,8 +1850,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.06559"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OSU-NLP-Group/WebDreamer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.06559"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/WebDreamer"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/WebDreamer.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1869,8 +1869,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.06398"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://gitlab.com/mams-ucd/examples/HyperTicTacToe"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.06398"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gitlab.com/mams-ucd/examples/HyperTicTacToe"><img src="https://img.shields.io/github/stars/examples/HyperTicTacToe.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1887,7 +1887,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.05209"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.05209"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1907,8 +1907,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.04671"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://gitlab.lrz.de/hctl/cuify"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.04671"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gitlab.lrz.de/hctl/cuify"><img src="https://img.shields.io/github/stars/hctl/cuify.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1927,8 +1927,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.02337"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/WebRL"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.02337"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/WebRL"><img src="https://img.shields.io/github/stars/THUDM/WebRL.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1946,8 +1946,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.02006"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/aialt/awesome-mobile-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.02006"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aialt/awesome-mobile-agents"><img src="https://img.shields.io/github/stars/aialt/awesome-mobile-agents.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1966,8 +1966,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.01236"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Dizzy-K/AutoPT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.01236"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Dizzy-K/AutoPT"><img src="https://img.shields.io/github/stars/Dizzy-K/AutoPT.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1986,7 +1986,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.00927"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.00927"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2009,8 +2009,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.23218"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://osatlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.23218"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://osatlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2032,8 +2032,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19461"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://anonymous.4open.science/r/EDGE-1CDB"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.19461"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://anonymous.4open.science/r/EDGE-1CDB"><img src="https://img.shields.io/github/stars/r/EDGE-1CDB.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2052,7 +2052,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.18963"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.18963"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2070,8 +2070,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.11872"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Samsung/ClickAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.11872"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Samsung/ClickAgent"><img src="https://img.shields.io/github/stars/Samsung/ClickAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2090,7 +2090,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.11871"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.11871"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2110,8 +2110,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.08164"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/simular-ai/Agent-S"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.08164"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/simular-ai/Agent-S"><img src="https://img.shields.io/github/stars/simular-ai/Agent-S.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2134,8 +2134,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.05243"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://osu-nlp-group.github.io/UGround/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.05243"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://osu-nlp-group.github.io/UGround/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2154,8 +2154,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.00467"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/sqzhang-lazy/D-PoT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.00467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/sqzhang-lazy/D-PoT"><img src="https://img.shields.io/github/stars/sqzhang-lazy/D-PoT.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2173,8 +2173,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.24024"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/Android-Lab"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.24024"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/Android-Lab"><img src="https://img.shields.io/github/stars/THUDM/Android-Lab.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2193,7 +2193,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.15222"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.15222"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2213,8 +2213,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.18603"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://chengyou-jia.github.io/AgentStore-Home"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.18603"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://chengyou-jia.github.io/AgentStore-Home"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2233,8 +2233,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.17401"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://ai-secure.github.io/AdvWeb/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.17401"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ai-secure.github.io/AdvWeb/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2251,7 +2251,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.22552"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.22552"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2269,8 +2269,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.03225"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/lucagioacchini/auto-pen-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.03225"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/lucagioacchini/auto-pen-bench"><img src="https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2288,8 +2288,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.00689"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://anonymous.4open.science/r/Agent-E-7E43"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.00689"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://anonymous.4open.science/r/Agent-E-7E43"><img src="https://img.shields.io/github/stars/r/Agent-E-7E43.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2307,7 +2307,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.23555"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.23555"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2324,7 +2324,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.23252"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.23252"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2342,7 +2342,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.22916"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.22916"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2360,8 +2360,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.21220"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/cnzzx/VSA"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.21220"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/cnzzx/VSA"><img src="https://img.shields.io/github/stars/cnzzx/VSA.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2379,8 +2379,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19609"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/MinorJerry/OpenWebVoyager"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.19609"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MinorJerry/OpenWebVoyager"><img src="https://img.shields.io/github/stars/MinorJerry/OpenWebVoyager.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2398,9 +2398,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/ljang0/videowebarena.svg?style=social&label=Star"></a><br>
+      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2418,8 +2418,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19054"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/gangiswag/infogent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.19054"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/gangiswag/infogent"><img src="https://img.shields.io/github/stars/gangiswag/infogent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2437,7 +2437,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.18528"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.18528"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2455,8 +2455,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.18312"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/kmheckel/HeckelMLMIThesis"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.18312"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/kmheckel/HeckelMLMIThesis"><img src="https://img.shields.io/github/stars/kmheckel/HeckelMLMIThesis.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2474,7 +2474,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.17883"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.17883"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2492,8 +2492,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.17520"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://mobilesafetybench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.17520"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://mobilesafetybench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2512,8 +2512,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.17236"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.17236"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2532,9 +2532,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.16464"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/yueqis/API-Based-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://yueqis.github.io/API-Based-Agent/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.16464"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/yueqis/API-Based-Agent"><img src="https://img.shields.io/github/stars/yueqis/API-Based-Agent.svg?style=social&label=Star"></a><br>
+      <a href="https://yueqis.github.io/API-Based-Agent/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2553,8 +2553,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.16232"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://salt-nlp.github.io/Sketch2Code-Project-Page/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.16232"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://salt-nlp.github.io/Sketch2Code-Project-Page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2572,7 +2572,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.15285"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.15285"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2590,7 +2590,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.15164"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.15164"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2609,7 +2609,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.14803"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.14803"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2628,7 +2628,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.14569"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.14569"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2645,7 +2645,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13886"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.13886"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2663,7 +2663,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13825"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.13825"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2681,8 +2681,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13824"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://neulab.github.io/MultiUI/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.13824"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://neulab.github.io/MultiUI/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2701,7 +2701,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13757"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.13757"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2720,8 +2720,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13232"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/kyle8581/WMA-Agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.13232"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/kyle8581/WMA-Agents"><img src="https://img.shields.io/github/stars/kyle8581/WMA-Agents.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2739,7 +2739,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.09006"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.09006"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2757,7 +2757,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.08136"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.08136"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2775,8 +2775,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.07331"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://da-code-bench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.07331"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://da-code-bench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2794,8 +2794,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.06703"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://sites.google.com/view/st-webagentbench/home"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.06703"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://sites.google.com/view/st-webagentbench/home"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2814,8 +2814,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.06153"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/tsinghua-fib-lab/AgentSquare"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.06153"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/tsinghua-fib-lab/AgentSquare"><img src="https://img.shields.io/github/stars/tsinghua-fib-lab/AgentSquare.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2834,8 +2834,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.05434"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://leap-llm.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.05434"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://leap-llm.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2853,7 +2853,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.02907"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.02907"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2871,8 +2871,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.02052"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://aka.ms/ExACT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.02052"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://aka.ms/ExACT"><img src="https://img.shields.io/github/stars/aka.ms/ExACT.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2889,8 +2889,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.01945"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.01945"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2909,8 +2909,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.09354"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Z2sJ4t/PeriGuru"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.09354"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Z2sJ4t/PeriGuru"><img src="https://img.shields.io/github/stars/Z2sJ4t/PeriGuru.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2927,7 +2927,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.14457"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.14457"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2947,8 +2947,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.12089"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/waynchi/gui-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.12089"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/waynchi/gui-agent"><img src="https://img.shields.io/github/stars/waynchi/gui-agent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2965,8 +2965,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.11295"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OSU-NLP-Group/EIA_against_webagent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.11295"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/EIA_against_webagent"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/EIA_against_webagent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2983,8 +2983,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/tencent-ailab/CogKernel.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3002,8 +3002,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/tencent-ailab/CogKernel.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3021,7 +3021,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.17140"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.17140"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3040,8 +3040,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.16165"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.16165"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/github/stars/princeton-nlp/SWE-agent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3060,8 +3060,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.15637"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://oootttyyy.github.io/synatra"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.15637"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://oootttyyy.github.io/synatra"><img src="https://img.shields.io/github/stars/oootttyyy.github.io/synatra.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3079,7 +3079,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.14913"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.14913"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3098,8 +3098,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.14818"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/XiaoMi/mobilevlm"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.14818"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/XiaoMi/mobilevlm"><img src="https://img.shields.io/github/stars/XiaoMi/mobilevlm.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3118,7 +3118,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.13711"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.13711"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3136,7 +3136,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.09345"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.09345"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3154,7 +3154,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.09071"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.09071"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3173,9 +3173,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.08264"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/microsoft/WindowsAgentArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://microsoft.github.io/WindowsAgentArena"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2409.08264"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/WindowsAgentArena"><img src="https://img.shields.io/github/stars/microsoft/WindowsAgentArena.svg?style=social&label=Star"></a><br>
+      <a href="https://microsoft.github.io/WindowsAgentArena"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3194,8 +3194,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.07429"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/zorazrw/agent-workflow-memory"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.07429"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/zorazrw/agent-workflow-memory"><img src="https://img.shields.io/github/stars/zorazrw/agent-workflow-memory.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3213,8 +3213,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.04465"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/jeswr/phd-language-dialogue-experiment"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.04465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/jeswr/phd-language-dialogue-experiment"><img src="https://img.shields.io/github/stars/jeswr/phd-language-dialogue-experiment.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3232,8 +3232,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.04402"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://matwa.optimalmatching.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2409.04402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://matwa.optimalmatching.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3251,8 +3251,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.03789"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/snow10100/pena/"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.03789"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/snow10100/pena/"><img src="https://img.shields.io/github/stars/pena/.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3271,7 +3271,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.01927"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.01927"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3290,8 +3290,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.00608"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/SqueezeAILab/TinyAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.00608"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/SqueezeAILab/TinyAgent"><img src="https://img.shields.io/github/stars/SqueezeAILab/TinyAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3309,8 +3309,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.00009"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ComplexData-MILA/webretrieval"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.00009"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ComplexData-MILA/webretrieval"><img src="https://img.shields.io/github/stars/ComplexData-MILA/webretrieval.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3331,7 +3331,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.00203"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.00203"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3349,8 +3349,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.16032"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/fengshuang-coding/KDD2024"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2408.16032"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/fengshuang-coding/KDD2024"><img src="https://img.shields.io/github/stars/fengshuang-coding/KDD2024.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3368,8 +3368,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.15978"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/WebPilot"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2408.15978"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/WebPilot"><img src="https://img.shields.io/github/stars/github.com/WebPilot.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3387,7 +3387,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.11824"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.11824"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3405,7 +3405,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.10738"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.10738"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3423,8 +3423,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.08926"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://cybench.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2408.08926"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://cybench.github.io"><img src="https://img.shields.io/github/stars//cybench.github.io.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3442,7 +3442,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.07611"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.07611"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3460,7 +3460,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.07199"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.07199"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3478,7 +3478,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.06520"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.06520"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3497,8 +3497,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.06327"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/VisualAgentBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2408.06327"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/VisualAgentBench"><img src="https://img.shields.io/github/stars/THUDM/VisualAgentBench.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3516,7 +3516,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.03827"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.03827"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3535,7 +3535,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.01999"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.01999"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3554,8 +3554,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.17490"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://yuxiangchai.github.io/AMEX/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2407.17490"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://yuxiangchai.github.io/AMEX/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3573,9 +3573,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.10956"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xlang-ai/Spider2-V"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://spider2-v.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2407.10956"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xlang-ai/Spider2-V"><img src="https://img.shields.io/github/stars/xlang-ai/Spider2-V.svg?style=social&label=Star"></a><br>
+      <a href="https://spider2-v.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3593,8 +3593,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.09018"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/bz-lab/AUITestAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.09018"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bz-lab/AUITestAgent"><img src="https://img.shields.io/github/stars/bz-lab/AUITestAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3612,7 +3612,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.04346"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.04346"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3630,8 +3630,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.03037"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/testtest2024-art/Trident"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.03037"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/testtest2024-art/Trident"><img src="https://img.shields.io/github/stars/testtest2024-art/Trident.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3650,7 +3650,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.01511"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.01511"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3670,8 +3670,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.16741"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/All-Hands-AI/OpenHands"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.16741"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/All-Hands-AI/OpenHands"><img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3690,9 +3690,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.20183"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/InternLM/MindSearch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://mindsearch.netlify.app"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2407.20183"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/InternLM/MindSearch"><img src="https://img.shields.io/github/stars/InternLM/MindSearch.svg?style=social&label=Star"></a><br>
+      <a href="https://mindsearch.netlify.app"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3709,7 +3709,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.19354"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.19354"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3728,9 +3728,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.15711"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2407.15711"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/github/stars//assistantbench.github.io.svg?style=social&label=Star"></a><br>
+      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3749,8 +3749,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.15734"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/simbianai/taskgen"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.15734"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/simbianai/taskgen"><img src="https://img.shields.io/github/stars/simbianai/taskgen.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3768,7 +3768,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.13093"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.13093"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3786,8 +3786,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.13032"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/EmergenceAI/Agent-E"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.13032"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/EmergenceAI/Agent-E"><img src="https://img.shields.io/github/stars/EmergenceAI/Agent-E.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3805,7 +3805,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.11843"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.11843"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3823,8 +3823,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.10718"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Ag2S1/Sibyl-System"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.10718"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Ag2S1/Sibyl-System"><img src="https://img.shields.io/github/stars/Ag2S1/Sibyl-System.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3843,7 +3843,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.09295"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.09295"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3861,8 +3861,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.05291"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ServiceNow/WorkArena/tree/workarena-plus-plus"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.05291"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ServiceNow/WorkArena/tree/workarena-plus-plus"><img src="https://img.shields.io/github/stars/tree/workarena-plus-plus.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3881,7 +3881,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.03913"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.03913"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3900,7 +3900,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.01502"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.01502"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3918,8 +3918,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.00993"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/XiaoMi/MobileBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.00993"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/XiaoMi/MobileBench"><img src="https://img.shields.io/github/stars/XiaoMi/MobileBench.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3937,8 +3937,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.01476"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://jykoh.com/search-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.01476"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://jykoh.com/search-agents"><img src="https://img.shields.io/github/stars/jykoh.com/search-agents.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3957,8 +3957,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.19263"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://screen-point-and-read.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.19263"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://screen-point-and-read.github.io"><img src="https://img.shields.io/github/stars//screen-point-and-read.github.io.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3978,7 +3978,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.14314"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2406.14314"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3996,8 +3996,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.13719"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://showlab.github.io/GUI-Narrator"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.13719"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://showlab.github.io/GUI-Narrator"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4016,9 +4016,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.11896"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/DigiRL-agent/digirl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://digirl-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.11896"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/DigiRL-agent/digirl"><img src="https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star"></a><br>
+      <a href="https://digirl-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4039,8 +4039,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.11317"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/yiye3/GUICourse"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.11317"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/yiye3/GUICourse"><img src="https://img.shields.io/github/stars/yiye3/GUICourse.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4064,8 +4064,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.10819"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://gui-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.10819"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gui-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4084,8 +4084,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.08451"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OpenGVLab/GUI-Odyssey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.08451"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OpenGVLab/GUI-Odyssey"><img src="https://img.shields.io/github/stars/OpenGVLab/GUI-Odyssey.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4104,8 +4104,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.08184"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://MobileAgentBench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.08184"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://MobileAgentBench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4123,8 +4123,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.06947"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/caap-agent/caap-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.06947"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/caap-agent/caap-agent"><img src="https://img.shields.io/github/stars/caap-agent/caap-agent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4143,9 +4143,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.04151"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/WooooDyy/AgentGym"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://agentgym.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.04151"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/WooooDyy/AgentGym"><img src="https://img.shields.io/github/stars/WooooDyy/AgentGym.svg?style=social&label=Star"></a><br>
+      <a href="https://agentgym.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4164,7 +4164,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.12035"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2406.12035"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4182,8 +4182,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.01623"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/erichli1/websuite"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.01623"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/erichli1/websuite"><img src="https://img.shields.io/github/stars/erichli1/websuite.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4202,8 +4202,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.14596"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://ical-learning.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.14596"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ical-learning.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4221,8 +4221,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.13381"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xmhou2002/CoAct"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.13381"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xmhou2002/CoAct"><img src="https://img.shields.io/github/stars/xmhou2002/CoAct.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4240,8 +4240,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.13264"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/HazyResearch/wonderbread"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.13264"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HazyResearch/wonderbread"><img src="https://img.shields.io/github/stars/HazyResearch/wonderbread.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4259,9 +4259,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.12814"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ChenWu98/agent-attack"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://chenwu.io/attack-agent"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.12814"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ChenWu98/agent-attack"><img src="https://img.shields.io/github/stars/ChenWu98/agent-attack.svg?style=social&label=Star"></a><br>
+      <a href="https://chenwu.io/attack-agent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4279,8 +4279,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.12373"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://www.imean.ai/web-canvas"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.12373"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://www.imean.ai/web-canvas"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4298,8 +4298,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.11176"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/WeiminXiong/IPR"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.11176"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/WeiminXiong/IPR"><img src="https://img.shields.io/github/stars/WeiminXiong/IPR.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4318,7 +4318,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.09187"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2406.09187"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4338,8 +4338,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.07822"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/aburns4/textualforesight"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.07822"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aburns4/textualforesight"><img src="https://img.shields.io/github/stars/aburns4/textualforesight.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4356,8 +4356,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.05804"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xinzhel/LLM-Agent-Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.05804"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xinzhel/LLM-Agent-Survey"><img src="https://img.shields.io/github/stars/xinzhel/LLM-Agent-Survey.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4376,8 +4376,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.03978"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/tencent-ailab/mini-hok"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.03978"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/tencent-ailab/mini-hok"><img src="https://img.shields.io/github/stars/tencent-ailab/mini-hok.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4395,8 +4395,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.03007"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/DPamK/BadAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.03007"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/DPamK/BadAgent"><img src="https://img.shields.io/github/stars/DPamK/BadAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4413,8 +4413,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.03679"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/android_control"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.03679"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/android_control"><img src="https://img.shields.io/github/stars/master/android_control.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4431,7 +4431,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.02630"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2406.02630"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4450,7 +4450,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.01637"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2406.01637"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4468,8 +4468,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.00252"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/bowen-upenn/Agent_Rationality"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.00252"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bowen-upenn/Agent_Rationality"><img src="https://img.shields.io/github/stars/bowen-upenn/Agent_Rationality.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4487,8 +4487,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.01014"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.01014"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4506,8 +4506,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.20455"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Mohannadcse/DepsRAG"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2405.20455"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Mohannadcse/DepsRAG"><img src="https://img.shields.io/github/stars/Mohannadcse/DepsRAG.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4526,7 +4526,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.20309"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.20309"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4543,8 +4543,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.18740"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/mi92/reverse-image-rag"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2405.18740"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mi92/reverse-image-rag"><img src="https://img.shields.io/github/stars/mi92/reverse-image-rag.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4562,7 +4562,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.16334"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.16334"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4580,7 +4580,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.15908"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.15908"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4599,9 +4599,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.15793"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/princeton-nlp/SWE-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://swe-agent.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2405.15793"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/princeton-nlp/SWE-bench"><img src="https://img.shields.io/github/stars/princeton-nlp/SWE-bench.svg?style=social&label=Star"></a><br>
+      <a href="https://swe-agent.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4620,8 +4620,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.14573"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2405.14573"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/google-research/android_world.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4640,7 +4640,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.11120"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.11120"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4656,7 +4656,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.10467"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.10467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4674,7 +4674,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.06356"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.06356"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4692,7 +4692,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.04497"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.04497"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4710,8 +4710,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.03710"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/HazyResearch/eclair-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2405.03710"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HazyResearch/eclair-agents"><img src="https://img.shields.io/github/stars/HazyResearch/eclair-agents.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4729,7 +4729,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.01564"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.01564"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4746,7 +4746,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.00516"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.00516"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4766,9 +4766,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.07972"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/os-world"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://os-world.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2404.07972"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/os-world"><img src="https://img.shields.io/github/stars/github.com/os-world.svg?style=social&label=Star"></a><br>
+      <a href="https://os-world.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4786,7 +4786,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.02475"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.02475"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4804,7 +4804,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.05902"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.05902"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4822,8 +4822,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.16660"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://b-moca.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2404.16660"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://b-moca.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4841,8 +4841,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.16054"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/LlamaTouch/LlamaTouch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.16054"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/LlamaTouch/LlamaTouch"><img src="https://img.shields.io/github/stars/LlamaTouch/LlamaTouch.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4860,7 +4860,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.15500"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.15500"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4877,8 +4877,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.13501"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/nuster1128/LLM_Agent_Memory_Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.13501"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/nuster1128/LLM_Agent_Memory_Survey"><img src="https://img.shields.io/github/stars/nuster1128/LLM_Agent_Memory_Survey.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4896,8 +4896,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.12753"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/EZ-hwh/AutoScraper"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.12753"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/EZ-hwh/AutoScraper"><img src="https://img.shields.io/github/stars/EZ-hwh/AutoScraper.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4915,7 +4915,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.11964"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.11964"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4932,7 +4932,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.11584"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.11584"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4950,7 +4950,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.11483"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.11483"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4968,7 +4968,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.10887"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.10887"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4986,7 +4986,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.09911"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.09911"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5004,7 +5004,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.08755"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.08755"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5023,7 +5023,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.08860"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.08860"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5043,7 +5043,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.08144"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.08144"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5062,8 +5062,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.09992"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://mmina.cliangyu.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2404.09992"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://mmina.cliangyu.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5083,8 +5083,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.06474"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Berkeley-NLP/Agent-Eval-Refine"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.06474"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Berkeley-NLP/Agent-Eval-Refine"><img src="https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5101,8 +5101,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.05955"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://visualwebbench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2404.05955"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://visualwebbench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5120,9 +5120,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.04902"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Avdpro/ai2apps"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://www.ai2apps.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2404.04902"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Avdpro/ai2apps"><img src="https://img.shields.io/github/stars/Avdpro/ai2apps.svg?style=social&label=Star"></a><br>
+      <a href="https://www.ai2apps.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5138,7 +5138,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.04442"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.04442"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5157,8 +5157,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.03648"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/AutoWebGLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.03648"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/AutoWebGLM"><img src="https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5176,8 +5176,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.02491"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://huggingface.co/datasets/socialnormdataset/social"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.02491"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://huggingface.co/datasets/socialnormdataset/social"><img src="https://img.shields.io/github/stars/socialnormdataset/social.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5195,7 +5195,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.01744"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.01744"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5216,8 +5216,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5236,8 +5236,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.02713"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/IMNearth/CoAT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2403.02713"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/IMNearth/CoAT"><img src="https://img.shields.io/github/stars/IMNearth/CoAT.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5259,8 +5259,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5282,8 +5282,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.03186"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://baai-agents.github.io/Cradle/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2403.03186"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://baai-agents.github.io/Cradle/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5302,7 +5302,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.14589"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2403.14589"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5320,8 +5320,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.11905"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://turkingbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2403.11905"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://turkingbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5339,7 +5339,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.10171"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2403.10171"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5357,7 +5357,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.08291"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2403.08291"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5375,7 +5375,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.08140"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2403.08140"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5393,7 +5393,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.08978"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2403.08978"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5411,8 +5411,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.06221"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/skyriver-2000/TRAD-Official"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2403.06221"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/skyriver-2000/TRAD-Official"><img src="https://img.shields.io/github/stars/skyriver-2000/TRAD-Official.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5430,8 +5430,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.07718"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ServiceNow/WorkArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2403.07718"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ServiceNow/WorkArena"><img src="https://img.shields.io/github/stars/ServiceNow/WorkArena.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5450,8 +5450,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.02502"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Yifan-Song793/ETO"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2403.02502"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Yifan-Song793/ETO"><img src="https://img.shields.io/github/stars/Yifan-Song793/ETO.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5469,8 +5469,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.11941"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xbmxb/CoCo-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.11941"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xbmxb/CoCo-Agent"><img src="https://img.shields.io/github/stars/xbmxb/CoCo-Agent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5490,8 +5490,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.07945"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/niuzaisheng/ScreenAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.07945"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/niuzaisheng/ScreenAgent"><img src="https://img.shields.io/github/stars/niuzaisheng/ScreenAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5511,8 +5511,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.07939"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.07939"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/microsoft/UFO.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5534,8 +5534,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.17553"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://huggingface.co/datasets/Writer/omniact"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.17553"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://huggingface.co/datasets/Writer/omniact"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5554,8 +5554,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.07456"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://os-copilot.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.07456"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://os-copilot.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5573,9 +5573,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.19446"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/YifeiZhou02/ArCHer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://yifeizhou02.github.io/archer.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.19446"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/YifeiZhou02/ArCHer"><img src="https://img.shields.io/github/stars/YifeiZhou02/ArCHer.svg?style=social&label=Star"></a><br>
+      <a href="https://yifeizhou02.github.io/archer.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5592,8 +5592,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.17644"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xxxiaol/QRData"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.17644"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xxxiaol/QRData"><img src="https://img.shields.io/github/stars/xxxiaol/QRData.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5612,7 +5612,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.17505"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.17505"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5631,7 +5631,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.16965"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.16965"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5648,8 +5648,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.15116"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/jun0wanan/awesome-large-multimodal-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.15116"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/jun0wanan/awesome-large-multimodal-agents"><img src="https://img.shields.io/github/stars/jun0wanan/awesome-large-multimodal-agents.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5667,8 +5667,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.15057"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/magicgh/self-map"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.15057"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/magicgh/self-map"><img src="https://img.shields.io/github/stars/magicgh/self-map.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5686,8 +5686,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.13212"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/HanNight/soft_self_consistency"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.13212"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HanNight/soft_self_consistency"><img src="https://img.shields.io/github/stars/HanNight/soft_self_consistency.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5704,8 +5704,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.11208"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/lancopku/agent-backdoor-attacks"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.11208"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/lancopku/agent-backdoor-attacks"><img src="https://img.shields.io/github/stars/lancopku/agent-backdoor-attacks.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5724,8 +5724,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.07744"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://agent-force.github.io/unified-alignment-for-agents.html"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.07744"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://agent-force.github.io/unified-alignment-for-agents.html"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5744,7 +5744,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.06664"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.06664"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5762,8 +5762,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.06360"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/pygongnlp/CoSearchAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.06360"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/pygongnlp/CoSearchAgent"><img src="https://img.shields.io/github/stars/pygongnlp/CoSearchAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5781,8 +5781,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.06596"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/AndroidArenaAgent/AndroidArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.06596"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/AndroidArenaAgent/AndroidArena"><img src="https://img.shields.io/github/stars/AndroidArenaAgent/AndroidArena.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5800,9 +5800,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.08702"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/yongchao98/PROMST"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://yongchao98.github.io/MIT-REALM-PROMST/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.08702"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/yongchao98/PROMST"><img src="https://img.shields.io/github/stars/yongchao98/PROMST.svg?style=social&label=Star"></a><br>
+      <a href="https://yongchao98.github.io/MIT-REALM-PROMST/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5820,9 +5820,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.05930"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.05930"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/github/stars/mcgill-nlp.github.io/weblinx.svg?style=social&label=Star"></a><br>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5841,7 +5841,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.04476"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.04476"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5859,7 +5859,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.02716"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.02716"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5876,7 +5876,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.00262"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.00262"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5899,8 +5899,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.10935"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/njucckevin/SeeClick"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.10935"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/njucckevin/SeeClick"><img src="https://img.shields.io/github/stars/njucckevin/SeeClick.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5918,7 +5918,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.03568"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2401.03568"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5937,9 +5937,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.01614"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://osu-nlp-group.github.io/SeeAct"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2401.01614"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct.svg?style=social&label=Star"></a><br>
+      <a href="https://osu-nlp-group.github.io/SeeAct"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5957,7 +5957,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.13604"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2401.13604"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5974,8 +5974,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.13178"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/hkust-nlp/AgentBoard"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.13178"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/hkust-nlp/AgentBoard"><img src="https://img.shields.io/github/stars/hkust-nlp/AgentBoard.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5994,8 +5994,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.04124"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/alipay/mobile-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.04124"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/alipay/mobile-agent"><img src="https://img.shields.io/github/stars/alipay/mobile-agent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6014,7 +6014,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.03547"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2401.03547"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6032,7 +6032,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.02705"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2401.02705"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6050,7 +6050,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.13649"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2401.13649"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6069,8 +6069,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.13919"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/MinorJerry/WebVoyager"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.13919"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MinorJerry/WebVoyager"><img src="https://img.shields.io/github/stars/MinorJerry/WebVoyager.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6090,8 +6090,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.16158"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.16158"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6109,8 +6109,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.05459"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/MobileLLM/Personal_LLM_Agents_Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.05459"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MobileLLM/Personal_LLM_Agents_Survey"><img src="https://img.shields.io/github/stars/MobileLLM/Personal_LLM_Agents_Survey.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6128,9 +6128,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.13108"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2312.13108"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6150,8 +6150,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.08914"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/CogVLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2312.08914"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/CogVLM"><img src="https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6170,8 +6170,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.15820"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/WebVLN/WebVLN"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2312.15820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/WebVLN/WebVLN"><img src="https://img.shields.io/github/stars/WebVLN/WebVLN.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6189,7 +6189,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.11970"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2312.11970"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6206,8 +6206,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.10763"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OpenM3D/M3DBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2312.10763"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OpenM3D/M3DBench"><img src="https://img.shields.io/github/stars/OpenM3D/M3DBench.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6225,7 +6225,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.09187"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2312.09187"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6242,8 +6242,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.13771"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://appagent-official.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2312.13771"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://appagent-official.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6261,8 +6261,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.05742"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/facebookresearch/gen_dgrl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2312.05742"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/facebookresearch/gen_dgrl"><img src="https://img.shields.io/github/stars/facebookresearch/gen_dgrl.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6280,7 +6280,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.10170"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2312.10170"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6298,8 +6298,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.08649"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/testing-agent/droidagent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2311.08649"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/testing-agent/droidagent"><img src="https://img.shields.io/github/stars/testing-agent/droidagent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6319,8 +6319,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.07562"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/zzxslp/MM-Navigator"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2311.07562"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/zzxslp/MM-Navigator"><img src="https://img.shields.io/github/stars/zzxslp/MM-Navigator.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6338,8 +6338,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.18751"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl/compwob"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2311.18751"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl/compwob"><img src="https://img.shields.io/github/stars/compositional_rl/compwob.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6356,8 +6356,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.11797"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Zoeyyao27/CoT-Igniting-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2311.11797"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Zoeyyao27/CoT-Igniting-Agent"><img src="https://img.shields.io/github/stars/Zoeyyao27/CoT-Igniting-Agent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6375,8 +6375,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.10538"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks/tree/master/paper"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2311.10538"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks/tree/master/paper"><img src="https://img.shields.io/github/stars/master/paper.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6394,9 +6394,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.05657"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/allenai/lumos"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://allenai.github.io/lumos/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2311.05657"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/allenai/lumos"><img src="https://img.shields.io/github/stars/allenai/lumos.svg?style=social&label=Star"></a><br>
+      <a href="https://allenai.github.io/lumos/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6414,9 +6414,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2311.09835"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/gersteinlab/ML-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://ml-bench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2311.09835"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/gersteinlab/ML-bench"><img src="https://img.shields.io/github/stars/gersteinlab/ML-bench.svg?style=social&label=Star"></a><br>
+      <a href="https://ml-bench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6434,8 +6434,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.16581"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/marcoantonioaav/Hybrid-Minimax-MCTS"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2310.16581"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/marcoantonioaav/Hybrid-Minimax-MCTS"><img src="https://img.shields.io/github/stars/marcoantonioaav/Hybrid-Minimax-MCTS.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6454,7 +6454,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.14403"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2310.14403"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6474,9 +6474,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.10634"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xlang-ai/OpenAgents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://chat.xlang.ai"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2310.10634"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xlang-ai/OpenAgents"><img src="https://img.shields.io/github/stars/xlang-ai/OpenAgents.svg?style=social&label=Star"></a><br>
+      <a href="https://chat.xlang.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6494,8 +6494,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.08740"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2310.08740"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection"><img src="https://img.shields.io/github/stars/master/zero_shot_structured_reflection.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6513,8 +6513,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.04406"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/lapisrocks/LanguageAgentTreeSearch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2310.04406"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/lapisrocks/LanguageAgentTreeSearch"><img src="https://img.shields.io/github/stars/lapisrocks/LanguageAgentTreeSearch.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6533,8 +6533,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2310.06830"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OpenLemur/Lemur"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2310.06830"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OpenLemur/Lemur"><img src="https://img.shields.io/github/stars/OpenLemur/Lemur.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6556,8 +6556,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.11436"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/cooelf/Auto-GUI"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2309.11436"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/cooelf/Auto-GUI"><img src="https://img.shields.io/github/stars/cooelf/Auto-GUI.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6577,7 +6577,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.15518"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2309.15518"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6594,7 +6594,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.14365"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2309.14365"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6612,8 +6612,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.07870"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/aiwaves-cn/agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2309.07870"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aiwaves-cn/agents"><img src="https://img.shields.io/github/stars/aiwaves-cn/agents.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6631,7 +6631,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.08172"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2309.08172"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6650,7 +6650,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.02247"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2309.02247"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6667,7 +6667,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2309.07773"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2309.07773"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6685,8 +6685,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.16570"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/prodaft/malware-ioc/blob/master/FluBot/FluBot.pdf"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2308.16570"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/prodaft/malware-ioc/blob/master/FluBot/FluBot.pdf"><img src="https://img.shields.io/github/stars/FluBot/FluBot.pdf.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6704,8 +6704,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.15265"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Neelik/REdORank"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2308.15265"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Neelik/REdORank"><img src="https://img.shields.io/github/stars/Neelik/REdORank.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6724,7 +6724,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.11807"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2308.11807"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6744,8 +6744,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.05960"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/salesforce/BOLAA"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2308.05960"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/salesforce/BOLAA"><img src="https://img.shields.io/github/stars/salesforce/BOLAA.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6762,7 +6762,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.03643"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2308.03643"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6780,9 +6780,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.03688"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://llmbench.ai/agent"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2308.03688"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/github/stars/THUDM/AgentBench.svg?style=social&label=Star"></a><br>
+      <a href="https://llmbench.ai/agent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6799,7 +6799,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.11432"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2308.11432"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6817,9 +6817,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.02151"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/weirayao/Retroformer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://Retroformer.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2308.02151"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/weirayao/Retroformer"><img src="https://img.shields.io/github/stars/weirayao/Retroformer.svg?style=social&label=Star"></a><br>
+      <a href="https://Retroformer.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6838,7 +6838,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2307.10693"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2307.10693"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6856,7 +6856,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2307.12856"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2307.12856"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6874,8 +6874,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2307.10088"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/android_in_the_wild"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2307.10088"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/android_in_the_wild"><img src="https://img.shields.io/github/stars/master/android_in_the_wild.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6893,8 +6893,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2307.13854"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://webarena.dev/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2307.13854"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://webarena.dev/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6913,8 +6913,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.00245"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-deepmind/pix2act"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2306.00245"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-deepmind/pix2act"><img src="https://img.shields.io/github/stars/google-deepmind/pix2act.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6932,9 +6932,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.06070"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OSU-NLP-Group/Mind2Web"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://osu-nlp-group.github.io/Mind2Web"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2306.06070"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/Mind2Web"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/Mind2Web.svg?style=social&label=Star"></a><br>
+      <a href="https://osu-nlp-group.github.io/Mind2Web"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6953,8 +6953,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.02224"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/younghuman/LLMAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2306.02224"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/younghuman/LLMAgent"><img src="https://img.shields.io/github/stars/younghuman/LLMAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6973,7 +6973,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.13587"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2306.13587"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6991,8 +6991,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.13818"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="www.ar2d2.site"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2306.13818"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="www.ar2d2.site"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7010,8 +7010,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.07863"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://ltzheng.github.io/Synapse"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2306.07863"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ltzheng.github.io/Synapse"><img src="https://img.shields.io/github/stars/ltzheng.github.io/Synapse.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7030,8 +7030,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.07929"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OpenDFM/Rememberer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2306.07929"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OpenDFM/Rememberer"><img src="https://img.shields.io/github/stars/OpenDFM/Rememberer.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7049,7 +7049,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.03733"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2306.03733"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7067,8 +7067,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2305.08144"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/X-LANCE/Mobile-Env"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2305.08144"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-LANCE/Mobile-Env"><img src="https://img.shields.io/github/stars/X-LANCE/Mobile-Env.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7087,8 +7087,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2305.17246"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/jaromiru/NASimEmu"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2305.17246"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/jaromiru/NASimEmu"><img src="https://img.shields.io/github/stars/jaromiru/NASimEmu.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7106,8 +7106,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2305.12534"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/bert-rl-fuzzer/fuzzer.git"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2305.12534"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bert-rl-fuzzer/fuzzer.git"><img src="https://img.shields.io/github/stars/bert-rl-fuzzer/fuzzer.git.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7125,7 +7125,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2305.11854"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2305.11854"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7143,7 +7143,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2304.03998"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2304.03998"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7161,7 +7161,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2304.01244"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2304.01244"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7180,7 +7180,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2304.01366"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2304.01366"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7198,7 +7198,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2303.13548"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2303.13548"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7216,8 +7216,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2303.17491"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/posgnu/rci-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2303.17491"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/posgnu/rci-agent"><img src="https://img.shields.io/github/stars/posgnu/rci-agent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7235,7 +7235,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2302.06970"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2302.06970"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7252,7 +7252,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2302.02898"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2302.02898"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7270,7 +7270,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2301.12158"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2301.12158"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7289,7 +7289,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2301.03771"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2301.03771"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7306,7 +7306,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2212.10504"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2212.10504"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7323,7 +7323,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2212.04781"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2212.04781"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7341,7 +7341,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2211.00177"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2211.00177"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7359,7 +7359,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.06307"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2210.06307"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7377,9 +7377,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.15852"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://sites.google.com/view/swarm-game-benchmark"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2210.15852"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://sites.google.com/view/swarm-game-benchmark"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7397,8 +7397,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.05671"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="http://iMedBot.odpac.net/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2210.05671"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="http://iMedBot.odpac.net/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7416,8 +7416,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.04624"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://vhlab.com.br/projects/webcrowds/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2210.04624"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://vhlab.com.br/projects/webcrowds/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7434,8 +7434,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.02400"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="http://emo20q.org"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2210.02400"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="http://emo20q.org"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7453,7 +7453,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2209.15099"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2209.15099"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7471,8 +7471,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2209.08655"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/llm4mobile"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2209.08655"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/llm4mobile"><img src="https://img.shields.io/github/stars/master/llm4mobile.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7490,8 +7490,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2208.12261"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/MEPalma/SyntheticEndUserTesting-Prototype"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2208.12261"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MEPalma/SyntheticEndUserTesting-Prototype"><img src="https://img.shields.io/github/stars/MEPalma/SyntheticEndUserTesting-Prototype.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7508,9 +7508,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2208.03188"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://parl.ai/projects/bb3"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://blenderbot.ai"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2208.03188"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://parl.ai/projects/bb3"><img src="https://img.shields.io/github/stars/projects/bb3.svg?style=social&label=Star"></a><br>
+      <a href="https://blenderbot.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7528,8 +7528,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2207.11300"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/bsLab/jam"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2207.11300"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bsLab/jam"><img src="https://img.shields.io/github/stars/bsLab/jam.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7549,7 +7549,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2207.09372"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2207.09372"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7566,8 +7566,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2207.06105"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://griddly.ai"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2207.06105"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://griddly.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7584,8 +7584,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2207.03586"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/causal-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2207.03586"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/causal-agents"><img src="https://img.shields.io/github/stars/google-research/causal-agents.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7603,8 +7603,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2207.01206"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://webshop-pnlp.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2207.01206"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://webshop-pnlp.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7623,8 +7623,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2205.11029"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://x-lance.github.io/META-GUI-Leaderboard/"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2205.11029"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://x-lance.github.io/META-GUI-Leaderboard/"><img src="https://img.shields.io/github/stars/META-GUI-Leaderboard/.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7643,7 +7643,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2205.12648"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2205.12648"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7661,8 +7661,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2204.03514"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://ram81.github.io/projects/habitat-web"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2204.03514"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ram81.github.io/projects/habitat-web"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7679,8 +7679,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2204.10374"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/deepmind/acme/tree/master/acme/agents/tf/dqn"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2204.10374"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/deepmind/acme/tree/master/acme/agents/tf/dqn"><img src="https://img.shields.io/github/stars/tf/dqn.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7698,7 +7698,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2203.09016"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2203.09016"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7715,7 +7715,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2203.12465"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2203.12465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7734,7 +7734,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2202.08137"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2202.08137"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7753,7 +7753,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2202.02574"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2202.02574"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7770,7 +7770,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2202.01365"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2202.01365"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7788,8 +7788,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2202.02312"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/aburns4/MoTIF"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2202.02312"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aburns4/MoTIF"><img src="https://img.shields.io/github/stars/aburns4/MoTIF.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7807,8 +7807,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2201.08896"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2201.08896"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl"><img src="https://img.shields.io/github/stars/master/compositional_rl.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7828,7 +7828,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2112.03210"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2112.03210"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7845,7 +7845,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2112.07620"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2112.07620"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7863,9 +7863,9 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2110.10973"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ibm/loa"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://ibm.biz/acl21-loa"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2110.10973"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ibm/loa"><img src="https://img.shields.io/github/stars/ibm/loa.svg?style=social&label=Star"></a><br>
+      <a href="https://ibm.biz/acl21-loa"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7883,7 +7883,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2110.08952"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2110.08952"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7901,7 +7901,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2110.05955"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2110.05955"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7920,7 +7920,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2110.08653"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2110.08653"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7939,8 +7939,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2106.02325"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://youtu.be/PLPEBXLeKJI"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2106.02325"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://youtu.be/PLPEBXLeKJI"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7958,8 +7958,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2008.11045"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/noetits/ICE-Talk"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2008.11045"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/noetits/ICE-Talk"><img src="https://img.shields.io/github/stars/noetits/ICE-Talk.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7977,7 +7977,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2003.02622"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2003.02622"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7995,7 +7995,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1912.10084"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1912.10084"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8013,7 +8013,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1909.00031"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1909.00031"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8033,8 +8033,8 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1906.06726"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/scenerygraphics/scenery"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/1906.06726"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/scenerygraphics/scenery"><img src="https://img.shields.io/github/stars/scenerygraphics/scenery.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -8052,7 +8052,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1905.02219"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1905.02219"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8069,7 +8069,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1811.05902"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1811.05902"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8087,7 +8087,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1607.00061"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1607.00061"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8105,7 +8105,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1601.06919"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1601.06919"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8123,7 +8123,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1206.5884"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1206.5884"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8141,7 +8141,7 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/1006.5263"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1006.5263"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
