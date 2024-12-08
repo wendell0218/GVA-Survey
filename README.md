@@ -1524,7 +1524,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AGUVIS, <b>Base Model:</b> Qwen2-VL, <b>Strategy:</b> Two-stage training<br>
       • <b>Benchmark Name:</b> THE AGUVIS COLLECTION, <b>Task Number:</b> 35K, <b>Dataset Source:</b> VLM-augmented<br>
     </td>
@@ -1546,7 +1546,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Ponder & Press, <b>Base Model:</b> Qwen2-VL, <b>Strategy:</b> Divide-and-conquer<br>
     </td>
   </tr>
@@ -1565,7 +1565,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ReAct&Plan, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> ReAct&Plan prompting strategy<br>
     </td>
   </tr>
@@ -1583,7 +1583,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Agentic Approach, <b>Base Model:</b> Gemini 1.5 Flash and GPT-4o mini, <b>Strategy:</b> Two-tiered agentic approach<br>
     </td>
   </tr>
@@ -1601,7 +1601,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> BOTracle, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -1621,7 +1621,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> HackSynth, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> PicoCTF Benchmark, <b>Task Number:</b> 120, <b>Dataset Source:</b> CTF challenges<br>
       • <b>Benchmark Name:</b> OverTheWire Benchmark, <b>Task Number:</b> 80, <b>Dataset Source:</b> CTF challenges<br>
@@ -1642,7 +1642,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> DroidCall, <b>Task Number:</b> 10000, <b>Dataset Source:</b> LLM synthesis<br>
     </td>
   </tr>
@@ -1661,7 +1661,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 374<br>
     </td>
   </tr>
@@ -1681,7 +1681,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ShowUI, <b>Base Model:</b> Qwen2-VL-2B, <b>Strategy:</b> UI-Guided Visual Token Selection<br>
     </td>
   </tr>
@@ -1699,7 +1699,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AdaptAgent, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> In-context Learning<br>
     </td>
   </tr>
@@ -1720,7 +1720,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Claude 3.5 Computer Use, <b>Base Model:</b> Claude-3.5, <b>Strategy:</b> API-based GUI automation<br>
       • <b>Benchmark Name:</b> Computer Use Out-of-the-Box, <b>Task Number:</b> 20, <b>Dataset Source:</b> human evaluation<br>
     </td>
@@ -1738,7 +1738,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 100<br>
     </td>
   </tr>
@@ -1759,7 +1759,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AUTOGLM, <b>Base Model:</b> ChatGLM, <b>Strategy:</b> Self-Evolving Online Curriculum RL<br>
     </td>
   </tr>
@@ -1776,7 +1776,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 139<br>
     </td>
   </tr>
@@ -1797,7 +1797,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Magentic-One, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Multi-agent system<br>
       • <b>Benchmark Name:</b> AutoGenBench, <b>Task Number:</b> 3, <b>Dataset Source:</b> LLM synthesis<br>
     </td>
@@ -1817,7 +1817,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Generative Context Distillation, <b>Base Model:</b> LLaMA-3-8B-Instruct, <b>Strategy:</b> Prompt Generation Loss<br>
     </td>
   </tr>
@@ -1836,7 +1836,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ScribeAgent, <b>Base Model:</b> Qwen2, <b>Strategy:</b> Fine-tuning<br>
     </td>
   </tr>
@@ -1855,7 +1855,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> WEB-DREAMER, <b>Base Model:</b> LLMs, <b>Strategy:</b> Model-based planning<br>
     </td>
   </tr>
@@ -1874,7 +1874,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -1891,7 +1891,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Alopex, <b>Base Model:</b> Fox LLM, <b>Strategy:</b> fine-tuning with description-question-output format<br>
     </td>
   </tr>
@@ -1912,7 +1912,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CUIfy, <b>Base Model:</b> Various LLMs, <b>Strategy:</b> Integration of STT, LLM, and TTS models<br>
     </td>
   </tr>
@@ -1932,7 +1932,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> WEBRL, <b>Base Model:</b> Llama-3.1, <b>Strategy:</b> Reinforcement Learning<br>
       • <b>Benchmark Name:</b> WebArena-Lite, <b>Task Number:</b> 165, <b>Dataset Source:</b> human demonstration<br>
     </td>
@@ -1951,7 +1951,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 100<br>
     </td>
   </tr>
@@ -1971,7 +1971,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AutoPT, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Finite State Machine (FSM)<br>
       • <b>Benchmark Name:</b> end-to-end penetration testing benchmark, <b>Task Number:</b> 20, <b>Dataset Source:</b> Vulhub<br>
     </td>
@@ -1990,7 +1990,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ReSpAct, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -2014,7 +2014,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> OS-Atlas, <b>Base Model:</b> InternVL-2-4B, <b>Strategy:</b> SFT<br>
       • <b>Agent Name:</b> OS-Atlas, <b>Base Model:</b> Qwen2-VL-7B, <b>Strategy:</b> SFT<br>
     </td>
@@ -2037,7 +2037,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> EDGE, <b>Base Model:</b> Monkey, <b>Strategy:</b> Data Synthesis<br>
     </td>
   </tr>
@@ -2056,7 +2056,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> OSCAR, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Task-driven Re-planning<br>
     </td>
   </tr>
@@ -2075,7 +2075,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ClickAgent, <b>Base Model:</b> InternVL2.0, <b>Strategy:</b> Hybrid approach with UI location model<br>
     </td>
   </tr>
@@ -2094,7 +2094,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> TinyClick, <b>Base Model:</b> Florence-2-Base, <b>Strategy:</b> Multitask Training<br>
     </td>
   </tr>
@@ -2115,7 +2115,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Agent S, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Experience-Augmented Hierarchical Planning<br>
       • <b>Benchmark Name:</b> OSWorld, <b>Task Number:</b> 369, <b>Dataset Source:</b> not specified<br>
       • <b>Benchmark Name:</b> WindowsAgentArena, <b>Task Number:</b> 154, <b>Dataset Source:</b> not specified<br>
@@ -2139,7 +2139,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> UGround, <b>Base Model:</b> LLaV A, <b>Strategy:</b> Slight adaptation<br>
       • <b>Benchmark Name:</b> ScreenSpot, <b>Task Number:</b> 1272, <b>Dataset Source:</b> web-based synthetic data<br>
     </td>
@@ -2159,7 +2159,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Dynamic Planning of Thoughts (D-PoT), <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Dynamic Planning<br>
     </td>
   </tr>
@@ -2178,7 +2178,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> ANDROID LAB, <b>Task Number:</b> 138, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -2197,7 +2197,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AutoFLUKA, <b>Base Model:</b> gpt-4o, <b>Strategy:</b> LangChain<br>
     </td>
   </tr>
@@ -2218,7 +2218,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> MetaAgent, <b>Base Model:</b> InternVL2-8B, <b>Strategy:</b> AgentToken<br>
       • <b>Benchmark Name:</b> OSWorld, <b>Task Number:</b> 369, <b>Dataset Source:</b> human demonstration<br>
     </td>
@@ -2238,7 +2238,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -2255,7 +2255,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Auto-Intent, <b>Base Model:</b> GPT-3.5, <b>Strategy:</b> Self-Exploration<br>
     </td>
   </tr>
@@ -2274,7 +2274,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> AUTOPENBENCH, <b>Task Number:</b> 33, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -2293,7 +2293,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Agent-E, <b>Base Model:</b> GPT-4-Turbo, <b>Strategy:</b> Self-Refinement<br>
     </td>
   </tr>
@@ -2311,7 +2311,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -2328,7 +2328,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> CASA, <b>Task Number:</b> 2, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -2346,7 +2346,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> EBC-LLMAgent, <b>Base Model:</b> LLM, <b>Strategy:</b> Behavior Cloning<br>
     </td>
   </tr>
@@ -2365,7 +2365,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Vision Search Assistant, <b>Base Model:</b> LLaVA-1.6-7B, <b>Strategy:</b> Retrieval-Augmented Generation<br>
     </td>
   </tr>
@@ -2384,7 +2384,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> OpenWebVoyager, <b>Base Model:</b> Idefics2-8b-instruct, <b>Strategy:</b> Imitation Learning<br>
     </td>
   </tr>
@@ -2404,7 +2404,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> VideoWebArena, <b>Task Number:</b> 2021, <b>Dataset Source:</b> manually crafted video tutorials<br>
     </td>
   </tr>
@@ -2423,7 +2423,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> INFOGENT, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -2441,7 +2441,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> PRAct, <b>Base Model:</b> GPT-3.5-Turbo, <b>Strategy:</b> Reflective Principle Optimization (RPO)<br>
     </td>
   </tr>
@@ -2460,7 +2460,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ReAct agent, <b>Base Model:</b> Llama3-405B, <b>Strategy:</b> ReAct<br>
     </td>
   </tr>
@@ -2478,7 +2478,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> LiMAC, <b>Base Model:</b> Florence2, <b>Strategy:</b> Fine-tuning<br>
     </td>
   </tr>
@@ -2497,7 +2497,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> MobileSafetyBench, <b>Task Number:</b> 100, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -2517,7 +2517,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> PUMA, <b>Base Model:</b> LLM, <b>Strategy:</b> SFT, DPO<br>
       • <b>Benchmark Name:</b> PersonalWAB, <b>Task Number:</b> 3, <b>Dataset Source:</b> Amazon review dataset<br>
     </td>
@@ -2538,7 +2538,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> API-calling agent, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> API calling<br>
       • <b>Agent Name:</b> Hybrid Agent, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> API calling and web browsing<br>
     </td>
@@ -2558,7 +2558,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Sketch2Code, <b>Task Number:</b> , <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -2576,7 +2576,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Copilot for Xcode, <b>Base Model:</b> OpenAI GPT series, <b>Strategy:</b> Retrieval-Augmented Generation (RAG)<br>
     </td>
   </tr>
@@ -2594,7 +2594,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> SPA-BENCH, <b>Task Number:</b> 340, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -2613,7 +2613,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> DISTRL, <b>Base Model:</b> T5-based multimodal generation architecture, <b>Strategy:</b> Reinforcement Learning<br>
       • <b>Benchmark Name:</b> AitW, <b>Task Number:</b> 128, <b>Dataset Source:</b> expert-curated task sets<br>
     </td>
@@ -2632,7 +2632,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -2649,7 +2649,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> BrowserART, <b>Task Number:</b> 100, <b>Dataset Source:</b> HarmBench, AirBench 2024, and original behaviors<br>
     </td>
   </tr>
@@ -2667,7 +2667,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AGENT OCCAM, <b>Base Model:</b> GPT-4-turbo, <b>Strategy:</b> Observation and Action Space Alignment<br>
     </td>
   </tr>
@@ -2686,7 +2686,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> MultiUI, <b>Task Number:</b> 9, <b>Dataset Source:</b> LLM synthesis<br>
     </td>
   </tr>
@@ -2705,7 +2705,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> MobA, <b>Base Model:</b> multimodal large language models, <b>Strategy:</b> two-level agent architecture<br>
       • <b>Benchmark Name:</b> MobBench, <b>Task Number:</b> 50, <b>Dataset Source:</b> real-life tasks<br>
     </td>
@@ -2725,7 +2725,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> World-Model-Augmented (WMA) web agent, <b>Base Model:</b> Llama-3.1-8B-Instruct, <b>Strategy:</b> Policy optimization with world model<br>
     </td>
   </tr>
@@ -2743,7 +2743,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Impact Actions Dataset, <b>Task Number:</b> 250, <b>Dataset Source:</b> crowdsourcing<br>
     </td>
   </tr>
@@ -2761,7 +2761,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> SoundScape, <b>Base Model:</b> ChatGPT, <b>Strategy:</b> Conversational Agent<br>
     </td>
   </tr>
@@ -2780,7 +2780,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> DA-Code, <b>Task Number:</b> 500, <b>Dataset Source:</b> real, challenging data analysis tasks<br>
     </td>
   </tr>
@@ -2799,7 +2799,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> ST-WebAgentBench, <b>Task Number:</b> 234, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -2819,7 +2819,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AgentSquare, <b>Base Model:</b> LLM, <b>Strategy:</b> module evolution and recombination<br>
     </td>
   </tr>
@@ -2839,7 +2839,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> LEAP, <b>Base Model:</b> Llama3-8B, <b>Strategy:</b> SFT<br>
     </td>
   </tr>
@@ -2857,7 +2857,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> NNetscape Navigator, <b>Base Model:</b> GPT-4o-mini, <b>Strategy:</b> Supervised Fine-Tuning<br>
     </td>
   </tr>
@@ -2876,7 +2876,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> R-MCTS, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Reflective Monte Carlo Tree Search<br>
     </td>
   </tr>
@@ -2894,7 +2894,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> CALF, <b>Task Number:</b> 1476, <b>Dataset Source:</b> Chinese examination questions<br>
     </td>
   </tr>
@@ -2914,7 +2914,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> PeriGuru, <b>Base Model:</b> LLM, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -2931,7 +2931,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 231<br>
     </td>
   </tr>
@@ -2952,7 +2952,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -2970,7 +2970,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -2988,7 +2988,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Cognitive Kernel, <b>Base Model:</b> LLama3, <b>Strategy:</b> fine-tuning<br>
     </td>
   </tr>
@@ -3007,7 +3007,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Cognitive Kernel, <b>Base Model:</b> LLama3, <b>Strategy:</b> fine-tuning<br>
     </td>
   </tr>
@@ -3025,7 +3025,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AXIS, <b>Base Model:</b> LLM, <b>Strategy:</b> API-first approach<br>
     </td>
   </tr>
@@ -3045,7 +3045,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> EnIGMA, <b>Base Model:</b> GPT-4 Turbo, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> NYU CTF Benchmark, <b>Task Number:</b> 200, <b>Dataset Source:</b> public and open source CTF challenges<br>
     </td>
@@ -3065,7 +3065,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Synatra-CodeLlama, <b>Base Model:</b> CodeLlama, <b>Strategy:</b> finetuning<br>
     </td>
   </tr>
@@ -3083,7 +3083,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Realistic Long-Term Benchmark for Open-Web Research Agents, <b>Task Number:</b> not specified, <b>Dataset Source:</b> not specified<br>
     </td>
   </tr>
@@ -3103,7 +3103,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> MobileVLM, <b>Base Model:</b> Qwen-VL-Chat, <b>Strategy:</b> Pre-training and fine-tuning<br>
       • <b>Benchmark Name:</b> Mobile3M, <b>Task Number:</b> 4, <b>Dataset Source:</b> real-world interactions<br>
     </td>
@@ -3122,7 +3122,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WebQuest, <b>Task Number:</b> 3, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -3140,7 +3140,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> LLM Agent with Q-value Model, <b>Base Model:</b> Phi-3-mini-4k-instruct, <b>Strategy:</b> DPO<br>
     </td>
   </tr>
@@ -3158,7 +3158,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ELMS, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -3179,7 +3179,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Navi, <b>Base Model:</b> GPT-4V-1106, <b>Strategy:</b> Set-of-Marks prompting<br>
       • <b>Benchmark Name:</b> WINDOWS AGENT ARENA, <b>Task Number:</b> 154, <b>Dataset Source:</b> automatic execution-based evaluation<br>
     </td>
@@ -3199,7 +3199,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Agent Workflow Memory (AWM), <b>Base Model:</b> GPT-4, <b>Strategy:</b> Workflow Induction<br>
     </td>
   </tr>
@@ -3218,7 +3218,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Charlie, <b>Base Model:</b> LLM, <b>Strategy:</b> Dialogue<br>
     </td>
   </tr>
@@ -3237,7 +3237,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> MATWA, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -3256,7 +3256,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> BreachSeek, <b>Base Model:</b> Claude 3.5 Sonnet, <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -3275,7 +3275,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> WebNaviX, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> Mind2Web, <b>Task Number:</b> 777, <b>Dataset Source:</b> human demonstration<br>
     </td>
@@ -3295,7 +3295,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> TinyAgent, <b>Base Model:</b> TinyLlama-1.1B, <b>Strategy:</b> Fine-tuning<br>
     </td>
   </tr>
@@ -3314,7 +3314,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -3335,7 +3335,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> OMNIPARSER, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> fine-tuning<br>
     </td>
   </tr>
@@ -3354,7 +3354,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> DPO agent, <b>Base Model:</b> BERT, <b>Strategy:</b> DPO<br>
     </td>
   </tr>
@@ -3373,7 +3373,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> WebPilot, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Monte Carlo Tree Search (MCTS)<br>
     </td>
   </tr>
@@ -3391,7 +3391,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AppAgent v2, <b>Base Model:</b> GPT-4, <b>Strategy:</b> RAG technology<br>
     </td>
   </tr>
@@ -3409,7 +3409,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> PhishAgent, <b>Base Model:</b> MLLMs, <b>Strategy:</b> Multimodal information retrieval framework<br>
     </td>
   </tr>
@@ -3428,7 +3428,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Cybench, <b>Task Number:</b> 40, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -3446,7 +3446,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> WeKnow-RAG, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -3464,7 +3464,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Agent Q, <b>Base Model:</b> LLaMA-3 70B, <b>Strategy:</b> DPO<br>
     </td>
   </tr>
@@ -3482,7 +3482,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> RAHL, <b>Base Model:</b> GPT-3.5-turbo, <b>Strategy:</b> Hierarchical Reinforcement Learning<br>
     </td>
   </tr>
@@ -3502,7 +3502,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> VisualAgentBench, <b>Task Number:</b> 5, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -3520,7 +3520,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> FixAlly, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> multi-agent LLM architecture<br>
     </td>
   </tr>
@@ -3539,7 +3539,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Reinforcement Learning Post-Incident Malware Investigation Model, <b>Base Model:</b> , <b>Strategy:</b> Q-learning<br>
       • <b>Benchmark Name:</b> Unified Markov Decision Process (MDP) Model, <b>Task Number:</b> , <b>Dataset Source:</b> <br>
     </td>
@@ -3559,7 +3559,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> AMEX, <b>Task Number:</b> 2946, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -3579,7 +3579,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Spider2-V, <b>Task Number:</b> 494, <b>Dataset Source:</b> real-world tasks<br>
     </td>
   </tr>
@@ -3598,7 +3598,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AUITestAgent, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> multi-dimensional data extraction<br>
     </td>
   </tr>
@@ -3616,7 +3616,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> MobileFlow, <b>Base Model:</b> Qwen-VL-Chat, <b>Strategy:</b> Mixture of Experts (MoE)<br>
     </td>
   </tr>
@@ -3635,7 +3635,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Trident, <b>Base Model:</b> GPT-4 Vision, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -3654,7 +3654,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Crab Benchmark-v0, <b>Task Number:</b> 120, <b>Dataset Source:</b> sub-task composition<br>
     </td>
   </tr>
@@ -3675,7 +3675,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> OpenHands, <b>Base Model:</b> CodeAct, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> OpenHands Evaluation, <b>Task Number:</b> 15, <b>Dataset Source:</b> not specified<br>
     </td>
@@ -3696,7 +3696,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> MindSearch, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> multi-agent framework<br>
     </td>
   </tr>
@@ -3713,7 +3713,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 135<br>
     </td>
   </tr>
@@ -3734,7 +3734,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> SEEPLANACT (SPA), <b>Base Model:</b> GPT-4-Turbo, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> ASSISTANT BENCH, <b>Task Number:</b> 214, <b>Dataset Source:</b> human demonstration<br>
     </td>
@@ -3754,7 +3754,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> TaskGen, <b>Base Model:</b> LLM, <b>Strategy:</b> StrictJSON<br>
     </td>
   </tr>
@@ -3772,7 +3772,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AI agent for CTI analysis, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Not explicitly mentioned<br>
     </td>
   </tr>
@@ -3791,7 +3791,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Agent-E, <b>Base Model:</b> GPT-4-Turbo, <b>Strategy:</b> Hierarchical Architecture<br>
     </td>
   </tr>
@@ -3809,7 +3809,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> InferAct, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Belief Reasoning<br>
     </td>
   </tr>
@@ -3828,7 +3828,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Sibyl, <b>Base Model:</b> GPT-4, <b>Strategy:</b> multi-agent debate-based jury<br>
     </td>
   </tr>
@@ -3847,7 +3847,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> mobile agent security matrix, <b>Task Number:</b> 8, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -3866,7 +3866,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WorkArena++, <b>Task Number:</b> 682, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -3885,7 +3885,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> MobileExperts, <b>Base Model:</b> LLM/VLM, <b>Strategy:</b> Code Combination Based Tool Formulation<br>
       • <b>Benchmark Name:</b> Expert-Eval, <b>Task Number:</b> 28, <b>Dataset Source:</b> <br>
     </td>
@@ -3904,7 +3904,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WebArena, <b>Task Number:</b> 812, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -3923,7 +3923,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Mobile-Bench, <b>Task Number:</b> 832, <b>Dataset Source:</b> LLM synthesis<br>
     </td>
   </tr>
@@ -3942,7 +3942,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -3962,7 +3962,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Tree-of-Lens (ToL) agent, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Multi-lens Prompting<br>
       • <b>Benchmark Name:</b> Screen Point-and-Read (ScreenPR) benchmark, <b>Task Number:</b> 1500, <b>Dataset Source:</b> manually annotated<br>
     </td>
@@ -3982,7 +3982,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Goal Identification from UI Trajectories, <b>Task Number:</b> , <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -4001,7 +4001,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Act2Cap, <b>Task Number:</b> 4189, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -4022,7 +4022,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> DigiRL, <b>Base Model:</b> VLM, <b>Strategy:</b> Advantage-Weighted Regression<br>
       • <b>Benchmark Name:</b> Android-in-the-Wild (AitW), <b>Task Number:</b> not specified, <b>Dataset Source:</b> not specified<br>
     </td>
@@ -4044,7 +4044,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Qwen-GUI, <b>Base Model:</b> Qwen-VL, <b>Strategy:</b> SFT<br>
       • <b>Agent Name:</b> Fuyu-GUI, <b>Base Model:</b> Fuyu-8B, <b>Strategy:</b> SFT<br>
       • <b>Agent Name:</b> MiniCPM-GUI, <b>Base Model:</b> MiniCPM-V, <b>Strategy:</b> SFT<br>
@@ -4069,7 +4069,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> GUI-WORLD, <b>Task Number:</b> 7, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -4089,7 +4089,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> OdysseyAgent, <b>Base Model:</b> Qwen-VL, <b>Strategy:</b> fine-tuning with a history resampling module<br>
       • <b>Benchmark Name:</b> GUI Odyssey, <b>Task Number:</b> 7735, <b>Dataset Source:</b> human demonstration<br>
     </td>
@@ -4109,7 +4109,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> MobileAgentBench, <b>Task Number:</b> 100, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -4128,7 +4128,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CAAP, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -4149,7 +4149,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AGENT EVOL, <b>Base Model:</b> Llama-2-Chat-7B, <b>Strategy:</b> Behavioral Cloning<br>
       • <b>Benchmark Name:</b> AGENT EVAL, <b>Task Number:</b> 89, <b>Dataset Source:</b> crowdsourcing and AI-based methods<br>
     </td>
@@ -4168,7 +4168,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Lydia, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -4187,7 +4187,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WebSuite, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -4207,7 +4207,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ICAL, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> In-Context Abstraction Learning<br>
     </td>
   </tr>
@@ -4226,7 +4226,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CoAct, <b>Base Model:</b> gpt-3.5-turbo-16K-0613, <b>Strategy:</b> Hierarchical Planning<br>
     </td>
   </tr>
@@ -4245,7 +4245,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WONDERBREAD, <b>Task Number:</b> 6, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -4265,7 +4265,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> VisualWebArena-Adv, <b>Task Number:</b> 200, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -4284,7 +4284,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WebCanvas, <b>Task Number:</b> 542, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -4303,7 +4303,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> IPR, <b>Base Model:</b> Llama-2-7B, <b>Strategy:</b> SFT, DPO<br>
     </td>
   </tr>
@@ -4322,7 +4322,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> GuardAgent, <b>Base Model:</b> GPT-4, <b>Strategy:</b> in-context learning<br>
       • <b>Benchmark Name:</b> EICU-AC, <b>Task Number:</b> 316, <b>Dataset Source:</b> EICU dataset<br>
       • <b>Benchmark Name:</b> Mind2Web-SC, <b>Task Number:</b> 200, <b>Dataset Source:</b> Mind2Web dataset<br>
@@ -4343,7 +4343,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> OpenApp, <b>Task Number:</b> 4, <b>Dataset Source:</b> newly constructed mobile app dataset<br>
     </td>
   </tr>
@@ -4361,7 +4361,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 100<br>
     </td>
   </tr>
@@ -4381,7 +4381,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Mini Honor of Kings, <b>Task Number:</b> 7, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -4400,7 +4400,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -4418,7 +4418,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> ANDROID CONTROL, <b>Task Number:</b> 15283, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -4435,7 +4435,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 215<br>
     </td>
   </tr>
@@ -4454,7 +4454,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> HPTSA, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Hierarchical Planning and Task-Specific Agents<br>
       • <b>Benchmark Name:</b> Benchmark of Zero-Day Vulnerabilities, <b>Task Number:</b> 15, <b>Dataset Source:</b> open-source software vulnerabilities<br>
     </td>
@@ -4473,7 +4473,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 200<br>
     </td>
   </tr>
@@ -4492,7 +4492,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Mobile-Agent-v2, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Multi-agent collaboration<br>
     </td>
   </tr>
@@ -4511,7 +4511,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> DEPSRAG, <b>Base Model:</b> GPT-4-Turbo, <b>Strategy:</b> Retrieval-Augmented Generation (RAG)<br>
     </td>
   </tr>
@@ -4530,7 +4530,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -4548,7 +4548,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> RIR-augmented MLLM, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Reverse Image Retrieval<br>
     </td>
   </tr>
@@ -4566,7 +4566,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> DEVIL'S ADVOCATE, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Introspective Reflection<br>
     </td>
   </tr>
@@ -4584,7 +4584,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> DRLRM-PT, <b>Base Model:</b> , <b>Strategy:</b> Deep Q-learning with Reward Machine<br>
     </td>
   </tr>
@@ -4605,7 +4605,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> SWE-agent, <b>Base Model:</b> GPT-4 Turbo, <b>Strategy:</b> ReAct<br>
       • <b>Benchmark Name:</b> SWE-bench, <b>Task Number:</b> 2294, <b>Dataset Source:</b> GitHub issues<br>
     </td>
@@ -4625,7 +4625,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> ANDROID WORLD, <b>Task Number:</b> 116, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -4644,7 +4644,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -4660,7 +4660,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 79<br>
     </td>
   </tr>
@@ -4678,7 +4678,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CRATOR, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -4696,7 +4696,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 17<br>
     </td>
   </tr>
@@ -4715,7 +4715,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ECLAIR, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -4733,7 +4733,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -4750,7 +4750,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> WebAI, <b>Base Model:</b> T5, <b>Strategy:</b> Behavioral Cloning<br>
     </td>
   </tr>
@@ -4772,7 +4772,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> OSWORLD, <b>Task Number:</b> 369, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -4790,7 +4790,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> PromptRPA, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -4808,7 +4808,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> WILBUR, <b>Base Model:</b> LLM, <b>Strategy:</b> Adaptive In-Context Learning<br>
     </td>
   </tr>
@@ -4827,7 +4827,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> B-MoCA, <b>Task Number:</b> 131, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -4846,7 +4846,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> LlamaTouch, <b>Task Number:</b> 496, <b>Dataset Source:</b> human annotation<br>
     </td>
   </tr>
@@ -4864,7 +4864,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> GeoLLM-Engine, <b>Task Number:</b> 500000, <b>Dataset Source:</b> LLM synthesis<br>
     </td>
   </tr>
@@ -4882,7 +4882,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 174<br>
     </td>
   </tr>
@@ -4901,7 +4901,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AUTOSCRAPER, <b>Base Model:</b> LLMs, <b>Strategy:</b> Progressive Understanding<br>
     </td>
   </tr>
@@ -4919,7 +4919,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> LLM-powered general computer agent, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -4936,7 +4936,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 38<br>
     </td>
   </tr>
@@ -4954,7 +4954,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AgentKit, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -4972,7 +4972,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> GLAINTEL, <b>Base Model:</b> Flan-T5, <b>Strategy:</b> Reinforcement Learning<br>
     </td>
   </tr>
@@ -4990,7 +4990,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> ChatShop, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -5008,7 +5008,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> UI-VLM, <b>Base Model:</b> Qwen-VL, <b>Strategy:</b> next-token prediction and masked self-attention<br>
     </td>
   </tr>
@@ -5027,7 +5027,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Action Prediction Model, <b>Base Model:</b> GPT4-V, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> MagicWand, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
@@ -5047,7 +5047,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> LLM CVE agent, <b>Base Model:</b> GPT-4, <b>Strategy:</b> ReAct agent framework<br>
       • <b>Benchmark Name:</b> Real-world one-day vulnerabilities, <b>Task Number:</b> 15, <b>Dataset Source:</b> CVE database and academic papers<br>
     </td>
@@ -5067,7 +5067,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> MMInA, <b>Task Number:</b> 1050, <b>Dataset Source:</b> human-written tasks<br>
     </td>
   </tr>
@@ -5088,7 +5088,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -5106,7 +5106,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> VisualWebBench, <b>Task Number:</b> 7, <b>Dataset Source:</b> human-curated instances<br>
     </td>
   </tr>
@@ -5126,7 +5126,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -5142,7 +5142,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 117<br>
     </td>
   </tr>
@@ -5162,7 +5162,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AutoWebGLM, <b>Base Model:</b> ChatGLM3-6B, <b>Strategy:</b> SFT, Reinforcement Learning, Rejection Sampling Finetuning<br>
       • <b>Benchmark Name:</b> AutoWebBench, <b>Task Number:</b> 50, <b>Dataset Source:</b> model-assisted and manual methods<br>
     </td>
@@ -5181,7 +5181,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Social, <b>Task Number:</b> 12383, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -5199,7 +5199,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Octopus v2, <b>Base Model:</b> Gemma 2B, <b>Strategy:</b> Fine-tuning with functional tokens<br>
     </td>
   </tr>
@@ -5221,7 +5221,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> AgentStudio, <b>Task Number:</b> 205, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -5241,7 +5241,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CoAT, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> AITZ, <b>Task Number:</b> 18643, <b>Dataset Source:</b> human demonstration<br>
     </td>
@@ -5264,7 +5264,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> AgentStudio overall benchmark tasks, <b>Task Number:</b> 205, <b>Dataset Source:</b> human demonstration<br>
       • <b>Benchmark Name:</b> GroundUI, <b>Task Number:</b> 18026, <b>Dataset Source:</b> existing datasets and AgentStudio-collected data<br>
       • <b>Benchmark Name:</b> IDMBench, <b>Task Number:</b> 345, <b>Dataset Source:</b> Mind2Web, Android in the Wild, VisualWebArena, and AgentStudio<br>
@@ -5287,7 +5287,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CRADLE, <b>Base Model:</b> GPT-4o, <b>Strategy:</b> Modular Framework<br>
       • <b>Benchmark Name:</b> OSWorld, <b>Task Number:</b> 369, <b>Dataset Source:</b> human demonstration<br>
     </td>
@@ -5306,7 +5306,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> A3T, <b>Base Model:</b> Mistral-7B-Instruct-v0.2, <b>Strategy:</b> Policy Gradient<br>
     </td>
   </tr>
@@ -5325,7 +5325,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> TURKING BENCH, <b>Task Number:</b> 158, <b>Dataset Source:</b> crowdsourcing tasks<br>
     </td>
   </tr>
@@ -5343,7 +5343,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AUTONODE, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Neuro-graphic Operations<br>
     </td>
   </tr>
@@ -5361,7 +5361,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CleanAgent, <b>Base Model:</b> LLM-based Agents, <b>Strategy:</b> Declarative API Calls<br>
     </td>
   </tr>
@@ -5379,7 +5379,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> BAGEL, <b>Base Model:</b> PaLM-2, <b>Strategy:</b> Iterative relabeling with LM components<br>
     </td>
   </tr>
@@ -5397,7 +5397,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AUTOGUIDE, <b>Base Model:</b> GPT-4-turbo, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -5416,7 +5416,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> TRAD, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Thought Retrieval and Aligned Decision<br>
     </td>
   </tr>
@@ -5435,7 +5435,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WorkArena, <b>Task Number:</b> 33, <b>Dataset Source:</b> <br>
       • <b>Benchmark Name:</b> BrowserGym, <b>Task Number:</b> , <b>Dataset Source:</b> <br>
     </td>
@@ -5455,7 +5455,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ETO, <b>Base Model:</b> Llama-2-7B-Chat, <b>Strategy:</b> Behavioral Cloning, DPO<br>
     </td>
   </tr>
@@ -5474,7 +5474,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CoCo-Agent, <b>Base Model:</b> LLaV A, <b>Strategy:</b> Comprehensive Environment Perception (CEP) and Conditional Action Prediction (CAP)<br>
     </td>
   </tr>
@@ -5495,7 +5495,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ScreenAgent, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Reinforcement Learning<br>
       • <b>Benchmark Name:</b> ScreenAgent Dataset, <b>Task Number:</b> 273, <b>Dataset Source:</b> human demonstration<br>
     </td>
@@ -5516,7 +5516,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> UFO, <b>Base Model:</b> GPT-Vision, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> WindowsBench, <b>Task Number:</b> 50, <b>Dataset Source:</b> <br>
     </td>
@@ -5539,7 +5539,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> OmniACT, <b>Task Number:</b> 9802, <b>Dataset Source:</b> human annotation<br>
     </td>
   </tr>
@@ -5559,7 +5559,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> FRIDAY, <b>Base Model:</b> GPT-4, <b>Strategy:</b> self-directed learning<br>
     </td>
   </tr>
@@ -5579,7 +5579,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ArCHer, <b>Base Model:</b> , <b>Strategy:</b> Hierarchical Multi-Turn RL<br>
     </td>
   </tr>
@@ -5597,7 +5597,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> QRDATA, <b>Task Number:</b> 411, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -5616,7 +5616,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> BASES, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> WARRIORS, <b>Task Number:</b> 100000, <b>Dataset Source:</b> LLM synthesis<br>
     </td>
@@ -5635,7 +5635,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WIPI, <b>Task Number:</b> 18, <b>Dataset Source:</b> real-world webpages<br>
     </td>
   </tr>
@@ -5653,7 +5653,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 81<br>
     </td>
   </tr>
@@ -5672,7 +5672,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> MT-Mind2Web, <b>Task Number:</b> 720, <b>Dataset Source:</b> expert-annotated web navigation dataset<br>
     </td>
   </tr>
@@ -5691,7 +5691,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -5709,7 +5709,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Agent Backdoor Attacks, <b>Task Number:</b> 2, <b>Dataset Source:</b> LLM synthesis<br>
     </td>
   </tr>
@@ -5729,7 +5729,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> UA2 Agent, <b>Base Model:</b> GPT-3.5, <b>Strategy:</b> Structured Memory<br>
       • <b>Benchmark Name:</b> Retrofitted WebShop, <b>Task Number:</b> 500, <b>Dataset Source:</b> artificially constructed instructions<br>
     </td>
@@ -5748,7 +5748,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> LLM Agent, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Function calling, document reading, and planning<br>
     </td>
   </tr>
@@ -5767,7 +5767,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CoSearchAgent, <b>Base Model:</b> ChatGPT, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -5786,7 +5786,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> AndroidArena, <b>Task Number:</b> 221, <b>Dataset Source:</b> LLM synthesis<br>
     </td>
   </tr>
@@ -5806,7 +5806,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> PROMST, <b>Task Number:</b> 11, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -5826,7 +5826,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WEBLINX, <b>Task Number:</b> 2337, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -5845,7 +5845,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> DUAL-VCR, <b>Base Model:</b> , <b>Strategy:</b> <br>
       • <b>Benchmark Name:</b> Mind2Web, <b>Task Number:</b> 2000, <b>Dataset Source:</b> <br>
     </td>
@@ -5863,7 +5863,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 100<br>
     </td>
   </tr>
@@ -5880,7 +5880,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 292<br>
     </td>
   </tr>
@@ -5904,7 +5904,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> SeeClick, <b>Base Model:</b> Qwen-VL, <b>Strategy:</b> GUI grounding pre-training<br>
       • <b>Benchmark Name:</b> ScreenSpot, <b>Task Number:</b> 1200, <b>Dataset Source:</b> automated curation from web and mobile<br>
     </td>
@@ -5922,7 +5922,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 100<br>
     </td>
   </tr>
@@ -5943,7 +5943,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> SEEACT, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -5961,7 +5961,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -5979,7 +5979,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> AGENT BOARD, <b>Task Number:</b> 9, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -5999,7 +5999,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Ant Intelligent Assistant (AIA), <b>Base Model:</b> QWen-7B, <b>Strategy:</b> Supervised Fine-Tuning (SFT) with LoRA<br>
       • <b>Benchmark Name:</b> AitW, <b>Task Number:</b> 30000, <b>Dataset Source:</b> human demonstration<br>
     </td>
@@ -6018,7 +6018,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> DRC2023, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -6036,7 +6036,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> XUAT-Copilot, <b>Base Model:</b> LLM, <b>Strategy:</b> Multi-Agent Collaborative Framework<br>
     </td>
   </tr>
@@ -6054,7 +6054,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> VisualWebArena, <b>Task Number:</b> 910, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -6074,7 +6074,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> WebVoyager, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> WebVoyager Benchmark, <b>Task Number:</b> 643, <b>Dataset Source:</b> self-instruct<br>
     </td>
@@ -6095,7 +6095,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Mobile-Agent, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Prompt<br>
       • <b>Benchmark Name:</b> Mobile-Eval, <b>Task Number:</b> 10, <b>Dataset Source:</b> <br>
     </td>
@@ -6114,7 +6114,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 445<br>
     </td>
   </tr>
@@ -6134,7 +6134,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> ASSIST GUI, <b>Task Number:</b> 100, <b>Dataset Source:</b> not specified<br>
     </td>
   </tr>
@@ -6155,7 +6155,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CogAgent, <b>Base Model:</b> CogVLM, <b>Strategy:</b> cross-attention module<br>
     </td>
   </tr>
@@ -6175,7 +6175,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Website-aware VLN Network (WebVLN-Net), <b>Base Model:</b> , <b>Strategy:</b> <br>
       • <b>Benchmark Name:</b> WebVLN-v1, <b>Task Number:</b> 14925, <b>Dataset Source:</b> <br>
     </td>
@@ -6193,7 +6193,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 245<br>
     </td>
   </tr>
@@ -6211,7 +6211,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> M3DBench, <b>Task Number:</b> 15, <b>Dataset Source:</b> LLM synthesis<br>
     </td>
   </tr>
@@ -6229,7 +6229,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -6247,7 +6247,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AppAgent, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Exploration and Observation<br>
     </td>
   </tr>
@@ -6266,7 +6266,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Procgen and WebShop Datasets, <b>Task Number:</b> , <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -6284,7 +6284,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> UINav, <b>Base Model:</b> SmallBERT, <b>Strategy:</b> Demonstration-based training<br>
     </td>
   </tr>
@@ -6303,7 +6303,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> DROID AGENT, <b>Base Model:</b> Large Language Models, <b>Strategy:</b> Autonomous GUI testing<br>
     </td>
   </tr>
@@ -6324,7 +6324,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> MM-Navigator, <b>Base Model:</b> GPT-4V, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -6343,7 +6343,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> CompWoB, <b>Task Number:</b> 50, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -6361,7 +6361,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 100<br>
     </td>
   </tr>
@@ -6380,7 +6380,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> AgentMonitor, <b>Task Number:</b> 29, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -6400,7 +6400,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> LUMOS, <b>Base Model:</b> LLAMA-2-7B/13B, <b>Strategy:</b> Unified and Modular Training<br>
     </td>
   </tr>
@@ -6420,7 +6420,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> ML-BENCH, <b>Task Number:</b> 9641, <b>Dataset Source:</b> GitHub repositories<br>
     </td>
   </tr>
@@ -6439,7 +6439,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Hybrid Minimax-MCTS, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -6458,7 +6458,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> O3D, <b>Base Model:</b> LLM, <b>Strategy:</b> Offline Data-driven Discovery and Distillation<br>
       • <b>Benchmark Name:</b> ALFWorld, <b>Task Number:</b> 134, <b>Dataset Source:</b> human demonstration<br>
       • <b>Benchmark Name:</b> WebShop, <b>Task Number:</b> 500, <b>Dataset Source:</b> human demonstration<br>
@@ -6480,7 +6480,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> OpenAgents, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -6499,7 +6499,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Zero-Shot Language Agent, <b>Base Model:</b> PaLM2, <b>Strategy:</b> Structured Reflection<br>
     </td>
   </tr>
@@ -6518,7 +6518,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> LATS, <b>Base Model:</b> GPT-3.5, <b>Strategy:</b> Monte Carlo Tree Search<br>
     </td>
   </tr>
@@ -6538,7 +6538,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Lemur, <b>Base Model:</b> Llama-2-70B, <b>Strategy:</b> Pre-training and instruction fine-tuning<br>
       • <b>Agent Name:</b> Lemur-Chat, <b>Base Model:</b> Llama-2-70B, <b>Strategy:</b> Instruction fine-tuning<br>
       • <b>Benchmark Name:</b> MINT, <b>Task Number:</b> 13, <b>Dataset Source:</b> Repurposed existing datasets<br>
@@ -6561,7 +6561,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Auto-GUI, <b>Base Model:</b> , <b>Strategy:</b> chain-of-action technique<br>
       • <b>Benchmark Name:</b> AITW, <b>Task Number:</b> 30000, <b>Dataset Source:</b> <br>
     </td>
@@ -6581,7 +6581,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Raijū, <b>Base Model:</b> , <b>Strategy:</b> Reinforcement Learning<br>
     </td>
   </tr>
@@ -6598,7 +6598,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 150<br>
     </td>
   </tr>
@@ -6617,7 +6617,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AGENTS, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -6635,7 +6635,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> LASER, <b>Base Model:</b> GPT-4, <b>Strategy:</b> State-Space Exploration<br>
     </td>
   </tr>
@@ -6654,7 +6654,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -6671,7 +6671,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Spoken Humanoid Embodied Conversational Agents (HECAs), <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -6690,7 +6690,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> MONDEO, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -6709,7 +6709,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> REdORank, <b>Base Model:</b> , <b>Strategy:</b> multi-perspective learning to rank<br>
     </td>
   </tr>
@@ -6728,7 +6728,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> On-device Agent for Text Rewriting, <b>Base Model:</b> PaLM 2-XXS, <b>Strategy:</b> SFT + heuristic RL<br>
       • <b>Benchmark Name:</b> MESSAGE REWRITE EVAL, <b>Task Number:</b> 5, <b>Dataset Source:</b> human-donated message texts<br>
     </td>
@@ -6749,7 +6749,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -6766,7 +6766,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Mamba, <b>Base Model:</b> , <b>Strategy:</b> multi-agent reinforcement learning<br>
     </td>
   </tr>
@@ -6786,7 +6786,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> AGENT BENCH, <b>Task Number:</b> 8, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -6803,7 +6803,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Paper Number:</b> 100<br>
     </td>
   </tr>
@@ -6823,7 +6823,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Retroformer, <b>Base Model:</b> GPT-3, <b>Strategy:</b> Policy Gradient Optimization<br>
     </td>
   </tr>
@@ -6842,7 +6842,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> KorraAI, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -6860,7 +6860,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> WebAgent, <b>Base Model:</b> Flan-U-PaLM, <b>Strategy:</b> self-experience supervision<br>
     </td>
   </tr>
@@ -6879,7 +6879,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> AITW, <b>Task Number:</b> 30378, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -6898,7 +6898,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WebArena, <b>Task Number:</b> 812, <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -6918,7 +6918,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> PIX2ACT, <b>Base Model:</b> PIX2STRUCT, <b>Strategy:</b> Behavioral Cloning<br>
     </td>
   </tr>
@@ -6938,7 +6938,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> MIND2WEB, <b>Task Number:</b> 2000, <b>Dataset Source:</b> crowdsourced action sequences<br>
     </td>
   </tr>
@@ -6958,7 +6958,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Auto-GPT, <b>Base Model:</b> GPT-4, <b>Strategy:</b> Additional Opinions algorithm<br>
       • <b>Benchmark Name:</b> WebShop, <b>Task Number:</b> 50, <b>Dataset Source:</b> simulated environment<br>
     </td>
@@ -6977,7 +6977,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Adversarial Malware Generator (AMG), <b>Base Model:</b> , <b>Strategy:</b> Reinforcement Learning<br>
     </td>
   </tr>
@@ -6996,7 +6996,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> AR2-D2, <b>Base Model:</b> , <b>Strategy:</b> Behavior Cloning<br>
     </td>
   </tr>
@@ -7015,7 +7015,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> SYNAPSE, <b>Base Model:</b> GPT-3.5, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -7035,7 +7035,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> REMEMBERER, <b>Base Model:</b> GPT-3.5, <b>Strategy:</b> Reinforcement Learning with Experience Memory (RLEM)<br>
     </td>
   </tr>
@@ -7053,7 +7053,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> UAS Parsing Methodology, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -7072,7 +7072,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Mobile-Env, <b>Task Number:</b> 74, <b>Dataset Source:</b> real-world apps<br>
     </td>
   </tr>
@@ -7092,7 +7092,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> NASimEmu, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -7111,7 +7111,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> BERT RLFuzzer, <b>Base Model:</b> BERT, <b>Strategy:</b> Reinforcement Learning<br>
     </td>
   </tr>
@@ -7129,7 +7129,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> WebGUM, <b>Base Model:</b> Flan-T5, <b>Strategy:</b> Finetuning<br>
     </td>
   </tr>
@@ -7147,7 +7147,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Critic network assisted Evolutionary Diversity Optimization (C-EDO), <b>Base Model:</b> , <b>Strategy:</b> Reinforcement Learning<br>
     </td>
   </tr>
@@ -7165,7 +7165,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> CyGIL, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -7184,7 +7184,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> CyGIL, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -7202,7 +7202,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Dona, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7221,7 +7221,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> RCI Agent, <b>Base Model:</b> InstructGPT-3+RLHF, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -7239,7 +7239,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7256,7 +7256,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Arena-Web, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -7274,7 +7274,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Human-AI collaboration system, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7293,7 +7293,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7310,7 +7310,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7327,7 +7327,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Bayesian Model Combination based analyzer, <b>Base Model:</b> , <b>Strategy:</b> Bayesian Model Combination<br>
     </td>
   </tr>
@@ -7345,7 +7345,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Wikipedia Navigation Agent, <b>Base Model:</b> Transformer, <b>Strategy:</b> Behavioral Cloning<br>
     </td>
   </tr>
@@ -7363,7 +7363,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> DinoDroid, <b>Base Model:</b> , <b>Strategy:</b> Deep Q-Networks<br>
     </td>
   </tr>
@@ -7383,7 +7383,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> Swarm vs. Swarm Game, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -7402,7 +7402,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> iMedBot, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7421,7 +7421,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7439,7 +7439,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> EMO20Q Dialog Agent, <b>Base Model:</b> BERT, <b>Strategy:</b> Classification<br>
     </td>
   </tr>
@@ -7457,7 +7457,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> MUG, <b>Task Number:</b> 77820, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -7476,7 +7476,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Conversational Interaction Agent, <b>Base Model:</b> PaLM, <b>Strategy:</b> Prompt<br>
     </td>
   </tr>
@@ -7495,7 +7495,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7514,7 +7514,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> BlenderBot 3, <b>Base Model:</b> OPT-175B, <b>Strategy:</b> fine-tuning<br>
     </td>
   </tr>
@@ -7533,7 +7533,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> JavaScript Agent Machine (JAM), <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7553,7 +7553,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7571,7 +7571,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> GriddlyJS, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -7589,7 +7589,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> CausalAgents, <b>Task Number:</b> , <b>Dataset Source:</b> <br>
     </td>
   </tr>
@@ -7608,7 +7608,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> WebShop, <b>Task Number:</b> not specified, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -7628,7 +7628,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> META-GUI, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -7647,7 +7647,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7666,7 +7666,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7684,7 +7684,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Hierarchical Distributed Deep Reinforcement Learning architecture, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7702,7 +7702,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7719,7 +7719,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> multi-agent security system, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7738,7 +7738,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> CC-Net, <b>Base Model:</b> , <b>Strategy:</b> Behavioral Cloning<br>
       • <b>Benchmark Name:</b> MiniWob++, <b>Task Number:</b> 104, <b>Dataset Source:</b> human demonstration<br>
     </td>
@@ -7757,7 +7757,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7774,7 +7774,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> RSA prototype, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7793,7 +7793,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> MoTIF, <b>Task Number:</b> 6100, <b>Dataset Source:</b> human demonstration<br>
     </td>
   </tr>
@@ -7812,7 +7812,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> compositional MiniGrid, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
       • <b>Benchmark Name:</b> gMiniWoB, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
@@ -7832,7 +7832,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -7849,7 +7849,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> TRES, <b>Base Model:</b> , <b>Strategy:</b> Reinforcement Learning<br>
     </td>
   </tr>
@@ -7869,7 +7869,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Logical Optimal Actions (LOA), <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7887,7 +7887,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Benchmark Name:</b> FedEdge simulator, <b>Task Number:</b> None, <b>Dataset Source:</b> None<br>
     </td>
   </tr>
@@ -7905,7 +7905,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Lecture Video Recording System, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7924,7 +7924,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> UI navigation agent, <b>Base Model:</b> , <b>Strategy:</b> Behavioral Cloning<br>
     </td>
   </tr>
@@ -7944,7 +7944,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ERICA, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7963,7 +7963,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> ICE-Talk, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7981,7 +7981,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> SUGILITE, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -7999,7 +7999,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> SensAI+Expanse, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -8017,7 +8017,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> PUMICE, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -8038,7 +8038,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -8056,7 +8056,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
   <tr>
@@ -8073,7 +8073,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> 3D ECA, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -8091,7 +8091,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> Helpa, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -8109,7 +8109,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> BUbiNG, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -8127,7 +8127,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       • <b>Agent Name:</b> MAINWAVE, <b>Base Model:</b> , <b>Strategy:</b> <br>
     </td>
   </tr>
@@ -8145,7 +8145,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
     </td>
   </tr>
 
