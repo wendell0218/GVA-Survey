@@ -48,7 +48,7 @@
 
 - **[December 7, 2024]** We have released a Chinese version of the survey, please click [中文版综述](./CN_survey.md) to access!
 
-- **[November 17, 2024]** Our survey paper is available on the arXiv platform: https://arxiv.org/abs/2411.10943
+- **[November 17, 2024]** Our survey is available on the arXiv platform: https://arxiv.org/abs/2411.10943
 
 ## 📖 Table of Content
 - [Introduction](#-introduction)
