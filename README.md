@@ -1870,7 +1870,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2411.06398"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://gitlab.com/mams-ucd/examples/HyperTicTacToe"><img src="https://img.shields.io/github/stars/examples/HyperTicTacToe.svg?style=social&label=Star"></a><br>
+      <a href="https://gitlab.com/mams-ucd/examples/HyperTicTacToe"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -1908,7 +1908,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2411.04671"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://gitlab.lrz.de/hctl/cuify"><img src="https://img.shields.io/github/stars/hctl/cuify.svg?style=social&label=Star"></a><br>
+      <a href="https://gitlab.lrz.de/hctl/cuify"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2033,7 +2033,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2410.19461"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://anonymous.4open.science/r/EDGE-1CDB"><img src="https://img.shields.io/github/stars/r/EDGE-1CDB.svg?style=social&label=Star"></a><br>
+      <a href="https://anonymous.4open.science/r/EDGE-1CDB"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2289,7 +2289,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2410.00689"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://anonymous.4open.science/r/Agent-E-7E43"><img src="https://img.shields.io/github/stars/r/Agent-E-7E43.svg?style=social&label=Star"></a><br>
+      <a href="https://anonymous.4open.science/r/Agent-E-7E43"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2872,7 +2872,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2410.02052"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://aka.ms/ExACT"><img src="https://img.shields.io/github/stars/aka.ms/ExACT.svg?style=social&label=Star"></a><br>
+      <a href="https://aka.ms/ExACT"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3061,7 +3061,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2409.15637"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://oootttyyy.github.io/synatra"><img src="https://img.shields.io/github/stars/oootttyyy.github.io/synatra.svg?style=social&label=Star"></a><br>
+      <a href="https://oootttyyy.github.io/synatra"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3424,7 +3424,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2408.08926"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://cybench.github.io"><img src="https://img.shields.io/github/stars//cybench.github.io.svg?style=social&label=Star"></a><br>
+      <a href="https://cybench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3729,7 +3729,6 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2407.15711"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/github/stars//assistantbench.github.io.svg?style=social&label=Star"></a><br>
       <a href="https://assistantbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
@@ -3938,7 +3937,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2407.01476"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://jykoh.com/search-agents"><img src="https://img.shields.io/github/stars/jykoh.com/search-agents.svg?style=social&label=Star"></a><br>
+      <a href="https://jykoh.com/search-agents"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3958,7 +3957,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2406.19263"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://screen-point-and-read.github.io"><img src="https://img.shields.io/github/stars//screen-point-and-read.github.io.svg?style=social&label=Star"></a><br>
+      <a href="https://screen-point-and-read.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5177,7 +5176,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2404.02491"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://huggingface.co/datasets/socialnormdataset/social"><img src="https://img.shields.io/github/stars/socialnormdataset/social.svg?style=social&label=Star"></a><br>
+      <a href="https://huggingface.co/datasets/socialnormdataset/social"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5821,7 +5820,6 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2402.05930"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/github/stars/mcgill-nlp.github.io/weblinx.svg?style=social&label=Star"></a><br>
       <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
@@ -7011,7 +7009,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2306.07863"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://ltzheng.github.io/Synapse"><img src="https://img.shields.io/github/stars/ltzheng.github.io/Synapse.svg?style=social&label=Star"></a><br>
+      <a href="https://ltzheng.github.io/Synapse"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7509,8 +7507,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2208.03188"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://parl.ai/projects/bb3"><img src="https://img.shields.io/github/stars/projects/bb3.svg?style=social&label=Star"></a><br>
-      <a href="https://blenderbot.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://parl.ai/projects/bb3"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7624,7 +7621,7 @@ We are committed to offering researchers the latest advancements in the field. B
     </td>
     <td style="width: 15%;">
       <a href="https://arxiv.org/pdf/2205.11029"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://x-lance.github.io/META-GUI-Leaderboard/"><img src="https://img.shields.io/github/stars/META-GUI-Leaderboard/.svg?style=social&label=Star"></a><br>
+      <a href="https://x-lance.github.io/META-GUI-Leaderboard/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
