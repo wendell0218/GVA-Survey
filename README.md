@@ -1510,17 +1510,17 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 55%;"><strong>Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2412.04454"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://aguvis-project.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2412.04454"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://aguvis-project.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -1533,16 +1533,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 55%;"><strong>Ponder & Press: Advancing Visual GUI Agent towards General Computer Control</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2412.01268"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2412.01268"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1554,14 +1554,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 55%;"><strong>Hacking CTFs with Plain Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2412.02776"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/palisaderesearch/intercode"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2412.02776"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/palisaderesearch/intercode"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1573,13 +1573,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 55%;"><strong>Large Multimodal Agents for Accurate Phishing Detection with Enhanced Token Optimization and Cost Reduction</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2412.02301"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2412.02301"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1591,13 +1591,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 55%;"><strong>BOTracle: A framework for Discriminating Bots and Humans</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2412.02266"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2412.02266"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1609,15 +1609,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 55%;"><strong>HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2412.01778"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/aielte-research/HackSynth"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2412.01778"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aielte-research/HackSynth"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1631,14 +1631,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 55%;"><strong>DroidCall: A Dataset for LLM-powered Android Intent Invocation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2412.00402"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/UbiquitousLearning/DroidCall"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2412.00402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/UbiquitousLearning/DroidCall"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1652,12 +1652,12 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.18279"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://aka.ms/gui-agent"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2411.18279"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://aka.ms/gui-agent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -1669,15 +1669,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>ShowUI: One Vision-Language-Action Model for GUI Visual Agent</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.17465"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/ShowUI"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.17465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/ShowUI"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1689,13 +1689,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.13451"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.13451"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1707,16 +1707,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.10323"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/computer_use_ootb"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.10323"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/computer_use_ootb"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1731,10 +1731,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.04890"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.04890"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1746,16 +1746,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>AutoGLM: Autonomous Foundation Agents for GUIs</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -1769,10 +1769,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.10943"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.10943"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1784,16 +1784,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.04468"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://aka.ms/magentic-one"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2411.04468"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://aka.ms/magentic-one"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -1806,14 +1806,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>Generative Context Distillation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.15927"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.15927"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1825,14 +1825,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.15004"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/colonylabs/ScribeAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.15004"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/colonylabs/ScribeAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1844,14 +1844,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.06559"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OSU-NLP-Group/WebDreamer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.06559"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/WebDreamer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1863,14 +1863,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>Do you want to play a game? Learning to play Tic-Tac-Toe in Hypermedia Environments</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.06398"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://gitlab.com/mams-ucd/examples/HyperTicTacToe"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.06398"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gitlab.com/mams-ucd/examples/HyperTicTacToe"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1881,13 +1881,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>Alopex: A Computational Framework for Enabling On-Device Function Calls with LLMs</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.05209"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.05209"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1899,16 +1899,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.04671"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://gitlab.lrz.de/hctl/cuify"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.04671"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gitlab.lrz.de/hctl/cuify"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1920,15 +1920,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.02337"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/WebRL"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.02337"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/WebRL"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1943,11 +1943,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.02006"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/aialt/awesome-mobile-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.02006"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aialt/awesome-mobile-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1959,15 +1959,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>AutoPT: How Far Are We from the End2End Automated Web Penetration Testing?</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.01236"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Dizzy-K/AutoPT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2411.01236"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Dizzy-K/AutoPT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -1980,13 +1980,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 55%;"><strong>ReSpAct: Harmonizing Reasoning, Speaking, and Acting Towards Building Large Language Model-Based Conversational AI Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2411.00927"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2411.00927"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -1998,19 +1998,19 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>OS-ATLAS: A Foundation Action Model for Generalist GUI Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.23218"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://osatlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.23218"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://osatlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2023,17 +2023,17 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.19461"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://anonymous.4open.science/r/EDGE-1CDB"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.19461"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://anonymous.4open.science/r/EDGE-1CDB"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2045,14 +2045,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.18963"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.18963"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2064,14 +2064,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.11872"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Samsung/ClickAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.11872"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Samsung/ClickAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2083,14 +2083,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>TinyClick: Single-Turn Agent for Empowering GUI Automation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.11871"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.11871"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2102,16 +2102,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Agent S: An Open Agentic Framework that Uses Computers Like a Human</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.08164"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/simular-ai/Agent-S"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.08164"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/simular-ai/Agent-S"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2125,17 +2125,17 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.05243"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://osu-nlp-group.github.io/UGround/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.05243"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://osu-nlp-group.github.io/UGround/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2148,14 +2148,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Dynamic Planning for LLM-based Graphical User Interface Automation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.00467"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/sqzhang-lazy/D-PoT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.00467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/sqzhang-lazy/D-PoT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2167,14 +2167,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.24024"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/Android-Lab"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.24024"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/Android-Lab"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2186,14 +2186,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.15222"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.15222"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2205,16 +2205,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.18603"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://chengyou-jia.github.io/AgentStore-Home"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.18603"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://chengyou-jia.github.io/AgentStore-Home"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2227,14 +2227,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.17401"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://ai-secure.github.io/AdvWeb/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.17401"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ai-secure.github.io/AdvWeb/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2245,13 +2245,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.22552"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.22552"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2263,14 +2263,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>AutoPenBench: Benchmarking Generative Agents for Penetration Testing</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.03225"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/lucagioacchini/auto-pen-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.03225"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/lucagioacchini/auto-pen-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2282,14 +2282,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Multimodal Auto Validation For Self-Refinement in Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.00689"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://anonymous.4open.science/r/Agent-E-7E43"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.00689"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://anonymous.4open.science/r/Agent-E-7E43"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2301,13 +2301,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.23555"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.23555"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2318,13 +2318,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Evaluating Cultural and Social Awareness of LLM Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.23252"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.23252"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2336,13 +2336,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Explainable Behavior Cloning: Teaching Large Language Model Agents through Learning by Demonstration</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.22916"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.22916"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2354,14 +2354,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.21220"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/cnzzx/VSA"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.21220"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/cnzzx/VSA"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2373,14 +2373,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.19609"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/MinorJerry/OpenWebVoyager"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.19609"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MinorJerry/OpenWebVoyager"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2392,15 +2392,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2412,14 +2412,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Infogent: An Agent-Based Framework for Web Information Aggregation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.19054"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/gangiswag/infogent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.19054"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/gangiswag/infogent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2431,13 +2431,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>PRACT: Optimizing Principled Reasoning and Acting of LLM Agent</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.18528"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.18528"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2449,14 +2449,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Countering Autonomous Cyber Threats</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.18312"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/kmheckel/HeckelMLMIThesis"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.18312"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/kmheckel/HeckelMLMIThesis"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2468,13 +2468,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Lightweight Neural App Control</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.17883"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.17883"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2486,14 +2486,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.17520"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://mobilesafetybench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.17520"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://mobilesafetybench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2505,15 +2505,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Large Language Models Empowered Personalized Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.17236"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.17236"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2526,15 +2526,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Beyond Browsing: API-Based Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.16464"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/yueqis/API-Based-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://yueqis.github.io/API-Based-Agent/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.16464"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/yueqis/API-Based-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://yueqis.github.io/API-Based-Agent/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2547,14 +2547,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.16232"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://salt-nlp.github.io/Sketch2Code-Project-Page/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.16232"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://salt-nlp.github.io/Sketch2Code-Project-Page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2566,13 +2566,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Contextual Augmented Multi-Model Programming (CAMP): A Hybrid Local-Cloud Copilot Framework</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.15285"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.15285"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2584,13 +2584,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.15164"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.15164"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2602,14 +2602,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.14803"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.14803"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2622,13 +2622,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.14569"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.14569"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2639,13 +2639,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.13886"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.13886"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2657,13 +2657,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.13825"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.13825"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2675,14 +2675,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Harnessing Webpage UIs for Text-Rich Visual Understanding</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.13824"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://neulab.github.io/MultiUI/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.13824"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://neulab.github.io/MultiUI/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2694,14 +2694,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>MobA: A Two-Level Agent System for Efficient Mobile Task Automation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.13757"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.13757"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2714,14 +2714,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.13232"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/kyle8581/WMA-Agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.13232"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/kyle8581/WMA-Agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2733,13 +2733,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating UI Operation Impacts</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.09006"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.09006"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2751,13 +2751,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>SoundScape: A Human-AI Co-Creation System Making Your Memories Heard</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.08136"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.08136"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2769,14 +2769,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.07331"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://da-code-bench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.07331"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://da-code-bench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2788,14 +2788,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.06703"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://sites.google.com/view/st-webagentbench/home"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.06703"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://sites.google.com/view/st-webagentbench/home"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2807,15 +2807,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>AgentSquare: Automatic LLM Agent Search in Modular Design Space</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.06153"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/tsinghua-fib-lab/AgentSquare"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.06153"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/tsinghua-fib-lab/AgentSquare"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2827,15 +2827,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.05434"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://leap-llm.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2410.05434"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://leap-llm.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -2847,13 +2847,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>NNetscape Navigator: Complex Demonstrations for Web Agents Without a Demonstrator</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.02907"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2410.02907"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2865,14 +2865,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 55%;"><strong>ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.02052"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://aka.ms/ExACT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.02052"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://aka.ms/ExACT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2886,11 +2886,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2410.01945"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2410.01945"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2902,15 +2902,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.09354"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Z2sJ4t/PeriGuru"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.09354"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Z2sJ4t/PeriGuru"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2924,10 +2924,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.14457"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.14457"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -2939,16 +2939,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>The Impact of Element Ordering on LM Agent Performance</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.12089"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/waynchi/gui-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.12089"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/waynchi/gui-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2959,14 +2959,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.11295"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OSU-NLP-Group/EIA_against_webagent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.11295"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/EIA_against_webagent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2977,14 +2977,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -2996,14 +2996,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.10277"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/tencent-ailab/CogKernel"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3015,13 +3015,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.17140"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.17140"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3033,15 +3033,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>EnIGMA: Enhanced Interactive Generative Model Agent for CTF Challenges</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.16165"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.16165"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3054,14 +3054,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.15637"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://oootttyyy.github.io/synatra"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.15637"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://oootttyyy.github.io/synatra"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3073,13 +3073,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>Towards a Realistic Long-Term Benchmark for Open-Web Research Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.14913"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.14913"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3091,15 +3091,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.14818"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/XiaoMi/mobilevlm"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.14818"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/XiaoMi/mobilevlm"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3112,13 +3112,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>WebQuest: A Benchmark for Multimodal QA on Web Page Sequences</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.13711"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.13711"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3130,13 +3130,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>Enhancing Decision-Making for LLM Agents via Step-Level Q-Value Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.09345"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.09345"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3148,13 +3148,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>ELMS: Elasticized Large Language Models On Mobile Devices</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.09071"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.09071"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3166,16 +3166,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.08264"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/microsoft/WindowsAgentArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://microsoft.github.io/WindowsAgentArena"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2409.08264"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/WindowsAgentArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://microsoft.github.io/WindowsAgentArena"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3188,14 +3188,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>Agent Workflow Memory</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.07429"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/zorazrw/agent-workflow-memory"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.07429"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/zorazrw/agent-workflow-memory"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3207,14 +3207,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>Here's Charlie! Realising the Semantic Web vision of Agents in the age of LLMs</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.04465"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/jeswr/phd-language-dialogue-experiment"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.04465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/jeswr/phd-language-dialogue-experiment"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3226,14 +3226,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>MATWA: A Web Toolkit for Matching under Preferences</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.04402"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://matwa.optimalmatching.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2409.04402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://matwa.optimalmatching.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3245,14 +3245,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>BreachSeek: A Multi-Agent Automated Penetration Tester</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.03789"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/snow10100/pena/"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.03789"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/snow10100/pena/"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3264,14 +3264,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>From Grounding to Planning: Benchmarking Bottlenecks in Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.01927"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2409.01927"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3284,14 +3284,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>TinyAgent: Function Calling at the Edge</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.00608"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/SqueezeAILab/TinyAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.00608"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/SqueezeAILab/TinyAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3303,14 +3303,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 55%;"><strong>Web Retrieval Agents for Evidence-Based Misinformation Detection</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2409.00009"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ComplexData-MILA/webretrieval"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2409.00009"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ComplexData-MILA/webretrieval"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3321,17 +3321,17 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>OmniParser for Pure Vision Based GUI Agent</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.00203"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.00203"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3343,14 +3343,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.16032"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/fengshuang-coding/KDD2024"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2408.16032"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/fengshuang-coding/KDD2024"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3362,14 +3362,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.15978"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/WebPilot"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2408.15978"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/WebPilot"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3381,13 +3381,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>AppAgent v2: Advanced Agent for Flexible Mobile Interactions</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.11824"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.11824"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3399,13 +3399,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.10738"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.10738"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3417,14 +3417,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.08926"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://cybench.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2408.08926"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://cybench.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3436,13 +3436,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.07611"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.07611"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3454,13 +3454,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.07199"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.07199"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3472,13 +3472,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>Retrieval-Augmented Hierarchical in-Context Reinforcement Learning and Hindsight Modular Reflections for Task Planning with LLMs</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.06520"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.06520"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3490,15 +3490,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.06327"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/VisualAgentBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2408.06327"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/VisualAgentBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3510,13 +3510,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>Automated Code Fix Suggestions for Accessibility Issues in Mobile Apps</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.03827"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.03827"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3528,14 +3528,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 55%;"><strong>Reinforcement Learning for an Efficient and Effective Malware Investigation during Cyber Incident Response</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2408.01999"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2408.01999"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3548,14 +3548,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.17490"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://yuxiangchai.github.io/AMEX/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2407.17490"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://yuxiangchai.github.io/AMEX/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3567,15 +3567,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.10956"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xlang-ai/Spider2-V"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://spider2-v.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2407.10956"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xlang-ai/Spider2-V"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://spider2-v.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3587,14 +3587,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>AUITestAgent: Automatic Requirements Oriented GUI Function Testing</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.09018"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/bz-lab/AUITestAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.09018"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bz-lab/AUITestAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3606,13 +3606,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>MobileFlow: A Multimodal LLM For Mobile GUI Agent</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.04346"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.04346"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3624,14 +3624,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.03037"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/testtest2024-art/Trident"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.03037"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/testtest2024-art/Trident"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3643,14 +3643,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.01511"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.01511"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3662,16 +3662,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>OpenHands: An Open Platform for AI Software Developers as Generalist Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.16741"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/All-Hands-AI/OpenHands"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.16741"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/All-Hands-AI/OpenHands"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3684,15 +3684,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>MindSearch: Mimicking Human Minds Elicits Deep AI Searcher</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.20183"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/InternLM/MindSearch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://mindsearch.netlify.app"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2407.20183"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/InternLM/MindSearch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://mindsearch.netlify.app"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3706,10 +3706,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.19354"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.19354"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3721,16 +3721,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.15711"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2407.15711"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://assistantbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -3743,14 +3743,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>TaskGen: A Task-Based, Memory-Infused Agentic Framework using StrictJSON</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.15734"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/simbianai/taskgen"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.15734"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/simbianai/taskgen"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3762,13 +3762,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>Using LLMs to Automate Threat Intelligence Analysis Workflows in Security Operation Centers</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.13093"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.13093"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3780,14 +3780,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.13032"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/EmergenceAI/Agent-E"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.13032"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/EmergenceAI/Agent-E"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3799,13 +3799,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>InferAct: Inferring Safe Actions for LLM-Based Agents Through Preemptive Evaluation and Human Feedback</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.11843"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.11843"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3817,14 +3817,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.10718"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Ag2S1/Sibyl-System"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.10718"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Ag2S1/Sibyl-System"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3836,14 +3836,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.09295"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.09295"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3855,14 +3855,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.05291"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ServiceNow/WorkArena/tree/workarena-plus-plus"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.05291"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ServiceNow/WorkArena/tree/workarena-plus-plus"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3874,14 +3874,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.03913"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.03913"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3894,13 +3894,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>AI Agents That Matter</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.01502"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2407.01502"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3912,14 +3912,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.00993"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/XiaoMi/MobileBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.00993"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/XiaoMi/MobileBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3931,14 +3931,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 55%;"><strong>Tree Search for Language Model Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2407.01476"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://jykoh.com/search-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2407.01476"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://jykoh.com/search-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3949,16 +3949,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.19263"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://screen-point-and-read.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.19263"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://screen-point-and-read.github.io"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -3971,14 +3971,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>Identifying User Goals from UI Trajectories</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.14314"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2406.14314"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -3990,14 +3990,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>GUI Action Narrator: Where and When Did That Action Take Place?</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.13719"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://showlab.github.io/GUI-Narrator"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.13719"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://showlab.github.io/GUI-Narrator"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4009,16 +4009,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.11896"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/DigiRL-agent/digirl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://digirl-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.11896"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/DigiRL-agent/digirl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://digirl-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4031,16 +4031,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>GUICourse: From General Vision Language Models to Versatile GUI Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.11317"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/yiye3/GUICourse"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.11317"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/yiye3/GUICourse"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4055,17 +4055,17 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.10819"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://gui-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.10819"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gui-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4077,15 +4077,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.08451"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OpenGVLab/GUI-Odyssey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.08451"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OpenGVLab/GUI-Odyssey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4098,14 +4098,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.08184"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://MobileAgentBench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.08184"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://MobileAgentBench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4117,14 +4117,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.06947"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/caap-agent/caap-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.06947"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/caap-agent/caap-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4136,16 +4136,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>AgentGym: Evolving Large Language Model-based Agents across Diverse Environments</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.04151"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/WooooDyy/AgentGym"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://agentgym.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.04151"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/WooooDyy/AgentGym"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://agentgym.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4158,13 +4158,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.12035"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2406.12035"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4176,14 +4176,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>WebSuite: Systematically Evaluating Why Web Agents Fail</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.01623"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/erichli1/websuite"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.01623"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/erichli1/websuite"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4195,15 +4195,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.14596"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://ical-learning.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.14596"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ical-learning.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4215,14 +4215,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>CoAct: A Global-Local Hierarchy for Autonomous Agent Collaboration</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.13381"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xmhou2002/CoAct"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.13381"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xmhou2002/CoAct"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4234,14 +4234,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.13264"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/HazyResearch/wonderbread"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.13264"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HazyResearch/wonderbread"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4253,15 +4253,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>Adversarial Attacks on Multimodal Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.12814"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ChenWu98/agent-attack"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://chenwu.io/attack-agent"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.12814"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ChenWu98/agent-attack"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://chenwu.io/attack-agent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4273,14 +4273,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>WebCanvas: Benchmarking Web Agents in Online Environments</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.12373"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://www.imean.ai/web-canvas"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2406.12373"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://www.imean.ai/web-canvas"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4292,14 +4292,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.11176"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/WeiminXiong/IPR"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.11176"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/WeiminXiong/IPR"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4311,14 +4311,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.09187"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2406.09187"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4332,14 +4332,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>Tell Me What's Next: Textual Foresight for Generic UI Representations</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.07822"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/aburns4/textualforesight"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.07822"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aburns4/textualforesight"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4353,11 +4353,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.05804"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xinzhel/LLM-Agent-Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.05804"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xinzhel/LLM-Agent-Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4369,15 +4369,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>Mini Honor of Kings: A Lightweight Environment for Multi-Agent Reinforcement Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.03978"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/tencent-ailab/mini-hok"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.03978"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/tencent-ailab/mini-hok"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4389,14 +4389,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.03007"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/DPamK/BadAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.03007"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/DPamK/BadAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4407,14 +4407,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>On the Effects of Data Scale on UI Control Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.03679"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/android_control"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.03679"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/android_control"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4428,10 +4428,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.02630"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2406.02630"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4443,14 +4443,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>Teams of LLM Agents can Exploit Zero-Day Vulnerabilities</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.01637"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2406.01637"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4465,11 +4465,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.00252"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/bowen-upenn/Agent_Rationality"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.00252"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bowen-upenn/Agent_Rationality"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4481,14 +4481,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 55%;"><strong>Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2406.01014"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2406.01014"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4500,14 +4500,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>DepsRAG: Towards Agentic Reasoning and Planning for Software Dependency Management</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.20455"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Mohannadcse/DepsRAG"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2405.20455"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Mohannadcse/DepsRAG"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4519,14 +4519,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>Large Language Models Can Self-Improve At Web Agent Tasks</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.20309"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.20309"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4537,14 +4537,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>Reverse Image Retrieval Cues Parametric Memory in Multimodal LLMs</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.18740"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/mi92/reverse-image-rag"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2405.18740"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mi92/reverse-image-rag"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4556,13 +4556,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>Devil's Advocate: Anticipatory Reflection for LLM Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.16334"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.16334"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4574,13 +4574,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>Knowledge-Informed Auto-Penetration Testing Based on Reinforcement Learning with Reward Machine</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.15908"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.15908"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4592,16 +4592,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.15793"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/princeton-nlp/SWE-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://swe-agent.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2405.15793"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/princeton-nlp/SWE-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://swe-agent.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4614,14 +4614,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.14573"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2405.14573"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4633,14 +4633,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>Latent State Estimation Helps UI Agents to Reason</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.11120"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.11120"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4653,10 +4653,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.10467"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.10467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4668,13 +4668,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>CRATOR: a Dark Web Crawler</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.06356"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.06356"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4686,13 +4686,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>Unveiling Disparities in Web Task Handling Between Human and Web Agent</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.04497"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.04497"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4704,14 +4704,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>Automating the Enterprise with Foundation Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.03710"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/HazyResearch/eclair-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2405.03710"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HazyResearch/eclair-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4723,13 +4723,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>Prioritizing Software Requirements Using Large Language Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.01564"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.01564"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4740,13 +4740,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 55%;"><strong>Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2405.00516"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2405.00516"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4758,17 +4758,17 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.07972"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/os-world"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://os-world.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2404.07972"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/os-world"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://os-world.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4780,13 +4780,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>PromptRPA: Generating Robotic Process Automation on Smartphones from Textual Prompts</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.02475"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.02475"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4798,13 +4798,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.05902"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.05902"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4816,14 +4816,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>Benchmarking Mobile Device Control Agents across Diverse Configurations</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.16660"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://b-moca.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2404.16660"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://b-moca.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -4835,14 +4835,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.16054"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/LlamaTouch/LlamaTouch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.16054"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/LlamaTouch/LlamaTouch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4854,13 +4854,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.15500"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.15500"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4874,11 +4874,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.13501"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/nuster1128/LLM_Agent_Memory_Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.13501"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/nuster1128/LLM_Agent_Memory_Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4890,14 +4890,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.12753"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/EZ-hwh/AutoScraper"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.12753"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/EZ-hwh/AutoScraper"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -4909,13 +4909,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>From Language Models to Practical Self-Improving Computer Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.11964"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.11964"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4929,10 +4929,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.11584"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.11584"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4944,13 +4944,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>AgentKit: Structured LLM Reasoning with Dynamic Graphs</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.11483"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.11483"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4962,13 +4962,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.10887"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.10887"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4980,13 +4980,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>ChatShop: Interactive Information Seeking with Language Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.09911"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.09911"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -4998,13 +4998,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>Training a Vision Language Model as Smartphone Assistant</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.08755"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.08755"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5016,14 +5016,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>Enhancing Mobile "How-to" Queries with Automated Search Results Verification and Reranking</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.08860"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.08860"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5036,14 +5036,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>LLM Agents can Autonomously Exploit One-day Vulnerabilities</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.08144"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.08144"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5056,14 +5056,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>MMInA: Benchmarking Multihop Multimodal Internet Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.09992"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://mmina.cliangyu.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2404.09992"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://mmina.cliangyu.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5075,16 +5075,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>Autonomous Evaluation and Refinement of Digital Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.06474"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Berkeley-NLP/Agent-Eval-Refine"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.06474"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Berkeley-NLP/Agent-Eval-Refine"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5095,14 +5095,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.05955"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://visualwebbench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2404.05955"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://visualwebbench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5114,15 +5114,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>AI2Apps: A Visual IDE for Building LLM-based AI Agent Applications</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.04902"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Avdpro/ai2apps"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://www.ai2apps.com"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2404.04902"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Avdpro/ai2apps"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://www.ai2apps.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5135,10 +5135,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.04442"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.04442"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5150,15 +5150,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>AutoWebGLM: A Large Language Model-based Web Navigating Agent</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.03648"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/AutoWebGLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.03648"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/AutoWebGLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5173,11 +5173,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.02491"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://huggingface.co/datasets/socialnormdataset/social"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2404.02491"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://huggingface.co/datasets/socialnormdataset/social"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5189,13 +5189,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 55%;"><strong>Octopus v2: On-device language model for super agent</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2404.01744"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2404.01744"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5207,17 +5207,17 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>AgentStudio: A Toolkit for Building General Virtual Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5229,15 +5229,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>Android in the Zoo: Chain-of-Action-Thought for GUI Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.02713"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/IMNearth/CoAT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2403.02713"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/IMNearth/CoAT"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5250,17 +5250,17 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>AgentStudio: A Toolkit for Building General Virtual Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2403.17918"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://computer-agents.github.io/agent-studio"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5275,15 +5275,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>Cradle: Empowering Foundation Agents Towards General Computer Control</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.03186"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://baai-agents.github.io/Cradle/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2403.03186"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://baai-agents.github.io/Cradle/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5296,13 +5296,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.14589"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2403.14589"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5314,14 +5314,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>Tur[k]ingBench: A Challenge Benchmark for Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.11905"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://turkingbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2403.11905"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://turkingbench.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5333,13 +5333,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>AUTONODE: A Neuro-Graphic Self-Learnable Engine for Cognitive GUI Automation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.10171"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2403.10171"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5351,13 +5351,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>CleanAgent: Automating Data Standardization with LLM-based Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.08291"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2403.08291"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5369,13 +5369,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>BAGEL: Bootstrapping Agents by Guiding Exploration with Language</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.08140"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2403.08140"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5387,13 +5387,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.08978"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2403.08978"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5405,14 +5405,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>TRAD: Enhancing LLM Agents with Step-Wise Thought Retrieval and Aligned Decision</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.06221"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/skyriver-2000/TRAD-Official"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2403.06221"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/skyriver-2000/TRAD-Official"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5424,14 +5424,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.07718"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ServiceNow/WorkArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2403.07718"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ServiceNow/WorkArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5444,14 +5444,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 55%;"><strong>Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2403.02502"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Yifan-Song793/ETO"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2403.02502"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Yifan-Song793/ETO"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5463,14 +5463,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.11941"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xbmxb/CoCo-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.11941"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xbmxb/CoCo-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5482,16 +5482,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>ScreenAgent: A Vision Language Model-driven Computer Control Agent</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.07945"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/niuzaisheng/ScreenAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.07945"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/niuzaisheng/ScreenAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5504,15 +5504,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>UFO: A UI-Focused Agent for Windows OS Interaction</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.07939"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.07939"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5525,17 +5525,17 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.17553"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://huggingface.co/datasets/Writer/omniact"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.17553"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://huggingface.co/datasets/Writer/omniact"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5547,15 +5547,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>OS-Copilot: Towards Generalist Computer Agents with Self-Improvement</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.07456"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://os-copilot.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.07456"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://os-copilot.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5567,15 +5567,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.19446"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/YifeiZhou02/ArCHer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://yifeizhou02.github.io/archer.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.19446"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/YifeiZhou02/ArCHer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://yifeizhou02.github.io/archer.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5589,11 +5589,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.17644"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xxxiaol/QRData"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.17644"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xxxiaol/QRData"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5605,14 +5605,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>BASES: Large-scale Web Search User Simulation with Large Language Model based Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.17505"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.17505"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5625,13 +5625,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>WIPI: A New Web Threat for LLM-Driven Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.16965"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.16965"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5645,11 +5645,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.15116"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/jun0wanan/awesome-large-multimodal-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.15116"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/jun0wanan/awesome-large-multimodal-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5661,14 +5661,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>On the Multi-turn Instruction Following for Conversational Web Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.15057"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/magicgh/self-map"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.15057"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/magicgh/self-map"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5680,14 +5680,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>Soft Self-Consistency Improves Language Model Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.13212"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/HanNight/soft_self_consistency"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.13212"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HanNight/soft_self_consistency"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5698,14 +5698,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.11208"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/lancopku/agent-backdoor-attacks"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.11208"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/lancopku/agent-backdoor-attacks"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5717,15 +5717,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>Towards Unified Alignment Between Agents, Humans, and Environment</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.07744"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://agent-force.github.io/unified-alignment-for-agents.html"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.07744"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://agent-force.github.io/unified-alignment-for-agents.html"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5738,13 +5738,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>LLM Agents can Autonomously Hack Websites</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.06664"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.06664"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5756,14 +5756,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.06360"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/pygongnlp/CoSearchAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.06360"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/pygongnlp/CoSearchAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5775,14 +5775,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>Understanding the Weakness of Large Language Model Agents within a Complex Android Environment</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.06596"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/AndroidArenaAgent/AndroidArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2402.06596"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/AndroidArenaAgent/AndroidArena"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5794,15 +5794,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>PRompt Optimization in Multi-Step Tasks (PROMST): Integrating Human Feedback and Heuristic-based Sampling</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.08702"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/yongchao98/PROMST"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://yongchao98.github.io/MIT-REALM-PROMST/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.08702"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/yongchao98/PROMST"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://yongchao98.github.io/MIT-REALM-PROMST/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5814,15 +5814,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>WebLINX: Real-World Website Navigation with Multi-Turn Dialogue</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.05930"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2402.05930"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5834,14 +5834,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 55%;"><strong>Dual-View Visual Contextualization for Web Navigation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.04476"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.04476"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5856,10 +5856,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.02716"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.02716"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5873,10 +5873,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2402.00262"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2402.00262"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5888,19 +5888,19 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 55%;"><strong>SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.10935"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/njucckevin/SeeClick"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.10935"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/njucckevin/SeeClick"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5915,10 +5915,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.03568"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2401.03568"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5930,16 +5930,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 55%;"><strong>GPT-4V(ision) is a Generalist Web Agent, if Grounded</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.01614"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://osu-nlp-group.github.io/SeeAct"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2401.01614"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://osu-nlp-group.github.io/SeeAct"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -5951,13 +5951,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 55%;"><strong>Stream-based perception for cognitive agents in mobile ecosystems</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.13604"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2401.13604"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -5968,14 +5968,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 55%;"><strong>AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.13178"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/hkust-nlp/AgentBoard"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.13178"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/hkust-nlp/AgentBoard"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -5987,15 +5987,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 55%;"><strong>MobileAgent: enhancing mobile control via human-machine interaction and SOP integration</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.04124"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/alipay/mobile-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.04124"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/alipay/mobile-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6008,13 +6008,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 55%;"><strong>Overview of Dialogue Robot Competition 2023</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.03547"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2401.03547"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6026,13 +6026,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 55%;"><strong>XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.02705"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2401.02705"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6044,13 +6044,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 55%;"><strong>VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.13649"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2401.13649"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6062,15 +6062,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 55%;"><strong>WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.13919"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/MinorJerry/WebVoyager"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.13919"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MinorJerry/WebVoyager"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6083,15 +6083,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 55%;"><strong>Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.16158"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.16158"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6106,11 +6106,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2401.05459"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/MobileLLM/Personal_LLM_Agents_Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2401.05459"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MobileLLM/Personal_LLM_Agents_Survey"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6122,15 +6122,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 55%;"><strong>ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2312.13108"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2312.13108"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6142,16 +6142,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 55%;"><strong>CogAgent: A Visual Language Model for GUI Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2312.08914"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/CogVLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2312.08914"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/CogVLM"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6163,15 +6163,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 55%;"><strong>WebVLN: Vision-and-Language Navigation on Websites</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2312.15820"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/WebVLN/WebVLN"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2312.15820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/WebVLN/WebVLN"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6186,10 +6186,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2312.11970"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2312.11970"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6203,11 +6203,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2312.10763"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OpenM3D/M3DBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2312.10763"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OpenM3D/M3DBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6219,13 +6219,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 55%;"><strong>Vision-Language Models as a Source of Rewards</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2312.09187"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2312.09187"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6236,14 +6236,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 55%;"><strong>AppAgent: Multimodal Agents as Smartphone Users</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2312.13771"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://appagent-official.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2312.13771"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://appagent-official.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6255,14 +6255,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 55%;"><strong>The Generalization Gap in Offline Reinforcement Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2312.05742"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/facebookresearch/gen_dgrl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2312.05742"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/facebookresearch/gen_dgrl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6274,13 +6274,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 55%;"><strong>UINav: A Practical Approach to Train On-Device Automation Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2312.10170"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2312.10170"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6292,14 +6292,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 55%;"><strong>Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2311.08649"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/testing-agent/droidagent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2311.08649"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/testing-agent/droidagent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6311,16 +6311,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 55%;"><strong>GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2311.07562"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/zzxslp/MM-Navigator"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2311.07562"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/zzxslp/MM-Navigator"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6332,14 +6332,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 55%;"><strong>Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2311.18751"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl/compwob"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2311.18751"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl/compwob"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6353,11 +6353,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2311.11797"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Zoeyyao27/CoT-Igniting-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2311.11797"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Zoeyyao27/CoT-Igniting-Agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6369,14 +6369,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 55%;"><strong>Testing Language Model Agents Safely in the Wild</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2311.10538"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks/tree/master/paper"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2311.10538"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks/tree/master/paper"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6388,15 +6388,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 55%;"><strong>Agent Lumos: Unified and Modular Training for Open-Source Language Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2311.05657"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/allenai/lumos"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://allenai.github.io/lumos/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2311.05657"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/allenai/lumos"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://allenai.github.io/lumos/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6408,15 +6408,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 55%;"><strong>ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2311.09835"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/gersteinlab/ML-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://ml-bench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2311.09835"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/gersteinlab/ML-bench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://ml-bench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6428,14 +6428,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 55%;"><strong>Hybrid Minimax-MCTS and Difficulty Adjustment for General Game Playing</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2310.16581"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/marcoantonioaav/Hybrid-Minimax-MCTS"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2310.16581"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/marcoantonioaav/Hybrid-Minimax-MCTS"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6447,14 +6447,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 55%;"><strong>O3D: Offline Data-driven Discovery and Distillation for Sequential Decision-Making with Large Language Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2310.14403"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2310.14403"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6468,15 +6468,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 55%;"><strong>OpenAgents: An Open Platform for Language Agents in the Wild</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2310.10634"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/xlang-ai/OpenAgents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://chat.xlang.ai"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2310.10634"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xlang-ai/OpenAgents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://chat.xlang.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6488,14 +6488,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 55%;"><strong>A Zero-Shot Language Agent for Computer Control with Structured Reflection</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2310.08740"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2310.08740"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6507,14 +6507,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 55%;"><strong>Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2310.04406"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/lapisrocks/LanguageAgentTreeSearch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2310.04406"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/lapisrocks/LanguageAgentTreeSearch"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6526,15 +6526,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 55%;"><strong>Lemur: Harmonizing Natural Language and Code for Language Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2310.06830"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OpenLemur/Lemur"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2310.06830"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OpenLemur/Lemur"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6548,16 +6548,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 55%;"><strong>You Only Look at Screens: Multimodal Chain-of-Action Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2309.11436"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/cooelf/Auto-GUI"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2309.11436"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/cooelf/Auto-GUI"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6570,14 +6570,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 55%;"><strong>Raijū: Reinforcement Learning-Guided Post-Exploitation for Automating Security Assessment of Network Systems</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2309.15518"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2309.15518"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6591,10 +6591,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2309.14365"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2309.14365"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6606,14 +6606,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 55%;"><strong>Agents: An Open-source Framework for Autonomous Language Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2309.07870"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/aiwaves-cn/agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2309.07870"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aiwaves-cn/agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6625,13 +6625,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 55%;"><strong>LASER: LLM Agent with State-Space Exploration for Web Navigation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2309.08172"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2309.08172"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6643,14 +6643,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 55%;"><strong>Towards Autonomous Cyber Operation Agents: Exploring the Red Case</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2309.02247"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2309.02247"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6661,13 +6661,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 55%;"><strong>Spoken Humanoid Embodied Conversational Agents in Mobile Serious Games: A Usability Assessment</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2309.07773"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2309.07773"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6679,14 +6679,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 55%;"><strong>MONDEO: Multistage Botnet Detection</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2308.16570"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/prodaft/malware-ioc/blob/master/FluBot/FluBot.pdf"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2308.16570"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/prodaft/malware-ioc/blob/master/FluBot/FluBot.pdf"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6698,14 +6698,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 55%;"><strong>A Multi-Perspective Learning to Rank Approach to Support Children's Information Seeking in the Classroom</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2308.15265"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/Neelik/REdORank"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2308.15265"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Neelik/REdORank"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6717,14 +6717,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 55%;"><strong>Towards an On-device Agent for Text Rewriting</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2308.11807"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2308.11807"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6737,15 +6737,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 55%;"><strong>BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2308.05960"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/salesforce/BOLAA"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2308.05960"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/salesforce/BOLAA"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6756,13 +6756,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 55%;"><strong>Mamba: Bringing Multi-Dimensional ABR to WebRTC</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2308.03643"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2308.03643"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6774,15 +6774,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 55%;"><strong>AgentBench: Evaluating LLMs as Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2308.03688"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://llmbench.ai/agent"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2308.03688"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://llmbench.ai/agent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6796,10 +6796,10 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2308.11432"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2308.11432"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6811,15 +6811,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 55%;"><strong>Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2308.02151"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/weirayao/Retroformer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://Retroformer.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2308.02151"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/weirayao/Retroformer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://Retroformer.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6831,14 +6831,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2023</td>
     <td style="width: 55%;"><strong>Towards an architectural framework for intelligent virtual agents using probabilistic programming</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2307.10693"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2307.10693"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6850,13 +6850,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2023</td>
     <td style="width: 55%;"><strong>A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2307.12856"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2307.12856"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6868,14 +6868,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2023</td>
     <td style="width: 55%;"><strong>Android in the Wild: A Large-Scale Dataset for Android Device Control</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2307.10088"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/android_in_the_wild"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2307.10088"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/android_in_the_wild"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6887,14 +6887,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2023</td>
     <td style="width: 55%;"><strong>WebArena: A Realistic Web Environment for Building Autonomous Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2307.13854"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://webarena.dev/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2307.13854"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://webarena.dev/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6906,15 +6906,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 55%;"><strong>From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2306.00245"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-deepmind/pix2act"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2306.00245"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-deepmind/pix2act"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6926,15 +6926,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 55%;"><strong>Mind2Web: Towards a Generalist Agent for the Web</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2306.06070"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OSU-NLP-Group/Mind2Web"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://osu-nlp-group.github.io/Mind2Web"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2306.06070"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/Mind2Web"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://osu-nlp-group.github.io/Mind2Web"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -6946,15 +6946,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 55%;"><strong>Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2306.02224"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/younghuman/LLMAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2306.02224"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/younghuman/LLMAgent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -6967,13 +6967,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 55%;"><strong>Creating Valid Adversarial Examples of Malware</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2306.13587"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2306.13587"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -6985,14 +6985,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 55%;"><strong>AR2-D2:Training a Robot Without a Robot</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2306.13818"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="www.ar2d2.site"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2306.13818"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="www.ar2d2.site"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7004,14 +7004,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 55%;"><strong>Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2306.07863"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://ltzheng.github.io/Synapse"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2306.07863"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ltzheng.github.io/Synapse"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7023,15 +7023,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 55%;"><strong>Large Language Models Are Semi-Parametric Reinforcement Learning Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2306.07929"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/OpenDFM/Rememberer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2306.07929"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OpenDFM/Rememberer"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7043,13 +7043,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 55%;"><strong>A Novel Approach To User Agent String Parsing For Vulnerability Analysis Using Mutli-Headed Attention</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2306.03733"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2306.03733"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7061,14 +7061,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2023</td>
     <td style="width: 55%;"><strong>Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2305.08144"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/X-LANCE/Mobile-Env"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2305.08144"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-LANCE/Mobile-Env"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7080,15 +7080,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2023</td>
     <td style="width: 55%;"><strong>NASimEmu: Network Attack Simulator & Emulator for Training Agents Generalizing to Novel Scenarios</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2305.17246"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/jaromiru/NASimEmu"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2305.17246"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/jaromiru/NASimEmu"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7100,14 +7100,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2023</td>
     <td style="width: 55%;"><strong>BertRLFuzzer: A BERT and Reinforcement Learning Based Fuzzer</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2305.12534"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/bert-rl-fuzzer/fuzzer.git"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2305.12534"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bert-rl-fuzzer/fuzzer.git"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7119,13 +7119,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2023</td>
     <td style="width: 55%;"><strong>Multimodal Web Navigation with Instruction-Finetuned Foundation Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2305.11854"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2305.11854"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7137,13 +7137,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2023</td>
     <td style="width: 55%;"><strong>Evolving Reinforcement Learning Environment to Minimize Learner's Achievable Reward: An Application on Hardening Active Directory Systems</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2304.03998"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2304.03998"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7155,13 +7155,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2023</td>
     <td style="width: 55%;"><strong>Unified Emulation-Simulation Training Environment for Autonomous Cyber Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2304.01244"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2304.01244"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7173,14 +7173,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2023</td>
     <td style="width: 55%;"><strong>Enabling A Network AI Gym for Autonomous Cyber Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2304.01366"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2304.01366"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7192,13 +7192,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2023</td>
     <td style="width: 55%;"><strong>Hey Dona! Can you help me with student course registration?</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2303.13548"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2303.13548"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7210,14 +7210,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2023</td>
     <td style="width: 55%;"><strong>Language Models can Solve Computer Tasks</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2303.17491"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/posgnu/rci-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2303.17491"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/posgnu/rci-agent"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7229,13 +7229,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2023</td>
     <td style="width: 55%;"><strong>Signifiers as a First-class Abstraction in Hypermedia Multi-Agent Systems</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2302.06970"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2302.06970"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7246,13 +7246,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2023</td>
     <td style="width: 55%;"><strong>Arena-Web -- A Web-based Development and Benchmarking Platform for Autonomous Navigation Approaches</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2302.02898"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2302.02898"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7264,13 +7264,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2023</td>
     <td style="width: 55%;"><strong>A System for Human-AI collaboration for Online Customer Support</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2301.12158"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2301.12158"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7282,14 +7282,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2023</td>
     <td style="width: 55%;"><strong>Chatbots in a Honeypot World</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2301.03771"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2301.03771"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7300,13 +7300,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2022</td>
     <td style="width: 55%;"><strong>Can Current Task-oriented Dialogue Models Automate Real-world Scenarios in the Wild?</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2212.10504"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2212.10504"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7317,13 +7317,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2022</td>
     <td style="width: 55%;"><strong>A Bayesian Model Combination-based approach to Active Malware Analysis</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2212.04781"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2212.04781"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7335,13 +7335,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2022</td>
     <td style="width: 55%;"><strong>Learning to Navigate Wikipedia by Taking Random Walks</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2211.00177"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2211.00177"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7353,13 +7353,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2022</td>
     <td style="width: 55%;"><strong>DinoDroid: Testing Android Apps Using Deep Q-Networks</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2210.06307"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2210.06307"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7371,15 +7371,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2022</td>
     <td style="width: 55%;"><strong>A Game Benchmark for Real-Time Human-Swarm Control</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2210.15852"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://sites.google.com/view/swarm-game-benchmark"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2210.15852"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://sites.google.com/view/swarm-game-benchmark"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7391,14 +7391,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2022</td>
     <td style="width: 55%;"><strong>iMedBot: A Web-based Intelligent Agent for Healthcare Related Prediction and Deep Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2210.05671"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="http://iMedBot.odpac.net/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2210.05671"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="http://iMedBot.odpac.net/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7410,14 +7410,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2022</td>
     <td style="width: 55%;"><strong>WebCrowds: An Authoring Tool for Crowd Simulation</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2210.04624"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://vhlab.com.br/projects/webcrowds/"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2210.04624"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://vhlab.com.br/projects/webcrowds/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7428,14 +7428,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2022</td>
     <td style="width: 55%;"><strong>Emotion Twenty Questions Dialog System for Lexical Emotional Intelligence</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2210.02400"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="http://emo20q.org"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2210.02400"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="http://emo20q.org"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7447,13 +7447,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2022</td>
     <td style="width: 55%;"><strong>MUG: Interactive Multimodal Grounding on User Interfaces</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2209.15099"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2209.15099"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7465,14 +7465,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2022</td>
     <td style="width: 55%;"><strong>Enabling Conversational Interaction with Mobile UI using Large Language Models</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2209.08655"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/llm4mobile"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2209.08655"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/llm4mobile"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7484,14 +7484,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2022</td>
     <td style="width: 55%;"><strong>Synthetic End-User Testing: Modeling Realistic Agents Based on Behavioral Examples</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2208.12261"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/MEPalma/SyntheticEndUserTesting-Prototype"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2208.12261"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MEPalma/SyntheticEndUserTesting-Prototype"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7502,15 +7502,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2022</td>
     <td style="width: 55%;"><strong>BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2208.03188"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://parl.ai/projects/bb3"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://blenderbot.ai"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2208.03188"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://parl.ai/projects/bb3"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://blenderbot.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7522,14 +7522,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2022</td>
     <td style="width: 55%;"><strong>JAM: The JavaScript Agent Machine for Distributed Computing and Simulation with reactive and mobile Multi-agent Systems -- A Technical Report</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2207.11300"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/bsLab/jam"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2207.11300"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bsLab/jam"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7541,15 +7541,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2022</td>
     <td style="width: 55%;"><strong>On Decentralizing Federated Reinforcement Learning in Multi-Robot Scenarios</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2207.09372"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2207.09372"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7560,14 +7560,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2022</td>
     <td style="width: 55%;"><strong>GriddlyJS: A Web IDE for Reinforcement Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2207.06105"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://griddly.ai"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2207.06105"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://griddly.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7581,11 +7581,11 @@ We are committed to offering researchers the latest advancements in the field. B
     <td style="width: 10%;">
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2207.03586"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/causal-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2207.03586"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/causal-agents"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7597,14 +7597,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2022</td>
     <td style="width: 55%;"><strong>WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2207.01206"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://webshop-pnlp.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2207.01206"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://webshop-pnlp.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7616,15 +7616,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2022</td>
     <td style="width: 55%;"><strong>META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2205.11029"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://x-lance.github.io/META-GUI-Leaderboard/"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2205.11029"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://x-lance.github.io/META-GUI-Leaderboard/"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7636,14 +7636,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2022</td>
     <td style="width: 55%;"><strong>Fast Inference and Transfer of Compositional Task Structures for Few-shot Task Generalization</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2205.12648"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2205.12648"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7654,15 +7654,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2022</td>
     <td style="width: 55%;"><strong>Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2204.03514"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://ram81.github.io/projects/habitat-web"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2204.03514"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ram81.github.io/projects/habitat-web"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7673,14 +7673,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Apr 2022</td>
     <td style="width: 55%;"><strong>Learning how to Interact with a Complex Interface using Hierarchical Reinforcement Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2204.10374"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/deepmind/acme/tree/master/acme/agents/tf/dqn"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2204.10374"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/deepmind/acme/tree/master/acme/agents/tf/dqn"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7692,13 +7692,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2022</td>
     <td style="width: 55%;"><strong>Natural Language Communication with a Teachable Agent</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2203.09016"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2203.09016"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7709,13 +7709,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2022</td>
     <td style="width: 55%;"><strong>Multi-agent Searching System for Medical Information</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2203.12465"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2203.12465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7727,14 +7727,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2022</td>
     <td style="width: 55%;"><strong>A data-driven approach for learning to control computers</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2202.08137"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2202.08137"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7747,13 +7747,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2022</td>
     <td style="width: 55%;"><strong>Governance of Autonomous Agents on the Web: Challenges and Opportunities</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2202.02574"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2202.02574"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7764,13 +7764,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2022</td>
     <td style="width: 55%;"><strong>Feasibility of Interactive 3D Map for Remote Sighted Assistance</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2202.01365"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2202.01365"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7782,14 +7782,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Feb 2022</td>
     <td style="width: 55%;"><strong>A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2202.02312"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/aburns4/MoTIF"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2202.02312"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aburns4/MoTIF"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7801,14 +7801,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2022</td>
     <td style="width: 55%;"><strong>Environment Generation for Zero-Shot Compositional Reinforcement Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2201.08896"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2201.08896"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/google-research/tree/master/compositional_rl"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7821,14 +7821,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2021</td>
     <td style="width: 55%;"><strong>Contextual Bandit Applications in Customer Support Bot</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2112.03210"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2112.03210"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7839,13 +7839,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2021</td>
     <td style="width: 55%;"><strong>Tree-based Focused Web Crawling with Reinforcement Learning</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2112.07620"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2112.07620"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7857,15 +7857,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2021</td>
     <td style="width: 55%;"><strong>LOA: Logical Optimal Actions for Text-based Interaction Games</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2110.10973"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/ibm/loa"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
-      <a href="https://ibm.biz/acl21-loa"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2110.10973"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ibm/loa"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
+      <a href="https://ibm.biz/acl21-loa"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7877,13 +7877,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2021</td>
     <td style="width: 55%;"><strong>Sim-to-Real Transfer in Multi-agent Reinforcement Networking for Federated Edge Computing</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2110.08952"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2110.08952"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7895,13 +7895,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2021</td>
     <td style="width: 55%;"><strong>Developing a Lecture Video Recording System Using Augmented Reality</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2110.05955"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2110.05955"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7913,14 +7913,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Oct 2021</td>
     <td style="width: 55%;"><strong>Learning UI Navigation through Demonstrations composed of Macro Actions</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2110.08653"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2110.08653"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7932,15 +7932,15 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2021</td>
     <td style="width: 55%;"><strong>ERICA: An Empathetic Android Companion for Covid-19 Quarantine</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2106.02325"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://youtu.be/PLPEBXLeKJI"><img src="https://img.shields.io/badge/Website-9cf"></a>
+      <a href="https://arxiv.org/pdf/2106.02325"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://youtu.be/PLPEBXLeKJI"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
@@ -7952,14 +7952,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Aug 2020</td>
     <td style="width: 55%;"><strong>ICE-Talk: an Interface for a Controllable Expressive Talking Machine</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2008.11045"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/noetits/ICE-Talk"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/2008.11045"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/noetits/ICE-Talk"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -7971,13 +7971,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Mar 2020</td>
     <td style="width: 55%;"><strong>Towards Effective Human-AI Collaboration in GUI-Based Interactive Task Learning Agents</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/2003.02622"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/2003.02622"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -7989,13 +7989,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Dec 2019</td>
     <td style="width: 55%;"><strong>SensAI+Expanse Adaptation on Human Behaviour Towards Emotional Valence Prediction</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/1912.10084"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1912.10084"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8007,13 +8007,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Sep 2019</td>
     <td style="width: 55%;"><strong>Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/1909.00031"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1909.00031"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8025,16 +8025,16 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2019</td>
     <td style="width: 55%;"><strong>scenery: Flexible Virtual Reality Visualization on the Java VM</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/1906.06726"><img src="https://img.shields.io/badge/Paper-red"></a>
-      <a href="https://github.com/scenerygraphics/scenery"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a>
+      <a href="https://arxiv.org/pdf/1906.06726"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/scenerygraphics/scenery"><img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
@@ -8045,14 +8045,14 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">May 2019</td>
     <td style="width: 55%;"><strong>Lessons from Contextual Bandit Learning in a Customer Support Bot</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/1905.02219"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1905.02219"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8063,13 +8063,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Nov 2018</td>
     <td style="width: 55%;"><strong>Say Hi to Eliza. An Embodied Conversational Agent on the Web</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/1811.05902"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1811.05902"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8081,13 +8081,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jul 2016</td>
     <td style="width: 55%;"><strong>Towards A Virtual Assistant That Can Be Taught New Tasks In Any Domain By Its End-Users</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/1607.00061"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1607.00061"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8099,13 +8099,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jan 2016</td>
     <td style="width: 55%;"><strong>BUbiNG: Massive Crawling for the Masses</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/1601.06919"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1601.06919"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8117,13 +8117,13 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2012</td>
     <td style="width: 55%;"><strong>MAINWAVE: Multi Agents and Issues Negotiation for Web using Alliance Virtual Engine</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/1206.5884"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1206.5884"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
@@ -8135,20 +8135,19 @@ We are committed to offering researchers the latest advancements in the field. B
     <td rowspan="2" style="width: 15%;">Jun 2010</td>
     <td style="width: 55%;"><strong>Design specifications of the Human Robotic interface for the biomimetic underwater robot "yellow submarine project"</strong></td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a>
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
     <td style="width: 10%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 10%;">
-      <a href="https://arxiv.org/pdf/1006.5263"><img src="https://img.shields.io/badge/Paper-red"></a>
+      <a href="https://arxiv.org/pdf/1006.5263"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
     <td colspan="3">
     </td>
   </tr>
-
 
 </table>
 
