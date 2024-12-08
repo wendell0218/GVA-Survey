@@ -1502,8 +1502,8 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td><strong>Date</strong></td>
     <td><strong>Paper</strong></td>
-    <td><strong>Environment</strong></td>
-    <td><strong>Contribution</strong></td>
+    <td><strong>Env.</strong></td>
+    <td><strong>Contrib.</strong></td>
     <td><strong>Link</strong></td>
   </tr>
   <tr>
