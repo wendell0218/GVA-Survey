@@ -1525,6 +1525,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Hong Kong<br>
       • Agent Name: AGUVIS, Base Model: Qwen2-VL, Strategy: Two-stage training<br>
       • Benchmark Name: THE AGUVIS COLLECTION, Task Number: 35K, Dataset Source: VLM-augmented<br>
     </td>
@@ -1547,6 +1548,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shenzhen International Graduate School, Tsinghua University<br>
       • Agent Name: Ponder & Press, Base Model: Qwen2-VL, Strategy: Divide-and-conquer<br>
     </td>
   </tr>
@@ -1566,6 +1568,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Palisade Research<br>
       • Agent Name: ReAct&Plan, Base Model: GPT-4o, Strategy: ReAct&Plan prompting strategy<br>
     </td>
   </tr>
@@ -1584,6 +1587,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: American University of Beirut<br>
       • Agent Name: Agentic Approach, Base Model: Gemini 1.5 Flash and GPT-4o mini, Strategy: Two-tiered agentic approach<br>
     </td>
   </tr>
@@ -1602,6 +1606,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Adobe Inc.<br>
       • Agent Name: BOTracle, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -1622,6 +1627,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Eötvös Loránd University<br>
       • Agent Name: HackSynth, Base Model: GPT-4o, Strategy: Prompt<br>
       • Benchmark Name: PicoCTF Benchmark, Task Number: 120, Dataset Source: CTF challenges<br>
       • Benchmark Name: OverTheWire Benchmark, Task Number: 80, Dataset Source: CTF challenges<br>
@@ -1643,7 +1649,46 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Beijing University of Posts and Telecommunications (BUPT), China<br>
       • Benchmark Name: DroidCall, Task Number: 10000, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.03920"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Paper Number: 100<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>MageBench: Bridging Large Multimodal Models to Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.04531"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/MageBench"><img src="https://img.shields.io/github/stars/microsoft/MageBench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Southeast University<br>
+      • Benchmark Name: MageBench, Task Number: 483, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -1662,6 +1707,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Microsoft<br>
       • Paper Number: 374<br>
     </td>
   </tr>
@@ -1682,6 +1728,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Show Lab, National University of Singapore<br>
       • Agent Name: ShowUI, Base Model: Qwen2-VL-2B, Strategy: UI-Guided Visual Token Selection<br>
     </td>
   </tr>
@@ -1700,6 +1747,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Georgia Institute of Technology<br>
       • Agent Name: AdaptAgent, Base Model: GPT-4o, Strategy: In-context Learning<br>
     </td>
   </tr>
@@ -1721,6 +1769,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: National University of Singapore<br>
       • Agent Name: Claude 3.5 Computer Use, Base Model: Claude-3.5, Strategy: API-based GUI automation<br>
       • Benchmark Name: Computer Use Out-of-the-Box, Task Number: 20, Dataset Source: human evaluation<br>
     </td>
@@ -1739,6 +1788,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Huawei Noah’s Ark Lab<br>
       • Paper Number: 100<br>
     </td>
   </tr>
@@ -1760,6 +1810,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Zhipu AI<br>
       • Agent Name: AUTOGLM, Base Model: ChatGLM, Strategy: Self-Evolving Online Curriculum RL<br>
     </td>
   </tr>
@@ -1777,6 +1828,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Zhejiang University<br>
       • Paper Number: 139<br>
     </td>
   </tr>
@@ -1798,6 +1850,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Microsoft Research AI Frontiers<br>
       • Agent Name: Magentic-One, Base Model: GPT-4o, Strategy: Multi-agent system<br>
       • Benchmark Name: AutoGenBench, Task Number: 3, Dataset Source: LLM synthesis<br>
     </td>
@@ -1818,6 +1871,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: KAIST AI<br>
       • Agent Name: Generative Context Distillation, Base Model: LLaMA-3-8B-Instruct, Strategy: Prompt Generation Loss<br>
     </td>
   </tr>
@@ -1837,6 +1891,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Machine Learning Department, CMU<br>
       • Agent Name: ScribeAgent, Base Model: Qwen2, Strategy: Fine-tuning<br>
     </td>
   </tr>
@@ -1856,6 +1911,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The Ohio State University<br>
       • Agent Name: WEB-DREAMER, Base Model: LLMs, Strategy: Model-based planning<br>
     </td>
   </tr>
@@ -1875,6 +1931,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University College Dublin<br>
     </td>
   </tr>
   <tr>
@@ -1892,6 +1949,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: TensorOpera Inc.<br>
       • Agent Name: Alopex, Base Model: Fox LLM, Strategy: fine-tuning with description-question-output format<br>
     </td>
   </tr>
@@ -1913,6 +1971,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Technical University of Munich (TUM), Munich, Germany<br>
       • Agent Name: CUIfy, Base Model: Various LLMs, Strategy: Integration of STT, LLM, and TTS models<br>
     </td>
   </tr>
@@ -1933,6 +1992,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tsinghua University<br>
       • Agent Name: WEBRL, Base Model: Llama-3.1, Strategy: Reinforcement Learning<br>
       • Benchmark Name: WebArena-Lite, Task Number: 165, Dataset Source: human demonstration<br>
     </td>
@@ -1952,6 +2012,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Australian Artificial Intelligence Institute, Sydney, Australia<br>
       • Paper Number: 100<br>
     </td>
   </tr>
@@ -1972,6 +2033,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
       • Agent Name: AutoPT, Base Model: GPT-4o, Strategy: Finite State Machine (FSM)<br>
       • Benchmark Name: end-to-end penetration testing benchmark, Task Number: 20, Dataset Source: Vulhub<br>
     </td>
@@ -1991,7 +2053,84 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Illinois Urbana-Champaign<br>
       • Agent Name: ReSpAct, Base Model: GPT-4, Strategy: Prompt<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
+    <td style="width: 40%;"><strong>A Survey On Enhancing Reinforcement Learning in Complex Environments: Insights from Human and LLM Feedback</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2411.13410"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Tehran<br>
+      • Paper Number: 83<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
+    <td style="width: 40%;"><strong>GUI Agents with Foundation Models: A Comprehensive Survey</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2411.04890"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Huawei Noah’s Ark Lab<br>
+      • Paper Number: 100<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
+    <td style="width: 40%;"><strong>World Models: The Safety Perspective</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2411.07690"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Huawei Technologies Duesseldorf GmbH, RAMS Lab, Munich, Germany<br>
+      • Paper Number: 79<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
+    <td style="width: 40%;"><strong>AutoGLM: Autonomous Foundation Agents for GUIs</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/THUDM/AutoGLM.svg?style=social&label=Star"></a><br>
+      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhipu AI<br>
+      • Agent Name: AUTOGLM, Base Model: ChatGLM, Strategy: Self-evolving Online Curriculum RL<br>
     </td>
   </tr>
   <tr>
@@ -2015,6 +2154,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
       • Agent Name: OS-Atlas, Base Model: InternVL-2-4B, Strategy: SFT<br>
       • Agent Name: OS-Atlas, Base Model: Qwen2-VL-7B, Strategy: SFT<br>
     </td>
@@ -2038,6 +2178,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Fudan University<br>
       • Agent Name: EDGE, Base Model: Monkey, Strategy: Data Synthesis<br>
     </td>
   </tr>
@@ -2057,6 +2198,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Universit é de Montr éal<br>
       • Agent Name: OSCAR, Base Model: GPT-4, Strategy: Task-driven Re-planning<br>
     </td>
   </tr>
@@ -2076,6 +2218,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Warsaw University of Technology<br>
       • Agent Name: ClickAgent, Base Model: InternVL2.0, Strategy: Hybrid approach with UI location model<br>
     </td>
   </tr>
@@ -2095,6 +2238,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Samsung R&D Poland<br>
       • Agent Name: TinyClick, Base Model: Florence-2-Base, Strategy: Multitask Training<br>
     </td>
   </tr>
@@ -2116,6 +2260,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Simular Research<br>
       • Agent Name: Agent S, Base Model: GPT-4o, Strategy: Experience-Augmented Hierarchical Planning<br>
       • Benchmark Name: OSWorld, Task Number: 369, Dataset Source: not specified<br>
       • Benchmark Name: WindowsAgentArena, Task Number: 154, Dataset Source: not specified<br>
@@ -2140,6 +2285,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The Ohio State University<br>
       • Agent Name: UGround, Base Model: LLaV A, Strategy: Slight adaptation<br>
       • Benchmark Name: ScreenSpot, Task Number: 1272, Dataset Source: web-based synthetic data<br>
     </td>
@@ -2160,6 +2306,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: School of Computer Science and Technology, Harbin Institute of Technology, China<br>
       • Agent Name: Dynamic Planning of Thoughts (D-PoT), Base Model: GPT-4V, Strategy: Dynamic Planning<br>
     </td>
   </tr>
@@ -2179,6 +2326,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tsinghua University<br>
       • Benchmark Name: ANDROID LAB, Task Number: 138, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -2198,6 +2346,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Department of Nuclear Engineering, Texas A&M University, United States<br>
       • Agent Name: AutoFLUKA, Base Model: gpt-4o, Strategy: LangChain<br>
     </td>
   </tr>
@@ -2219,6 +2368,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Xi’an Jiaotong University<br>
       • Agent Name: MetaAgent, Base Model: InternVL2-8B, Strategy: AgentToken<br>
       • Benchmark Name: OSWorld, Task Number: 369, Dataset Source: human demonstration<br>
     </td>
@@ -2239,6 +2389,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Illinois Urbana-Champaign<br>
     </td>
   </tr>
   <tr>
@@ -2256,6 +2407,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: LG AI Research<br>
       • Agent Name: Auto-Intent, Base Model: GPT-3.5, Strategy: Self-Exploration<br>
     </td>
   </tr>
@@ -2275,6 +2427,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Politecnico di Torino<br>
       • Benchmark Name: AUTOPENBENCH, Task Number: 33, Dataset Source: <br>
     </td>
   </tr>
@@ -2294,6 +2447,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Illinois<br>
       • Agent Name: Agent-E, Base Model: GPT-4-Turbo, Strategy: Self-Refinement<br>
     </td>
   </tr>
@@ -2312,6 +2466,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Department of Computer Science, University of Illinois-Urbana Champaign<br>
     </td>
   </tr>
   <tr>
@@ -2329,6 +2484,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of California, Los Angeles<br>
       • Benchmark Name: CASA, Task Number: 2, Dataset Source: <br>
     </td>
   </tr>
@@ -2347,6 +2503,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Ant Group<br>
       • Agent Name: EBC-LLMAgent, Base Model: LLM, Strategy: Behavior Cloning<br>
     </td>
   </tr>
@@ -2366,6 +2523,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: MMLab, CUHK<br>
       • Agent Name: Vision Search Assistant, Base Model: LLaVA-1.6-7B, Strategy: Retrieval-Augmented Generation<br>
     </td>
   </tr>
@@ -2385,6 +2543,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Zhejiang University<br>
       • Agent Name: OpenWebVoyager, Base Model: Idefics2-8b-instruct, Strategy: Imitation Learning<br>
     </td>
   </tr>
@@ -2405,6 +2564,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Benchmark Name: VideoWebArena, Task Number: 2021, Dataset Source: manually crafted video tutorials<br>
     </td>
   </tr>
@@ -2424,6 +2584,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Illinois at Urbana-Champaign<br>
       • Agent Name: INFOGENT, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -2442,6 +2603,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Salesforce AI Research, USA<br>
       • Agent Name: PRAct, Base Model: GPT-3.5-Turbo, Strategy: Reflective Principle Optimization (RPO)<br>
     </td>
   </tr>
@@ -2461,6 +2623,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Cambridge<br>
       • Agent Name: ReAct agent, Base Model: Llama3-405B, Strategy: ReAct<br>
     </td>
   </tr>
@@ -2479,6 +2642,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Huawei Noah’s Ark Lab<br>
       • Agent Name: LiMAC, Base Model: Florence2, Strategy: Fine-tuning<br>
     </td>
   </tr>
@@ -2498,6 +2662,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: KAIST<br>
       • Benchmark Name: MobileSafetyBench, Task Number: 100, Dataset Source: <br>
     </td>
   </tr>
@@ -2518,6 +2683,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: National University of Singapore<br>
       • Agent Name: PUMA, Base Model: LLM, Strategy: SFT, DPO<br>
       • Benchmark Name: PersonalWAB, Task Number: 3, Dataset Source: Amazon review dataset<br>
     </td>
@@ -2539,6 +2705,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Agent Name: API-calling agent, Base Model: GPT-4o, Strategy: API calling<br>
       • Agent Name: Hybrid Agent, Base Model: GPT-4o, Strategy: API calling and web browsing<br>
     </td>
@@ -2559,6 +2726,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Stanford University<br>
       • Benchmark Name: Sketch2Code, Task Number: , Dataset Source: <br>
     </td>
   </tr>
@@ -2577,6 +2745,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Zhejiang University<br>
       • Agent Name: Copilot for Xcode, Base Model: OpenAI GPT series, Strategy: Retrieval-Augmented Generation (RAG)<br>
     </td>
   </tr>
@@ -2595,6 +2764,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Huawei Noah’s Ark Lab<br>
       • Benchmark Name: SPA-BENCH, Task Number: 340, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -2614,6 +2784,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Cambridge<br>
       • Agent Name: DISTRL, Base Model: T5-based multimodal generation architecture, Strategy: Reinforcement Learning<br>
       • Benchmark Name: AitW, Task Number: 128, Dataset Source: expert-curated task sets<br>
     </td>
@@ -2633,6 +2804,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: KAIST<br>
     </td>
   </tr>
   <tr>
@@ -2650,6 +2822,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Benchmark Name: BrowserART, Task Number: 100, Dataset Source: HarmBench, AirBench 2024, and original behaviors<br>
     </td>
   </tr>
@@ -2668,6 +2841,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Illinois Urbana-Champaign<br>
       • Agent Name: AGENT OCCAM, Base Model: GPT-4-turbo, Strategy: Observation and Action Space Alignment<br>
     </td>
   </tr>
@@ -2687,6 +2861,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Benchmark Name: MultiUI, Task Number: 9, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
@@ -2706,6 +2881,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
       • Agent Name: MobA, Base Model: multimodal large language models, Strategy: two-level agent architecture<br>
       • Benchmark Name: MobBench, Task Number: 50, Dataset Source: real-life tasks<br>
     </td>
@@ -2726,6 +2902,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Yonsei University<br>
       • Agent Name: World-Model-Augmented (WMA) web agent, Base Model: Llama-3.1-8B-Instruct, Strategy: Policy optimization with world model<br>
     </td>
   </tr>
@@ -2744,6 +2921,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Washington<br>
       • Benchmark Name: Impact Actions Dataset, Task Number: 250, Dataset Source: crowdsourcing<br>
     </td>
   </tr>
@@ -2762,6 +2940,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Zhejiang University<br>
       • Agent Name: SoundScape, Base Model: ChatGPT, Strategy: Conversational Agent<br>
     </td>
   </tr>
@@ -2781,6 +2960,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The Key Laboratory of Cognition and Decision Intelligence for Complex Systems, Institute of Automation, Chinese Academy of Sciences<br>
       • Benchmark Name: DA-Code, Task Number: 500, Dataset Source: real, challenging data analysis tasks<br>
     </td>
   </tr>
@@ -2800,6 +2980,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: IBM Research<br>
       • Benchmark Name: ST-WebAgentBench, Task Number: 234, Dataset Source: <br>
     </td>
   </tr>
@@ -2820,6 +3001,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Department of Electronic Engineering, Tsinghua University<br>
       • Agent Name: AgentSquare, Base Model: LLM, Strategy: module evolution and recombination<br>
     </td>
   </tr>
@@ -2840,6 +3022,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Cornell University<br>
       • Agent Name: LEAP, Base Model: Llama3-8B, Strategy: SFT<br>
     </td>
   </tr>
@@ -2858,6 +3041,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Stanford University<br>
       • Agent Name: NNetscape Navigator, Base Model: GPT-4o-mini, Strategy: Supervised Fine-Tuning<br>
     </td>
   </tr>
@@ -2877,6 +3061,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Columbia University<br>
       • Agent Name: R-MCTS, Base Model: GPT-4o, Strategy: Reflective Monte Carlo Tree Search<br>
     </td>
   </tr>
@@ -2895,7 +3080,89 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Beijing University of Posts and Telecommunications<br>
       • Benchmark Name: CALF, Task Number: 1476, Dataset Source: Chinese examination questions<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.16670"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/uclaml/COPS"><img src="https://img.shields.io/github/stars/uclaml/COPS.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Department of Computer Science, Indiana University Bloomington, IN 47408, USA<br>
+      • Agent Name: CoPS, Base Model: Llama 3.1, Strategy: Pessimism-based strategy<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/ljang0/videowebarena.svg?style=social&label=Star"></a><br>
+      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Benchmark Name: VideoWebArena, Task Number: 2021, Dataset Source: manually crafted video tutorials<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.21220"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/cnzzx/VSA"><img src="https://img.shields.io/github/stars/cnzzx/VSA.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: MMLab, CUHK<br>
+      • Agent Name: Vision Search Assistant, Base Model: LLaVA-1.6-7B, Strategy: Retrieval-Augmented Generation<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.17520"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://mobilesafetybench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: KAIST<br>
+      • Benchmark Name: MobileSafetyBench, Task Number: 100, Dataset Source: <br>
     </td>
   </tr>
   <tr>
@@ -2915,6 +3182,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: School of Computer Science, Peking University, China<br>
       • Agent Name: PeriGuru, Base Model: LLM, Strategy: Prompt<br>
     </td>
   </tr>
@@ -2932,6 +3200,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Xi’an Jiaotong University<br>
       • Paper Number: 231<br>
     </td>
   </tr>
@@ -2953,6 +3222,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
     </td>
   </tr>
   <tr>
@@ -2971,6 +3241,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The Ohio State University<br>
     </td>
   </tr>
   <tr>
@@ -2989,6 +3260,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tencent AI Lab, Seattle<br>
       • Agent Name: Cognitive Kernel, Base Model: LLama3, Strategy: fine-tuning<br>
     </td>
   </tr>
@@ -3008,6 +3280,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tencent AI Lab, Seattle<br>
       • Agent Name: Cognitive Kernel, Base Model: LLama3, Strategy: fine-tuning<br>
     </td>
   </tr>
@@ -3026,6 +3299,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Peking University<br>
       • Agent Name: AXIS, Base Model: LLM, Strategy: API-first approach<br>
     </td>
   </tr>
@@ -3046,6 +3320,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tel-Aviv University<br>
       • Agent Name: EnIGMA, Base Model: GPT-4 Turbo, Strategy: Prompt<br>
       • Benchmark Name: NYU CTF Benchmark, Task Number: 200, Dataset Source: public and open source CTF challenges<br>
     </td>
@@ -3066,6 +3341,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Agent Name: Synatra-CodeLlama, Base Model: CodeLlama, Strategy: finetuning<br>
     </td>
   </tr>
@@ -3084,6 +3360,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: FutureSearch AI<br>
       • Benchmark Name: Realistic Long-Term Benchmark for Open-Web Research Agents, Task Number: not specified, Dataset Source: not specified<br>
     </td>
   </tr>
@@ -3104,6 +3381,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: XiaoMi AI Lab<br>
       • Agent Name: MobileVLM, Base Model: Qwen-VL-Chat, Strategy: Pre-training and fine-tuning<br>
       • Benchmark Name: Mobile3M, Task Number: 4, Dataset Source: real-world interactions<br>
     </td>
@@ -3123,6 +3401,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google DeepMind, USA<br>
       • Benchmark Name: WebQuest, Task Number: 3, Dataset Source: <br>
     </td>
   </tr>
@@ -3141,6 +3420,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: National University of Defense Technology<br>
       • Agent Name: LLM Agent with Q-value Model, Base Model: Phi-3-mini-4k-instruct, Strategy: DPO<br>
     </td>
   </tr>
@@ -3159,6 +3439,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Key Lab of High Confidence Software Technologies (Peking University), Beijing, China<br>
       • Agent Name: ELMS, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -3180,6 +3461,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Microsoft<br>
       • Agent Name: Navi, Base Model: GPT-4V-1106, Strategy: Set-of-Marks prompting<br>
       • Benchmark Name: WINDOWS AGENT ARENA, Task Number: 154, Dataset Source: automatic execution-based evaluation<br>
     </td>
@@ -3200,6 +3482,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Agent Name: Agent Workflow Memory (AWM), Base Model: GPT-4, Strategy: Workflow Induction<br>
     </td>
   </tr>
@@ -3219,6 +3502,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Oxford<br>
       • Agent Name: Charlie, Base Model: LLM, Strategy: Dialogue<br>
     </td>
   </tr>
@@ -3238,6 +3522,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Glasgow<br>
       • Benchmark Name: MATWA, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -3257,6 +3542,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: King Fahd University of Petroleum and Minerals (KFUPM)<br>
       • Agent Name: BreachSeek, Base Model: Claude 3.5 Sonnet, Strategy: <br>
     </td>
   </tr>
@@ -3276,6 +3562,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: IBM Research - Israel<br>
       • Agent Name: WebNaviX, Base Model: GPT-4o, Strategy: Prompt<br>
       • Benchmark Name: Mind2Web, Task Number: 777, Dataset Source: human demonstration<br>
     </td>
@@ -3296,6 +3583,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: UC Berkeley<br>
       • Agent Name: TinyAgent, Base Model: TinyLlama-1.1B, Strategy: Fine-tuning<br>
     </td>
   </tr>
@@ -3315,6 +3603,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: McGill<br>
     </td>
   </tr>
   <tr>
@@ -3336,6 +3625,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Microsoft Research<br>
       • Agent Name: OMNIPARSER, Base Model: GPT-4V, Strategy: fine-tuning<br>
     </td>
   </tr>
@@ -3355,6 +3645,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Stanford University SCPD<br>
       • Agent Name: DPO agent, Base Model: BERT, Strategy: DPO<br>
     </td>
   </tr>
@@ -3374,6 +3665,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: LMU Munich<br>
       • Agent Name: WebPilot, Base Model: GPT-4, Strategy: Monte Carlo Tree Search (MCTS)<br>
     </td>
   </tr>
@@ -3392,6 +3684,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Technology Sydney<br>
       • Agent Name: AppAgent v2, Base Model: GPT-4, Strategy: RAG technology<br>
     </td>
   </tr>
@@ -3410,6 +3703,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: National University of Singapore<br>
       • Agent Name: PhishAgent, Base Model: MLLMs, Strategy: Multimodal information retrieval framework<br>
     </td>
   </tr>
@@ -3429,6 +3723,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Stanford University<br>
       • Benchmark Name: Cybench, Task Number: 40, Dataset Source: <br>
     </td>
   </tr>
@@ -3447,6 +3742,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Ping An Bank Co., Ltd.<br>
       • Agent Name: WeKnow-RAG, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -3465,6 +3761,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The AGI Company (MultiOn)<br>
       • Agent Name: Agent Q, Base Model: LLaMA-3 70B, Strategy: DPO<br>
     </td>
   </tr>
@@ -3483,6 +3780,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Rutgers University–New Brunswick<br>
       • Agent Name: RAHL, Base Model: GPT-3.5-turbo, Strategy: Hierarchical Reinforcement Learning<br>
     </td>
   </tr>
@@ -3503,6 +3801,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tsinghua University<br>
       • Benchmark Name: VisualAgentBench, Task Number: 5, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -3521,6 +3820,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Apple<br>
       • Agent Name: FixAlly, Base Model: GPT-4o, Strategy: multi-agent LLM architecture<br>
     </td>
   </tr>
@@ -3540,6 +3840,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: London Metropolitan University<br>
       • Agent Name: Reinforcement Learning Post-Incident Malware Investigation Model, Base Model: , Strategy: Q-learning<br>
       • Benchmark Name: Unified Markov Decision Process (MDP) Model, Task Number: , Dataset Source: <br>
     </td>
@@ -3560,6 +3861,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: MMLab, CUHK<br>
       • Benchmark Name: AMEX, Task Number: 2946, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -3580,6 +3882,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
       • Benchmark Name: Spider2-V, Task Number: 494, Dataset Source: real-world tasks<br>
     </td>
   </tr>
@@ -3599,6 +3902,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: School of Computer Science, Fudan University<br>
       • Agent Name: AUITestAgent, Base Model: GPT-4o, Strategy: multi-dimensional data extraction<br>
     </td>
   </tr>
@@ -3617,6 +3921,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Ant Group<br>
       • Agent Name: MobileFlow, Base Model: Qwen-VL-Chat, Strategy: Mixture of Experts (MoE)<br>
     </td>
   </tr>
@@ -3636,6 +3941,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: State Key Laboratory of Intelligent Game, Institute of Software Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing, China<br>
       • Agent Name: Trident, Base Model: GPT-4 Vision, Strategy: Prompt<br>
     </td>
   </tr>
@@ -3655,6 +3961,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: KAUST<br>
       • Benchmark Name: Crab Benchmark-v0, Task Number: 120, Dataset Source: sub-task composition<br>
     </td>
   </tr>
@@ -3676,6 +3983,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: UIUC<br>
       • Agent Name: OpenHands, Base Model: CodeAct, Strategy: Prompt<br>
       • Benchmark Name: OpenHands Evaluation, Task Number: 15, Dataset Source: not specified<br>
     </td>
@@ -3697,6 +4005,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
       • Agent Name: MindSearch, Base Model: GPT-4o, Strategy: multi-agent framework<br>
     </td>
   </tr>
@@ -3714,6 +4023,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Technology Sydney<br>
       • Paper Number: 135<br>
     </td>
   </tr>
@@ -3734,6 +4044,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tel Aviv University<br>
       • Agent Name: SEEPLANACT (SPA), Base Model: GPT-4-Turbo, Strategy: Prompt<br>
       • Benchmark Name: ASSISTANT BENCH, Task Number: 214, Dataset Source: human demonstration<br>
     </td>
@@ -3754,6 +4065,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Simbian AI<br>
       • Agent Name: TaskGen, Base Model: LLM, Strategy: StrictJSON<br>
     </td>
   </tr>
@@ -3772,6 +4084,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Penn State University<br>
       • Agent Name: AI agent for CTI analysis, Base Model: GPT-4, Strategy: Not explicitly mentioned<br>
     </td>
   </tr>
@@ -3791,6 +4104,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Emergence AI<br>
       • Agent Name: Agent-E, Base Model: GPT-4-Turbo, Strategy: Hierarchical Architecture<br>
     </td>
   </tr>
@@ -3809,6 +4123,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Ubiquitous Knowledge Processing Lab (UKP Lab), Department of Computer Science and Hessian Center for AI (hessian.AI), Technical University of Darmstadt, Germany<br>
       • Agent Name: InferAct, Base Model: GPT-4, Strategy: Belief Reasoning<br>
     </td>
   </tr>
@@ -3828,6 +4143,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Baichuan Inc.<br>
       • Agent Name: Sibyl, Base Model: GPT-4, Strategy: multi-agent debate-based jury<br>
     </td>
   </tr>
@@ -3847,6 +4163,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: School of Cyber Science and Engineering, Xi’an Jiaotong University<br>
       • Benchmark Name: mobile agent security matrix, Task Number: 8, Dataset Source: <br>
     </td>
   </tr>
@@ -3866,6 +4183,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: ServiceNow Research<br>
       • Benchmark Name: WorkArena++, Task Number: 682, Dataset Source: <br>
     </td>
   </tr>
@@ -3885,6 +4203,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: AI Lab at Lenovo Research<br>
       • Agent Name: MobileExperts, Base Model: LLM/VLM, Strategy: Code Combination Based Tool Formulation<br>
       • Benchmark Name: Expert-Eval, Task Number: 28, Dataset Source: <br>
     </td>
@@ -3904,6 +4223,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Princeton University<br>
       • Benchmark Name: WebArena, Task Number: 812, Dataset Source: <br>
     </td>
   </tr>
@@ -3923,6 +4243,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Electronic Science and Technology of China<br>
       • Benchmark Name: Mobile-Bench, Task Number: 832, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
@@ -3942,6 +4263,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
     </td>
   </tr>
   <tr>
@@ -3962,6 +4284,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of California, Santa Cruz<br>
       • Agent Name: Tree-of-Lens (ToL) agent, Base Model: GPT-4o, Strategy: Multi-lens Prompting<br>
       • Benchmark Name: Screen Point-and-Read (ScreenPR) benchmark, Task Number: 1500, Dataset Source: manually annotated<br>
     </td>
@@ -3982,6 +4305,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google Research<br>
       • Benchmark Name: Goal Identification from UI Trajectories, Task Number: , Dataset Source: <br>
     </td>
   </tr>
@@ -4001,6 +4325,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Show Lab, National University of Singapore<br>
       • Benchmark Name: Act2Cap, Task Number: 4189, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -4022,6 +4347,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: UC Berkeley<br>
       • Agent Name: DigiRL, Base Model: VLM, Strategy: Advantage-Weighted Regression<br>
       • Benchmark Name: Android-in-the-Wild (AitW), Task Number: not specified, Dataset Source: not specified<br>
     </td>
@@ -4044,6 +4370,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Renmin University of China<br>
       • Agent Name: Qwen-GUI, Base Model: Qwen-VL, Strategy: SFT<br>
       • Agent Name: Fuyu-GUI, Base Model: Fuyu-8B, Strategy: SFT<br>
       • Agent Name: MiniCPM-GUI, Base Model: MiniCPM-V, Strategy: SFT<br>
@@ -4069,6 +4396,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Huazhong University of Science and Technology<br>
       • Benchmark Name: GUI-WORLD, Task Number: 7, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -4089,6 +4417,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: OpenGVLab, Shanghai AI Laboratory<br>
       • Agent Name: OdysseyAgent, Base Model: Qwen-VL, Strategy: fine-tuning with a history resampling module<br>
       • Benchmark Name: GUI Odyssey, Task Number: 7735, Dataset Source: human demonstration<br>
     </td>
@@ -4109,6 +4438,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Benchmark Name: MobileAgentBench, Task Number: 100, Dataset Source: <br>
     </td>
   </tr>
@@ -4128,6 +4458,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Samsung SDS<br>
       • Agent Name: CAAP, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
@@ -4149,6 +4480,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Fudan NLP Lab & Fudan Vision and Learning Lab<br>
       • Agent Name: AGENT EVOL, Base Model: Llama-2-Chat-7B, Strategy: Behavioral Cloning<br>
       • Benchmark Name: AGENT EVAL, Task Number: 89, Dataset Source: crowdsourcing and AI-based methods<br>
     </td>
@@ -4168,6 +4500,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: German Research Center for Artificial Intelligence, Saarbrücken, Germany<br>
       • Agent Name: Lydia, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -4187,6 +4520,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Harvard University<br>
       • Benchmark Name: WebSuite, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -4207,6 +4541,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Agent Name: ICAL, Base Model: GPT-4V, Strategy: In-Context Abstraction Learning<br>
     </td>
   </tr>
@@ -4226,6 +4561,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Gaoling School of Artificial Intelligence, Renmin University of China<br>
       • Agent Name: CoAct, Base Model: gpt-3.5-turbo-16K-0613, Strategy: Hierarchical Planning<br>
     </td>
   </tr>
@@ -4245,6 +4581,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Stanford University<br>
       • Benchmark Name: WONDERBREAD, Task Number: 6, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -4265,6 +4602,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Benchmark Name: VisualWebArena-Adv, Task Number: 200, Dataset Source: <br>
     </td>
   </tr>
@@ -4284,6 +4622,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: iMean AI<br>
       • Benchmark Name: WebCanvas, Task Number: 542, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -4303,6 +4642,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: State Key Laboratory of Multimedia Information Processing School of Computer Science, Peking University<br>
       • Agent Name: IPR, Base Model: Llama-2-7B, Strategy: SFT, DPO<br>
     </td>
   </tr>
@@ -4322,6 +4662,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: UIUC<br>
       • Agent Name: GuardAgent, Base Model: GPT-4, Strategy: in-context learning<br>
       • Benchmark Name: EICU-AC, Task Number: 316, Dataset Source: EICU dataset<br>
       • Benchmark Name: Mind2Web-SC, Task Number: 200, Dataset Source: Mind2Web dataset<br>
@@ -4343,6 +4684,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Boston University<br>
       • Benchmark Name: OpenApp, Task Number: 4, Dataset Source: newly constructed mobile app dataset<br>
     </td>
   </tr>
@@ -4361,6 +4703,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Independent Researcher<br>
       • Paper Number: 100<br>
     </td>
   </tr>
@@ -4381,6 +4724,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tencent Timi Studio<br>
       • Benchmark Name: Mini Honor of Kings, Task Number: 7, Dataset Source: <br>
     </td>
   </tr>
@@ -4400,6 +4744,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Zhengzhou University<br>
     </td>
   </tr>
   <tr>
@@ -4418,6 +4763,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google DeepMind<br>
       • Benchmark Name: ANDROID CONTROL, Task Number: 15283, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -4435,6 +4781,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Swinburne University of Technology<br>
       • Paper Number: 215<br>
     </td>
   </tr>
@@ -4454,6 +4801,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Illinois Urbana-Champaign<br>
       • Agent Name: HPTSA, Base Model: GPT-4, Strategy: Hierarchical Planning and Task-Specific Agents<br>
       • Benchmark Name: Benchmark of Zero-Day Vulnerabilities, Task Number: 15, Dataset Source: open-source software vulnerabilities<br>
     </td>
@@ -4473,6 +4821,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Pennsylvania<br>
       • Paper Number: 200<br>
     </td>
   </tr>
@@ -4492,6 +4841,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Beijing Jiaotong University<br>
       • Agent Name: Mobile-Agent-v2, Base Model: GPT-4V, Strategy: Multi-agent collaboration<br>
     </td>
   </tr>
@@ -4511,6 +4861,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Wisconsin-Madison<br>
       • Agent Name: DEPSRAG, Base Model: GPT-4-Turbo, Strategy: Retrieval-Augmented Generation (RAG)<br>
     </td>
   </tr>
@@ -4530,6 +4881,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Pennsylvania<br>
     </td>
   </tr>
   <tr>
@@ -4548,6 +4900,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Department of Computer Science, Stanford University<br>
       • Agent Name: RIR-augmented MLLM, Base Model: GPT-4, Strategy: Reverse Image Retrieval<br>
     </td>
   </tr>
@@ -4566,6 +4919,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: UPenn<br>
       • Agent Name: DEVIL'S ADVOCATE, Base Model: GPT-4, Strategy: Introspective Reflection<br>
     </td>
   </tr>
@@ -4584,6 +4938,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Concordia University<br>
       • Agent Name: DRLRM-PT, Base Model: , Strategy: Deep Q-learning with Reward Machine<br>
     </td>
   </tr>
@@ -4605,6 +4960,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Princeton University<br>
       • Agent Name: SWE-agent, Base Model: GPT-4 Turbo, Strategy: ReAct<br>
       • Benchmark Name: SWE-bench, Task Number: 2294, Dataset Source: GitHub issues<br>
     </td>
@@ -4625,6 +4981,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google DeepMind<br>
       • Benchmark Name: ANDROID WORLD, Task Number: 116, Dataset Source: <br>
     </td>
   </tr>
@@ -4644,6 +5001,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google Research<br>
     </td>
   </tr>
   <tr>
@@ -4660,6 +5018,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Data61, CSIRO, Australia<br>
       • Paper Number: 79<br>
     </td>
   </tr>
@@ -4678,6 +5037,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tilburg University - JADS<br>
       • Agent Name: CRATOR, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -4696,6 +5056,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: School of Computing, KAIST<br>
       • Paper Number: 17<br>
     </td>
   </tr>
@@ -4715,6 +5076,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Stanford University<br>
       • Agent Name: ECLAIR, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
@@ -4733,6 +5095,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tampere University, Tampere, Finland.<br>
     </td>
   </tr>
   <tr>
@@ -4750,6 +5113,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Maastricht University<br>
       • Agent Name: WebAI, Base Model: T5, Strategy: Behavioral Cloning<br>
     </td>
   </tr>
@@ -4772,6 +5136,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
       • Benchmark Name: OSWORLD, Task Number: 369, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -4790,6 +5155,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Department of Computer Science and Technology, Tsinghua University, China<br>
       • Agent Name: PromptRPA, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
@@ -4808,6 +5174,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of California Berkeley<br>
       • Agent Name: WILBUR, Base Model: LLM, Strategy: Adaptive In-Context Learning<br>
     </td>
   </tr>
@@ -4827,6 +5194,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: KAIST<br>
       • Benchmark Name: B-MoCA, Task Number: 131, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -4846,6 +5214,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications<br>
       • Benchmark Name: LlamaTouch, Task Number: 496, Dataset Source: human annotation<br>
     </td>
   </tr>
@@ -4864,6 +5233,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Microsoft Corporation, USA<br>
       • Benchmark Name: GeoLLM-Engine, Task Number: 500000, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
@@ -4882,6 +5252,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Renmin University of China<br>
       • Paper Number: 174<br>
     </td>
   </tr>
@@ -4901,6 +5272,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai Key Laboratory of Data Science, School of Computer Science, Fudan University<br>
       • Agent Name: AUTOSCRAPER, Base Model: LLMs, Strategy: Progressive Understanding<br>
     </td>
   </tr>
@@ -4919,6 +5291,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: New York University<br>
       • Agent Name: LLM-powered general computer agent, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
@@ -4936,6 +5309,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Neudesic, an IBM Company<br>
       • Paper Number: 38<br>
     </td>
   </tr>
@@ -4954,6 +5328,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Agent Name: AgentKit, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
@@ -4972,6 +5347,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Kentucky<br>
       • Agent Name: GLAINTEL, Base Model: Flan-T5, Strategy: Reinforcement Learning<br>
     </td>
   </tr>
@@ -4990,6 +5366,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Duke University<br>
       • Benchmark Name: ChatShop, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -5008,6 +5385,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Agile Loop<br>
       • Agent Name: UI-VLM, Base Model: Qwen-VL, Strategy: next-token prediction and masked self-attention<br>
     </td>
   </tr>
@@ -5027,6 +5405,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of California, Santa Cruz<br>
       • Agent Name: Action Prediction Model, Base Model: GPT4-V, Strategy: Prompt<br>
       • Benchmark Name: MagicWand, Task Number: None, Dataset Source: None<br>
     </td>
@@ -5047,6 +5426,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Stanford University<br>
       • Agent Name: LLM CVE agent, Base Model: GPT-4, Strategy: ReAct agent framework<br>
       • Benchmark Name: Real-world one-day vulnerabilities, Task Number: 15, Dataset Source: CVE database and academic papers<br>
     </td>
@@ -5067,6 +5447,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Nanyang Technological University<br>
       • Benchmark Name: MMInA, Task Number: 1050, Dataset Source: human-written tasks<br>
     </td>
   </tr>
@@ -5088,6 +5469,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: UC Berkeley<br>
     </td>
   </tr>
   <tr>
@@ -5106,6 +5488,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The Chinese University of Hong Kong<br>
       • Benchmark Name: VisualWebBench, Task Number: 7, Dataset Source: human-curated instances<br>
     </td>
   </tr>
@@ -5126,6 +5509,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Fudan University<br>
     </td>
   </tr>
   <tr>
@@ -5142,6 +5526,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: North South University<br>
       • Paper Number: 117<br>
     </td>
   </tr>
@@ -5162,6 +5547,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tsinghua University<br>
       • Agent Name: AutoWebGLM, Base Model: ChatGLM3-6B, Strategy: SFT, Reinforcement Learning, Rejection Sampling Finetuning<br>
       • Benchmark Name: AutoWebBench, Task Number: 50, Dataset Source: model-assisted and manual methods<br>
     </td>
@@ -5181,6 +5567,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: School of Computer Science, Peking University<br>
       • Benchmark Name: Social, Task Number: 12383, Dataset Source: <br>
     </td>
   </tr>
@@ -5199,6 +5586,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Stanford University<br>
       • Agent Name: Octopus v2, Base Model: Gemma 2B, Strategy: Fine-tuning with functional tokens<br>
     </td>
   </tr>
@@ -5221,6 +5609,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: NTU, Singapore<br>
       • Benchmark Name: AgentStudio, Task Number: 205, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -5241,6 +5630,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Fudan University<br>
       • Agent Name: CoAT, Base Model: GPT-4V, Strategy: Prompt<br>
       • Benchmark Name: AITZ, Task Number: 18643, Dataset Source: human demonstration<br>
     </td>
@@ -5264,6 +5654,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: NTU, Singapore<br>
       • Benchmark Name: AgentStudio overall benchmark tasks, Task Number: 205, Dataset Source: human demonstration<br>
       • Benchmark Name: GroundUI, Task Number: 18026, Dataset Source: existing datasets and AgentStudio-collected data<br>
       • Benchmark Name: IDMBench, Task Number: 345, Dataset Source: Mind2Web, Android in the Wild, VisualWebArena, and AgentStudio<br>
@@ -5287,6 +5678,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Nanyang Technological University, Singapore<br>
       • Agent Name: CRADLE, Base Model: GPT-4o, Strategy: Modular Framework<br>
       • Benchmark Name: OSWorld, Task Number: 369, Dataset Source: human demonstration<br>
     </td>
@@ -5306,6 +5698,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tsinghua University<br>
       • Agent Name: A3T, Base Model: Mistral-7B-Instruct-v0.2, Strategy: Policy Gradient<br>
     </td>
   </tr>
@@ -5325,6 +5718,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Johns Hopkins University<br>
       • Benchmark Name: TURKING BENCH, Task Number: 158, Dataset Source: crowdsourcing tasks<br>
     </td>
   </tr>
@@ -5343,6 +5737,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: SuperAGI Research<br>
       • Agent Name: AUTONODE, Base Model: GPT-4V, Strategy: Neuro-graphic Operations<br>
     </td>
   </tr>
@@ -5361,6 +5756,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Simon Fraser University<br>
       • Agent Name: CleanAgent, Base Model: LLM-based Agents, Strategy: Declarative API Calls<br>
     </td>
   </tr>
@@ -5379,6 +5775,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Department of Computer Science, Stanford University<br>
       • Agent Name: BAGEL, Base Model: PaLM-2, Strategy: Iterative relabeling with LM components<br>
     </td>
   </tr>
@@ -5397,6 +5794,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Michigan<br>
       • Agent Name: AUTOGUIDE, Base Model: GPT-4-turbo, Strategy: Prompt<br>
     </td>
   </tr>
@@ -5416,6 +5814,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
       • Agent Name: TRAD, Base Model: GPT-4, Strategy: Thought Retrieval and Aligned Decision<br>
     </td>
   </tr>
@@ -5435,6 +5834,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: ServiceNow Research<br>
       • Benchmark Name: WorkArena, Task Number: 33, Dataset Source: <br>
       • Benchmark Name: BrowserGym, Task Number: , Dataset Source: <br>
     </td>
@@ -5455,6 +5855,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: School of Computer Science, Peking University<br>
       • Agent Name: ETO, Base Model: Llama-2-7B-Chat, Strategy: Behavioral Cloning, DPO<br>
     </td>
   </tr>
@@ -5474,6 +5875,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
       • Agent Name: CoCo-Agent, Base Model: LLaV A, Strategy: Comprehensive Environment Perception (CEP) and Conditional Action Prediction (CAP)<br>
     </td>
   </tr>
@@ -5495,6 +5897,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: School of Artificial Intelligence, Jilin University<br>
       • Agent Name: ScreenAgent, Base Model: GPT-4V, Strategy: Reinforcement Learning<br>
       • Benchmark Name: ScreenAgent Dataset, Task Number: 273, Dataset Source: human demonstration<br>
     </td>
@@ -5516,6 +5919,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Microsoft<br>
       • Agent Name: UFO, Base Model: GPT-Vision, Strategy: Prompt<br>
       • Benchmark Name: WindowsBench, Task Number: 50, Dataset Source: <br>
     </td>
@@ -5539,6 +5943,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Benchmark Name: OmniACT, Task Number: 9802, Dataset Source: human annotation<br>
     </td>
   </tr>
@@ -5559,6 +5964,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
       • Agent Name: FRIDAY, Base Model: GPT-4, Strategy: self-directed learning<br>
     </td>
   </tr>
@@ -5579,6 +5985,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of California, Berkeley<br>
       • Agent Name: ArCHer, Base Model: , Strategy: Hierarchical Multi-Turn RL<br>
     </td>
   </tr>
@@ -5597,6 +6004,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Wangxuan Institute of Computer Technology, Peking University<br>
       • Benchmark Name: QRDATA, Task Number: 411, Dataset Source: <br>
     </td>
   </tr>
@@ -5616,6 +6024,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Gaoling School of Artificial Intelligence, Renmin University of China<br>
       • Agent Name: BASES, Base Model: GPT-4, Strategy: Prompt<br>
       • Benchmark Name: WARRIORS, Task Number: 100000, Dataset Source: LLM synthesis<br>
     </td>
@@ -5635,6 +6044,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Wisconsin-Madison<br>
       • Benchmark Name: WIPI, Task Number: 18, Dataset Source: real-world webpages<br>
     </td>
   </tr>
@@ -5653,6 +6063,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shenzhen Research Institute of Big Data<br>
       • Paper Number: 81<br>
     </td>
   </tr>
@@ -5672,6 +6083,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: National University of Singapore<br>
       • Benchmark Name: MT-Mind2Web, Task Number: 720, Dataset Source: expert-annotated web navigation dataset<br>
     </td>
   </tr>
@@ -5691,6 +6103,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: UNC Chapel Hill<br>
     </td>
   </tr>
   <tr>
@@ -5709,6 +6122,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Gaoling School of Artificial Intelligence, Renmin University of China<br>
       • Benchmark Name: Agent Backdoor Attacks, Task Number: 2, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
@@ -5729,6 +6143,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Department of Computer Science and Technology, Tsinghua University, Beijing, China<br>
       • Agent Name: UA2 Agent, Base Model: GPT-3.5, Strategy: Structured Memory<br>
       • Benchmark Name: Retrofitted WebShop, Task Number: 500, Dataset Source: artificially constructed instructions<br>
     </td>
@@ -5748,6 +6163,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: UIUC<br>
       • Agent Name: LLM Agent, Base Model: GPT-4, Strategy: Function calling, document reading, and planning<br>
     </td>
   </tr>
@@ -5767,6 +6183,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: GSAI, Renmin University of China<br>
       • Agent Name: CoSearchAgent, Base Model: ChatGPT, Strategy: Prompt<br>
     </td>
   </tr>
@@ -5786,6 +6203,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Peking University<br>
       • Benchmark Name: AndroidArena, Task Number: 221, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
@@ -5806,6 +6224,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: MIT / Harvard University<br>
       • Benchmark Name: PROMST, Task Number: 11, Dataset Source: <br>
     </td>
   </tr>
@@ -5825,6 +6244,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Mila Quebec AI Institute<br>
       • Benchmark Name: WEBLINX, Task Number: 2337, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -5844,6 +6264,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The Ohio State University<br>
       • Agent Name: DUAL-VCR, Base Model: , Strategy: <br>
       • Benchmark Name: Mind2Web, Task Number: 2000, Dataset Source: <br>
     </td>
@@ -5862,6 +6283,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
       • Paper Number: 100<br>
     </td>
   </tr>
@@ -5879,6 +6301,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tianjin University<br>
       • Paper Number: 292<br>
     </td>
   </tr>
@@ -5903,6 +6326,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Department of Computer Science and Technology, Nanjing University<br>
       • Agent Name: SeeClick, Base Model: Qwen-VL, Strategy: GUI grounding pre-training<br>
       • Benchmark Name: ScreenSpot, Task Number: 1200, Dataset Source: automated curation from web and mobile<br>
     </td>
@@ -5921,6 +6345,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Stanford University<br>
       • Paper Number: 100<br>
     </td>
   </tr>
@@ -5942,6 +6367,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The Ohio State University<br>
       • Agent Name: SEEACT, Base Model: GPT-4V, Strategy: Prompt<br>
     </td>
   </tr>
@@ -5960,6 +6386,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Hannover University of Applied Sciences and Arts<br>
     </td>
   </tr>
   <tr>
@@ -5978,6 +6405,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
       • Benchmark Name: AGENT BOARD, Task Number: 9, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -5998,6 +6426,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Ant Group<br>
       • Agent Name: Ant Intelligent Assistant (AIA), Base Model: QWen-7B, Strategy: Supervised Fine-Tuning (SFT) with LoRA<br>
       • Benchmark Name: AitW, Task Number: 30000, Dataset Source: human demonstration<br>
     </td>
@@ -6017,6 +6446,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Hiroshi Ishiguro Laboratories, ATR, Kyoto, Japan<br>
       • Benchmark Name: DRC2023, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -6035,6 +6465,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: WeChat Pay, Tencent<br>
       • Agent Name: XUAT-Copilot, Base Model: LLM, Strategy: Multi-Agent Collaborative Framework<br>
     </td>
   </tr>
@@ -6053,6 +6484,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Benchmark Name: VisualWebArena, Task Number: 910, Dataset Source: <br>
     </td>
   </tr>
@@ -6073,6 +6505,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Zhejiang University<br>
       • Agent Name: WebVoyager, Base Model: GPT-4V, Strategy: Prompt<br>
       • Benchmark Name: WebVoyager Benchmark, Task Number: 643, Dataset Source: self-instruct<br>
     </td>
@@ -6094,6 +6527,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Beijing Jiaotong University<br>
       • Agent Name: Mobile-Agent, Base Model: GPT-4V, Strategy: Prompt<br>
       • Benchmark Name: Mobile-Eval, Task Number: 10, Dataset Source: <br>
     </td>
@@ -6113,6 +6547,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Institute for AI Industry Research (AIR), Tsinghua University<br>
       • Paper Number: 445<br>
     </td>
   </tr>
@@ -6133,6 +6568,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Show Lab, National University of Singapore<br>
       • Benchmark Name: ASSIST GUI, Task Number: 100, Dataset Source: not specified<br>
     </td>
   </tr>
@@ -6154,6 +6590,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tsinghua University<br>
       • Agent Name: CogAgent, Base Model: CogVLM, Strategy: cross-attention module<br>
     </td>
   </tr>
@@ -6174,6 +6611,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Australian Institute for Machine Learning, The University of Adelaide<br>
       • Agent Name: Website-aware VLN Network (WebVLN-Net), Base Model: , Strategy: <br>
       • Benchmark Name: WebVLN-v1, Task Number: 14925, Dataset Source: <br>
     </td>
@@ -6192,6 +6630,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tsinghua University<br>
       • Paper Number: 245<br>
     </td>
   </tr>
@@ -6210,6 +6649,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Fudan University<br>
       • Benchmark Name: M3DBench, Task Number: 15, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
@@ -6228,6 +6668,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google DeepMind<br>
     </td>
   </tr>
   <tr>
@@ -6246,6 +6687,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tencent<br>
       • Agent Name: AppAgent, Base Model: GPT-4, Strategy: Exploration and Observation<br>
     </td>
   </tr>
@@ -6265,6 +6707,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: FAIR at Meta<br>
       • Benchmark Name: Procgen and WebShop Datasets, Task Number: , Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -6283,6 +6726,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google Research<br>
       • Agent Name: UINav, Base Model: SmallBERT, Strategy: Demonstration-based training<br>
     </td>
   </tr>
@@ -6302,6 +6746,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: KAIST<br>
       • Agent Name: DROID AGENT, Base Model: Large Language Models, Strategy: Autonomous GUI testing<br>
     </td>
   </tr>
@@ -6323,6 +6768,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: UC San Diego<br>
       • Agent Name: MM-Navigator, Base Model: GPT-4V, Strategy: Prompt<br>
     </td>
   </tr>
@@ -6342,6 +6788,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google DeepMind, USA<br>
       • Benchmark Name: CompWoB, Task Number: 50, Dataset Source: <br>
     </td>
   </tr>
@@ -6360,6 +6807,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
       • Paper Number: 100<br>
     </td>
   </tr>
@@ -6379,6 +6827,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: AutoGPT/Independent<br>
       • Benchmark Name: AgentMonitor, Task Number: 29, Dataset Source: <br>
     </td>
   </tr>
@@ -6399,6 +6848,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: UCLA<br>
       • Agent Name: LUMOS, Base Model: LLAMA-2-7B/13B, Strategy: Unified and Modular Training<br>
     </td>
   </tr>
@@ -6419,6 +6869,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Yale University<br>
       • Benchmark Name: ML-BENCH, Task Number: 9641, Dataset Source: GitHub repositories<br>
     </td>
   </tr>
@@ -6438,6 +6889,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Universidade Federal do Rio Grande do Sul<br>
       • Agent Name: Hybrid Minimax-MCTS, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -6457,6 +6909,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: JPMorgan AI Research<br>
       • Agent Name: O3D, Base Model: LLM, Strategy: Offline Data-driven Discovery and Distillation<br>
       • Benchmark Name: ALFWorld, Task Number: 134, Dataset Source: human demonstration<br>
       • Benchmark Name: WebShop, Task Number: 500, Dataset Source: human demonstration<br>
@@ -6479,6 +6932,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
       • Agent Name: OpenAgents, Base Model: GPT-4, Strategy: Prompt<br>
     </td>
   </tr>
@@ -6498,6 +6952,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google Research, Mountain View, U.S.A.<br>
       • Agent Name: Zero-Shot Language Agent, Base Model: PaLM2, Strategy: Structured Reflection<br>
     </td>
   </tr>
@@ -6517,6 +6972,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Illinois Urbana-Champaign<br>
       • Agent Name: LATS, Base Model: GPT-3.5, Strategy: Monte Carlo Tree Search<br>
     </td>
   </tr>
@@ -6537,6 +6993,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Hong Kong<br>
       • Agent Name: Lemur, Base Model: Llama-2-70B, Strategy: Pre-training and instruction fine-tuning<br>
       • Agent Name: Lemur-Chat, Base Model: Llama-2-70B, Strategy: Instruction fine-tuning<br>
       • Benchmark Name: MINT, Task Number: 13, Dataset Source: Repurposed existing datasets<br>
@@ -6560,6 +7017,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
       • Agent Name: Auto-GUI, Base Model: , Strategy: chain-of-action technique<br>
       • Benchmark Name: AITW, Task Number: 30000, Dataset Source: <br>
     </td>
@@ -6580,6 +7038,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Information Technology, Ho Chi Minh City, Vietnam<br>
       • Agent Name: Raijū, Base Model: , Strategy: Reinforcement Learning<br>
     </td>
   </tr>
@@ -6597,6 +7056,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Beijing Jiaotong University<br>
       • Paper Number: 150<br>
     </td>
   </tr>
@@ -6616,6 +7076,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: AIWaves Inc.<br>
       • Agent Name: AGENTS, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -6634,6 +7095,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tencent AI Lab, Bellevue, WA<br>
       • Agent Name: LASER, Base Model: GPT-4, Strategy: State-Space Exploration<br>
     </td>
   </tr>
@@ -6653,6 +7115,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Defence Research & Development Canada<br>
     </td>
   </tr>
   <tr>
@@ -6670,6 +7133,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The University of Edinburgh<br>
       • Agent Name: Spoken Humanoid Embodied Conversational Agents (HECAs), Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -6689,6 +7153,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Coimbra<br>
       • Agent Name: MONDEO, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -6708,6 +7173,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Delft University of Technology<br>
       • Agent Name: REdORank, Base Model: , Strategy: multi-perspective learning to rank<br>
     </td>
   </tr>
@@ -6727,6 +7193,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google Research<br>
       • Agent Name: On-device Agent for Text Rewriting, Base Model: PaLM 2-XXS, Strategy: SFT + heuristic RL<br>
       • Benchmark Name: MESSAGE REWRITE EVAL, Task Number: 5, Dataset Source: human-donated message texts<br>
     </td>
@@ -6748,6 +7215,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Salesforce Research, USA<br>
     </td>
   </tr>
   <tr>
@@ -6765,6 +7233,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Nanjing University<br>
       • Agent Name: Mamba, Base Model: , Strategy: multi-agent reinforcement learning<br>
     </td>
   </tr>
@@ -6785,6 +7254,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Tsinghua University<br>
       • Benchmark Name: AGENT BENCH, Task Number: 8, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -6802,6 +7272,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, 100872, China<br>
       • Paper Number: 100<br>
     </td>
   </tr>
@@ -6822,6 +7293,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Salesforce AI Research<br>
       • Agent Name: Retroformer, Base Model: GPT-3, Strategy: Policy Gradient Optimization<br>
     </td>
   </tr>
@@ -6841,6 +7313,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Université Grenoble Alpes, CNRS, Grenoble INP, GIPSA-lab, 38000 Grenoble, France<br>
       • Agent Name: KorraAI, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -6859,6 +7332,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google DeepMind<br>
       • Agent Name: WebAgent, Base Model: Flan-U-PaLM, Strategy: self-experience supervision<br>
     </td>
   </tr>
@@ -6878,6 +7352,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google Research<br>
       • Benchmark Name: AITW, Task Number: 30378, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -6897,6 +7372,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Benchmark Name: WebArena, Task Number: 812, Dataset Source: <br>
     </td>
   </tr>
@@ -6917,6 +7393,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google DeepMind<br>
       • Agent Name: PIX2ACT, Base Model: PIX2STRUCT, Strategy: Behavioral Cloning<br>
     </td>
   </tr>
@@ -6937,6 +7414,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The Ohio State University<br>
       • Benchmark Name: MIND2WEB, Task Number: 2000, Dataset Source: crowdsourced action sequences<br>
     </td>
   </tr>
@@ -6957,6 +7435,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Amazon<br>
       • Agent Name: Auto-GPT, Base Model: GPT-4, Strategy: Additional Opinions algorithm<br>
       • Benchmark Name: WebShop, Task Number: 50, Dataset Source: simulated environment<br>
     </td>
@@ -6976,6 +7455,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Faculty of Information Technology, Czech Technical University in Prague<br>
       • Agent Name: Adversarial Malware Generator (AMG), Base Model: , Strategy: Reinforcement Learning<br>
     </td>
   </tr>
@@ -6995,6 +7475,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Washington<br>
       • Agent Name: AR2-D2, Base Model: , Strategy: Behavior Cloning<br>
     </td>
   </tr>
@@ -7014,6 +7495,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: NTU, Singapore<br>
       • Agent Name: SYNAPSE, Base Model: GPT-3.5, Strategy: Prompt<br>
     </td>
   </tr>
@@ -7034,6 +7516,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
       • Agent Name: REMEMBERER, Base Model: GPT-3.5, Strategy: Reinforcement Learning with Experience Memory (RLEM)<br>
     </td>
   </tr>
@@ -7052,6 +7535,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Deloitte & Touche LLP<br>
       • Benchmark Name: UAS Parsing Methodology, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -7071,6 +7555,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
       • Benchmark Name: Mobile-Env, Task Number: 74, Dataset Source: real-world apps<br>
     </td>
   </tr>
@@ -7091,6 +7576,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Czech Technical University in Prague<br>
       • Benchmark Name: NASimEmu, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -7110,6 +7596,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Georgia Institute of Technology<br>
       • Agent Name: BERT RLFuzzer, Base Model: BERT, Strategy: Reinforcement Learning<br>
     </td>
   </tr>
@@ -7128,6 +7615,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: The University of Tokyo<br>
       • Agent Name: WebGUM, Base Model: Flan-T5, Strategy: Finetuning<br>
     </td>
   </tr>
@@ -7146,6 +7634,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Adelaide<br>
       • Agent Name: Critic network assisted Evolutionary Diversity Optimization (C-EDO), Base Model: , Strategy: Reinforcement Learning<br>
     </td>
   </tr>
@@ -7164,6 +7653,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Defence Research and Development Canada<br>
       • Benchmark Name: CyGIL, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -7183,6 +7673,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Defence Research & Development Canada<br>
       • Benchmark Name: CyGIL, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -7201,6 +7692,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Montclair State University<br>
       • Agent Name: Dona, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7220,6 +7712,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of California, Irvine<br>
       • Agent Name: RCI Agent, Base Model: InstructGPT-3+RLHF, Strategy: Prompt<br>
     </td>
   </tr>
@@ -7238,6 +7731,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of St. Gallen<br>
     </td>
   </tr>
   <tr>
@@ -7255,6 +7749,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Berlin Institute of Technology<br>
       • Benchmark Name: Arena-Web, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -7273,6 +7768,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Universität Hamburg<br>
       • Agent Name: Human-AI collaboration system, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7292,6 +7788,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: PeopleTec<br>
     </td>
   </tr>
   <tr>
@@ -7309,6 +7806,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: NA VER Cloud<br>
     </td>
   </tr>
   <tr>
@@ -7326,6 +7824,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Jacobs University<br>
       • Agent Name: Bayesian Model Combination based analyzer, Base Model: , Strategy: Bayesian Model Combination<br>
     </td>
   </tr>
@@ -7344,6 +7843,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: DeepMind New York<br>
       • Agent Name: Wikipedia Navigation Agent, Base Model: Transformer, Strategy: Behavioral Cloning<br>
     </td>
   </tr>
@@ -7362,6 +7862,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Central Missouri<br>
       • Agent Name: DinoDroid, Base Model: , Strategy: Deep Q-Networks<br>
     </td>
   </tr>
@@ -7382,6 +7883,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Northwestern University<br>
       • Benchmark Name: Swarm vs. Swarm Game, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -7401,6 +7903,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Pittsburgh<br>
       • Agent Name: iMedBot, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7420,6 +7923,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: PUCRS<br>
     </td>
   </tr>
   <tr>
@@ -7438,6 +7942,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of St. Thomas<br>
       • Agent Name: EMO20Q Dialog Agent, Base Model: BERT, Strategy: Classification<br>
     </td>
   </tr>
@@ -7456,6 +7961,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google Research, Mountain View, U.S.A.<br>
       • Benchmark Name: MUG, Task Number: 77820, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -7475,6 +7981,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Toronto<br>
       • Agent Name: Conversational Interaction Agent, Base Model: PaLM, Strategy: Prompt<br>
     </td>
   </tr>
@@ -7494,6 +8001,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Zurich<br>
     </td>
   </tr>
   <tr>
@@ -7512,6 +8020,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Meta AI<br>
       • Agent Name: BlenderBot 3, Base Model: OPT-175B, Strategy: fine-tuning<br>
     </td>
   </tr>
@@ -7531,6 +8040,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Univ. of Bremen, Dept. of Mathematics & Computer Science, and Institute for Digitization, Bremen, Germany<br>
       • Agent Name: JavaScript Agent Machine (JAM), Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7551,6 +8061,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Federal Institute of Science and Technology<br>
     </td>
   </tr>
   <tr>
@@ -7569,6 +8080,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Queen Mary University<br>
       • Benchmark Name: GriddlyJS, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -7587,6 +8099,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google Research, Brain Team<br>
       • Benchmark Name: CausalAgents, Task Number: , Dataset Source: <br>
     </td>
   </tr>
@@ -7606,6 +8119,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Department of Computer Science, Princeton University<br>
       • Benchmark Name: WebShop, Task Number: not specified, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -7626,6 +8140,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
       • Benchmark Name: META-GUI, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -7645,6 +8160,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of Michigan<br>
     </td>
   </tr>
   <tr>
@@ -7664,6 +8180,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Georgia Institute of Technology<br>
     </td>
   </tr>
   <tr>
@@ -7682,6 +8199,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: DeepMind<br>
       • Agent Name: Hierarchical Distributed Deep Reinforcement Learning architecture, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7700,6 +8218,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Monash University<br>
     </td>
   </tr>
   <tr>
@@ -7717,6 +8236,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Technical University of Sofia<br>
       • Agent Name: multi-agent security system, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7736,6 +8256,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: DeepMind, London, United Kingdom<br>
       • Agent Name: CC-Net, Base Model: , Strategy: Behavioral Cloning<br>
       • Benchmark Name: MiniWob++, Task Number: 104, Dataset Source: human demonstration<br>
     </td>
@@ -7755,6 +8276,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Umeå University<br>
     </td>
   </tr>
   <tr>
@@ -7772,6 +8294,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: College of Information Sciences and Technology, Pennsylvania State University<br>
       • Agent Name: RSA prototype, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7791,6 +8314,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Boston University<br>
       • Benchmark Name: MoTIF, Task Number: 6100, Dataset Source: human demonstration<br>
     </td>
   </tr>
@@ -7810,6 +8334,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google Research, Brain Team<br>
       • Benchmark Name: compositional MiniGrid, Task Number: None, Dataset Source: None<br>
       • Benchmark Name: gMiniWoB, Task Number: None, Dataset Source: None<br>
     </td>
@@ -7830,6 +8355,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Microsoft<br>
     </td>
   </tr>
   <tr>
@@ -7847,6 +8373,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: National Technical University of Athens<br>
       • Agent Name: TRES, Base Model: , Strategy: Reinforcement Learning<br>
     </td>
   </tr>
@@ -7867,6 +8394,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: IBM Research<br>
       • Agent Name: Logical Optimal Actions (LOA), Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7885,6 +8413,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: University of North Carolina Charlotte<br>
       • Benchmark Name: FedEdge simulator, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
@@ -7903,6 +8432,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Nagoya Institute of Technology<br>
       • Agent Name: Lecture Video Recording System, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7922,6 +8452,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Google Research<br>
       • Agent Name: UI navigation agent, Base Model: , Strategy: Behavioral Cloning<br>
     </td>
   </tr>
@@ -7942,6 +8473,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Center for Artificial Intelligence Research (CAiRE), HKUST<br>
       • Agent Name: ERICA, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7961,6 +8493,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Numediart Institute, University of Mons<br>
       • Agent Name: ICE-Talk, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7979,6 +8512,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Agent Name: SUGILITE, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -7997,6 +8531,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: BioISI, Faculdade de Ciências, Universidade de Lisboa, Portugal<br>
       • Agent Name: SensAI+Expanse, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -8015,6 +8550,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
       • Agent Name: PUMICE, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -8036,6 +8572,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: CASUS, Görlitz<br>
     </td>
   </tr>
   <tr>
@@ -8054,6 +8591,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Microsoft Dynamics 365 AI<br>
     </td>
   </tr>
   <tr>
@@ -8071,6 +8609,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Interactive Technologies Group, Universitat Pompeu Fabra, Barcelona, Spain<br>
       • Agent Name: 3D ECA, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -8089,6 +8628,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Microsoft Research, New York, NY, U.S.A.<br>
       • Agent Name: Helpa, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -8107,6 +8647,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Dipartimento di Informatica, Università degli Studi di Milano, Italy<br>
       • Agent Name: BUbiNG, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -8125,6 +8666,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: Maharashtra Institute of Technology, Pune 411038<br>
       • Agent Name: MAINWAVE, Base Model: , Strategy: <br>
     </td>
   </tr>
@@ -8143,6 +8685,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
+      • Affiliation: 341/42 17 cross Ideal Homes Township, Rajarajeshwarinagar Bangalore 560098, India<br>
     </td>
   </tr>
 
