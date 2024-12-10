@@ -1701,6 +1701,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>The BrowserGym Ecosystem for Web Agent Research</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.05467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ServiceNow/BrowserGym"><img src="https://img.shields.io/github/stars/ServiceNow/BrowserGym.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ServiceNow Research<br>
+      • Benchmark Name: BrowserGym, Task Number: 6, Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>Large Language Model-Brained GUI Agents: A Survey</strong></td>
     <td style="width: 15%;">
