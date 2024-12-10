@@ -46,7 +46,7 @@
 
 ## 🔥 News
 
-- **[December 9, 2024]** We have updated all related papers in the GVA field with detailed analysis. Please click [Related Papers](#-related-papers) to access the comprehensive list with paper summaries~
+- **[December 10, 2024]** We have developed an agent that automatically collects and analyzes the latest papers in the GVA field. It will update the [Related Papers](#-related-papers) daily at 0:30 AM UTC+8.
 
 - **[December 7, 2024]** We have released a Chinese version of the survey, please click [中文版综述](./CN_survey.md) to access!
 
