@@ -1507,30 +1507,7 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="2" style="width: 15%;">12 30
-24</td>
-    <td style="width: 40%;"><strong>DroidCall: A Dataset for LLM-powered Android Intent Invocation</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.00402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/UbiquitousLearning/DroidCall"><img src="https://img.shields.io/github/stars/UbiquitousLearning/DroidCall.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Beijing University of Posts and Telecommunications (BUPT), China<br>
-      • Benchmark Name: DroidCall, Task Number: 10000, Dataset Source: LLM synthesis<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">12 06
-24</td>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>The BrowserGym Ecosystem for Web Agent Research</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1551,8 +1528,28 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 05
-24</td>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>MageBench: Bridging Large Multimodal Models to Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.04531"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/MageBench"><img src="https://img.shields.io/github/stars/microsoft/MageBench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Southeast University<br>
+      • Benchmark Name: MageBench, Task Number: 483, Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1577,8 +1574,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 05
-24</td>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios</strong></td>
     <td style="width: 15%;">
     </td>
@@ -1597,30 +1593,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 05
-24</td>
-    <td style="width: 40%;"><strong>MageBench: Bridging Large Multimodal Models to Agents</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.04531"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/microsoft/MageBench"><img src="https://img.shields.io/github/stars/microsoft/MageBench.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Southeast University<br>
-      • Benchmark Name: MageBench, Task Number: 483, Dataset Source: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">12 03
-24</td>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>Hacking CTFs with Plain Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -1641,8 +1614,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 03
-24</td>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>Large Multimodal Agents for Accurate Phishing Detection with Enhanced Token Optimization and Cost Reduction</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1662,8 +1634,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 03
-24</td>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>BOTracle: A framework for Discriminating Bots and Humans</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1683,32 +1654,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 02
-24</td>
-    <td style="width: 40%;"><strong>Ponder & Press: Advancing Visual GUI Agent towards General Computer Control</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
-      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.01268"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Shenzhen International Graduate School, Tsinghua University<br>
-      • Agent Name: Ponder & Press, Base Model: Qwen2-VL, Strategy: Divide-and-conquer<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">12 02
-24</td>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -1732,56 +1678,51 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 28
-24</td>
-    <td style="width: 40%;"><strong>AutoGLM: Autonomous Foundation Agents for GUIs</strong></td>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>Ponder & Press: Advancing Visual GUI Agent towards General Computer Control</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/THUDM/AutoGLM.svg?style=social&label=Star"></a><br>
-      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2412.01268"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: Zhipu AI<br>
-      • Agent Name: AUTOGLM, Base Model: ChatGLM, Strategy: Self-Evolving Online Curriculum RL<br>
+      • Affiliation: Shenzhen International Graduate School, Tsinghua University<br>
+      • Agent Name: Ponder & Press, Base Model: Qwen2-VL, Strategy: Divide-and-conquer<br>
     </td>
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 28
-24</td>
-    <td style="width: 40%;"><strong>AutoGLM: Autonomous Foundation Agents for GUIs</strong></td>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>DroidCall: A Dataset for LLM-powered Android Intent Invocation</strong></td>
     <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/THUDM/AutoGLM.svg?style=social&label=Star"></a><br>
-      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2412.00402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/UbiquitousLearning/DroidCall"><img src="https://img.shields.io/github/stars/UbiquitousLearning/DroidCall.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: Zhipu AI<br>
-      • Agent Name: AUTOGLM, Base Model: ChatGLM, Strategy: Self-evolving Online Curriculum RL<br>
+      • Affiliation: Beijing University of Posts and Telecommunications (BUPT), China<br>
+      • Benchmark Name: DroidCall, Task Number: 10000, Dataset Source: LLM synthesis<br>
     </td>
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 27
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>Large Language Model-Brained GUI Agents: A Survey</strong></td>
     <td style="width: 15%;">
     </td>
@@ -1802,8 +1743,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 26
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>ShowUI: One Vision-Language-Action Model for GUI Visual Agent</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1825,8 +1765,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 24
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>Generative Context Distillation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1847,8 +1786,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 22
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1869,8 +1807,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 20
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1890,8 +1827,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 20
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>A Survey On Enhancing Reinforcement Learning in Complex Environments: Insights from Human and LLM Feedback</strong></td>
     <td style="width: 15%;">
     </td>
@@ -1910,8 +1846,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms</strong></td>
     <td style="width: 15%;">
     </td>
@@ -1930,8 +1865,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 15
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -1955,8 +1889,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>World Models: The Safety Perspective</strong></td>
     <td style="width: 15%;">
     </td>
@@ -1975,8 +1908,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 10
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1997,8 +1929,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 10
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>Do you want to play a game? Learning to play Tic-Tac-Toe in Hypermedia Environments</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2018,8 +1949,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 07
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
+    <td style="width: 40%;"><strong>Alopex: A Computational Framework for Enabling On-Device Function Calls with LLMs</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2411.05209"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: TensorOpera Inc.<br>
+      • Agent Name: Alopex, Base Model: Fox LLM, Strategy: fine-tuning with description-question-output format<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>GUI Agents with Foundation Models: A Comprehensive Survey</strong></td>
     <td style="width: 15%;">
     </td>
@@ -2038,8 +1988,49 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 07
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
+    <td style="width: 40%;"><strong>GUI Agents with Foundation Models: A Comprehensive Survey</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2411.04890"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Huawei Noah’s Ark Lab<br>
+      • Paper Number: 100<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
+    <td style="width: 40%;"><strong>CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2411.04671"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gitlab.lrz.de/hctl/cuify"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Technical University of Munich (TUM), Munich, Germany<br>
+      • Agent Name: CUIfy, Base Model: Various LLMs, Strategy: Integration of STT, LLM, and TTS models<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2063,73 +2054,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 07
-24</td>
-    <td style="width: 40%;"><strong>Alopex: A Computational Framework for Enabling On-Device Function Calls with LLMs</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.05209"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: TensorOpera Inc.<br>
-      • Agent Name: Alopex, Base Model: Fox LLM, Strategy: fine-tuning with description-question-output format<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">11 07
-24</td>
-    <td style="width: 40%;"><strong>CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.04671"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://gitlab.lrz.de/hctl/cuify"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Technical University of Munich (TUM), Munich, Germany<br>
-      • Agent Name: CUIfy, Base Model: Various LLMs, Strategy: Integration of STT, LLM, and TTS models<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">11 07
-24</td>
-    <td style="width: 40%;"><strong>GUI Agents with Foundation Models: A Comprehensive Survey</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.04890"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Huawei Noah’s Ark Lab<br>
-      • Paper Number: 100<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">11 04
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2152,8 +2077,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 04
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>Foundations and Recent Trends in Multimodal Mobile Agents: A Survey</strong></td>
     <td style="width: 15%;">
     </td>
@@ -2173,8 +2097,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 02
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>AutoPT: How Far Are We from the End2End Automated Web Penetration Testing?</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2197,8 +2120,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 01
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
     <td style="width: 40%;"><strong>ReSpAct: Harmonizing Reasoning, Speaking, and Acting Towards Building Large Language Model-Based Conversational AI Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2218,8 +2140,53 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 31
-24</td>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
+    <td style="width: 40%;"><strong>AutoGLM: Autonomous Foundation Agents for GUIs</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/THUDM/AutoGLM.svg?style=social&label=Star"></a><br>
+      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhipu AI<br>
+      • Agent Name: AUTOGLM, Base Model: ChatGLM, Strategy: Self-evolving Online Curriculum RL<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2024</td>
+    <td style="width: 40%;"><strong>AutoGLM: Autonomous Foundation Agents for GUIs</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2411.00820"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/AutoGLM"><img src="https://img.shields.io/github/stars/THUDM/AutoGLM.svg?style=social&label=Star"></a><br>
+      <a href="https://xiao9905.github.io/AutoGLM"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhipu AI<br>
+      • Agent Name: AUTOGLM, Base Model: ChatGLM, Strategy: Self-Evolving Online Curriculum RL<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -2240,8 +2207,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 31
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2260,8 +2226,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 30
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>Evaluating Cultural and Social Awareness of LLM Web Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.23252"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California, Los Angeles<br>
+      • Benchmark Name: CASA, Task Number: 2, Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>OS-ATLAS: A Foundation Action Model for Generalist GUI Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2288,29 +2273,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 30
-24</td>
-    <td style="width: 40%;"><strong>Evaluating Cultural and Social Awareness of LLM Web Agents</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.23252"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: University of California, Los Angeles<br>
-      • Benchmark Name: CASA, Task Number: 2, Dataset Source: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">10 30
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Explainable Behavior Cloning: Teaching Large Language Model Agents through Learning by Demonstration</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -2330,8 +2293,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 29
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2351,8 +2313,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 28
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2373,8 +2334,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 28
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2395,8 +2355,28 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 25
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.19609"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MinorJerry/OpenWebVoyager"><img src="https://img.shields.io/github/stars/MinorJerry/OpenWebVoyager.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: OpenWebVoyager, Base Model: Idefics2-8b-instruct, Strategy: Imitation Learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2420,9 +2400,52 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 25
-24</td>
-    <td style="width: 40%;"><strong>OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization</strong></td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/ljang0/videowebarena.svg?style=social&label=Star"></a><br>
+      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Benchmark Name: VideoWebArena, Task Number: 2021, Dataset Source: manually crafted video tutorials<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/ljang0/videowebarena.svg?style=social&label=Star"></a><br>
+      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Benchmark Name: VideoWebArena, Task Number: 2021, Dataset Source: manually crafted video tutorials<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>Infogent: An Agent-Based Framework for Web Information Aggregation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
@@ -2430,20 +2453,19 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19609"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/MinorJerry/OpenWebVoyager"><img src="https://img.shields.io/github/stars/MinorJerry/OpenWebVoyager.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.19054"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/gangiswag/infogent"><img src="https://img.shields.io/github/stars/gangiswag/infogent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: Zhejiang University<br>
-      • Agent Name: OpenWebVoyager, Base Model: Idefics2-8b-instruct, Strategy: Imitation Learning<br>
+      • Affiliation: University of Illinois at Urbana-Champaign<br>
+      • Agent Name: INFOGENT, Base Model: , Strategy: <br>
     </td>
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 24
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -2464,8 +2486,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 24
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -2489,53 +2510,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 24
-24</td>
-    <td style="width: 40%;"><strong>VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/ljang0/videowebarena.svg?style=social&label=Star"></a><br>
-      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Carnegie Mellon University<br>
-      • Benchmark Name: VideoWebArena, Task Number: 2021, Dataset Source: manually crafted video tutorials<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">10 24
-24</td>
-    <td style="width: 40%;"><strong>Infogent: An Agent-Based Framework for Web Information Aggregation</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19054"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/gangiswag/infogent"><img src="https://img.shields.io/github/stars/gangiswag/infogent.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: University of Illinois at Urbana-Champaign<br>
-      • Agent Name: INFOGENT, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">10 24
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>PRACT: Optimizing Principled Reasoning and Acting of LLM Agent</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2555,31 +2530,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 24
-24</td>
-    <td style="width: 40%;"><strong>VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.19100"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/ljang0/videowebarena"><img src="https://img.shields.io/github/stars/ljang0/videowebarena.svg?style=social&label=Star"></a><br>
-      <a href="https://videowebarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Carnegie Mellon University<br>
-      • Benchmark Name: VideoWebArena, Task Number: 2021, Dataset Source: manually crafted video tutorials<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">10 23
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Countering Autonomous Cyber Threats</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -2600,8 +2551,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 23
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Lightweight Neural App Control</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -2621,8 +2571,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 23
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -2643,8 +2592,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 23
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -2665,8 +2613,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 22
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2686,8 +2633,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 22
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Large Language Models Empowered Personalized Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2710,8 +2656,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 22
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2732,8 +2677,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 21
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Beyond Browsing: API-Based Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2756,8 +2700,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 21
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2778,8 +2721,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 20
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Contextual Augmented Multi-Model Programming (CAMP): A Hybrid Local-Cloud Copilot Framework</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
@@ -2799,8 +2741,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 19
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -2821,8 +2762,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 19
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -2842,8 +2782,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 18
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -2865,8 +2804,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 18
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2885,8 +2823,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.13886"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Benchmark Name: BrowserART, Task Number: 100, Dataset Source: HarmBench, AirBench 2024, and original behaviors<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2906,8 +2863,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Harnessing Webpage UIs for Text-Rich Visual Understanding</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2928,8 +2884,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>MobA: A Two-Level Agent System for Efficient Mobile Task Automation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -2951,8 +2906,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -2973,29 +2927,49 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 11
-24</td>
-    <td style="width: 40%;"><strong>Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents</strong></td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents</strong></td>
     <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.13886"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2410.11872"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Samsung/ClickAgent"><img src="https://img.shields.io/github/stars/Samsung/ClickAgent.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: Carnegie Mellon University<br>
-      • Benchmark Name: BrowserART, Task Number: 100, Dataset Source: HarmBench, AirBench 2024, and original behaviors<br>
+      • Affiliation: Warsaw University of Technology<br>
+      • Agent Name: ClickAgent, Base Model: InternVL2.0, Strategy: Hybrid approach with UI location model<br>
     </td>
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 11
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>TinyClick: Single-Turn Agent for Empowering GUI Automation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.11871"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Samsung R&D Poland<br>
+      • Agent Name: TinyClick, Base Model: Florence-2-Base, Strategy: Multitask Training<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating UI Operation Impacts</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
@@ -3015,8 +2989,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 10
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Agent S: An Open Agentic Framework that Uses Computers Like a Human</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -3041,8 +3014,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 10
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>SoundScape: A Human-AI Co-Creation System Making Your Memories Heard</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
@@ -3062,52 +3034,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 09
-24</td>
-    <td style="width: 40%;"><strong>ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.11872"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/Samsung/ClickAgent"><img src="https://img.shields.io/github/stars/Samsung/ClickAgent.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Warsaw University of Technology<br>
-      • Agent Name: ClickAgent, Base Model: InternVL2.0, Strategy: Hybrid approach with UI location model<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">10 09
-24</td>
-    <td style="width: 40%;"><strong>TinyClick: Single-Turn Agent for Empowering GUI Automation</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.11871"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Samsung R&D Poland<br>
-      • Agent Name: TinyClick, Base Model: Florence-2-Base, Strategy: Multitask Training<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">10 09
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -3128,8 +3055,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 09
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3150,8 +3076,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 08
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>AgentSquare: Automatic LLM Agent Search in Modular Design Space</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3173,8 +3098,29 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 07
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2410.05434"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://leap-llm.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Cornell University<br>
+      • Agent Name: LEAP, Base Model: Llama3-8B, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3199,31 +3145,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 07
-24</td>
-    <td style="width: 40%;"><strong>Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.05434"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://leap-llm.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Cornell University<br>
-      • Agent Name: LEAP, Base Model: Llama3-8B, Strategy: SFT<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">10 04
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>AutoPenBench: Benchmarking Generative Agents for Penetration Testing</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -3244,8 +3166,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 03
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>NNetscape Navigator: Complex Demonstrations for Web Agents Without a Demonstrator</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3265,8 +3186,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 02
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3287,8 +3207,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 02
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>CALF: Benchmarking Evaluation of LFQA Using Chinese Examinations</strong></td>
     <td style="width: 15%;">
     </td>
@@ -3308,30 +3227,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 01
-24</td>
-    <td style="width: 40%;"><strong>Dynamic Planning for LLM-based Graphical User Interface Automation</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.00467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/sqzhang-lazy/D-PoT"><img src="https://img.shields.io/github/stars/sqzhang-lazy/D-PoT.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: School of Computer Science and Technology, Harbin Institute of Technology, China<br>
-      • Agent Name: Dynamic Planning of Thoughts (D-PoT), Base Model: GPT-4V, Strategy: Dynamic Planning<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">10 01
-24</td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
     <td style="width: 40%;"><strong>Multimodal Auto Validation For Self-Refinement in Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3352,30 +3248,28 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 31
-24</td>
-    <td style="width: 40%;"><strong>BreachSeek: A Multi-Agent Automated Penetration Tester</strong></td>
+    <td rowspan="2" style="width: 15%;">Oct 2024</td>
+    <td style="width: 40%;"><strong>Dynamic Planning for LLM-based Graphical User Interface Automation</strong></td>
     <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
     </td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.03789"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/snow10100/pena/"><img src="https://img.shields.io/github/stars/pena/.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.00467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/sqzhang-lazy/D-PoT"><img src="https://img.shields.io/github/stars/sqzhang-lazy/D-PoT.svg?style=social&label=Star"></a><br>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: King Fahd University of Petroleum and Minerals (KFUPM)<br>
-      • Agent Name: BreachSeek, Base Model: Claude 3.5 Sonnet, Strategy: <br>
+      • Affiliation: School of Computer Science and Technology, Harbin Institute of Technology, China<br>
+      • Agent Name: Dynamic Planning of Thoughts (D-PoT), Base Model: GPT-4V, Strategy: Dynamic Planning<br>
     </td>
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 25
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -3395,8 +3289,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 24
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>EnIGMA: Enhanced Interactive Generative Model Agent for CTF Challenges</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -3419,8 +3312,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 24
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3441,8 +3333,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 23
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>Towards a Realistic Long-Term Benchmark for Open-Web Research Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3462,8 +3353,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 23
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -3486,8 +3376,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 22
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>Large Model Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends</strong></td>
     <td style="width: 15%;">
     </td>
@@ -3506,8 +3395,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 18
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
+    <td style="width: 40%;"><strong>WebQuest: A Benchmark for Multimodal QA on Web Page Sequences</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2409.13711"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google DeepMind, USA<br>
+      • Benchmark Name: WebQuest, Task Number: 3, Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>The Impact of Element Ordering on LM Agent Performance</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3529,8 +3437,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3550,8 +3457,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 16
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3572,8 +3478,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 16
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3594,29 +3499,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 15
-24</td>
-    <td style="width: 40%;"><strong>Web Retrieval Agents for Evidence-Based Misinformation Detection</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.00009"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/ComplexData-MILA/webretrieval"><img src="https://img.shields.io/github/stars/ComplexData-MILA/webretrieval.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: McGill<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">09 14
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
@@ -3638,8 +3521,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 14
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>Enhancing Decision-Making for LLM Agents via Step-Level Q-Value Models</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3659,8 +3541,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
+    <td style="width: 40%;"><strong>ELMS: Elasticized Large Language Models On Mobile Devices</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2409.09071"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Key Lab of High Confidence Software Technologies (Peking University), Beijing, China<br>
+      • Agent Name: ELMS, Base Model: , Strategy: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -3684,8 +3585,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 11
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>Agent Workflow Memory</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3706,72 +3606,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 08
-24</td>
-    <td style="width: 40%;"><strong>ELMS: Elasticized Large Language Models On Mobile Devices</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.09071"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Key Lab of High Confidence Software Technologies (Peking University), Beijing, China<br>
-      • Agent Name: ELMS, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">09 06
-24</td>
-    <td style="width: 40%;"><strong>WebQuest: A Benchmark for Multimodal QA on Web Page Sequences</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.13711"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Google DeepMind, USA<br>
-      • Benchmark Name: WebQuest, Task Number: 3, Dataset Source: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">09 06
-24</td>
-    <td style="width: 40%;"><strong>MATWA: A Web Toolkit for Matching under Preferences</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2409.04402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://matwa.optimalmatching.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: University of Glasgow<br>
-      • Benchmark Name: MATWA, Task Number: None, Dataset Source: None<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">09 03
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>Here's Charlie! Realising the Semantic Web vision of Agents in the age of LLMs</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3792,8 +3627,49 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 03
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
+    <td style="width: 40%;"><strong>MATWA: A Web Toolkit for Matching under Preferences</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2409.04402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://matwa.optimalmatching.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Glasgow<br>
+      • Benchmark Name: MATWA, Task Number: None, Dataset Source: None<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
+    <td style="width: 40%;"><strong>BreachSeek: A Multi-Agent Automated Penetration Tester</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2409.03789"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/snow10100/pena/"><img src="https://img.shields.io/github/stars/pena/.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: King Fahd University of Petroleum and Minerals (KFUPM)<br>
+      • Agent Name: BreachSeek, Base Model: Claude 3.5 Sonnet, Strategy: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>From Grounding to Planning: Benchmarking Bottlenecks in Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3815,8 +3691,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 01
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
     <td style="width: 40%;"><strong>TinyAgent: Function Calling at the Edge</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
@@ -3837,8 +3712,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 28
-24</td>
+    <td rowspan="2" style="width: 15%;">Sep 2024</td>
+    <td style="width: 40%;"><strong>Web Retrieval Agents for Evidence-Based Misinformation Detection</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2409.00009"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ComplexData-MILA/webretrieval"><img src="https://img.shields.io/github/stars/ComplexData-MILA/webretrieval.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: McGill<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3859,8 +3753,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 28
-24</td>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3881,8 +3774,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 20
-24</td>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
+    <td style="width: 40%;"><strong>AppAgent v2: Advanced Agent for Flexible Mobile Interactions</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2408.11824"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Technology Sydney<br>
+      • Agent Name: AppAgent v2, Base Model: GPT-4, Strategy: RAG technology<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3902,8 +3814,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 15
-24</td>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -3924,8 +3835,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 14
-24</td>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3945,8 +3855,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 13
-24</td>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3966,8 +3875,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>Retrieval-Augmented Hierarchical in-Context Reinforcement Learning and Hindsight Modular Reflections for Task Planning with LLMs</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -3987,8 +3895,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4010,8 +3917,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 07
-24</td>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>Automated Code Fix Suggestions for Accessibility Issues in Mobile Apps</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
@@ -4031,29 +3937,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 05
-24</td>
-    <td style="width: 40%;"><strong>AppAgent v2: Advanced Agent for Flexible Mobile Interactions</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2408.11824"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: University of Technology Sydney<br>
-      • Agent Name: AppAgent v2, Base Model: GPT-4, Strategy: RAG technology<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">08 04
-24</td>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>Reinforcement Learning for an Efficient and Effective Malware Investigation during Cyber Incident Response</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -4075,8 +3959,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 01
-24</td>
+    <td rowspan="2" style="width: 15%;">Aug 2024</td>
     <td style="width: 40%;"><strong>OmniParser for Pure Vision Based GUI Agent</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4100,8 +3983,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 29
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>MindSearch: Mimicking Human Minds Elicits Deep AI Searcher</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4123,8 +4005,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 28
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies</strong></td>
     <td style="width: 15%;">
     </td>
@@ -4143,8 +4024,28 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 23
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
+    <td style="width: 40%;"><strong>AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2407.17490"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://yuxiangchai.github.io/AMEX/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: MMLab, CUHK<br>
+      • Benchmark Name: AMEX, Task Number: 2946, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>OpenHands: An Open Platform for AI Software Developers as Generalist Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4168,8 +4069,28 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 22
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
+    <td style="width: 40%;"><strong>TaskGen: A Task-Based, Memory-Infused Agentic Framework using StrictJSON</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2407.15734"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/simbianai/taskgen"><img src="https://img.shields.io/github/stars/simbianai/taskgen.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Simbian AI<br>
+      • Agent Name: TaskGen, Base Model: LLM, Strategy: StrictJSON<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4192,30 +4113,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 22
-24</td>
-    <td style="width: 40%;"><strong>TaskGen: A Task-Based, Memory-Infused Agentic Framework using StrictJSON</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.15734"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/simbianai/taskgen"><img src="https://img.shields.io/github/stars/simbianai/taskgen.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Simbian AI<br>
-      • Agent Name: TaskGen, Base Model: LLM, Strategy: StrictJSON<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">07 18
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>Using LLMs to Automate Threat Intelligence Analysis Workflows in Security Operation Centers</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -4235,8 +4133,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4257,8 +4154,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 16
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>InferAct: Inferring Safe Actions for LLM-Based Agents Through Preemptive Evaluation and Human Feedback</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4278,8 +4174,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 15
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -4301,8 +4196,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 15
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4323,30 +4217,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 12
-24</td>
-    <td style="width: 40%;"><strong>AUITestAgent: Automatic Requirements Oriented GUI Function Testing</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.09018"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/bz-lab/AUITestAgent"><img src="https://img.shields.io/github/stars/bz-lab/AUITestAgent.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: School of Computer Science, Fudan University<br>
-      • Agent Name: AUITestAgent, Base Model: GPT-4o, Strategy: multi-dimensional data extraction<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">07 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4367,8 +4238,28 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 07
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
+    <td style="width: 40%;"><strong>AUITestAgent: Automatic Requirements Oriented GUI Function Testing</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2407.09018"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bz-lab/AUITestAgent"><img src="https://img.shields.io/github/stars/bz-lab/AUITestAgent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: School of Computer Science, Fudan University<br>
+      • Agent Name: AUITestAgent, Base Model: GPT-4o, Strategy: multi-dimensional data extraction<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4389,8 +4280,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 05
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>MobileFlow: A Multimodal LLM For Mobile GUI Agent</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -4410,8 +4300,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 04
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -4433,30 +4322,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 03
-24</td>
-    <td style="width: 40%;"><strong>AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.17490"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://yuxiangchai.github.io/AMEX/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: MMLab, CUHK<br>
-      • Benchmark Name: AMEX, Task Number: 2946, Dataset Source: human demonstration<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">07 03
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -4477,8 +4343,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 01
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -4499,8 +4364,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 01
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>AI Agents That Matter</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4520,8 +4384,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 01
-24</td>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
+    <td style="width: 40%;"><strong>Tree Search for Language Model Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2407.01476"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://jykoh.com/search-agents"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
     <td style="width: 40%;"><strong>Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -4542,29 +4425,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 01
-24</td>
-    <td style="width: 40%;"><strong>Tree Search for Language Model Agents</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.01476"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://jykoh.com/search-agents"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Carnegie Mellon University<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">06 27
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4588,30 +4449,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 20
-24</td>
-    <td style="width: 40%;"><strong>Identifying User Goals from UI Trajectories</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.14314"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Google Research<br>
-      • Benchmark Name: Goal Identification from UI Trajectories, Task Number: , Dataset Source: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">06 20
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4633,8 +4471,28 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 19
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
+    <td style="width: 40%;"><strong>Identifying User Goals from UI Trajectories</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2406.14314"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google Research<br>
+      • Benchmark Name: Goal Identification from UI Trajectories, Task Number: , Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>GUI Action Narrator: Where and When Did That Action Take Place?</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -4655,8 +4513,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 19
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>CoAct: A Global-Local Hierarchy for Autonomous Agent Collaboration</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4677,8 +4534,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 19
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4699,8 +4555,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 18
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>Adversarial Attacks on Multimodal Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4722,8 +4577,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 18
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>WebCanvas: Benchmarking Web Agents in Online Environments</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4744,8 +4598,51 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
+    <td style="width: 40%;"><strong>Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2406.12035"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: German Research Center for Artificial Intelligence, Saarbrücken, Germany<br>
+      • Agent Name: Lydia, Base Model: , Strategy: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
+    <td style="width: 40%;"><strong>DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2406.11896"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/DigiRL-agent/digirl"><img src="https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star"></a><br>
+      <a href="https://digirl-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: UC Berkeley<br>
+      • Agent Name: DigiRL, Base Model: VLM, Strategy: Advantage-Weighted Regression<br>
+      • Benchmark Name: Android-in-the-Wild (AitW), Task Number: not specified, Dataset Source: not specified<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>GUICourse: From General Vision Language Models to Versatile GUI Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4771,29 +4668,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 17
-24</td>
-    <td style="width: 40%;"><strong>Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.12035"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: German Research Center for Artificial Intelligence, Saarbrücken, Germany<br>
-      • Agent Name: Lydia, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">06 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4814,8 +4689,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 16
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4839,33 +4713,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 14
-24</td>
-    <td style="width: 40%;"><strong>DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.11896"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/DigiRL-agent/digirl"><img src="https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star"></a><br>
-      <a href="https://digirl-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: UC Berkeley<br>
-      • Agent Name: DigiRL, Base Model: VLM, Strategy: Advantage-Weighted Regression<br>
-      • Benchmark Name: Android-in-the-Wild (AitW), Task Number: not specified, Dataset Source: not specified<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">06 13
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4888,8 +4736,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -4912,8 +4759,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -4934,8 +4780,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>Tell Me What's Next: Textual Foresight for Generic UI Representations</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -4956,8 +4801,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 11
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -4978,8 +4822,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 09
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning</strong></td>
     <td style="width: 15%;">
     </td>
@@ -4999,8 +4842,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 06
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>AgentGym: Evolving Large Language Model-based Agents across Diverse Environments</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5024,8 +4866,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 06
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>Mini Honor of Kings: A Lightweight Environment for Multi-Agent Reinforcement Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -5047,8 +4888,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 06
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>On the Effects of Data Scale on UI Control Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -5069,8 +4909,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 05
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5090,8 +4929,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 04
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways</strong></td>
     <td style="width: 15%;">
     </td>
@@ -5110,30 +4948,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 03
-24</td>
-    <td style="width: 40%;"><strong>Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2406.01014"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Beijing Jiaotong University<br>
-      • Agent Name: Mobile-Agent-v2, Base Model: GPT-4V, Strategy: Multi-agent collaboration<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">06 02
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>Teams of LLM Agents can Exploit Zero-Day Vulnerabilities</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5155,8 +4970,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 01
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>WebSuite: Systematically Evaluating Why Web Agents Fail</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5177,8 +4991,28 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 01
-24</td>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
+    <td style="width: 40%;"><strong>Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2406.01014"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Jiaotong University<br>
+      • Agent Name: Mobile-Agent-v2, Base Model: GPT-4V, Strategy: Multi-agent collaboration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2024</td>
     <td style="width: 40%;"><strong>Towards Rationality in Language and Multimodal Agents: A Survey</strong></td>
     <td style="width: 15%;">
     </td>
@@ -5198,8 +5032,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 30
-24</td>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 40%;"><strong>DepsRAG: Towards Agentic Reasoning and Planning for Software Dependency Management</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5220,8 +5053,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 30
-24</td>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 40%;"><strong>Large Language Models Can Self-Improve At Web Agent Tasks</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5241,8 +5073,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 29
-24</td>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 40%;"><strong>Reverse Image Retrieval Cues Parametric Memory in Multimodal LLMs</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5263,8 +5094,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 25
-24</td>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 40%;"><strong>Devil's Advocate: Anticipatory Reflection for LLM Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5284,8 +5114,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 24
-24</td>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 40%;"><strong>Knowledge-Informed Auto-Penetration Testing Based on Reinforcement Learning with Reward Machine</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -5305,113 +5134,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 23
-24</td>
-    <td style="width: 40%;"><strong>AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.14573"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/google-research/android_world.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Google DeepMind<br>
-      • Benchmark Name: ANDROID WORLD, Task Number: 116, Dataset Source: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">05 17
-24</td>
-    <td style="width: 40%;"><strong>Latent State Estimation Helps UI Agents to Reason</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.11120"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Google Research<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">05 16
-24</td>
-    <td style="width: 40%;"><strong>Agent Design Pattern Catalogue: A Collection of Architectural Patterns for Foundation Model based Agents</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.10467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Data61, CSIRO, Australia<br>
-      • Paper Number: 79<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">05 10
-24</td>
-    <td style="width: 40%;"><strong>CRATOR: a Dark Web Crawler</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.06356"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Tilburg University - JADS<br>
-      • Agent Name: CRATOR, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">05 07
-24</td>
-    <td style="width: 40%;"><strong>Unveiling Disparities in Web Task Handling Between Human and Web Agent</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.04497"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: School of Computing, KAIST<br>
-      • Paper Number: 17<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">05 06
-24</td>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 40%;"><strong>SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -5435,9 +5158,68 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 05
-24</td>
-    <td style="width: 40%;"><strong>Prioritizing Software Requirements Using Large Language Models</strong></td>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
+    <td style="width: 40%;"><strong>AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2405.14573"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/google-research/android_world.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google DeepMind<br>
+      • Benchmark Name: ANDROID WORLD, Task Number: 116, Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
+    <td style="width: 40%;"><strong>Latent State Estimation Helps UI Agents to Reason</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2405.11120"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google Research<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
+    <td style="width: 40%;"><strong>Agent Design Pattern Catalogue: A Collection of Architectural Patterns for Foundation Model based Agents</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2405.10467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Data61, CSIRO, Australia<br>
+      • Paper Number: 79<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
+    <td style="width: 40%;"><strong>CRATOR: a Dark Web Crawler</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
     </td>
@@ -5445,18 +5227,38 @@ We are committed to offering researchers the latest advancements in the field. B
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.01564"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://arxiv.org/pdf/2405.06356"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: Tampere University, Tampere, Finland.<br>
+      • Affiliation: Tilburg University - JADS<br>
+      • Agent Name: CRATOR, Base Model: , Strategy: <br>
     </td>
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 03
-24</td>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
+    <td style="width: 40%;"><strong>Unveiling Disparities in Web Task Handling Between Human and Web Agent</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2405.04497"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: School of Computing, KAIST<br>
+      • Paper Number: 17<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 40%;"><strong>Automating the Enterprise with Foundation Models</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5477,8 +5279,26 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 01
-24</td>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
+    <td style="width: 40%;"><strong>Prioritizing Software Requirements Using Large Language Models</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2405.01564"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tampere University, Tampere, Finland.<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">May 2024</td>
     <td style="width: 40%;"><strong>Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5498,8 +5318,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 25
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>Benchmarking Mobile Device Control Agents across Diverse Configurations</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -5520,8 +5339,28 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 23
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
+    <td style="width: 40%;"><strong>LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2404.16054"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/LlamaTouch/LlamaTouch"><img src="https://img.shields.io/github/stars/LlamaTouch/LlamaTouch.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications<br>
+      • Benchmark Name: LlamaTouch, Task Number: 496, Dataset Source: human annotation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5541,8 +5380,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 21
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>A Survey on the Memory Mechanism of Large Language Model based Agents</strong></td>
     <td style="width: 15%;">
     </td>
@@ -5562,8 +5400,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 19
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5584,8 +5421,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 18
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>From Language Models to Practical Self-Improving Computer Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -5605,8 +5441,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey</strong></td>
     <td style="width: 15%;">
     </td>
@@ -5625,8 +5460,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>AgentKit: Structured LLM Reasoning with Dynamic Graphs</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5646,8 +5480,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 16
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5667,29 +5500,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 15
-24</td>
-    <td style="width: 40%;"><strong>ChatShop: Interactive Information Seeking with Language Agents</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.09911"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Duke University<br>
-      • Benchmark Name: ChatShop, Task Number: None, Dataset Source: None<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">04 15
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>MMInA: Benchmarking Multihop Multimodal Internet Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5710,8 +5521,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 13
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
+    <td style="width: 40%;"><strong>ChatShop: Interactive Information Seeking with Language Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2404.09911"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Duke University<br>
+      • Benchmark Name: ChatShop, Task Number: None, Dataset Source: None<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>Enhancing Mobile "How-to" Queries with Automated Search Results Verification and Reranking</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -5733,30 +5563,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 12
-24</td>
-    <td style="width: 40%;"><strong>LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.16054"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/LlamaTouch/LlamaTouch"><img src="https://img.shields.io/github/stars/LlamaTouch/LlamaTouch.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications<br>
-      • Benchmark Name: LlamaTouch, Task Number: 496, Dataset Source: human annotation<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">04 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>Training a Vision Language Model as Smartphone Assistant</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -5776,8 +5583,29 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 11
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
+    <td style="width: 40%;"><strong>LLM Agents can Autonomously Exploit One-day Vulnerabilities</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2404.08144"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Stanford University<br>
+      • Agent Name: LLM CVE agent, Base Model: GPT-4, Strategy: ReAct agent framework<br>
+      • Benchmark Name: Real-world one-day vulnerabilities, Task Number: 15, Dataset Source: CVE database and academic papers<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -5801,31 +5629,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 11
-24</td>
-    <td style="width: 40%;"><strong>LLM Agents can Autonomously Exploit One-day Vulnerabilities</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.08144"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Stanford University<br>
-      • Agent Name: LLM CVE agent, Base Model: GPT-4, Strategy: ReAct agent framework<br>
-      • Benchmark Name: Real-world one-day vulnerabilities, Task Number: 15, Dataset Source: CVE database and academic papers<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">04 09
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>Autonomous Evaluation and Refinement of Digital Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5847,8 +5651,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 09
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5869,8 +5672,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 08
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5890,8 +5692,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 07
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>AI2Apps: A Visual IDE for Building LLM-based AI Agent Applications</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5912,8 +5713,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 05
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>Exploring Autonomous Agents through the Lens of Large Language Models: A Review</strong></td>
     <td style="width: 15%;">
     </td>
@@ -5932,8 +5732,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 04
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>AutoWebGLM: A Large Language Model-based Web Navigating Agent</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -5956,29 +5755,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 03
-24</td>
-    <td style="width: 40%;"><strong>PromptRPA: Generating Robotic Process Automation on Smartphones from Textual Prompts</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.02475"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Department of Computer Science and Technology, Tsinghua University, China<br>
-      • Agent Name: PromptRPA, Base Model: GPT-4, Strategy: Prompt<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">04 03
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>Measuring Social Norms of Large Language Models</strong></td>
     <td style="width: 15%;">
     </td>
@@ -5998,8 +5775,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 02
-24</td>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
+    <td style="width: 40%;"><strong>PromptRPA: Generating Robotic Process Automation on Smartphones from Textual Prompts</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2404.02475"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Department of Computer Science and Technology, Tsinghua University, China<br>
+      • Agent Name: PromptRPA, Base Model: GPT-4, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2024</td>
     <td style="width: 40%;"><strong>Octopus v2: On-device language model for super agent</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -6019,8 +5815,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 26
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>AgentStudio: A Toolkit for Building General Virtual Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -6044,8 +5839,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 26
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>AgentStudio: A Toolkit for Building General Virtual Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -6072,8 +5866,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 21
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6093,8 +5886,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 18
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>Tur[k]ingBench: A Challenge Benchmark for Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6115,8 +5907,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 15
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>AUTONODE: A Neuro-Graphic Self-Learnable Engine for Cognitive GUI Automation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6136,29 +5927,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 13
-24</td>
-    <td style="width: 40%;"><strong>CleanAgent: Automating Data Standardization with LLM-based Agents</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.08291"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Simon Fraser University<br>
-      • Agent Name: CleanAgent, Base Model: LLM-based Agents, Strategy: Declarative API Calls<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">03 13
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6178,8 +5947,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
+    <td style="width: 40%;"><strong>CleanAgent: Automating Data Standardization with LLM-based Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2403.08291"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Simon Fraser University<br>
+      • Agent Name: CleanAgent, Base Model: LLM-based Agents, Strategy: Declarative API Calls<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>BAGEL: Bootstrapping Agents by Guiding Exploration with Language</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6199,8 +5987,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 12
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6222,8 +6009,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 10
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>TRAD: Enhancing LLM Agents with Step-Wise Thought Retrieval and Aligned Decision</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6244,32 +6030,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 05
-24</td>
-    <td style="width: 40%;"><strong>Android in the Zoo: Chain-of-Action-Thought for GUI Agents</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2403.02713"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/IMNearth/CoAT"><img src="https://img.shields.io/github/stars/IMNearth/CoAT.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Fudan University<br>
-      • Agent Name: CoAT, Base Model: GPT-4V, Strategy: Prompt<br>
-      • Benchmark Name: AITZ, Task Number: 18643, Dataset Source: human demonstration<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">03 05
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>Cradle: Empowering Foundation Agents Towards General Computer Control</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -6292,8 +6053,30 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 04
-24</td>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
+    <td style="width: 40%;"><strong>Android in the Zoo: Chain-of-Action-Thought for GUI Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2403.02713"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/IMNearth/CoAT"><img src="https://img.shields.io/github/stars/IMNearth/CoAT.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Agent Name: CoAT, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: AITZ, Task Number: 18643, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2024</td>
     <td style="width: 40%;"><strong>Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6314,8 +6097,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 29
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6337,8 +6119,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 27
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
+    <td style="width: 40%;"><strong>Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2402.17644"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xxxiaol/QRData"><img src="https://img.shields.io/github/stars/xxxiaol/QRData.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Wangxuan Institute of Computer Technology, Peking University<br>
+      • Benchmark Name: QRDATA, Task Number: 411, Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6362,29 +6163,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 27
-24</td>
-    <td style="width: 40%;"><strong>Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.17644"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/xxxiaol/QRData"><img src="https://img.shields.io/github/stars/xxxiaol/QRData.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Wangxuan Institute of Computer Technology, Peking University<br>
-      • Benchmark Name: QRDATA, Task Number: 411, Dataset Source: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">02 27
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>BASES: Large-scale Web Search User Simulation with Large Language Model based Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6406,8 +6185,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 26
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>WIPI: A New Web Threat for LLM-Driven Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6427,8 +6205,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 23
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>Large Multimodal Agents: A Survey</strong></td>
     <td style="width: 15%;">
     </td>
@@ -6448,8 +6225,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 23
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>On the Multi-turn Instruction Following for Conversational Web Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6470,8 +6246,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 20
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>Soft Self-Consistency Improves Language Model Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6491,8 +6266,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 19
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -6513,8 +6287,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6535,8 +6308,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 13
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>PRompt Optimization in Multi-Step Tasks (PROMST): Integrating Human Feedback and Heuristic-based Sampling</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6558,55 +6330,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 12
-24</td>
-    <td style="width: 40%;"><strong>OS-Copilot: Towards Generalist Computer Agents with Self-Improvement</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
-      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.07456"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://os-copilot.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Shanghai AI Laboratory<br>
-      • Agent Name: FRIDAY, Base Model: GPT-4, Strategy: self-directed learning<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">02 12
-24</td>
-    <td style="width: 40%;"><strong>Towards Unified Alignment Between Agents, Humans, and Environment</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.07744"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://agent-force.github.io/unified-alignment-for-agents.html"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Department of Computer Science and Technology, Tsinghua University, Beijing, China<br>
-      • Agent Name: UA2 Agent, Base Model: GPT-3.5, Strategy: Structured Memory<br>
-      • Benchmark Name: Retrofitted WebShop, Task Number: 500, Dataset Source: artificially constructed instructions<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">02 09
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>ScreenAgent: A Vision Language Model-driven Computer Control Agent</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -6630,52 +6354,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 09
-24</td>
-    <td style="width: 40%;"><strong>CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.06360"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/pygongnlp/CoSearchAgent"><img src="https://img.shields.io/github/stars/pygongnlp/CoSearchAgent.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: GSAI, Renmin University of China<br>
-      • Agent Name: CoSearchAgent, Base Model: ChatGPT, Strategy: Prompt<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">02 09
-24</td>
-    <td style="width: 40%;"><strong>Understanding the Weakness of Large Language Model Agents within a Complex Android Environment</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.06596"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/AndroidArenaAgent/AndroidArena"><img src="https://img.shields.io/github/stars/AndroidArenaAgent/AndroidArena.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Peking University<br>
-      • Benchmark Name: AndroidArena, Task Number: 221, Dataset Source: LLM synthesis<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">02 08
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>UFO: A UI-Focused Agent for Windows OS Interaction</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -6698,8 +6377,114 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 08
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
+    <td style="width: 40%;"><strong>Towards Unified Alignment Between Agents, Humans, and Environment</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2402.07744"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://agent-force.github.io/unified-alignment-for-agents.html"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Department of Computer Science and Technology, Tsinghua University, Beijing, China<br>
+      • Agent Name: UA2 Agent, Base Model: GPT-3.5, Strategy: Structured Memory<br>
+      • Benchmark Name: Retrofitted WebShop, Task Number: 500, Dataset Source: artificially constructed instructions<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
+    <td style="width: 40%;"><strong>OS-Copilot: Towards Generalist Computer Agents with Self-Improvement</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2402.07456"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://os-copilot.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
+      • Agent Name: FRIDAY, Base Model: GPT-4, Strategy: self-directed learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
+    <td style="width: 40%;"><strong>LLM Agents can Autonomously Hack Websites</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2402.06664"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: UIUC<br>
+      • Agent Name: LLM Agent, Base Model: GPT-4, Strategy: Function calling, document reading, and planning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
+    <td style="width: 40%;"><strong>Understanding the Weakness of Large Language Model Agents within a Complex Android Environment</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2402.06596"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/AndroidArenaAgent/AndroidArena"><img src="https://img.shields.io/github/stars/AndroidArenaAgent/AndroidArena.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Benchmark Name: AndroidArena, Task Number: 221, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
+    <td style="width: 40%;"><strong>CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2402.06360"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/pygongnlp/CoSearchAgent"><img src="https://img.shields.io/github/stars/pygongnlp/CoSearchAgent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: GSAI, Renmin University of China<br>
+      • Agent Name: CoSearchAgent, Base Model: ChatGPT, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>WebLINX: Real-World Website Navigation with Multi-Turn Dialogue</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6720,29 +6505,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 06
-24</td>
-    <td style="width: 40%;"><strong>LLM Agents can Autonomously Hack Websites</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2402.06664"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: UIUC<br>
-      • Agent Name: LLM Agent, Base Model: GPT-4, Strategy: Function calling, document reading, and planning<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">02 06
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>Dual-View Visual Contextualization for Web Navigation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6764,8 +6527,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 05
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>Understanding the planning of LLM agents: A survey</strong></td>
     <td style="width: 15%;">
     </td>
@@ -6784,8 +6546,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 01
-24</td>
+    <td rowspan="2" style="width: 15%;">Feb 2024</td>
     <td style="width: 40%;"><strong>Computational Experiments Meet Large Language Model Based Agents: A Survey and Perspective</strong></td>
     <td style="width: 15%;">
     </td>
@@ -6804,8 +6565,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 29
-24</td>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 40%;"><strong>Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -6828,8 +6588,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 25
-24</td>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 40%;"><strong>WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6852,8 +6611,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 24
-24</td>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
+    <td style="width: 40%;"><strong>VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2401.13649"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Benchmark Name: VisualWebArena, Task Number: 910, Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 40%;"><strong>Stream-based perception for cognitive agents in mobile ecosystems</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -6872,8 +6650,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 24
-24</td>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 40%;"><strong>AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6894,29 +6671,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 24
-24</td>
-    <td style="width: 40%;"><strong>VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.13649"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Carnegie Mellon University<br>
-      • Benchmark Name: VisualWebArena, Task Number: 910, Dataset Source: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">01 17
-24</td>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 40%;"><strong>SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -6943,8 +6698,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 10
-24</td>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 40%;"><strong>Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security</strong></td>
     <td style="width: 15%;">
     </td>
@@ -6964,70 +6718,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 07
-24</td>
-    <td style="width: 40%;"><strong>Agent AI: Surveying the Horizons of Multimodal Interaction</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.03568"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Stanford University<br>
-      • Paper Number: 100<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">01 07
-24</td>
-    <td style="width: 40%;"><strong>Overview of Dialogue Robot Competition 2023</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.03547"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Hiroshi Ishiguro Laboratories, ATR, Kyoto, Japan<br>
-      • Benchmark Name: DRC2023, Task Number: None, Dataset Source: None<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">01 05
-24</td>
-    <td style="width: 40%;"><strong>XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2401.02705"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: WeChat Pay, Tencent<br>
-      • Agent Name: XUAT-Copilot, Base Model: LLM, Strategy: Multi-Agent Collaborative Framework<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">01 04
-24</td>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 40%;"><strong>MobileAgent: enhancing mobile control via human-machine interaction and SOP integration</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -7050,8 +6741,66 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 03
-24</td>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
+    <td style="width: 40%;"><strong>Agent AI: Surveying the Horizons of Multimodal Interaction</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2401.03568"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Stanford University<br>
+      • Paper Number: 100<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
+    <td style="width: 40%;"><strong>Overview of Dialogue Robot Competition 2023</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2401.03547"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Hiroshi Ishiguro Laboratories, ATR, Kyoto, Japan<br>
+      • Benchmark Name: DRC2023, Task Number: None, Dataset Source: None<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
+    <td style="width: 40%;"><strong>XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2401.02705"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: WeChat Pay, Tencent<br>
+      • Agent Name: XUAT-Copilot, Base Model: LLM, Strategy: Multi-Agent Collaborative Framework<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2024</td>
     <td style="width: 40%;"><strong>GPT-4V(ision) is a Generalist Web Agent, if Grounded</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7074,8 +6823,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 25
-23</td>
+    <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 40%;"><strong>WebVLN: Vision-and-Language Navigation on Websites</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7098,8 +6846,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 21
-23</td>
+    <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 40%;"><strong>AppAgent: Multimodal Agents as Smartphone Users</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -7120,8 +6867,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 20
-23</td>
+    <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 40%;"><strong>ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -7143,8 +6889,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 19
-23</td>
+    <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 40%;"><strong>Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives</strong></td>
     <td style="width: 15%;">
     </td>
@@ -7163,8 +6908,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 17
-23</td>
+    <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 40%;"><strong>M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts</strong></td>
     <td style="width: 15%;">
     </td>
@@ -7184,8 +6928,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 15
-23</td>
+    <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 40%;"><strong>UINav: A Practical Approach to Train On-Device Automation Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -7205,8 +6948,26 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 14
-23</td>
+    <td rowspan="2" style="width: 15%;">Dec 2023</td>
+    <td style="width: 40%;"><strong>Vision-Language Models as a Source of Rewards</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2312.09187"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google DeepMind<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 40%;"><strong>CogAgent: A Visual Language Model for GUI Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7229,28 +6990,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 14
-23</td>
-    <td style="width: 40%;"><strong>Vision-Language Models as a Source of Rewards</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2312.09187"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Google DeepMind<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">12 10
-23</td>
+    <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 40%;"><strong>The Generalization Gap in Offline Reinforcement Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7271,8 +7011,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 30
-23</td>
+    <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 40%;"><strong>Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7293,8 +7032,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 20
-23</td>
+    <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 40%;"><strong>Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents</strong></td>
     <td style="width: 15%;">
     </td>
@@ -7314,8 +7052,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 17
-23</td>
+    <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 40%;"><strong>Testing Language Model Agents Safely in the Wild</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7336,8 +7073,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 16
-23</td>
+    <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 40%;"><strong>ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -7359,8 +7095,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 15
-23</td>
+    <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 40%;"><strong>Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -7381,8 +7116,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 13
-23</td>
+    <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 40%;"><strong>GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
@@ -7405,8 +7139,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 09
-23</td>
+    <td rowspan="2" style="width: 15%;">Nov 2023</td>
     <td style="width: 40%;"><strong>Agent Lumos: Unified and Modular Training for Open-Source Language Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7428,8 +7161,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 25
-23</td>
+    <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 40%;"><strong>Hybrid Minimax-MCTS and Difficulty Adjustment for General Game Playing</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -7450,8 +7182,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 22
-23</td>
+    <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 40%;"><strong>O3D: Offline Data-driven Discovery and Distillation for Sequential Decision-Making with Large Language Models</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7474,8 +7205,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 16
-23</td>
+    <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 40%;"><strong>OpenAgents: An Open Platform for Language Agents in the Wild</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7497,8 +7227,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 12
-23</td>
+    <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 40%;"><strong>A Zero-Shot Language Agent for Computer Control with Structured Reflection</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7519,8 +7248,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 10
-23</td>
+    <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 40%;"><strong>Lemur: Harmonizing Natural Language and Code for Language Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7544,8 +7272,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 06
-23</td>
+    <td rowspan="2" style="width: 15%;">Oct 2023</td>
     <td style="width: 40%;"><strong>Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7566,8 +7293,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 27
-23</td>
+    <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 40%;"><strong>Raijū: Reinforcement Learning-Guided Post-Exploitation for Automating Security Assessment of Network Systems</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -7588,8 +7314,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 23
-23</td>
+    <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 40%;"><strong>An In-depth Survey of Large Language Model-based Artificial Intelligence Agents</strong></td>
     <td style="width: 15%;">
     </td>
@@ -7608,8 +7333,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 20
-23</td>
+    <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 40%;"><strong>You Only Look at Screens: Multimodal Chain-of-Action Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7633,8 +7357,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 15
-23</td>
+    <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 40%;"><strong>LASER: LLM Agent with State-Space Exploration for Web Navigation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7654,8 +7377,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 14
-23</td>
+    <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 40%;"><strong>Agents: An Open-source Framework for Autonomous Language Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7676,8 +7398,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 14
-23</td>
+    <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 40%;"><strong>Spoken Humanoid Embodied Conversational Agents in Mobile Serious Games: A Usability Assessment</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -7697,8 +7418,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 05
-23</td>
+    <td rowspan="2" style="width: 15%;">Sep 2023</td>
     <td style="width: 40%;"><strong>Towards Autonomous Cyber Operation Agents: Exploring the Red Case</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -7718,8 +7438,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 31
-23</td>
+    <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 40%;"><strong>MONDEO: Multistage Botnet Detection</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -7740,8 +7459,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 29
-23</td>
+    <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 40%;"><strong>A Multi-Perspective Learning to Rank Approach to Support Children's Information Seeking in the Classroom</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7762,8 +7480,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 22
-23</td>
+    <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 40%;"><strong>Towards an On-device Agent for Text Rewriting</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -7785,8 +7502,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 22
-23</td>
+    <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 40%;"><strong>A Survey on Large Language Model based Autonomous Agents</strong></td>
     <td style="width: 15%;">
     </td>
@@ -7805,8 +7521,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 11
-23</td>
+    <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 40%;"><strong>BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7827,29 +7542,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 07
-23</td>
-    <td style="width: 40%;"><strong>Mamba: Bringing Multi-Dimensional ABR to WebRTC</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2308.03643"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Nanjing University<br>
-      • Agent Name: Mamba, Base Model: , Strategy: multi-agent reinforcement learning<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">08 07
-23</td>
+    <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 40%;"><strong>AgentBench: Evaluating LLMs as Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7871,8 +7564,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 04
-23</td>
+    <td rowspan="2" style="width: 15%;">Aug 2023</td>
+    <td style="width: 40%;"><strong>Mamba: Bringing Multi-Dimensional ABR to WebRTC</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2308.03643"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nanjing University<br>
+      • Agent Name: Mamba, Base Model: , Strategy: multi-agent reinforcement learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2023</td>
     <td style="width: 40%;"><strong>Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7894,8 +7606,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 25
-23</td>
+    <td rowspan="2" style="width: 15%;">Jul 2023</td>
     <td style="width: 40%;"><strong>WebArena: A Realistic Web Environment for Building Autonomous Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7916,8 +7627,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 24
-23</td>
+    <td rowspan="2" style="width: 15%;">Jul 2023</td>
     <td style="width: 40%;"><strong>A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -7937,8 +7647,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 20
-23</td>
+    <td rowspan="2" style="width: 15%;">Jul 2023</td>
     <td style="width: 40%;"><strong>Towards an architectural framework for intelligent virtual agents using probabilistic programming</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -7959,8 +7668,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 19
-23</td>
+    <td rowspan="2" style="width: 15%;">Jul 2023</td>
     <td style="width: 40%;"><strong>Android in the Wild: A Large-Scale Dataset for Android Device Control</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -7981,52 +7689,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 31
-23</td>
-    <td style="width: 40%;"><strong>From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.00245"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/google-deepmind/pix2act"><img src="https://img.shields.io/github/stars/google-deepmind/pix2act.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Google DeepMind<br>
-      • Agent Name: PIX2ACT, Base Model: PIX2STRUCT, Strategy: Behavioral Cloning<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">06 23
-23</td>
-    <td style="width: 40%;"><strong>Creating Valid Adversarial Examples of Malware</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.13587"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Faculty of Information Technology, Czech Technical University in Prague<br>
-      • Agent Name: Adversarial Malware Generator (AMG), Base Model: , Strategy: Reinforcement Learning<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">06 23
-23</td>
+    <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 40%;"><strong>AR2-D2:Training a Robot Without a Robot</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
@@ -8047,53 +7710,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 13
-23</td>
-    <td style="width: 40%;"><strong>Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control</strong></td>
+    <td rowspan="2" style="width: 15%;">Jun 2023</td>
+    <td style="width: 40%;"><strong>Creating Valid Adversarial Examples of Malware</strong></td>
     <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
     </td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.07863"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://ltzheng.github.io/Synapse"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+      <a href="https://arxiv.org/pdf/2306.13587"><img src="https://img.shields.io/badge/Paper-red"></a><br>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: NTU, Singapore<br>
-      • Agent Name: SYNAPSE, Base Model: GPT-3.5, Strategy: Prompt<br>
+      • Affiliation: Faculty of Information Technology, Czech Technical University in Prague<br>
+      • Agent Name: Adversarial Malware Generator (AMG), Base Model: , Strategy: Reinforcement Learning<br>
     </td>
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 09
-23</td>
-    <td style="width: 40%;"><strong>Mind2Web: Towards a Generalist Agent for the Web</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2306.06070"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/OSU-NLP-Group/Mind2Web"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/Mind2Web.svg?style=social&label=Star"></a><br>
-      <a href="https://osu-nlp-group.github.io/Mind2Web"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: The Ohio State University<br>
-      • Benchmark Name: MIND2WEB, Task Number: 2000, Dataset Source: crowdsourced action sequences<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">06 09
-23</td>
+    <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 40%;"><strong>Large Language Models Are Semi-Parametric Reinforcement Learning Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8115,8 +7752,50 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 06
-23</td>
+    <td rowspan="2" style="width: 15%;">Jun 2023</td>
+    <td style="width: 40%;"><strong>Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2306.07863"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ltzheng.github.io/Synapse"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: NTU, Singapore<br>
+      • Agent Name: SYNAPSE, Base Model: GPT-3.5, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2023</td>
+    <td style="width: 40%;"><strong>Mind2Web: Towards a Generalist Agent for the Web</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2306.06070"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/Mind2Web"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/Mind2Web.svg?style=social&label=Star"></a><br>
+      <a href="https://osu-nlp-group.github.io/Mind2Web"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Ohio State University<br>
+      • Benchmark Name: MIND2WEB, Task Number: 2000, Dataset Source: crowdsourced action sequences<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 40%;"><strong>A Novel Approach To User Agent String Parsing For Vulnerability Analysis Using Mutli-Headed Attention</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8136,8 +7815,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 04
-23</td>
+    <td rowspan="2" style="width: 15%;">Jun 2023</td>
     <td style="width: 40%;"><strong>Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8160,8 +7838,29 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 26
-23</td>
+    <td rowspan="2" style="width: 15%;">Jun 2023</td>
+    <td style="width: 40%;"><strong>From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2306.00245"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-deepmind/pix2act"><img src="https://img.shields.io/github/stars/google-deepmind/pix2act.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google DeepMind<br>
+      • Agent Name: PIX2ACT, Base Model: PIX2STRUCT, Strategy: Behavioral Cloning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">May 2023</td>
     <td style="width: 40%;"><strong>NASimEmu: Network Attack Simulator & Emulator for Training Agents Generalizing to Novel Scenarios</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -8183,8 +7882,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 21
-23</td>
+    <td rowspan="2" style="width: 15%;">May 2023</td>
     <td style="width: 40%;"><strong>BertRLFuzzer: A BERT and Reinforcement Learning Based Fuzzer</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8205,8 +7903,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 19
-23</td>
+    <td rowspan="2" style="width: 15%;">May 2023</td>
     <td style="width: 40%;"><strong>Multimodal Web Navigation with Instruction-Finetuned Foundation Models</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8226,8 +7923,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 14
-23</td>
+    <td rowspan="2" style="width: 15%;">May 2023</td>
     <td style="width: 40%;"><strong>Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -8248,8 +7944,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 08
-23</td>
+    <td rowspan="2" style="width: 15%;">Apr 2023</td>
     <td style="width: 40%;"><strong>Evolving Reinforcement Learning Environment to Minimize Learner's Achievable Reward: An Application on Hardening Active Directory Systems</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -8269,29 +7964,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 03
-23</td>
-    <td style="width: 40%;"><strong>Unified Emulation-Simulation Training Environment for Autonomous Cyber Agents</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2304.01244"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Defence Research and Development Canada<br>
-      • Benchmark Name: CyGIL, Task Number: None, Dataset Source: None<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">04 03
-23</td>
+    <td rowspan="2" style="width: 15%;">Apr 2023</td>
     <td style="width: 40%;"><strong>Enabling A Network AI Gym for Autonomous Cyber Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -8312,8 +7985,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 30
-23</td>
+    <td rowspan="2" style="width: 15%;">Apr 2023</td>
+    <td style="width: 40%;"><strong>Unified Emulation-Simulation Training Environment for Autonomous Cyber Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2304.01244"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Defence Research and Development Canada<br>
+      • Benchmark Name: CyGIL, Task Number: None, Dataset Source: None<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2023</td>
     <td style="width: 40%;"><strong>Language Models can Solve Computer Tasks</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8334,8 +8026,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 21
-23</td>
+    <td rowspan="2" style="width: 15%;">Mar 2023</td>
     <td style="width: 40%;"><strong>Hey Dona! Can you help me with student course registration?</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -8355,8 +8046,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 14
-23</td>
+    <td rowspan="2" style="width: 15%;">Feb 2023</td>
     <td style="width: 40%;"><strong>Signifiers as a First-class Abstraction in Hypermedia Multi-Agent Systems</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8375,8 +8065,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 06
-23</td>
+    <td rowspan="2" style="width: 15%;">Feb 2023</td>
     <td style="width: 40%;"><strong>Arena-Web -- A Web-based Development and Benchmarking Platform for Autonomous Navigation Approaches</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8396,8 +8085,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 28
-23</td>
+    <td rowspan="2" style="width: 15%;">Jan 2023</td>
     <td style="width: 40%;"><strong>A System for Human-AI collaboration for Online Customer Support</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8417,8 +8105,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 10
-23</td>
+    <td rowspan="2" style="width: 15%;">Jan 2023</td>
     <td style="width: 40%;"><strong>Chatbots in a Honeypot World</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -8438,8 +8125,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 20
-22</td>
+    <td rowspan="2" style="width: 15%;">Dec 2022</td>
     <td style="width: 40%;"><strong>Can Current Task-oriented Dialogue Models Automate Real-world Scenarios in the Wild?</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8458,8 +8144,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 09
-22</td>
+    <td rowspan="2" style="width: 15%;">Dec 2022</td>
     <td style="width: 40%;"><strong>A Bayesian Model Combination-based approach to Active Malware Analysis</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -8479,8 +8164,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 31
-22</td>
+    <td rowspan="2" style="width: 15%;">Nov 2022</td>
     <td style="width: 40%;"><strong>Learning to Navigate Wikipedia by Taking Random Walks</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8500,8 +8184,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 28
-22</td>
+    <td rowspan="2" style="width: 15%;">Oct 2022</td>
     <td style="width: 40%;"><strong>A Game Benchmark for Real-Time Human-Swarm Control</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -8523,8 +8206,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 12
-22</td>
+    <td rowspan="2" style="width: 15%;">Oct 2022</td>
     <td style="width: 40%;"><strong>DinoDroid: Testing Android Apps Using Deep Q-Networks</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -8544,8 +8226,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 07
-22</td>
+    <td rowspan="2" style="width: 15%;">Oct 2022</td>
     <td style="width: 40%;"><strong>iMedBot: A Web-based Intelligent Agent for Healthcare Related Prediction and Deep Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8566,8 +8247,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 05
-22</td>
+    <td rowspan="2" style="width: 15%;">Oct 2022</td>
+    <td style="width: 40%;"><strong>WebCrowds: An Authoring Tool for Crowd Simulation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2210.04624"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://vhlab.com.br/projects/webcrowds/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: PUCRS<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2022</td>
     <td style="width: 40%;"><strong>Emotion Twenty Questions Dialog System for Lexical Emotional Intelligence</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8588,29 +8288,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 04
-22</td>
-    <td style="width: 40%;"><strong>WebCrowds: An Authoring Tool for Crowd Simulation</strong></td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2210.04624"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://vhlab.com.br/projects/webcrowds/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: PUCRS<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">09 29
-22</td>
+    <td rowspan="2" style="width: 15%;">Sep 2022</td>
     <td style="width: 40%;"><strong>MUG: Interactive Multimodal Grounding on User Interfaces</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -8630,8 +8308,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 18
-22</td>
+    <td rowspan="2" style="width: 15%;">Sep 2022</td>
     <td style="width: 40%;"><strong>Enabling Conversational Interaction with Mobile UI using Large Language Models</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -8652,8 +8329,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 25
-22</td>
+    <td rowspan="2" style="width: 15%;">Aug 2022</td>
     <td style="width: 40%;"><strong>Synthetic End-User Testing: Modeling Realistic Agents Based on Behavioral Examples</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -8673,8 +8349,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 05
-22</td>
+    <td rowspan="2" style="width: 15%;">Aug 2022</td>
     <td style="width: 40%;"><strong>BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8695,8 +8370,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 22
-22</td>
+    <td rowspan="2" style="width: 15%;">Jul 2022</td>
     <td style="width: 40%;"><strong>JAM: The JavaScript Agent Machine for Distributed Computing and Simulation with reactive and mobile Multi-agent Systems -- A Technical Report</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8717,8 +8391,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 19
-22</td>
+    <td rowspan="2" style="width: 15%;">Jul 2022</td>
     <td style="width: 40%;"><strong>On Decentralizing Federated Reinforcement Learning in Multi-Robot Scenarios</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -8739,8 +8412,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 13
-22</td>
+    <td rowspan="2" style="width: 15%;">Jul 2022</td>
     <td style="width: 40%;"><strong>GriddlyJS: A Web IDE for Reinforcement Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8761,8 +8433,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 07
-22</td>
+    <td rowspan="2" style="width: 15%;">Jul 2022</td>
     <td style="width: 40%;"><strong>CausalAgents: A Robustness Benchmark for Motion Forecasting using Causal Relationships</strong></td>
     <td style="width: 15%;">
     </td>
@@ -8782,8 +8453,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 04
-22</td>
+    <td rowspan="2" style="width: 15%;">Jul 2022</td>
     <td style="width: 40%;"><strong>WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8804,8 +8474,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 25
-22</td>
+    <td rowspan="2" style="width: 15%;">May 2022</td>
     <td style="width: 40%;"><strong>Fast Inference and Transfer of Compositional Task Structures for Few-shot Task Generalization</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8825,8 +8494,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 23
-22</td>
+    <td rowspan="2" style="width: 15%;">May 2022</td>
     <td style="width: 40%;"><strong>META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -8848,8 +8516,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 21
-22</td>
+    <td rowspan="2" style="width: 15%;">Apr 2022</td>
     <td style="width: 40%;"><strong>Learning how to Interact with a Complex Interface using Hierarchical Reinforcement Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -8870,8 +8537,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">04 07
-22</td>
+    <td rowspan="2" style="width: 15%;">Apr 2022</td>
     <td style="width: 40%;"><strong>Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8892,8 +8558,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 23
-22</td>
+    <td rowspan="2" style="width: 15%;">Mar 2022</td>
     <td style="width: 40%;"><strong>Multi-agent Searching System for Medical Information</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8913,8 +8578,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 17
-22</td>
+    <td rowspan="2" style="width: 15%;">Mar 2022</td>
     <td style="width: 40%;"><strong>Natural Language Communication with a Teachable Agent</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8933,8 +8597,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 16
-22</td>
+    <td rowspan="2" style="width: 15%;">Feb 2022</td>
     <td style="width: 40%;"><strong>A data-driven approach for learning to control computers</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8956,8 +8619,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 05
-22</td>
+    <td rowspan="2" style="width: 15%;">Feb 2022</td>
     <td style="width: 40%;"><strong>Governance of Autonomous Agents on the Web: Challenges and Opportunities</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -8976,8 +8638,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 04
-22</td>
+    <td rowspan="2" style="width: 15%;">Feb 2022</td>
     <td style="width: 40%;"><strong>A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -8998,8 +8659,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">02 03
-22</td>
+    <td rowspan="2" style="width: 15%;">Feb 2022</td>
     <td style="width: 40%;"><strong>Feasibility of Interactive 3D Map for Remote Sighted Assistance</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
@@ -9019,8 +8679,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 21
-22</td>
+    <td rowspan="2" style="width: 15%;">Jan 2022</td>
     <td style="width: 40%;"><strong>Environment Generation for Zero-Shot Compositional Reinforcement Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9042,8 +8701,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 12
-21</td>
+    <td rowspan="2" style="width: 15%;">Dec 2021</td>
     <td style="width: 40%;"><strong>Tree-based Focused Web Crawling with Reinforcement Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9063,8 +8721,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 06
-21</td>
+    <td rowspan="2" style="width: 15%;">Dec 2021</td>
     <td style="width: 40%;"><strong>Contextual Bandit Applications in Customer Support Bot</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9084,8 +8741,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 21
-21</td>
+    <td rowspan="2" style="width: 15%;">Oct 2021</td>
     <td style="width: 40%;"><strong>LOA: Logical Optimal Actions for Text-based Interaction Games</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9107,8 +8763,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 18
-21</td>
+    <td rowspan="2" style="width: 15%;">Oct 2021</td>
     <td style="width: 40%;"><strong>Sim-to-Real Transfer in Multi-agent Reinforcement Networking for Federated Edge Computing</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -9128,8 +8783,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 16
-21</td>
+    <td rowspan="2" style="width: 15%;">Oct 2021</td>
     <td style="width: 40%;"><strong>Learning UI Navigation through Demonstrations composed of Macro Actions</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9150,8 +8804,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">10 11
-21</td>
+    <td rowspan="2" style="width: 15%;">Oct 2021</td>
     <td style="width: 40%;"><strong>Developing a Lecture Video Recording System Using Augmented Reality</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
@@ -9171,8 +8824,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 04
-21</td>
+    <td rowspan="2" style="width: 15%;">Jun 2021</td>
     <td style="width: 40%;"><strong>ERICA: An Empathetic Android Companion for Covid-19 Quarantine</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9194,8 +8846,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">08 25
-20</td>
+    <td rowspan="2" style="width: 15%;">Aug 2020</td>
     <td style="width: 40%;"><strong>ICE-Talk: an Interface for a Controllable Expressive Talking Machine</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9216,8 +8867,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">03 05
-20</td>
+    <td rowspan="2" style="width: 15%;">Mar 2020</td>
     <td style="width: 40%;"><strong>Towards Effective Human-AI Collaboration in GUI-Based Interactive Task Learning Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -9237,8 +8887,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">12 20
-19</td>
+    <td rowspan="2" style="width: 15%;">Dec 2019</td>
     <td style="width: 40%;"><strong>SensAI+Expanse Adaptation on Human Behaviour Towards Emotional Valence Prediction</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -9258,8 +8907,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">09 30
-19</td>
+    <td rowspan="2" style="width: 15%;">Sep 2019</td>
     <td style="width: 40%;"><strong>Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -9279,8 +8927,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 16
-19</td>
+    <td rowspan="2" style="width: 15%;">Jun 2019</td>
     <td style="width: 40%;"><strong>scenery: Flexible Virtual Reality Visualization on the Java VM</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
@@ -9302,8 +8949,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">05 06
-19</td>
+    <td rowspan="2" style="width: 15%;">May 2019</td>
     <td style="width: 40%;"><strong>Lessons from Contextual Bandit Learning in a Customer Support Bot</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9323,8 +8969,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">11 14
-18</td>
+    <td rowspan="2" style="width: 15%;">Nov 2018</td>
     <td style="width: 40%;"><strong>Say Hi to Eliza. An Embodied Conversational Agent on the Web</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9344,8 +8989,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">07 30
-16</td>
+    <td rowspan="2" style="width: 15%;">Jul 2016</td>
     <td style="width: 40%;"><strong>Towards A Virtual Assistant That Can Be Taught New Tasks In Any Domain By Its End-Users</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9365,8 +9009,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">01 26
-16</td>
+    <td rowspan="2" style="width: 15%;">Jan 2016</td>
     <td style="width: 40%;"><strong>BUbiNG: Massive Crawling for the Masses</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9386,8 +9029,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 26
-12</td>
+    <td rowspan="2" style="width: 15%;">Jun 2012</td>
     <td style="width: 40%;"><strong>MAINWAVE: Multi Agents and Issues Negotiation for Web using Alliance Virtual Engine</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -9407,8 +9049,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
-    <td rowspan="2" style="width: 15%;">06 28
-10</td>
+    <td rowspan="2" style="width: 15%;">Jun 2010</td>
     <td style="width: 40%;"><strong>Design specifications of the Human Robotic interface for the biomimetic underwater robot "yellow submarine project"</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
