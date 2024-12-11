@@ -1544,7 +1544,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: ServiceNow Research<br>
-      • Benchmark Name: BrowserGym, Task Number: 6, Dataset Source: <br>
+      • Benchmark Name: BrowserGym, Task Number: None, Dataset Source: None<br>
     </td>
   </tr>
 
