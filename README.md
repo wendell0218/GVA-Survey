@@ -1508,6 +1508,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.13194"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://yanqval.github.io/PAE/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California, Berkeley<br>
+      • Agent Name: Proposer-Agent-Evaluator (PAE), Base Model: LLaVa-1.6, Strategy: RL<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>Virtual Agent-Based Communication Skills Training to Facilitate Health Persuasion Among Peers</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
