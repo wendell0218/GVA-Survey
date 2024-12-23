@@ -1508,6 +1508,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>WebLLM: A High-Performance In-Browser LLM Inference Engine</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.15803"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mlc-ai/web-llm"><img src="https://img.shields.io/github/stars/mlc-ai/web-llm.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Agent Name: WebLLM, Base Model: , Strategy: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>A Survey on Large Language Model-based Agents for Statistics and Data Science</strong></td>
     <td style="width: 15%;">
     </td>
