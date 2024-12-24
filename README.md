@@ -1508,6 +1508,89 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>Large Language Model Safety: A Holistic Survey</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.17686"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/tjunlp-lab/Awesome-LLM-Safety-Papers"><img src="https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLM-Safety-Papers.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: TJUNLP Lab, Tianjin University<br>
+      • Paper Number: 100<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.17589"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gair-nlp.github.io/PC-Agent/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
+      • Agent Name: PC Agent, Base Model: Qwen2-VL-72B-Instruct, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>A Survey on Multi-Generative Agent System: Recent Advances and New Frontiers</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.17481"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bianhua-12/Multi-generative_Agent_System_survey"><img src="https://img.shields.io/github/stars/bianhua-12/Multi-generative_Agent_System_survey.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Harbin Institute of Technology, China<br>
+      • Paper Number: 125<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>Aria-UI: Visual Grounding for GUI Instructions</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.16256"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ariaui.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Hong Kong<br>
+      • Agent Name: Aria-UI, Base Model: Aria, Strategy: Pure-vision approach<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>WebLLM: A High-Performance In-Browser LLM Inference Engine</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
