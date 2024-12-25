@@ -1508,6 +1508,47 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.18426"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ZJU-ACES-ISE/ChatUITest"><img src="https://img.shields.io/github/stars/ZJU-ACES-ISE/ChatUITest.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Benchmark Name: GTArena, Task Number: 3, Dataset Source: real mobile applications, mobile applications with artificially injected defects, and synthetic data<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.18116"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Institute for AI Industry Research (AIR), Tsinghua University<br>
+      • Agent Name: AutoDroid-V2, Base Model: Llama-3.1-8B, Strategy: Script-based<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>Large Language Model Safety: A Holistic Survey</strong></td>
     <td style="width: 15%;">
     </td>
