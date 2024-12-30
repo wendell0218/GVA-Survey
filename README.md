@@ -1521,7 +1521,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: Zhejiang University, <br>
+      • Affiliation: Zhejiang University <br>
       • Paper Number: 255<br>
     </td>
   </tr>
