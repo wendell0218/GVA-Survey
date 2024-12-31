@@ -1508,6 +1508,28 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2412.20005"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/zjunlp/OneKE"><img src="https://img.shields.io/github/stars/zjunlp/OneKE.svg?style=social&label=Star"></a><br>
+      <a href="http://oneke.openkg.cn/demo.mp4"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: OneKE, Base Model: LLaMA, Strategy: Schema-guided<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
