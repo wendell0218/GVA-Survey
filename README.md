@@ -1521,18 +1521,11 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
-<<<<<<< HEAD
       • Affiliation: Zhejiang University<br>
       • Paper Number: 255<br>
     </td>
   </tr>
 
-=======
-      • Affiliation: Zhejiang University <br>
-      • Paper Number: 255<br>
-    </td>
-  </tr>
->>>>>>> e702156dc8d0ec4880a06085484df39283791b1d
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System</strong></td>
@@ -1554,6 +1547,7 @@ We are committed to offering researchers the latest advancements in the field. B
       • Agent Name: OneKE, Base Model: LLaMA, Strategy: Schema-guided<br>
     </td>
   </tr>
+
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</strong></td>
@@ -1574,6 +1568,7 @@ We are committed to offering researchers the latest advancements in the field. B
       • Agent Name: OS-Genesis, Base Model: GPT-4o, Strategy: SFT<br>
     </td>
   </tr>
+
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent</strong></td>
