@@ -1508,6 +1508,25 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
+    <td style="width: 40%;"><strong>OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey"><img src="https://img.shields.io/github/stars/OS-Agent-Survey/OS-Agent-Survey.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University <br>
+      • Paper Number: 255<br>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1527,7 +1546,6 @@ We are committed to offering researchers the latest advancements in the field. B
       • Agent Name: OneKE, Base Model: LLaMA, Strategy: Schema-guided<br>
     </td>
   </tr>
-
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</strong></td>
@@ -1548,7 +1566,6 @@ We are committed to offering researchers the latest advancements in the field. B
       • Agent Name: OS-Genesis, Base Model: GPT-4o, Strategy: SFT<br>
     </td>
   </tr>
-
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent</strong></td>
