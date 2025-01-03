@@ -1507,6 +1507,27 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>A3: Android Agent Arena for Mobile GUI Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.01149"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://yuxiangchai.github.io/Android-Agent-Arena/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: MMLab @ CUHK<br>
+      • Benchmark Name: Android Agent Arena (A3), Task Number: 201, Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 40%;"><strong>OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use</strong></td>
     <td style="width: 15%;">
