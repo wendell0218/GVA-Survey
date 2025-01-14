@@ -1508,6 +1508,67 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>WebWalker: Benchmarking LLMs in Web Traversal</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.07572"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Alibaba Group<br>
+      • Agent Name: WebWalker, Base Model: various mainstream LLMs, Strategy: multi-agent framework<br>
+      • Benchmark Name: WebWalkerQA, Task Number: 680, Dataset Source: LLM-based and human annotation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>Lifelong Learning of Large Language Model based Agents: A Roadmap</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.07278"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/qianlima-lab/awesome-lifelong-llm-agent"><img src="https://img.shields.io/github/stars/qianlima-lab/awesome-lifelong-llm-agent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: South China University of Technology<br>
+      • Paper Number: 360<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>Multi-Agent Collaboration Mechanisms: A Survey of LLMs</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.06322"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University College Cork<br>
+      • Paper Number: 166<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
     <td style="width: 40%;"><strong>Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions</strong></td>
     <td style="width: 15%;">
     </td>
