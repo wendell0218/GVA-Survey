@@ -1593,6 +1593,271 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2025</td>
+    <td style="width: 40%;"><strong>Doing More with Less -- Implementing Routing Strategies in Large Language Model-Based Systems: An Extended Survey</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2502.00409"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Wikit, Lyon, France<br>
+      • Paper Number: 127<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2025</td>
+    <td style="width: 40%;"><strong>Embodied Intelligence for 3D Understanding: A Survey on 3D Scene Question Answering</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2502.00342"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Hunan University<br>
+      • Paper Number: 100<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>Context is Key for Agent Security</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.17070"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google, Inc.<br>
+      • Agent Name: Conseca, Base Model: Gemini 1.5 Pro, Strategy: Deterministic Policy Enforcement<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.16609"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://oaishi.github.io/cowpilot.html"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: School of Computer Science, Carnegie Mellon University<br>
+      • Agent Name: COWPILOT, Base Model: LLM, Strategy: Human-Agent Collaboration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.16150"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zurich University of Applied Sciences<br>
+      • Paper Number: 86<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.13896"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gui-bee.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California, Santa Cruz<br>
+      • Agent Name: GUI-Bee, Base Model: GPT-4o, Strategy: Q-value-Incentive In-Context Reinforcement Learning (Q-ICRL)<br>
+      • Benchmark Name: NovelScreenSpot, Task Number: 5, Dataset Source: human-collected queries<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>Mutation-Guided LLM-based Test Generation at Meta</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.12862"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meta Platforms<br>
+      • Agent Name: ACH, Base Model: Llama 3.1 70Bn, Strategy: Mutation-Guided Test Generation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>R2D2: Remembering, Reflecting and Dynamic Decision Making for Web Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.12485"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Southern California<br>
+      • Agent Name: R2D2, Base Model: , Strategy: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>UI-TARS: Pioneering Automated GUI Interaction with Native Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.12326"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bytedance/UI-TARS"><img src="https://img.shields.io/github/stars/bytedance/UI-TARS.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ByteDance Seed<br>
+      • Agent Name: UI-TARS, Base Model: Qwen-2-VL, Strategy: SFT, DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.11733"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://x-plug.github.io/MobileAgent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Illinois Urbana-Champaign<br>
+      • Agent Name: Mobile-Agent-E, Base Model: GPT-4o, Strategy: Hierarchical multi-agent framework<br>
+      • Benchmark Name: Mobile-Eval-E, Task Number: 25, Dataset Source: manually crafted<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.10893"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google<br>
+      • Agent Name: Learn-by-interact, Base Model: Claude-3.5, Strategy: Backward Construction<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.10069"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xinzhel/LLM-Agent-Survey/blob/main/search.md"><img src="https://img.shields.io/github/stars/main/search.md.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: nan<br>
+      • Paper Number: 100<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2025</td>
+    <td style="width: 40%;"><strong>A Survey on Multi-Turn Interaction Capabilities of Large Language Models</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2501.09959"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Huawei Noah’s Ark Lab<br>
+      • Paper Number: 150<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Jan 2025</td>
     <td style="width: 40%;"><strong>Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG</strong></td>
     <td style="width: 15%;">
