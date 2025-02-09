@@ -1507,6 +1507,92 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2025</td>
+    <td style="width: 40%;"><strong>VTutor: An Open-Source SDK for Generative AI-Powered Animated Pedagogical Agents with Multi-Media Output</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2502.04103"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/VTutorTools"><img src="https://img.shields.io/github/stars/github.com/VTutorTools.svg?style=social&label=Star"></a><br>
+      <a href="https://vtutor.tools"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Agent Name: VTutor, Base Model: , Strategy: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2025</td>
+    <td style="width: 40%;"><strong>Large Language Models for Multi-Robot Systems: A Survey</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2502.03814"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Drexel University<br>
+      • Paper Number: 98<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2025</td>
+    <td style="width: 40%;"><strong>FedMobileAgent: Training Mobile Agents Using Decentralized Self-Sourced Data from Diverse Users</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2502.02982"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://anonymous.4open.science/r/FedMobileAgent-2816"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: FedMobileAgent, Base Model: Qwen2-VL-7B, Strategy: Federated Learning<br>
+      • Benchmark Name: FedMobileAgent Benchmark, Task Number: Not specified, Dataset Source: self-sourced data from diverse users<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2025</td>
+    <td style="width: 40%;"><strong>ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2502.02955"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: XiaoMi AI Lab<br>
+      • Agent Name: ReachAgent, Base Model: MobileVLM, Strategy: SFT, DPO<br>
+      • Benchmark Name: MobileReach, Task Number: 3, Dataset Source: Mobile3M<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Jan 2025</td>
     <td style="width: 40%;"><strong>Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG</strong></td>
     <td style="width: 15%;">
