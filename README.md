@@ -1508,6 +1508,113 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2025</td>
+    <td style="width: 40%;"><strong>CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2503.03743"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Yuqi-Zhou/CHOP"><img src="https://img.shields.io/github/stars/Yuqi-Zhou/CHOP.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Gaoling School of Artificial Intelligence, Renmin University of China<br>
+      • Agent Name: CHOP, Base Model: GPT-4o, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2025</td>
+    <td style="width: 40%;"><strong>SpiritSight Agent: Advanced GUI Agent with One Look</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2503.03196"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://huggingface.co/SenseLLM/SpiritSight-Agent-8B"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: SenseTime Research<br>
+      • Agent Name: SpiritSight, Base Model: InternVL2, Strategy: Universal Block Parsing (UBP)<br>
+      • Benchmark Name: GUI-Lasagne, Task Number: 5730496, Dataset Source: real-world and filtered through carefully designed rules<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2025</td>
+    <td style="width: 40%;"><strong>A2Perf: Real-World Autonomous Agents Benchmark</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2503.03056"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google_research/circuit_training"><img src="https://img.shields.io/github/stars/google_research/circuit_training.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google DeepMind<br>
+      • Benchmark Name: A2Perf, Task Number: 3, Dataset Source: not specified<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2025</td>
+    <td style="width: 40%;"><strong>LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2503.02950"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/PathOnAI/LiteWebAgent"><img src="https://img.shields.io/github/stars/PathOnAI/LiteWebAgent.svg?style=social&label=Star"></a><br>
+      <a href="https://lite-web-agent.vercel.app/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: PathOnAI.org<br>
+      • Agent Name: LiteWebAgent, Base Model: , Strategy: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2025</td>
+    <td style="width: 40%;"><strong>"Would You Want an AI Tutor?" Understanding Stakeholder Perceptions of LLM-based Chatbots in the Classroom</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2503.02885"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: New York University<br>
+      • Paper Number: 89<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2025</td>
     <td style="width: 40%;"><strong>AutoEval: A Practical Framework for Autonomous Evaluation of Mobile Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
