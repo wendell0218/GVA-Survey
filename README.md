@@ -1508,6 +1508,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2025</td>
+    <td style="width: 40%;"><strong>SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2503.04629"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Alpha-Innovator/SurveyForge"><img src="https://img.shields.io/github/stars/Alpha-Innovator/SurveyForge.svg?style=social&label=Star"></a><br>
+      <a href="https://huggingface.co/datasets/U4R/SurveyBench"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai Artificial Intelligence Laboratory<br>
+      • Paper Number: 100<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2025</td>
     <td style="width: 40%;"><strong>CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
