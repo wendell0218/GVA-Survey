@@ -1508,6 +1508,25 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2506.09656"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: School of Business, Hunan University, Changsha, Hunan, China<br>
+      • Paper Number: 372<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
     <td style="width: 40%;"><strong>LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1524,6 +1543,30 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: The Hong Kong University of Science and Technology<br>
       • Agent Name: LPO, Base Model: Ovis2 8B, Strategy: Location Preference Optimization<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2506.09050"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/SakanaAI/ALE-Bench"><img src="https://img.shields.io/github/stars/SakanaAI/ALE-Bench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Sakana AI, Japan<br>
+      • Agent Name: ALE-Agent, Base Model: Gemini 2.5 Pro, Strategy: Best-first search with domain knowledge and diversity-oriented solution search<br>
+      • Benchmark Name: ALE-Bench, Task Number: 40, Dataset Source: AtCoder Heuristic Contest problems<br>
     </td>
   </tr>
 
@@ -1547,6 +1590,51 @@ We are committed to offering researchers the latest advancements in the field. B
       • Affiliation: Shanghai Jiao Tong University<br>
       • Agent Name: AGENT-NEXUS, Base Model: GPT-4o, Strategy: Scheduling System<br>
       • Benchmark Name: UI-NEXUS, Task Number: 100, Dataset Source: human refinement<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2506.08933"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://omni-bench.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: Omni-OS-Atlas-Base-4B, Base Model: OS-Atlas-Base-4B, Strategy: SFT<br>
+      • Agent Name: Omni-UGround-V1-7B, Base Model: UGround-V1-7B, Strategy: SFT<br>
+      • Benchmark Name: OmniBench, Task Number: 36076, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2506.08800"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Leverhulme Centre for the Future of Intelligence, University of Cambridge, UK<br>
+      • Paper Number: 62<br>
     </td>
   </tr>
 
@@ -1595,6 +1683,25 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>UAVs Meet Agentic AI: A Multidomain Survey of Autonomous Aerial Intelligence and Agentic UAVs</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2506.08045"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Cornell University, Department of Biological and Environmental Engineering, Ithaca, NY 14853, USA<br>
+      • Paper Number: 306<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
     <td style="width: 40%;"><strong>GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
@@ -1613,6 +1720,26 @@ We are committed to offering researchers the latest advancements in the field. B
       • Affiliation: S-Lab, Nanyang Technological University<br>
       • Agent Name: GUI-Reflection, Base Model: InternVL2.5-8B, Strategy: SFT, Reflection Tuning<br>
       • Benchmark Name: GUI-Reflection Task Suite, Task Number: 3, Dataset Source: constructed from existing datasets (e.g., AndroidControl, GUI-Odyssey)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>-Bench: Evaluating Conversational Agents in a Dual-Control Environment</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2506.07982"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/sierra-research/tau2-bench"><img src="https://img.shields.io/github/stars/sierra-research/tau2-bench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Sierra<br>
+      • Benchmark Name: τ2-bench, Task Number: 2285, Dataset Source: programmatic generation<br>
     </td>
   </tr>
 
@@ -1740,6 +1867,25 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: Princeton University<br>
       • Agent Name: CER, Base Model: GPT-4o, Strategy: Contextual Experience Replay<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>AI Simulation by Digital Twins: Systematic Survey, Reference Framework, and Mapping to a Standardized Architecture</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2506.06580"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: McMaster University, Hamilton, Canada<br>
+      • Paper Number: 22<br>
     </td>
   </tr>
 
