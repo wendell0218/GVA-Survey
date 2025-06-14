@@ -1594,6 +1594,27 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>TaskCraft: Automated Generation of Agentic Tasks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.10055"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OPPO-PersonalAI/TaskCraft"><img src="https://img.shields.io/github/stars/OPPO-PersonalAI/TaskCraft.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: OPPO AI Agent Team<br>
+      • Benchmark Name: TaskCraft, Task Number: 36000, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
     <td style="width: 40%;"><strong>Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives</strong></td>
     <td style="width: 15%;">
     </td>
