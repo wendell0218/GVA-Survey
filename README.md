@@ -1508,6 +1508,112 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.11763"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Ayanami0730/deep_research_bench"><img src="https://img.shields.io/github/stars/Ayanami0730/deep_research_bench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
+      • Benchmark Name: DeepResearch Bench, Task Number: 100, Dataset Source: real-world user queries, human/expert-crafted<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>LLM-as-a-Judge for Reference-less Automatic Code Validation and Refinement for Natural Language to Bash in IT Automation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.11237"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/IBM/nl2bash-eabench/tree/main"><img src="https://img.shields.io/github/stars/tree/main.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: IBM Research<br>
+      • Agent Name: Self-Reflection agent, Base Model: ['Llama-3.3-70B', 'Mistral-large', 'GPT-4o'], Strategy: ['Self-reflection', 'ReAct framework']<br>
+      • Agent Name: Reflection agent with dedicated Evaluator, Base Model: ['Llama-3.3-70B', 'Mistral-large', 'GPT-4o'], Strategy: ['Reflection with dedicated evaluator', 'ReAct framework']<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech Instructions</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.11127"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/GUIRoboTron/GUIRoboTron-Speech"><img src="https://img.shields.io/github/stars/GUIRoboTron/GUIRoboTron-Speech.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meituan, Zhejiang University<br>
+      • Agent Name: GUIRoboTron-Speech, Base Model: Qwen-Omni-7B, Strategy: progressive grounding and planning training, mixed-instruction training<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Evolutionary Perspectives on the Evaluation of LLM-Based AI Agents: A Comprehensive Survey</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.11102"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
+      • Paper Number: 201<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Code Researcher: Deep Research Agent for Large Systems Code and Commit History</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.11060"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft Research<br>
+      • Agent Name: Code Researcher, Base Model: ['GPT-4o', 'o1'], Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
     <td style="width: 40%;"><strong>Build the web for agents, not agents for the web</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
