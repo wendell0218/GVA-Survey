@@ -1508,6 +1508,176 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.13666"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/littlelittlenine/SafeMCP.git"><img src="https://img.shields.io/github/stars/littlelittlenine/SafeMCP.git.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: National University of Singapore<br>
+      • Benchmark Name: SAFEMCP, Task Number: 10, Dataset Source: AgentGym<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>xbench: Tracking Agents Productivity Scaling with Profession-Aligned Real-World Evaluations</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.13651"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://xbench.org/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: nan<br>
+      • Benchmark Name: xbench: Recruitment, Task Number: 50, Dataset Source: real-world headhunting business scenarios<br>
+      • Benchmark Name: xbench: Marketing, Task Number: 50, Dataset Source: real client demands<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Towards Pervasive Distributed Agentic Generative AI -- A State of The Art</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.13324"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Turin, Italy<br>
+      • Paper Number: 145<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Scaling Test-time Compute for LLM Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.12928"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OPPO-PersonalAI/OAgents"><img src="https://img.shields.io/github/stars/OPPO-PersonalAI/OAgents.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: OPPO AI Agent Team<br>
+      • Agent Name: ATTS, Base Model: GPT-4.1, Strategy: Test-time scaling<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>SoK: The Privacy Paradox of Large Language Models: Advancements, Privacy Risks, and Mitigation</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.12699"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: CSIRO’s Data61<br>
+      • Paper Number: 152<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.12508"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/SkyworkAI/DeepResearchAgent"><img src="https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Skywork AI<br>
+      • Agent Name: AgentOrchestra, Base Model: ['claude-3.7-sonnet', 'gpt-4.1', 'gemini-2.5-pro-preview-05-06', 'o3'], Strategy: ['Prompt', 'hierarchical multi-agent framework']<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Cloud Infrastructure Management in the Age of AI Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.12270"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Michigan<br>
+      • Agent Name: SDK agent, Base Model: Azure Copilot, Strategy: None<br>
+      • Agent Name: CLI agent, Base Model: Azure Copilot, Strategy: None<br>
+      • Agent Name: IaC agent, Base Model: Azure Copilot, Strategy: None<br>
+      • Agent Name: ClickOps agent, Base Model: GPT-4o, Strategy: None<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>The Amazon Nova Family of Models: Technical Report and Model Card</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.12103"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://huggingface.co/amazon-agi"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Amazon Artificial General Intelligence<br>
+      • Agent Name: Amazon Nova Pro, Base Model: Transformer, Strategy: ['SFT', 'DPO', 'PPO', 'Prompt']<br>
+      • Agent Name: Amazon Nova Lite, Base Model: Transformer, Strategy: ['SFT', 'DPO', 'PPO', 'Prompt']<br>
+      • Agent Name: Amazon Nova Micro, Base Model: Transformer, Strategy: ['SFT', 'DPO', 'PPO', 'Prompt']<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
     <td style="width: 40%;"><strong>DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
