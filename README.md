@@ -1508,6 +1508,129 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.15677"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://embodied-web-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California, Los Angeles<br>
+      • Benchmark Name: EMBODIED WEBAGENTS Benchmark, Task Number: 1523, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.15674"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/parameterlab/leaky_thoughts"><img src="https://img.shields.io/github/stars/parameterlab/leaky_thoughts.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Parameter Lab, Data and Web Science Group, University of Mannheim<br>
+      • Benchmark Name: AirGapAgent-R, Task Number: None, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.15253"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/lanzer-tree/RAS-Eval"><img src="https://img.shields.io/github/stars/lanzer-tree/RAS-Eval.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Benchmark Name: RAS-Eval, Task Number: 3802, Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.15170"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: School of Software, Henan University<br>
+      • Paper Number: 156<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.14866"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/tml-epfl/os-harm"><img src="https://img.shields.io/github/stars/tml-epfl/os-harm.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: EPFL<br>
+      • Benchmark Name: OS-HARM, Task Number: 150, Dataset Source: None<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Cost-Efficient Serving of LLM Agents via Test-Time Plan Caching</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.14852"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Stanford University<br>
+      • Agent Name: Agentic Plan Caching, Base Model: GPT-4o, LLaMa-3.2-8B, GPT-4o-mini, Strategy: plan caching<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
     <td style="width: 40%;"><strong>Unified Software Engineering agent as AI Software Engineer</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
@@ -1573,6 +1696,28 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>FormGym: Doing Paperwork with Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.14079"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Columbia University<br>
+      • Agent Name: FieldFinder, Base Model: Florence 2 Large, Strategy: Fine-tuning<br>
+      • Benchmark Name: FormGym, Task Number: 3, Dataset Source: human annotation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
     <td style="width: 40%;"><strong>Discovering Temporal Structure: An Overview of Hierarchical Reinforcement Learning</strong></td>
     <td style="width: 15%;">
     </td>
@@ -1606,6 +1751,27 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: Columbia University<br>
       • Paper Number: 127<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Personalized Constitutionally-Aligned Agentic Superego: Secure AI Behavior Aligned to Diverse Human Values</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.13774"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="http://www.Creed.Space"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Gloucestershire<br>
+      • Agent Name: Personalized Constitutionally-Aligned Agentic Superego, Base Model: GPT-3.5-Turbo, Gemini 2.5 Flash, GPT-4o, Claude Sonnet 4, Strategy: Prompt<br>
     </td>
   </tr>
 
