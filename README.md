@@ -1508,6 +1508,170 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.22183"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Columbia University<br>
+      • Paper Number: 112<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Universal Retrieval for Multimodal Trajectory Modeling</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.22056"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: iMean AI<br>
+      • Benchmark Name: GAE-Bench, Task Number: 12, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.21899"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Monash University<br>
+      • Paper Number: 360<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>A Survey of Continual Reinforcement Learning</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.21872"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Southwestern University of Finance and Economics<br>
+      • Paper Number: 167<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.21605"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/import-myself/Membench"><img src="https://img.shields.io/github/stars/import-myself/Membench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Renmin University of China<br>
+      • Paper Number: 48<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Bench to the Future: A Pastcasting Benchmark for Forecasting Agents</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.21558"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: FutureSearch<br>
+      • Benchmark Name: Bench To the Future (BTF), Task Number: 299, Dataset Source: web pages<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.20332"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mobile-r1/mobile-r1"><img src="https://img.shields.io/github/stars/mobile-r1/mobile-r1.svg?style=social&label=Star"></a><br>
+      <a href="https://mobile-r1.github.io/Mobile-R1/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Taobao & Tmall Group of Alibaba<br>
+      • Agent Name: Mobile-R1, Base Model: Qwen2.5-VL-3B, Strategy: GRPO<br>
+      • Benchmark Name: Mobile Agent Benchmark, Task Number: 500, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 40%;"><strong>Doc2Agent: Scalable Generation of Tool-Using Agents from API Documentation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.19998"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/coolkillercat/Doc2Agent"><img src="https://img.shields.io/github/stars/coolkillercat/Doc2Agent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Brandeis University<br>
+      • Agent Name: Doc2Agent, Base Model: GPT-4, Strategy: Iterative refinement<br>
+      • Benchmark Name: WebArena, Task Number: 174, Dataset Source: real-world API documentation and research APIs<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
     <td style="width: 40%;"><strong>From Reproduction to Replication: Evaluating Research Agents with Progressive Code Masking</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
