@@ -1508,6 +1508,95 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jul 2025</td>
+    <td style="width: 40%;"><strong>MIRIX: Multi-Agent Memory System for LLM-Based Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2507.07957"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Mirix-AI/MIRIX/tree/public_evaluation"><img src="https://img.shields.io/github/stars/tree/public_evaluation.svg?style=social&label=Star"></a><br>
+      <a href="https://mirix.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: MIRIX AI<br>
+      • Agent Name: MIRIX, Base Model: gemini-2.5-flash-preview-04-17, gpt-4.1-mini, Strategy: Multi-agent framework with Active Retrieval<br>
+      • Benchmark Name: ScreenshotVQA, Task Number: 87, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2025</td>
+    <td style="width: 40%;"><strong>Automating MD simulations for Proteins using Large language Models: NAMD-Agent</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2507.07887"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/BaratiLab/NAMD_AGENT"><img src="https://img.shields.io/github/stars/BaratiLab/NAMD_AGENT.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Materials Science and Engineering, Carnegie Mellon University<br>
+      • Agent Name: NAMD-Agent, Base Model: Gemini-2.0-Flash, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2025</td>
+    <td style="width: 40%;"><strong>StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2507.07445"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://weihaotan.github.io/StarDojo"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nanyang Technological University, Singapore<br>
+      • Benchmark Name: StarDojo, Task Number: 1000, Dataset Source: human curation<br>
+      • Benchmark Name: StarDojo-Lite, Task Number: 100, Dataset Source: human curation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2025</td>
+    <td style="width: 40%;"><strong>SAND: Boosting LLM Agents with Self-Taught Action Deliberation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2507.07441"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California San Diego<br>
+      • Agent Name: SAND, Base Model: ['Llama-3.1-8B-Instruct', 'Qwen2.5-7B-Instruct'], Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2025</td>
     <td style="width: 40%;"><strong>The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover</strong></td>
     <td style="width: 15%;">
     </td>
