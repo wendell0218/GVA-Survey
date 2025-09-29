@@ -1507,6 +1507,406 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22644"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mnluzimu/WebGen-Agent"><img src="https://img.shields.io/github/stars/mnluzimu/WebGen-Agent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Multimedia Laboratory (MMLab), The Chinese University of Hong Kong<br>
+      • Agent Name: WebGen-Agent, Base Model: Claude-3.5-Sonnet, Strategy: Step-GRPO with Screenshot and GUI-agent Feedback<br>
+      • Agent Name: WebGenAgent-LM, Base Model: Qwen2.5-Coder-7B-Instruct, Strategy: Step-GRPO with Screenshot and GUI-agent Feedback<br>
+      • Benchmark Name: WebGen-Bench, Task Number: 101, Dataset Source: natural language instructions<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22601"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tencent Youtu Lab<br>
+      • Agent Name: SPEAR, Base Model: Qwen2.5-1.5B-Instruct, Qwen2.5-7B-Instruct, Qwen2.5-32B-Instruct, Qwen3-32B-Instruct, Qwen2.5-VL-3B-Instruct, Strategy: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning (SPEAR)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Estimating the Empowerment of Language Model Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22504"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://anonymous.4open.science/r/EELMA-E227"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: MIT<br>
+      • Agent Name: EELMA, Base Model: Various LLMs (GPT-4o, Claude-3.5, etc.), Strategy: InfoNCE-based empowerment estimation<br>
+      • Benchmark Name: WebArena, Task Number: Specific numbers not provided, Dataset Source: Human-designed tasks<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Machines in the Margins: A Systematic Review of Automated Content Generation for Wikipedia</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22443"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Department for Informatics, King's College London, United Kingdom<br>
+      • Paper Number: 119<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>TreeMind: Automatically Reproducing Android Bug Reports via LLM-empowered Monte Carlo Tree Search</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22431"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Anhui University<br>
+      • Agent Name: TreeMind, Base Model: GPT-4o, Strategy: LLM-empowered Monte Carlo Tree Search<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Secure and Efficient Access Control for Computer-Use Agents via Context Space</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22256"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: CSAgent, Base Model: DeepSeek-R1, DeepSeek-V3, Seed1.6, Strategy: Policy-based access control<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Leveraging LLM Agents for Automated Video Game Testing</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22170"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: TITAN, Base Model: GPT-4o, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Log2Plan: An Adaptive GUI Automation Framework Integrated with Task Mining Approach</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22137"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Sookmyung Women's University<br>
+      • Agent Name: Log2Plan, Base Model: GPT-4o, Strategy: Two-level planning framework with task mining<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>RISK: A Framework for GUI Agents in E-commerce Risk Management</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21982"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Agent Name: RISK-R1, Base Model: Qwen2.5-VL-7B-Instruct, Strategy: SFT + RFT (GRPO)<br>
+      • Benchmark Name: RISK-Bench, Task Number: 1122, Dataset Source: Browser Use framework + Qwen-VL-Max<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21823"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: NTU<br>
+      • Agent Name: PRORE, Base Model: Gemini-2.5-Pro, Strategy: Reasoner-Actor Collaboration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>No More Manual Guides: Automatic and Scalable Generation of High-Quality Excel Tutorials</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21816"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Agent Name: ExeAgent, Base Model: GPT-4.1/GPT-o3/GPT-5, Strategy: Hybrid GUI-API Execution with Accessibility-Augmented Perception<br>
+      • Benchmark Name: Excel Tutorial Generation Dataset, Task Number: 1559, Dataset Source: Search queries, community websites, in-app help content<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21799"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tianjin University<br>
+      • Agent Name: D-Artemis, Base Model: Qwen2.5-VL-72B-Instruct, GUI-Owl-32B, Strategy: Deliberative cognitive framework with Thought-Action Consistency Check, Action Correction Agent, Status Reflection Agent, and fine-grained app-specific tip retrieval<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21782"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/jinliang-byte/webssrbench.git"><img src="https://img.shields.io/github/stars/jinliang-byte/webssrbench.git.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Dalian Maritime University<br>
+      • Benchmark Name: WebRSSBench, Task Number: 8, Dataset Source: Mind2Web, WebMMU, WebSRC, and design-oriented webpages (V0 Community, top 500 most popular sites)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Psychological and behavioural responses in human-agent vs. human-human interactions: a systematic review and meta-analysis</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21542"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Dyson School of Design Engineering, Imperial College London, London, United Kingdom<br>
+      • Paper Number: 162<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants?</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21501"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/neuhai/agentic-ai-evaluation"><img src="https://img.shields.io/github/stars/neuhai/agentic-ai-evaluation.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California San Diego<br>
+      • Agent Name: UXAgent, Base Model: Claude 3.7 Sonnet, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21072"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/inclusionAI/AWorld/tree/main/examples/visualwebarena"><img src="https://img.shields.io/github/stars/examples/visualwebarena.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: AWorld Team, Inclusion AI<br>
+      • Agent Name: Recon-Act, Base Model: GPT-5-Chat, Strategy: Multi-agent system with Reconnaissance-Action behavioral paradigm<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Fairy: Interactive Mobile Assistant to Real-world Tasks via LMM-based Multi-agent</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.20729"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/NeoSunJZ/Fairy/"><img src="https://img.shields.io/github/stars/Fairy/.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University, College of Computer Science and Artificial Intelligence<br>
+      • Agent Name: Fairy, Base Model: GPT-4o, Strategy: Multi-agent architecture with Global Task Planner, App-Level Executor, and Self-Learner modules<br>
+      • Benchmark Name: RealMobile-Eval, Task Number: 30, Dataset Source: expert-designed tasks<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Online Process Reward Leanring for Agentic Reinforcement Learning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.19199"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Chinese Academy of Sciences<br>
+      • Agent Name: OPRL, Base Model: Qwen2.5-7B-Instruct, Qwen2.5-VL-7B-Instruct, Llama3.1-8B-Instruct, Strategy: Reinforcement Learning with Online Process Reward Learning (OPRL)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>A Scoping Review of Mixed Initiative Visual Analytics in the Automation Renaissance</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.19152"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Oak Ridge National Laboratory<br>
+      • Paper Number: 86<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Jul 2025</td>
     <td style="width: 40%;"><strong>MIRIX: Multi-Agent Memory System for LLM-Based Agents</strong></td>
     <td style="width: 15%;">
