@@ -1508,6 +1508,235 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>InfoAgent: Advancing Autonomous Information-Seeking Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.25189"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Southeast University<br>
+      • Agent Name: InfoAgent, Base Model: Qwen3-14B, Strategy: Two-stage recipe: cold-start supervised finetuning followed by reinforcement learning (GRPO)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.25140"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Illinois Urbana-Champaign<br>
+      • Agent Name: ReasoningBank, Base Model: Gemini-2.5-flash, Gemini-2.5-pro, Claude-3.7-sonnet, Strategy: Memory framework with self-evolving reasoning strategies from successful and failed experiences<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Scaling Synthetic Task Generation for Agents via Exploration</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.25047"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="ram81.github.io/projects/autoplay"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Apple<br>
+      • Agent Name: AutoPlay, Base Model: Qwen2.5-VL Instruct, Strategy: SFT and RL<br>
+      • Benchmark Name: AutoPlay Android Task Dataset, Task Number: 20000, Dataset Source: LLM synthesis through environment exploration<br>
+      • Benchmark Name: AutoPlay Ubuntu Task Dataset, Task Number: 10000, Dataset Source: LLM synthesis through environment exploration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>The Emergence of Social Science of Large Language Models</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24877"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: School of Artificial Intelligence, The Chinese University of Hong Kong, Shenzhen<br>
+      • Paper Number: 270<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>IWR-Bench: Can LVLMs reconstruct interactive webpage from a user interaction video?</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24709"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/L-O-I/IWR-Bench"><img src="https://img.shields.io/github/stars/L-O-I/IWR-Bench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Lab, Zhejiang University<br>
+      • Benchmark Name: IWR-Bench, Task Number: 113, Dataset Source: real-world websites<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Agentic Services Computing</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24380"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Paper Number: 208<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Retrieval-augmented GUI Agents with Generative Guidelines</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24183"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Emory University<br>
+      • Agent Name: RAG-GUI, Base Model: Qwen-2.5-VL-7B / Qwen-2.5-VL-72B, Strategy: Supervised Fine-Tuning (SFT), Self-guided Rejection Sampling Finetuning (RSF)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Fathom-DeepResearch: Unlocking Long Horizon Information Retrieval and Synthesis for SLMs</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24107"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/FractalAIResearchLabs/Fathom-DeepResearch"><img src="https://img.shields.io/github/stars/FractalAIResearchLabs/Fathom-DeepResearch.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fractal AI Research<br>
+      • Agent Name: Fathom-Search-4B, Base Model: Qwen3-4B, Strategy: RAPO (Reward Aware Policy Optimization), SFT, RLVR (Reinforcement Learning with Verifiable Rewards)<br>
+      • Agent Name: Fathom-Synthesizer-4B, Base Model: Qwen3-4B, Strategy: SFT, Plan-then-Write protocol<br>
+      • Benchmark Name: DUETQA, Task Number: ~5K, Dataset Source: multi-agent self-play<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>LLM/Agent-as-Data-Analyst: A Survey</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.23988"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/weAIDB/awesome-data-llm"><img src="https://img.shields.io/github/stars/weAIDB/awesome-data-llm.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
+      • Paper Number: 292<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.23738"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: GUI-Shepherd, Base Model: UI-TARS-1.5-7B, Strategy: PPO with Process Reward Model<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>GUI-PRA: Process Reward Agent for GUI Tasks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.23263"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: GUI-PRA, Base Model: Qwen2.5-VL-72B-Instruct, InternVL3-78B-Instruct, Strategy: Dynamic Memory mechanism, Adaptive UI Perception mechanism<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
     <td style="width: 40%;"><strong>WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
