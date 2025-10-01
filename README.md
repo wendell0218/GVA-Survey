@@ -1508,6 +1508,142 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.26539"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Apple<br>
+      • Agent Name: Ferret-UI Lite, Base Model: 3B dense model (internal), Strategy: SFT, RL (GRPO), visual tool-use, zoom-in mechanism, chain-of-thought reasoning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>SCUBA: Salesforce Computer Use Benchmark</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.26506"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://sfrcua.github.io/SCUBA/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Salesforce AI Research<br>
+      • Benchmark Name: SCUBA, Task Number: 300, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>RE-Searcher: Robust Agentic Search with Goal-oriented Planning and Self-reflection</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.26048"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Agent Name: RE-Searcher, Base Model: Qwen2.5-3B-Instruct and Qwen2.5-7B-Instruct, Strategy: GRPO (Group Relative Policy Optimization) with goal-oriented planning and self-reflection<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>A Framework for Studying AI Agent Behavior: Evidence from Consumer Choice Experiments</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.25609"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/PapayaResearch/abxlab"><img src="https://img.shields.io/github/stars/PapayaResearch/abxlab.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: MIT<br>
+      • Benchmark Name: ABXLAB, Task Number: , Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.25297"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/yxwan123/TDDev"><img src="https://img.shields.io/github/stars/yxwan123/TDDev.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Chinese University of Hong Kong<br>
+      • Agent Name: TDDev, Base Model: GPT-4.1, Claude-4-Sonnet, Strategy: Test-Driven Development with multi-agent orchestration<br>
+      • Benchmark Name: Req-to-App-MM, Task Number: , Dataset Source: Augmented version of WebGen-Bench with multimodal inputs<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 40%;"><strong>Blueprint-Bench: Comparing spatial intelligence of LLMs, agents and image models</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.25229"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/AndonLabs/Blueprint-Bench-generation"><img src="https://img.shields.io/github/stars/AndonLabs/Blueprint-Bench-generation.svg?style=social&label=Star"></a><br>
+      <a href="https://andonlabs.com/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Andon Labs<br>
+      • Agent Name: Codex CLI, Base Model: , Strategy: <br>
+      • Agent Name: Claude Code, Base Model: , Strategy: <br>
+      • Benchmark Name: Blueprint-Bench, Task Number: 50, Dataset Source: apartment listing's official floor plan image<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
     <td style="width: 40%;"><strong>InfoAgent: Advancing Autonomous Information-Seeking Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
