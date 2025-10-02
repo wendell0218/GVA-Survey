@@ -1507,6 +1507,113 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>JoyAgent-JDGenie: Technical Report on the GAIA</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.00510"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/jd-opensource/joyagent-jdgenie"><img src="https://img.shields.io/github/stars/jd-opensource/joyagent-jdgenie.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: JingDong<br>
+      • Agent Name: JoyAgent-JDGenie, Base Model: Claude-4, Strategy: Plan–Execute and ReAct paradigms<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.00507"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/YurunChen/Graph2Eval"><img src="https://img.shields.io/github/stars/YurunChen/Graph2Eval.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Benchmark Name: GRAPH2EVAL-BENCH, Task Number: 1319, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>Make a Video Call with LLM: A Measurement Campaign over Five Mainstream Apps</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.00481"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Hong Kong University of Science and Technology<br>
+      • Benchmark Name: Comprehensive benchmark for AI video chat performance, Task Number: , Dataset Source: StreamingBench dataset (subset) and custom dataset constructed from YouTube, Pexels and online sources<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.00413"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Gaoling School of Artificial Intelligence, Renmin University of China<br>
+      • Agent Name: PAL-UI, Base Model: Qwen2.5-VL, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>DRBench: A Realistic Benchmark for Enterprise Deep Research</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.00172"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ServiceNow/drbench"><img src="https://img.shields.io/github/stars/ServiceNow/drbench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ServiceNow Research<br>
+      • Agent Name: DRBench Agent (DRBA), Base Model: GPT-4o, GPT-5, Llama-3.1-405B, DeepSeek-V3.1, Qwen-2.5-72B, Strategy: Research Planning, Action Planning, Adaptive Action Planning<br>
+      • Benchmark Name: DRBench, Task Number: 15, Dataset Source: LLM generation with human verification<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Sep 2025</td>
     <td style="width: 40%;"><strong>Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents</strong></td>
     <td style="width: 15%;">
