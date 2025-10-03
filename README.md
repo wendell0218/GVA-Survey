@@ -1508,6 +1508,128 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>The Unreasonable Effectiveness of Scaling Agents for Computer Use</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.02250"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Simular Research<br>
+      • Agent Name: Behavior Best-of-N (bBoN), Base Model: GPT-5, GPT-5 Mini, Gemini 2.5 Pro, Claude 4 Sonnet, Strategy: Test-time scaling with behavior narrative generation and comparative trajectory selection<br>
+      • Agent Name: Agent S3, Base Model: GPT-5, GPT-5 Mini, Strategy: Flat policy with integrated coding agent for programmatic edits<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.01670"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft Research AI Frontiers<br>
+      • Benchmark Name: BLIND-ACT, Task Number: 90, Dataset Source: human-designed<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>SoK: Measuring What Matters for Closed-Loop Security Agents</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.01654"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Application Security, Airbnb<br>
+      • Paper Number: 90<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>WALT: Web Agents that Learn Tools</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.01524"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Salesforce AI Research<br>
+      • Agent Name: WALT, Base Model: GPT-5, GPT-5-mini, Strategy: Tool-based abstraction with demonstrate-generate-validate loop, URL reverse-engineering, and deterministic action scripts<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.01354"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Norrrrrrr-lyn/WAInjectBench"><img src="https://img.shields.io/github/stars/Norrrrrrr-lyn/WAInjectBench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Duke University<br>
+      • Benchmark Name: WAInjectBench, Task Number: , Dataset Source: attacks such as VWA-Adv, EIA, WASP, WebInject, VPI, and benign samples from Visual Web Arena, Web Arena, Spam Email Dataset, SMS Spam Collection Dataset<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 40%;"><strong>How can AI agents support journalists' work? An experiment with designing an LLM-driven intelligent reporting system</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.01193"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Helsinki<br>
+      • Agent Name: TeleFlash, Base Model: GPT models (OpenAI), Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
     <td style="width: 40%;"><strong>JoyAgent-JDGenie: Technical Report on the GAIA</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
