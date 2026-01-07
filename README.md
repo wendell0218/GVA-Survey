@@ -1507,6 +1507,92 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>CORE: Code-based Inverse Self-Training Framework with Graph Expansion for Virtual Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.02201"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: CORE, Base Model: OS-Atlas-Base-7B, GUI-R1-7B, Strategy: Semantic Code Abstraction, Strategy Graph Expansion, Trajectory-Guided Extrapolation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>AI Agent Systems: Architectures, Applications, and Evaluation</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.01743"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Arizona State University<br>
+      • Paper Number: 67<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Exposing Hidden Interfaces: LLM-Guided Type Inference for Reverse Engineering macOS Private Frameworks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.01673"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: MBZUAI<br>
+      • Agent Name: MOTIF-AGENT, Base Model: Qwen3-8B, Strategy: ReAct loop with tool-augmented analysis and fine-tuning<br>
+      • Benchmark Name: MOTIF-BENCH, Task Number: , Dataset Source: public macOS frameworks with ground-truth headers from Xcode SDK<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.01366"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Kinginlife/KGCE"><img src="https://img.shields.io/github/stars/Kinginlife/KGCE.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Central China Normal University<br>
+      • Agent Name: KGCE Agent, Base Model: GPT-4o, Qwen-VL-Max-Latest, Gemini-2.0-Flash, Strategy: Knowledge base enhancement<br>
+      • Benchmark Name: KGCE, Task Number: 104, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Dec 2025</td>
     <td style="width: 40%;"><strong>ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands</strong></td>
     <td style="width: 15%;">
