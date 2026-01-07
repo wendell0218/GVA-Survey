@@ -1508,6 +1508,151 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>WebAnchor: Anchoring Agent Planning to Stabilize Long-Horizon Web Reasoning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.03164"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tongyi Lab, Alibaba Group<br>
+      • Agent Name: WebAnchor, Base Model: WebSailor-3B, WebSailor-7B, Tongyi-DR-30B, Strategy: Anchor-GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>MiMo-V2-Flash Technical Report</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.02780"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/XiaomiMiMo/MiMo-V2-Flash"><img src="https://img.shields.io/github/stars/XiaomiMiMo/MiMo-V2-Flash.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Xiaomi<br>
+      • Agent Name: MiMo-V2-Flash, Base Model: MiMo-V2-Flash, Strategy: Supervised Fine-Tuning (SFT), Reinforcement Learning (RL), Multi-Teacher On-Policy Distillation (MOPD)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>The Path Ahead for Agentic AI: Challenges and Opportunities</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.02749"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Prince Sultan University<br>
+      • Paper Number: 37<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>EvoRoute: Experience-Driven Self-Routing LLM Agent Systems</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.02695"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bingreeky/evo-route"><img src="https://img.shields.io/github/stars/bingreeky/evo-route.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: National University of Singapore<br>
+      • Agent Name: EvoRoute, Base Model: Qwen3-14B, GPT-4.1, GPT-4o, Claude-4-Sonnet, Gemini-2.5-Flash, Gemini-2.5-Pro, Strategy: Thompson sampling-based Model Selection, Pareto-Optimal Filtration, Multi-Faceted Retrieval, Experience-Driven Self-Routing<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>DataParasite Enables Scalable and Repurposable Online Data Curation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.02578"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mengysun/DataParasite"><img src="https://img.shields.io/github/stars/mengysun/DataParasite.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Cold Spring Harbor Laboratory<br>
+      • Agent Name: DataParasite, Base Model: gpt-5-mini, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.02439"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft<br>
+      • Agent Name: RL w/ WebGym agent, Base Model: Qwen-3-VL-8B-Instruct, Strategy: REINFORCE<br>
+      • Benchmark Name: WebGym, Task Number: 300,000, Dataset Source: Aggregated tasks from 10 existing benchmarks and LLM-based (GPT-4o) procedural construction/decomposition<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.02399"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://prosoftarena.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Wuhan University<br>
+      • Benchmark Name: ProSoftArena, Task Number: 436, Dataset Source: domain experts<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 40%;"><strong>CORE: Code-based Inverse Self-Training Framework with Graph Expansion for Virtual Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
