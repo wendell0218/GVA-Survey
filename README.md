@@ -1508,6 +1508,158 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>SmartSearch: Process Reward-Guided Query Refinement for Search Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04888"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MYVAE/SmartSearch"><img src="https://img.shields.io/github/stars/MYVAE/SmartSearch.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Renmin University of China<br>
+      • Agent Name: SmartSearch, Base Model: Qwen2.5-3B-Instruct, Strategy: Process Reward-Guided Query Refinement, Three-stage curriculum learning (SFT, DPO, and GRPO)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04879"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Melmaphother/Mind2Report"><img src="https://img.shields.io/github/stars/Melmaphother/Mind2Report.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
+      • Agent Name: Mind2Report, Base Model: DeepSeek-V3.1, Strategy: Prompt<br>
+      • Benchmark Name: QRC-Eval, Task Number: 200, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>AgentDevel: Reframing Self-Evolving LLM Agents as Release Engineering</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04620"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Agent Name: AgentDevel, Base Model: Claude-Sonnet-4.5, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04566"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Yunhao-Feng/BackdoorAgent"><img src="https://img.shields.io/github/stars/Yunhao-Feng/BackdoorAgent.svg?style=social&label=Star"></a><br>
+      <a href="https://github.com/Yunhao-Feng/BackdoorAgent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Benchmark Name: BackdoorAgent, Task Number: 4, Dataset Source: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>GUITester: Enabling GUI Agents for Exploratory Defect Discovery</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04500"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ADaM-BJTU/GUITestBench"><img src="https://img.shields.io/github/stars/ADaM-BJTU/GUITestBench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Jiaotong University<br>
+      • Agent Name: GUITester, Base Model: Qwen3-VL-Plus, GPT-4o, Strategy: Prompt<br>
+      • Benchmark Name: GUITestBench, Task Number: 143, Dataset Source: real-world defects and LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>SAGE-32B: Agentic Reasoning via Iterative Distillation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04237"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: SAGEA<br>
+      • Agent Name: SAGE-32B, Base Model: Qwen2.5-32B, Strategy: Iterative Distillation, Inverse Reasoning, DPO, Reinforcement Learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04203"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/shirley-wu/frontalk"><img src="https://img.shields.io/github/stars/shirley-wu/frontalk.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meta Superintelligence Labs<br>
+      • Agent Name: AceCoder, Base Model: GPT-4o, Qwen2.5-VL-7B, Qwen2.5-VL-72B, Strategy: agent-based critique and secondary coding attempt (regeneration)<br>
+      • Benchmark Name: FronTalk, Task Number: 100 dialogues, Dataset Source: C4 dataset and LLM-based user simulator<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 40%;"><strong>InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
