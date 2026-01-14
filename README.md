@@ -1508,6 +1508,154 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Advancing ESG Intelligence: An Expert-level Agent and Comprehensive Benchmark for Sustainable Finance</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.08676"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ElaineZhao92/ESGAgent-and-Benchmark"><img src="https://img.shields.io/github/stars/ElaineZhao92/ESGAgent-and-Benchmark.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nanyang Technological University<br>
+      • Agent Name: ESGAgent, Base Model: gemini-3-flash-preview, gpt-4.1, computer-use-preview(4o), Strategy: Hierarchical multi-agent architecture with specialized toolset<br>
+      • Benchmark Name: ESG Benchmark, Task Number: 291, Dataset Source: 310 corporate sustainability reports from Dow Jones Industrial Average (DJIA) constituents<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>ExpSeek: Self-Triggered Experience Seeking for Web Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.08605"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Institute of Information Engineering, Chinese Academy of Sciences<br>
+      • Agent Name: ExpSeek, Base Model: Qwen3-8B, Qwen3-32B, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.08536"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/imlrz/DeepResearch-Bench-II"><img src="https://img.shields.io/github/stars/imlrz/DeepResearch-Bench-II.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
+      • Benchmark Name: DeepResearch Bench II, Task Number: 132, Dataset Source: expert-written investigative articles<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>WebTrap Park: An Automated Platform for Systematic Security Evaluation of Web Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.08406"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://security.fudan.edu.cn/webagent"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Benchmark Name: WebTrapPark, Task Number: 1226, Dataset Source: augment and integrate existing datasets<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>ToolACE-MCP: Generalizing History-Aware Routing from MCP Tools to the Agent Web</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.08276"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: Light Routing Agent, Base Model: Qwen3-8B, Strategy: LoRA<br>
+      • Benchmark Name: Agent Route Benchmark, Task Number: 156, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>MemoBrain: Executive Memory as an Agentic Brain for Reasoning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.08079"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Academy of Artificial Intelligence<br>
+      • Agent Name: MemoBrain, Base Model: Qwen3 (4B, 8B, 14B), DeepSeek V3.2, Strategy: SFT, DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Small Symbols, Big Risks: Exploring Emoticon Semantic Confusion in Large Language Models</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.07885"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://anonymous.4open.science/r/EmoticonConfusion-1654/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Xi’an Jiaotong University<br>
+      • Benchmark Name: code-oriented test cases dataset for emoticon semantic confusion, Task Number: 3757, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 40%;"><strong>OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
