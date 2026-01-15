@@ -1508,6 +1508,113 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.09688"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Infinity-AILab/DeepResearchEval"><img src="https://img.shields.io/github/stars/Infinity-AILab/DeepResearchEval.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Infinity Lab, Shanda Group<br>
+      • Benchmark Name: DeepResearchEval, Task Number: 100, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.09636"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/JiuTian-VL/PersonalAlign"><img src="https://img.shields.io/github/stars/JiuTian-VL/PersonalAlign.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Harbin Institute of Technology, Shenzhen<br>
+      • Agent Name: HIM-Agent, Base Model: Qwen3-VL, Strategy: Hierarchical Intent Memory<br>
+      • Benchmark Name: AndroidIntent, Task Number: 990, Dataset Source: 20k long-term records (Fingertip20K)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>EvoFSM: Controllable Self-Evolution for Deep Research with Finite State Machines</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.09465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/QuantaAlpha/EvoFSM"><img src="https://img.shields.io/github/stars/QuantaAlpha/EvoFSM.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: QuantaAlpha<br>
+      • Agent Name: EvoFSM, Base Model: GPT-4o, Claude-4, Llama-3-70B, DeepSeek-V3, Qwen3-32B, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>KryptoPilot: An Open-World Knowledge-Augmented LLM Agent for Automated Cryptographic Exploitation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.09129"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/n-WN/sage-ctf-docker"><img src="https://img.shields.io/github/stars/n-WN/sage-ctf-docker.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Independent Researcher<br>
+      • Agent Name: KryptoPilot, Base Model: GPT-5.1 Thinking, GPT-OSS-120B, Strategy: Prompt, Deep Research, Model Routing, HeavyThink<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>The AI Hippocampus: How Far are We From Human Memory?</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.09113"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bigai-nlco/LLM-Memory-Survey"><img src="https://img.shields.io/github/stars/bigai-nlco/LLM-Memory-Survey.svg?style=social&label=Star"></a><br>
+      <a href="https://github.com/bigai-nlco/LLM-Memory-Survey"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: State Key Laboratory of General Artificial Intelligence, BIGAI Peking University<br>
+      • Paper Number: 243<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 40%;"><strong>Advancing ESG Intelligence: An Expert-level Agent and Comprehensive Benchmark for Sustainable Finance</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
