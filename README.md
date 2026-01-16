@@ -1508,6 +1508,111 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>DR-Arena: an Automated Evaluation Framework for Deep Research Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.10504"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/iNLP-Lab/DR-Arena"><img src="https://img.shields.io/github/stars/iNLP-Lab/DR-Arena.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: National University of Singapore<br>
+      • Benchmark Name: DR-Arena, Task Number: 30, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>In-Browser Agents for Search Assistance</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.09928"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/saberzerhoudi/agentic-search-plugin"><img src="https://img.shields.io/github/stars/saberzerhoudi/agentic-search-plugin.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Passau<br>
+      • Agent Name: In-Browser, Behavior-Grounded Search Assistant, Base Model: Phi family, Strategy: Hybrid architecture combining a probabilistic model (MDP) with a local Small Language Model (SLM) and using the REINFORCE algorithm for online learning.<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.09923"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/camel-prompt-injection"><img src="https://img.shields.io/github/stars/google-research/camel-prompt-injection.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Cambridge<br>
+      • Agent Name: Dual-LLM Architecture for CUAs, Base Model: GPT-5, Claude Sonnet 4.5, Gemini 2.5 Pro, UITars-1.5-7B, OpenCUA-32B, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Beyond Rule-Based Workflows: An Information-Flow-Orchestrated Multi-Agents Paradigm via Agent-to-Agent Communication from CORAL</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.09883"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Coral-Protocol/Beyond-Rule-Based-Workflows"><img src="https://img.shields.io/github/stars/Coral-Protocol/Beyond-Rule-Based-Workflows.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Coral Protocol<br>
+      • Agent Name: Information-Flow-Orchestrated Multi-Agent Paradigm, Base Model: Grok 4.1 Fast, GPT 4.1 Mini, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.09770"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
+      • Agent Name: GUI-Eyes, Base Model: Qwen2.5-VL-3B, Strategy: Reinforcement Learning (GRPO)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 40%;"><strong>DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
