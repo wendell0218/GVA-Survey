@@ -1508,6 +1508,114 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Facilitating Proactive and Reactive Guidance for Decision Making on the Web: A Design Probe with WebSeek</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.15100"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Hong Kong University of Science and Technology<br>
+      • Agent Name: WebSeek, Base Model: Gemini-2.5-Flash, Strategy: Prompt<br>
+      • Benchmark Name: custom benchmark, Task Number: 50, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Game-Theoretic Lens on LLM-based Multi-Agent Systems</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.15047"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Hong Kong University of Science and Technology (Guangzhou)<br>
+      • Paper Number: 57<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>CI4A: Semantic Component Interfaces for Agents Empowering Web Automation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.14790"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Institute of Technology<br>
+      • Agent Name: Eous, Base Model: GPT-5, Strategy: Hybrid Action Space<br>
+      • Benchmark Name: refactored and upgraded WebArena benchmark, Task Number: 182, Dataset Source: refactored WebArena benchmark<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.14615"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Hong Kong University of Science and Technology<br>
+      • Agent Name: SearchGym-RL, Base Model: Qwen2.5-7B-Base, Strategy: GRPO<br>
+      • Benchmark Name: SearchGymBench, Task Number: 642, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Towards Cybersecurity Superintelligence: from AI-guided humans to human-guided AI</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.14614"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aliasrobotics/cai"><img src="https://img.shields.io/github/stars/aliasrobotics/cai.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Alias Robotics<br>
+      • Agent Name: PentestGPT, Base Model: GPT-3.5, Strategy: Reasoning Module maintaining global context via Penetration Testing Task Tree (PTT), Generation Module for Chain-of-Thought decomposition, and Parsing Module<br>
+      • Agent Name: Cybersecurity AI (CAI), Base Model: alias series (alias0, alias1, alias2), Strategy: Agent-centric architecture with six pillars (Agents, Tools, Handoffs, Patterns, Turns, and HITL) for end-to-end automated security tasks<br>
+      • Agent Name: Generative Cut-the-Rope (G-CTR), Base Model: LLM-based agents (e.g., alias series, GPT-4o), Strategy: Neurosymbolic architecture embedding game-theoretic reasoning via Attack Graph Generation, Nash Equilibrium Computation, and Strategic Digest Injection<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 40%;"><strong>APEX-Agents</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
