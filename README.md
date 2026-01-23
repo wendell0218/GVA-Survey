@@ -1508,6 +1508,89 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.15876"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/meituan/EvoCUA"><img src="https://img.shields.io/github/stars/meituan/EvoCUA.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meituan<br>
+      • Agent Name: EvoCUA, Base Model: Qwen3-VL-32B-Thinking, Strategy: SFT, RFT, DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.15808"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/yxwan123/DeepVerifier"><img src="https://img.shields.io/github/stars/yxwan123/DeepVerifier.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Chinese University of Hong Kong<br>
+      • Agent Name: DeepVerifier, Base Model: Claude-3.7-Sonnet, Strategy: Prompt<br>
+      • Agent Name: DeepVerifier-8B, Base Model: Qwen3-8B, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>UXCascade: Scalable Usability Testing with Simulated User Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.15777"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ETH Zurich<br>
+      • Agent Name: UXCascade, Base Model: GPT-5, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Agentic Uncertainty Quantification</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.15703"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Salesforce AI Research<br>
+      • Agent Name: AUQ, Base Model: GPT-5.1, GPT-4.1, GPT-4o, Gemini-2.5-Pro, Gemini-2.5-Flash, Qwen3-235B, DeepSeek-V3.1, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 40%;"><strong>Facilitating Proactive and Reactive Guidance for Decision Making on the Web: A Design Probe with WebSeek</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
