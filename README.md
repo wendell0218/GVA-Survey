@@ -1508,6 +1508,76 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>LongCat-Flash-Thinking-2601 Technical Report</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.16725"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601"><img src="https://img.shields.io/github/stars/meituan-longcat/LongCat-Flash-Thinking-2601.svg?style=social&label=Star"></a><br>
+      <a href="https://longcat.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meituan<br>
+      • Agent Name: LongCat-Flash-Thinking-2601, Base Model: LongCat-Flash-Chat, Strategy: Mixture-of-Experts (MoE), Group Sequence Policy Optimization (GSPO), DORA (Asynchronous RL), Heavy Thinking Mode<br>
+      • Benchmark Name: RWSearch, Task Number: 200, Dataset Source: real-world search queries<br>
+      • Benchmark Name: AMO-Bench, Task Number: 50, Dataset Source: human experts<br>
+      • Benchmark Name: Random Complex Tasks, Task Number: 100, Dataset Source: automated task synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>Endless Terminals: Scaling RL Environments for Terminal Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.16443"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/kanishkg/endless-terminals"><img src="https://img.shields.io/github/stars/kanishkg/endless-terminals.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Stanford University<br>
+      • Agent Name: Endless Terminals Agent, Base Model: Llama-3.2-3B, Qwen2.5-7B, Qwen3-8B-openthinker-sft, Strategy: PPO<br>
+      • Benchmark Name: Endless Terminals, Task Number: 3255, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 40%;"><strong>The Behavioral Fabric of LLM-Powered GUI Agents: Human Values and Interaction Outcomes</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.16356"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ND-SaNDwichLAB/LLM-agents-website-replicas"><img src="https://img.shields.io/github/stars/ND-SaNDwichLAB/LLM-agents-website-replicas.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Notre Dame<br>
+      • Benchmark Name: controlled testbed of 14 common interactive web tasks, Task Number: 14, Dataset Source: replicated from real websites<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 40%;"><strong>EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
