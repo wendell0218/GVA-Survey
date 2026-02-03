@@ -1507,6 +1507,1679 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02486"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Southeast University<br>
+      • Agent Name: RE-TRAC, Base Model: Qwen3-4B-Instruct, Tongyi-DeepResearch-30B-A3B, Strategy: Prompt, SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>AgentRx: Diagnosing AI Agent Failures from Execution Trajectories</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02475"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft Research<br>
+      • Agent Name: AGENTRX, Base Model: GPT-5, Strategy: Global and Dynamic Constraint Synthesis with LLM-based adjudication<br>
+      • Benchmark Name: AGENTRX Benchmark, Task Number: 115, Dataset Source: manually annotating failed agent runs<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Avenir-Web: Human-Experience-Imitating Multimodal Web Agents with Mixture of Grounding Experts</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02468"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Princeton-AI2-Lab/Avenir-Web"><img src="https://img.shields.io/github/stars/Princeton-AI2-Lab/Avenir-Web.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University College London<br>
+      • Agent Name: AVENIR-WEB, Base Model: Gemini 3 Pro, Strategy: Mixture of Grounding Experts (MoGE), Experience-Imitation Planning (EIP), Task-Tracking Checklist, Adaptive Memory<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02455"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Notre Dame<br>
+      • Benchmark Name: DRIFT-BENCH, Task Number: 350, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Live-Evo: Online Evolution of Agentic Memory from Continuous Feedback</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02369"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ag2ai.github.io/live-evo-page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Oregon State University<br>
+      • Agent Name: LIVE-EVO, Base Model: GPT-4.1-mini, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Context Learning for Multi-Agent Discussion</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02350"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HansenHua/M2CL-ICLR26"><img src="https://img.shields.io/github/stars/HansenHua/M2CL-ICLR26.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tsinghua University<br>
+      • Agent Name: M2CL, Base Model: Qwen2.5-VL, Llama-2, Qwen-2.5, Strategy: Multi-LLM context learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Kimi K2.5: Visual Agentic Intelligence</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02276"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MoonshotAI/WorldVQA"><img src="https://img.shields.io/github/stars/MoonshotAI/WorldVQA.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Moonshot AI<br>
+      • Agent Name: Kimi K2.5, Base Model: Kimi K2, Strategy: zero-vision SFT, Joint Multimodal Reinforcement Learning, Agent Swarm<br>
+      • Benchmark Name: WorldVQA, Task Number: , Dataset Source: <br>
+      • Benchmark Name: In-house Swarm Bench, Task Number: 4 domains, Dataset Source: internally developed<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02196"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/yayayacc/TIDE"><img src="https://img.shields.io/github/stars/yayayacc/TIDE.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Xi’an Jiaotong University<br>
+      • Benchmark Name: TIDE, Task Number: 300, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02164"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Michigan State University<br>
+      • Agent Name: Co-RedTeam, Base Model: Gemini-3-pro, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>DCoPilot: Generative AI-Empowered Policy Adaptation for Dynamic Data Center Operations</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02137"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/jt940212/OS-Atlas"><img src="https://img.shields.io/github/stars/jt940212/OS-Atlas.svg?style=social&label=Star"></a><br>
+      <a href="https://os-atlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
+      • Agent Name: OS-Atlas, Base Model: GLM-4V-9B, Strategy: SFT<br>
+      • Benchmark Name: OS-Ground, Task Number: 14212, Dataset Source: public datasets and LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Closing the Loop: Universal Repository Representation with RPG-Encoder</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02084"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/danyangzhang/mobile-env"><img src="https://img.shields.io/github/stars/danyangzhang/mobile-env.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
+      • Benchmark Name: Mobile-Env, Task Number: 300, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02050"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OS-Ground/OS-Atlas"><img src="https://img.shields.io/github/stars/OS-Ground/OS-Atlas.svg?style=social&label=Star"></a><br>
+      <a href="https://os-atlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Max-Planck-Institut für Informatik<br>
+      • Agent Name: OS-Atlas, Base Model: InternVL2, Strategy: grounding-based instruction tuning<br>
+      • Benchmark Name: OS-Ground, Task Number: 12244, Dataset Source: human annotation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Are Semantic Networks Associated with Idea Originality in Artificial Creativity? A Comparison with Human Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02048"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/chen-f-n/OS-Atlas"><img src="https://img.shields.io/github/stars/chen-f-n/OS-Atlas.svg?style=social&label=Star"></a><br>
+      <a href="https://os-atlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Agent Name: OS-Atlas, Base Model: Qwen2-VL-7B, Strategy: Supervised Fine-Tuning<br>
+      • Benchmark Name: OSW-Bench, Task Number: 410, Dataset Source: human annotation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02035"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/VIEW-SELECTION"><img src="https://img.shields.io/github/stars/showlab/VIEW-SELECTION.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/VIEW-SELECTION/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: National University of Singapore<br>
+      • Agent Name: VIEW-SELECTION, Base Model: GPT-4o, Claude-3.5-Sonnet, Gemini-1.5-Pro, GPT-4V, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Canonical Intermediate Representation for LLM-based optimization problem formulation and code generation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02029"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/SkyworkAI/SeeClick"><img src="https://img.shields.io/github/stars/SkyworkAI/SeeClick.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Skywork AI<br>
+      • Agent Name: SeeClick, Base Model: Florence-2, Strategy: SFT<br>
+      • Benchmark Name: Screen-2-Point, Task Number: 127k, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02007"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/BAAI-Agents/Cradle"><img src="https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star"></a><br>
+      <a href="https://baai-agents.github.io/Cradle/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nanyang Technological University<br>
+      • Agent Name: Cradle, Base Model: GPT-4o, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Evolving from Tool User to Creator via Training-Free Experience Reuse in Multimodal Reasoning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01983"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mcgill-nlp/weblinx"><img src="https://img.shields.io/github/stars/mcgill-nlp/weblinx.svg?style=social&label=Star"></a><br>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: McGill University<br>
+      • Agent Name: WebLINX model, Base Model: Llama-2, Mistral-7B, Flant5, Strategy: SFT<br>
+      • Benchmark Name: WebLINX, Task Number: 2337, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Self-Consolidation for Self-Evolving Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01966"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://rl-vlm-f.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: UC Berkeley<br>
+      • Agent Name: RL-VLM-F, Base Model: LLaVA-v1.5-7B, Strategy: RLAIF<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Human Society-Inspired Approaches to Agentic AI Security: The 4C Framework</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01942"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mnotgod96/AppAgent"><img src="https://img.shields.io/github/stars/mnotgod96/AppAgent.svg?style=social&label=Star"></a><br>
+      <a href="https://appagent-official.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tencent<br>
+      • Agent Name: AppAgent, Base Model: GPT-4 (Vision), Strategy: Prompt<br>
+      • Benchmark Name: AppAgent Benchmark, Task Number: 50, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>LIEREx: Language-Image Embeddings for Robotic Exploration</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01930"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/laser-agent"><img src="https://img.shields.io/github/stars/microsoft/laser-agent.svg?style=social&label=Star"></a><br>
+      <a href="https://microsoft.github.io/laser-agent/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Washington<br>
+      • Agent Name: LASER, Base Model: GPT-4o-mini, Strategy: State-space exploration using a world model and tree-based search<br>
+      • Benchmark Name: WebQuest, Task Number: 1300, Dataset Source: real-world websites with human annotations<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>When Workout Buddies Are Virtual: AI Agents and Human Peers in a Longitudinal Physical Activity Study</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01918"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-PLUG/Mobile-Agent"><img src="https://img.shields.io/github/stars/X-PLUG/Mobile-Agent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Jiaotong University<br>
+      • Agent Name: Mobile-Agent, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: Mobile-Eval, Task Number: 25, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>ForSim: Stepwise Forward Simulation for Traffic Policy Fine-Tuning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01916"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tsinghua University<br>
+      • Agent Name: PTI, Base Model: GPT-4o, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>VLM-Guided Experience Replay</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01915"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/McGill-NLP/WebLINX"><img src="https://img.shields.io/github/stars/McGill-NLP/WebLINX.svg?style=social&label=Star"></a><br>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: McGill University<br>
+      • Agent Name: WebLINX Agent, Base Model: Llama-2, Strategy: SFT<br>
+      • Benchmark Name: WebLINX, Task Number: 2337, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01854"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Apple<br>
+      • Agent Name: Auto-UI-M, Base Model: Flan-T5-base, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>ORCH: many analyses, one merge-a deterministic multi-agent orchestrator for discrete-choice reasoning with EMA-guided routing</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01797"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mcgill-nlp/weblinx"><img src="https://img.shields.io/github/stars/mcgill-nlp/weblinx.svg?style=social&label=Star"></a><br>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: McGill University<br>
+      • Agent Name: WebLINX-Llama, Base Model: Llama-2-7b, Strategy: SFT<br>
+      • Agent Name: WebLINX-Mistral, Base Model: Mistral-7B-v0.1, Strategy: SFT<br>
+      • Benchmark Name: WebLINX, Task Number: 2337, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01766"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Boston University<br>
+      • Agent Name: Idefics-9B, Base Model: Idefics-9B, Strategy: SFT, REINFORCE<br>
+      • Agent Name: CogVLM-17B, Base Model: CogVLM-17B, Strategy: SFT, REINFORCE<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>SafePred: A Predictive Guardrail for Computer-Using Agents via World Models</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01725"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/YurunChen/SafePred"><img src="https://img.shields.io/github/stars/YurunChen/SafePred.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: SAFEPRED, Base Model: GPT-4o, Strategy: World Model<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>What Do Agents Learn from Trajectory-SFT: Semantics or Interfaces?</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01611"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Benchmark Name: PIPE, Task Number: 16, Dataset Source: minimally rewriting environment interfaces<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01590"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mrfatcat/UI-Point"><img src="https://img.shields.io/github/stars/mrfatcat/UI-Point.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Huawei Technologies<br>
+      • Agent Name: UI-Point, Base Model: LLaVA-1.5-7B, Strategy: Instruction Tuning<br>
+      • Benchmark Name: UIOI, Task Number: 33281, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Generative Visual Code Mobile World Models</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01576"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THU-KEG/Video-Web-Agent"><img src="https://img.shields.io/github/stars/THU-KEG/Video-Web-Agent.svg?style=social&label=Star"></a><br>
+      <a href="https://video-web-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tsinghua University<br>
+      • Agent Name: Video-Web-Agent, Base Model: Qwen2-VL-7B, Strategy: Instruction Tuning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01566"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google Research<br>
+      • Benchmark Name: Android in the Wild (AITW), Task Number: 30,378, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01539"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/PKU-H-Web/H-Web"><img src="https://img.shields.io/github/stars/PKU-H-Web/H-Web.svg?style=social&label=Star"></a><br>
+      <a href="https://pku-h-web.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Benchmark Name: H-Web, Task Number: 2135, Dataset Source: human intentions extracted from online threads (Reddit, Quora, etc.)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Legal Infrastructure for Transformative AI Governance</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01474"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/SeeClick"><img src="https://img.shields.io/github/stars/microsoft/SeeClick.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tsinghua University<br>
+      • Agent Name: SeeClick, Base Model: InternLM-XComposer2-7B, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Agyn: A Multi-Agent System for Team-Based Autonomous Software Engineering</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01465"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/RL-VLM-F/RL-VLM-F"><img src="https://img.shields.io/github/stars/RL-VLM-F/RL-VLM-F.svg?style=social&label=Star"></a><br>
+      <a href="https://rl-vlm-f.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Agent Name: RL-VLM-F, Base Model: Qwen-VL-Chat, LLaVA-1.5-7B, Strategy: Reinforcement Learning (PPO)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>SimGym: Traffic-Grounded Browser Agents for Offline A/B Testing in E-Commerce</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01443"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/McGill-NLP/weblinx"><img src="https://img.shields.io/github/stars/McGill-NLP/weblinx.svg?style=social&label=Star"></a><br>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: McGill University<br>
+      • Agent Name: WebLINX-Llama-7B, Base Model: Llama-2-7B, Strategy: SFT<br>
+      • Benchmark Name: WebLINX, Task Number: 2337, Dataset Source: human demonstrations<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Evidence-Decision-Feedback: Theory-Driven Adaptive Scaffolding for LLM Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01415"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xlang-ai/os-world"><img src="https://img.shields.io/github/stars/xlang-ai/os-world.svg?style=social&label=Star"></a><br>
+      <a href="https://os-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Benchmark Name: OS-World, Task Number: 369, Dataset Source: human annotation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Feedback by Design: Understanding and Overcoming User Feedback Barriers in Conversational Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01405"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nanjing University<br>
+      • Agent Name: APPS, Base Model: DQN, Strategy: Deep Reinforcement Learning, Program Progress Supervision<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>From Pragmas to Partners: A Symbiotic Evolution of Agentic High-Level Synthesis</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01401"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/SibeiGuo/VisR"><img src="https://img.shields.io/github/stars/SibeiGuo/VisR.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Institute of Technology<br>
+      • Agent Name: VisR, Base Model: GPT-4o, GPT-4o-mini, Llama-3-70b, Strategy: Prompting<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>The Enhanced Physics-Informed Kolmogorov-Arnold Networks: Applications of Newton's Laws in Financial Deep Reinforcement Learning (RL) Algorithms</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01388"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/WindowsAgentArena"><img src="https://img.shields.io/github/stars/microsoft/WindowsAgentArena.svg?style=social&label=Star"></a><br>
+      <a href="https://microsoft.github.io/WindowsAgentArena/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft Research<br>
+      • Agent Name: Navi, Base Model: GPT-4o, Strategy: Prompt<br>
+      • Benchmark Name: Windows Agent Arena, Task Number: 1542, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>PromptRL: Prompt Matters in RL for Flow-Based Image Generation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01382"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/microsoft/UFO.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beihang University<br>
+      • Agent Name: S-UFO, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: Steerable GUI Automation Benchmark, Task Number: 50, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Towards knowledge-based workflows: a semantic approach to atomistic simulations for mechanical and thermodynamic properties</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01358"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ZhanenZhang/AutoGUI"><img src="https://img.shields.io/github/stars/ZhanenZhang/AutoGUI.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Notre Dame<br>
+      • Agent Name: AutoGUI, Base Model: GPT-4, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>A-MapReduce: Executing Wide Search via Agentic MapReduce</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01331"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xlang-ai/OS-World"><img src="https://img.shields.io/github/stars/xlang-ai/OS-World.svg?style=social&label=Star"></a><br>
+      <a href="https://os-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Benchmark Name: OS-World, Task Number: 369, Dataset Source: human curation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>TxRay: Agentic Postmortem of Live Blockchain Attacks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01317"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-PLUG/Mobile-Agent"><img src="https://img.shields.io/github/stars/X-PLUG/Mobile-Agent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meituan<br>
+      • Agent Name: Mobile-Agent, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: Mobile-Eval, Task Number: 25, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>StoryState: Agent-Based State Control for Consistent and Editable Storybooks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01305"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct.svg?style=social&label=Star"></a><br>
+      <a href="https://osu-nlp-group.github.io/SeeAct/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Ohio State University<br>
+      • Agent Name: SeeAct, Base Model: GPT-4V, Strategy: Prompting<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Construction-Verification: A Benchmark for Applied Mathematics in Lean 4</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01291"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xjx-ai/H-Desp"><img src="https://img.shields.io/github/stars/xjx-ai/H-Desp.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: H-Desp, Base Model: GPT-4o, Qwen2-VL-7B, Strategy: Look-More mechanism, Hierarchical Planning, SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>AOASS: Adaptive Obstacle-Aware Square Spiral Framework for Single-mobile Anchor-Based WSN Localization</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01290"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/os-atlas/os-atlas"><img src="https://img.shields.io/github/stars/os-atlas/os-atlas.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
+      • Agent Name: OS-Atlas, Base Model: Qwen-VL-7B, Strategy: SFT<br>
+      • Benchmark Name: OS-Universe, Task Number: 556, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Mixture-of-World Models: Scaling Multi-Task Reinforcement Learning with Modular Latent Dynamics</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01270"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Wisconsin-Madison<br>
+      • Agent Name: SURE, Base Model: GPT-4o, Llama-3-70B, GPT-3.5-Turbo, Strategy: SFT, DPO, In-context Learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01244"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/SAGE"><img src="https://img.shields.io/github/stars/microsoft/SAGE.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Agent Name: SAGE, Base Model: GPT-4 and Llama-2-7B-Chat, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Workflow-R1: Group Sub-sequence Policy Optimization for Multi-turn Workflow Construction</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01202"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OS-Atlas/OS-Atlas"><img src="https://img.shields.io/github/stars/OS-Atlas/OS-Atlas.svg?style=social&label=Star"></a><br>
+      <a href="https://os-atlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
+      • Agent Name: OS-Atlas, Base Model: Qwen2-VL-7B, GLM-4V-9B, Strategy: SFT<br>
+      • Benchmark Name: OS-W, Task Number: 424, Dataset Source: human labeling<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>ASP-Bench: From Natural Language to Logic Programs</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01171"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xb-msc/MAC"><img src="https://img.shields.io/github/stars/xb-msc/MAC.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: MAC, Base Model: InternLM-XComposer2-7B, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>SMCP: Secure Model Context Protocol</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01129"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OS-Atlas/OS-Atlas"><img src="https://img.shields.io/github/stars/OS-Atlas/OS-Atlas.svg?style=social&label=Star"></a><br>
+      <a href="https://os-atlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
+      • Agent Name: OS-Atlas, Base Model: Qwen-VL-7B, VILA-13B, Strategy: SFT<br>
+      • Benchmark Name: OS-W, Task Number: 1000, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Tendem: A Hybrid AI+Human Platform</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01119"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/toloka/tendem-evaluation"><img src="https://img.shields.io/github/stars/toloka/tendem-evaluation.svg?style=social&label=Star"></a><br>
+      <a href="https://tendem.ai"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Toloka Team<br>
+      • Agent Name: Tendem, Base Model: not specified, Strategy: plan–act–observe–verify loop with explicit step gates for human verification<br>
+      • Benchmark Name: In-house benchmark of economically valuable tasks, Task Number: 94, Dataset Source: commissioned practitioners<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>SPELL: Synthesis of Programmatic Edits using LLMs</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01107"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/OmniParser"><img src="https://img.shields.io/github/stars/microsoft/OmniParser.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft Research<br>
+      • Agent Name: OmniParser, Base Model: GPT-4V, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>MedBeads: An Agent-Native, Immutable Data Substrate for Trustworthy Medical AI</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01086"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mnotgod96/AppAgent"><img src="https://img.shields.io/github/stars/mnotgod96/AppAgent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tencent<br>
+      • Agent Name: AppAgent, Base Model: GPT-4V, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>AutoHealth: An Uncertainty-Aware Multi-Agent System for Autonomous Health Data Modeling</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01078"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/microsoft/UFO.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft<br>
+      • Agent Name: UFO, Base Model: GPT-4V, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01053"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xlang-ai/OS-World"><img src="https://img.shields.io/github/stars/xlang-ai/OS-World.svg?style=social&label=Star"></a><br>
+      <a href="https://os-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Benchmark Name: OS-WORLD, Task Number: 369, Dataset Source: human curation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>The Syntactic-Semantic Internet:Engineering Infrastructures for Autonomous Systems</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00818"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/google-research/android_world.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google Research<br>
+      • Agent Name: AndroidWorld baseline agent, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: AndroidWorld, Task Number: 116, Dataset Source: manual task definition<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>World Models as an Intermediary between Agents and the Real World</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00785"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: New York University<br>
+      • Paper Number: 73<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>DockSmith: Scaling Reliable Coding Environments via an Agentic Docker Builder</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00592"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: StepFun<br>
+      • Agent Name: DOCKSMITH, Base Model: Qwen3-Coder-30B-A3B-Instruct, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Exploring Information Seeking Agent Consolidation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00585"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Agent Name: Consolidated Foundation Agentic Model, Base Model: Qwen3-30B-A3B-Think, Strategy: Data-level consolidation, Parameter-level consolidation, LoRA<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Agentic Reward Modeling: Verifying GUI Agent via Online Proactive Interaction</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00575"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/CcQunResearch/VAGEN"><img src="https://img.shields.io/github/stars/CcQunResearch/VAGEN.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Institute of Automation, Chinese Academy of Sciences<br>
+      • Agent Name: VAGEN, Base Model: Claude-Sonnet-4.5, Strategy: Progressive Verification Mechanism (Static Assessment, Visual Retrospection, and Proactive Probing)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>PCBSchemaGen: Constraint-Guided Schematic Design via LLM for Printed Circuit Boards (PCB)</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00510"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct.svg?style=social&label=Star"></a><br>
+      <a href="https://osu-nlp-group.github.io/SeeAct/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Ohio State University<br>
+      • Agent Name: SeeAct, Base Model: GPT-4, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>HIDAgent: A Toolkit Enabling "Personal Agents" on HID-Compatible Devices</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00492"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/CMUBigLab/hidagent"><img src="https://img.shields.io/github/stars/CMUBigLab/hidagent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Agent Name: Extensible UI Agent, Base Model: Claude, Strategy: Prompt<br>
+      • Agent Name: Extensible UI Agent, Base Model: Gemma:27b, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>FISC: A Fluid-Inspired Framework for Decentralized and Scalable Swarm Control</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00480"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xlang-ai/OS-World"><img src="https://img.shields.io/github/stars/xlang-ai/OS-World.svg?style=social&label=Star"></a><br>
+      <a href="https://os-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Benchmark Name: OS-World, Task Number: 369, Dataset Source: human-annotated<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Dual Latent Memory for Visual Multi-agent System</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00471"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/RL-VLM-F/RL-VLM-F"><img src="https://img.shields.io/github/stars/RL-VLM-F/RL-VLM-F.svg?style=social&label=Star"></a><br>
+      <a href="https://rl-vlm-f.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tsinghua University<br>
+      • Agent Name: RL-VLM-F, Base Model: Qwen-VL-Chat, CogVLM-17B-Instruction, Strategy: PPO, Iterative preference learning<br>
+      • Benchmark Name: Refined-Mind2Web, Task Number: 1000, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Cross-Modal Memory Compression for Efficient Multi-Agent Debate</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00454"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Sijia-Cheng/ToolNavigator"><img src="https://img.shields.io/github/stars/Sijia-Cheng/ToolNavigator.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: ToolNavigator, Base Model: GPT-4o, Strategy: MCTS, candidate action ranking, self-reflection<br>
+      • Benchmark Name: ToolNavigator-Bench, Task Number: 2,428, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>When Agents "Misremember" Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00428"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xlang-ai/OS-World"><img src="https://img.shields.io/github/stars/xlang-ai/OS-World.svg?style=social&label=Star"></a><br>
+      <a href="https://os-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Benchmark Name: OS-World, Task Number: 369, Dataset Source: human-curated<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>PolarMem: A Training-Free Polarized Latent Graph Memory for Verifiable Multimodal Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00415"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/XingyuanBu/Flash"><img src="https://img.shields.io/github/stars/XingyuanBu/Flash.svg?style=social&label=Star"></a><br>
+      <a href="https://xingyuanbu.github.io/Flash/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Alibaba Group<br>
+      • Agent Name: Flash, Base Model: Qwen2-VL-7B, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Variational Approach for Job Shop Scheduling</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00408"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xlang-ai/OS-World"><img src="https://img.shields.io/github/stars/xlang-ai/OS-World.svg?style=social&label=Star"></a><br>
+      <a href="https://os-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Agent Name: Multimodal Agent Framework, Base Model: GPT-4V, Strategy: Prompting<br>
+      • Benchmark Name: OS-World, Task Number: 369, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>"Someone Hid It": Query-Agnostic Black-Box Attacks on LLM-Based Retrieval</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00364"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Z-H-S/ADAPT"><img src="https://img.shields.io/github/stars/Z-H-S/ADAPT.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Agent Name: ADAPT, Base Model: LLaVA-v1.5-7B/13B, Strategy: Action-conditioned Direct Advantage Preference Tracking (ADAPT)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Planning with Language and Generative Models: Toward General Reward-Guided Wireless Network Design</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00357"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/PKU-RL/RoboVLM"><img src="https://img.shields.io/github/stars/PKU-RL/RoboVLM.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Agent Name: RoboVLM, Base Model: Qwen-VL, LLaVA-1.5, InstructBLIP, Strategy: Language-Guided Behavioral Cloning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>DETOUR: An Interactive Benchmark for Dual-Agent Search and Reasoning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00352"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Patronus AI<br>
+      • Benchmark Name: DETOUR, Task Number: 1011, Dataset Source: professional annotators<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>MASC: Metal-Aware Sampling and Correction via Reinforcement Learning for Accelerated MRI</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.00348"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/shao-hua-wang/A-See"><img src="https://img.shields.io/github/stars/shao-hua-wang/A-See.svg?style=social&label=Star"></a><br>
+      <a href="https://shao-hua-wang.github.io/A-See-Project/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: A-See, Base Model: GPT-4o, Strategy: Prompt<br>
+      • Benchmark Name: A-See evaluation tasks, Task Number: 50, Dataset Source: human construction<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 40%;"><strong>UPA: Unsupervised Prompt Agent via Tree-Based Search and Selection</strong></td>
     <td style="width: 15%;">
