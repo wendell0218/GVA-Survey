@@ -1508,6 +1508,170 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>BMC4TimeSec: Verification Of Timed Security Protocols</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.17590"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/SSY-00/SRAP"><img src="https://img.shields.io/github/stars/SSY-00/SRAP.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California, San Diego<br>
+      • Agent Name: SRAP, Base Model: GPT-4o, Llama-3-70B, Strategy: Prompting (Self-Repairing Agentic Process)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.17558"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OS-Atlas/OS-Atlas"><img src="https://img.shields.io/github/stars/OS-Atlas/OS-Atlas.svg?style=social&label=Star"></a><br>
+      <a href="https://os-atlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
+      • Agent Name: OS-Atlas, Base Model: InternVL2 (1B, 2B, 8B, 26B), Strategy: SFT<br>
+      • Benchmark Name: OS-Wob, Task Number: Not explicitly summed for tasks, but consists of 12.2M instances, Dataset Source: Synthesis and compilation of 12 existing GUI datasets (e.g., Mind2Web, AITW, etc.)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>MedClarify: An information-seeking AI agent for medical diagnosis with case-specific follow-up questions</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.17308"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/chengboyu790/SeeClick"><img src="https://img.shields.io/github/stars/chengboyu790/SeeClick.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tencent ARC Lab<br>
+      • Agent Name: SeeClick, Base Model: LLaVA-v1.5-7B, Strategy: GUI grounding pre-training<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>TAPO-Structured Description Logic for Information Behavior: Procedural and Oracle-Based Extensions</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.17242"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/niurunliang/ScreenAgent"><img src="https://img.shields.io/github/stars/niurunliang/ScreenAgent.svg?style=social&label=Star"></a><br>
+      <a href="https://screenagent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tsinghua University<br>
+      • Agent Name: ScreenAgent, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: ScreenAgent Dataset, Task Number: 271, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Spatio-temporal dual-stage hypergraph MARL for human-centric multimodal corridor traffic signal control</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.17068"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/Digi-Agent"><img src="https://img.shields.io/github/stars/microsoft/Digi-Agent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Illinois at Urbana-Champaign<br>
+      • Agent Name: Digi-Agent, Base Model: Llama-2-7B, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Dynamic System Instructions and Tool Exposure for Efficient Agentic LLMs</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.17046"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Academy of Artificial Intelligence<br>
+      • Agent Name: Mobile-Agent, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: Mobile-Eval, Task Number: 25, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Wink: Recovering from Misbehaviors in Coding Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.17037"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/S-S-X/LlamaTouch"><img src="https://img.shields.io/github/stars/S-S-X/LlamaTouch.svg?style=social&label=Star"></a><br>
+      <a href="https://llama-touch.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Texas at Dallas<br>
+      • Benchmark Name: LlamaTouch, Task Number: 495, Dataset Source: manually curated from 100 apps<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
     <td style="width: 40%;"><strong>Towards a Science of AI Agent Reliability</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
