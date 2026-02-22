@@ -1672,6 +1672,96 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Action-Graph Policies: Learning Action Co-dependencies in Multi-Agent Reinforcement Learning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.17009"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/THUDM/AutoWebGLM"><img src="https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tsinghua University<br>
+      • Agent Name: AutoWebGLM, Base Model: ChatGLM3-6B, Strategy: SFT, rejection sampling, curriculum learning<br>
+      • Benchmark Name: AutoWebBench, Task Number: 84, Dataset Source: human-annotated<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>SAGE: Structure Aware Graph Expansion for Retrieval of Heterogeneous Data</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.16964"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/McGill-NLP/WebLINX"><img src="https://img.shields.io/github/stars/McGill-NLP/WebLINX.svg?style=social&label=Star"></a><br>
+      <a href="https://mcgill-nlp.github.io/weblinx"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: McGill University<br>
+      • Agent Name: WebLlama, Base Model: Llama-2, Strategy: SFT<br>
+      • Benchmark Name: WebLINX, Task Number: 2337, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Guiding LLM-Based Human Mobility Simulation with Mobility Measures from Shared Data</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.16726"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/deepmind/android_env"><img src="https://img.shields.io/github/stars/deepmind/android_env.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: DeepMind<br>
+      • Benchmark Name: AndroidEnv, Task Number: 20, Dataset Source: Android apps<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.16720"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct.svg?style=social&label=Star"></a><br>
+      <a href="https://osu-nlp-group.github.io/SeeAct/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Ohio State University<br>
+      • Agent Name: SeeAct, Base Model: GPT-4V, Strategy: Prompting<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
     <td style="width: 40%;"><strong>Towards a Science of AI Agent Reliability</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
@@ -1818,6 +1908,59 @@ We are committed to offering researchers the latest advancements in the field. B
       • Affiliation: TCS Research<br>
       • Agent Name: rg-agent, Base Model: GPT-5, Strategy: ReAct<br>
       • Benchmark Name: ResearchGym, Task Number: 39, Dataset Source: repurposed five oral and spotlight papers from ICML, ICLR, and ACL<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Social Contagion and Bank Runs: An Agent-Based Model with LLM Depositors</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.15066"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/simular-ai/Agent-S"><img src="https://img.shields.io/github/stars/simular-ai/Agent-S.svg?style=social&label=Star"></a><br>
+      <a href="https://simular.ai/agent-s"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California, San Diego<br>
+      • Agent Name: Agent-S, Base Model: GPT-4o, Claude-3.5-Sonnet, Strategy: Hierarchical planning, Semantic memory, Experience learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Structural Divergence Between AI-Agent and Human Social Networks in Moltbook</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.15064"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/os-atlas/os-atlas"><img src="https://img.shields.io/github/stars/os-atlas/os-atlas.svg?style=social&label=Star"></a><br>
+      <a href="https://os-atlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
+      • Agent Name: OS-Atlas, Base Model: InternVL2, Strategy: SFT<br>
+      • Benchmark Name: OS-W, Task Number: 25000, Dataset Source: human demonstration and existing datasets<br>
     </td>
   </tr>
 
