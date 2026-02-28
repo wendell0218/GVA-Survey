@@ -1508,6 +1508,119 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>A Benchmark for Deep Information Synthesis</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.21143"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/simsian/Agent-S"><img src="https://img.shields.io/github/stars/simsian/Agent-S.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Waterloo<br>
+      • Agent Name: Agent-S, Base Model: GPT-4o, Strategy: Software Semantic Representation (SSR)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.20951"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/bytedance/WebCanvas"><img src="https://img.shields.io/github/stars/bytedance/WebCanvas.svg?style=social&label=Star"></a><br>
+      <a href="https://webcanvas-benchmark.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Benchmark Name: WebCanvas, Task Number: 107, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Decentralized Trading Networks: Equilibria and Fairness</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.20868"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OS-Atlas/OS-Atlas"><img src="https://img.shields.io/github/stars/OS-Atlas/OS-Atlas.svg?style=social&label=Star"></a><br>
+      <a href="https://os-atlas.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
+      • Agent Name: OS-Atlas, Base Model: Qwen2-VL-7B, Strategy: SFT<br>
+      • Benchmark Name: OS-Eval, Task Number: 301, Dataset Source: manual collection<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>SoK: Agentic Skills -- Beyond Tool Use in LLM Agents</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.20867"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Technology Sydney<br>
+      • Paper Number: 76<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 40%;"><strong>Agile V: A Compliance-Ready Framework for AI-Augmented Engineering -- From Concept to Audit-Ready Delivery</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.20684"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Y-m-Y/FTC"><img src="https://img.shields.io/github/stars/Y-m-Y/FTC.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Westlake University<br>
+      • Agent Name: FTC, Base Model: Qwen-VL-Chat, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
     <td style="width: 40%;"><strong>Interaction Theater: A case of LLM Agents Interacting at Scale</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
