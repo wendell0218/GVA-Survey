@@ -1508,6 +1508,223 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.05344"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/opendev-to/opendev"><img src="https://img.shields.io/github/stars/opendev-to/opendev.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: OpenDev<br>
+      • Agent Name: OPENDEV, Base Model: Claude-3 (Haiku, Sonnet, Opus), OpenAI models, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.05295"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Agent Name: WebChain-LCRL, Base Model: Qwen2.5-VL, Strategy: Dual Mid-Training (including CoT-SFT, SGRL, and LCRL)<br>
+      • Benchmark Name: WebChainBench, Task Number: 1200 steps, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Jagarin: A Three-Layer Architecture for Hibernating Personal Duty Agents on Mobile</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.05069"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/microsoft/UFO.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft Research<br>
+      • Agent Name: UFO, Base Model: GPT-4V, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.05044"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Agent Name: WebFactory-3B, Base Model: Qwen2.5-VL-3B, Strategy: Reinforcement Learning (GRPO), automated trajectory collection, and decomposed reward functions.<br>
+      • Benchmark Name: WebFactory Offline Website Benchmark, Task Number: 100, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.04977"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/microsoft/UFO.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft Research<br>
+      • Agent Name: UFO, Base Model: GPT-4V, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>TimeWarp: Evaluating Web Agents by Revisiting the Past</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.04949"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://timewarp-web.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Utah<br>
+      • Agent Name: TIMEWARP-BC, Base Model: Qwen-3 4B, Llama-3.1 8B, Strategy: Behavioral Cloning<br>
+      • Benchmark Name: TIMEWARP, Task Number: 1386, Dataset Source: human-annotated goals and teacher rollouts<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>EVMbench: Evaluating AI Agents on Smart Contract Security</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.04915"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/openai/frontier-evals"><img src="https://img.shields.io/github/stars/openai/frontier-evals.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: OpenAI<br>
+      • Benchmark Name: EVMbench, Task Number: 117, Dataset Source: Code4rena<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.04722"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/web-arena-x/visualwebarena"><img src="https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star"></a><br>
+      <a href="https://visualwebarena.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Benchmark Name: VisualWebArena, Task Number: 910, Dataset Source: human-annotated<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Vibe Code Bench: Evaluating AI Models on End-to-End Web Application Development</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.04601"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/vals-ai/VibeCodeBench-Openhands-Scaffold"><img src="https://img.shields.io/github/stars/vals-ai/VibeCodeBench-Openhands-Scaffold.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Vals AI<br>
+      • Benchmark Name: Vibe Code Bench, Task Number: 100, Dataset Source: LLM synthesis and expert refinement<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>SkillNet: Create, Evaluate, and Connect AI Skills</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.04448"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/zjunlp/SkillNet"><img src="https://img.shields.io/github/stars/zjunlp/SkillNet.svg?style=social&label=Star"></a><br>
+      <a href="http://skillnet.openkg.cn"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: SkillNet, Base Model: DeepSeek V3.2, Gemini 2.5 Pro, o4 Mini, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 40%;"><strong>Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
