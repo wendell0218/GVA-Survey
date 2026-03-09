@@ -1508,6 +1508,51 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Before You Hand Over the Wheel: Evaluating LLMs for Security Incident Analysis</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.06422"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://llm-leaderboard-f4z.pages.dev/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Concordia University<br>
+      • Agent Name: SIA agent, Base Model: Claude-4.5-Sonnet, GPT-5, Claude-3.5-Sonnet, Gemini-1.5-pro, GPT-4o, GPT-4o-mini, o3-mini, DeepSeek-Reasoner, Llama-3.1-8B/70B/405B, Strategy: ReAct, Prompt<br>
+      • Benchmark Name: SIABENCH, Task Number: 160, Dataset Source: CyberDefenders, Blue Team Labs Online, TryHackMe, TII-SSRC-23, and CIC-IDS2017<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.05912"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Duke University<br>
+      • Agent Name: DeepFact-Eval, Base Model: GPT-4.1, Strategy: agentic framework involving breadth-oriented query planning, document search/summarization, and depth-oriented detail questioning<br>
+      • Benchmark Name: DeepFact-Bench, Task Number: 944, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 40%;"><strong>Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
