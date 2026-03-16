@@ -1508,6 +1508,167 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.13017"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/google-research/android_world.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google Research<br>
+      • Agent Name: AndroidWorld Agent, Base Model: Gemini Pro, GPT-4V, Claude 3 Opus, Strategy: Prompt<br>
+      • Benchmark Name: AndroidWorld, Task Number: 116, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Route Fragmentation Based on Resource-centric Prioritisation for Efficient Multi-Robot Path Planning in Agricultural Environments</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.12994"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/OmniParser"><img src="https://img.shields.io/github/stars/microsoft/OmniParser.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California, Santa Cruz<br>
+      • Agent Name: OmniParser, Base Model: YOLOv8, Florence-2, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.12908"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/web-arena-x/visualwebarena"><img src="https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star"></a><br>
+      <a href="https://visualwebarena.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Benchmark Name: VisualWebArena, Task Number: 910, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.12644"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Sibo-Li/FGG"><img src="https://img.shields.io/github/stars/Sibo-Li/FGG.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Sun Yat-sen University<br>
+      • Agent Name: FGG, Base Model: Qwen-VL-Chat, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>ChainFuzzer: Greybox Fuzzing for Workflow-Level Multi-Tool Vulnerabilities in LLM Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.12614"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/stonybrooknlp/OS-World"><img src="https://img.shields.io/github/stars/stonybrooknlp/OS-World.svg?style=social&label=Star"></a><br>
+      <a href="https://os-world.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Stony Brook University<br>
+      • Agent Name: Agent-S, Base Model: GPT-4o, Strategy: Search-based planning, Subgoal Search Graph<br>
+      • Benchmark Name: OS-World, Task Number: 369, Dataset Source: human curation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.12564"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/osu-nlp-group/Mind2Web"><img src="https://img.shields.io/github/stars/osu-nlp-group/Mind2Web.svg?style=social&label=Star"></a><br>
+      <a href="https://osu-nlp-group.github.io/Mind2Web/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Ohio State University<br>
+      • Benchmark Name: Mind2Web, Task Number: 2,350, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.12483"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/microsoft/UFO"><img src="https://img.shields.io/github/stars/microsoft/UFO.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft Research<br>
+      • Agent Name: UFO, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: Windows-Bench, Task Number: 50, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 40%;"><strong>Security Considerations for Artificial Intelligence Agents</strong></td>
     <td style="width: 15%;">
     </td>
