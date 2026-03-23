@@ -1508,6 +1508,357 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Agentic Harness for Real-World Compilers</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.20075"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/dtcxzyw/llvm-autofix"><img src="https://img.shields.io/github/stars/dtcxzyw/llvm-autofix.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Southern University of Science and Technology<br>
+      • Agent Name: llvm-autofix-mini, Base Model: GPT 5, Strategy: Prompt<br>
+      • Benchmark Name: llvm-bench, Task Number: 334, Dataset Source: github issues<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Market Power and Platform Design in Decentralized Electricity Trading</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19988"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Yifan-Pu/FoA"><img src="https://img.shields.io/github/stars/Yifan-Pu/FoA.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: National Taiwan University<br>
+      • Agent Name: Focus-on-Action (FoA), Base Model: GPT-4o, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Two-Time-Scale Learning Dynamics: A Population View of Neural Network Training</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19808"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/web-arena-x/visualwebarena"><img src="https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star"></a><br>
+      <a href="https://visualwebarena.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Benchmark Name: VisualWebArena, Task Number: 910, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Text-Based Personas for Simulating User Privacy Decisions</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19791"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meituan<br>
+      • Agent Name: FC-IC, Base Model: Vicuna-7B, Strategy: Fine-grained Contrastive Learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>WorldAgents: Can Foundation Image Models be Agents for 3D World Models?</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19708"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/YuanHaoqi/RL-VLA"><img src="https://img.shields.io/github/stars/YuanHaoqi/RL-VLA.svg?style=social&label=Star"></a><br>
+      <a href="https://yuanhaoqi.github.io/RL-VLA/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Agent Name: RL-VLA, Base Model: LLaVA-v1.5, Strategy: Reinforcement Learning (Advantage Weighted Regression) and Supervised Fine-Tuning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>On the existence of fair zero-determinant strategies in the periodic prisoner's dilemma game</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19641"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/web-arena-x/webarena"><img src="https://img.shields.io/github/stars/web-arena-x/webarena.svg?style=social&label=Star"></a><br>
+      <a href="https://webarena.dev"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Benchmark Name: WebArena, Task Number: 812, Dataset Source: manually created<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19584"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://anonymous-powerlens.github.io/PowerLens"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: China University of Geosciences (Beijing)<br>
+      • Agent Name: PowerLens, Base Model: Gemini-2.5-Flash, Strategy: Multi-agent architecture, PDL-based constraint verification, Two-tier memory system with confidence-based distillation, Prompting<br>
+      • Benchmark Name: PowerLensBench, Task Number: 48, Dataset Source: mainstream apps and LLM-assisted GT generation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Learning to Bet for Horizon-Aware Anytime-Valid Testing</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19551"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/X-PLUG/MobileAgent"><img src="https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Institute of Technology<br>
+      • Agent Name: Mobile-Agent, Base Model: GPT-4V, Strategy: Prompt<br>
+      • Benchmark Name: Mobile-Eval, Task Number: 100, Dataset Source: human-designed<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Stochastic Sequential Decision Making over Expanding Networks with Graph Filtering</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19501"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: National University of Singapore<br>
+      • Benchmark Name: AssistGUI, Task Number: 100, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>A Framework for Formalizing LLM Agent Security</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19469"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: UC Santa Cruz<br>
+      • Paper Number: 105<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>SWARM+: Scalable and Resilient Multi-Agent Consensus for Fully-Decentralized Data-Aware Workload Management</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19431"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: National University of Singapore<br>
+      • Benchmark Name: AssistGUI, Task Number: 100, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19386"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/hao-liu-ai/RL-VLM-Agent"><img src="https://img.shields.io/github/stars/hao-liu-ai/RL-VLM-Agent.svg?style=social&label=Star"></a><br>
+      <a href="https://rl-vlm-agent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California, Berkeley<br>
+      • Agent Name: RL-VLM-Agent, Base Model: Llama-3-8B-Instruct, Strategy: RL (PPO) and SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Exploring the Agentic Frontier of Verilog Code Generation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19347"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/google-research/android_world"><img src="https://img.shields.io/github/stars/google-research/android_world.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google<br>
+      • Benchmark Name: AndroidWorld, Task Number: 116, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>The Verifier Tax: Horizon Dependent Safety Success Tradeoffs in Tool Using LLM Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19328"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HeZhuoer/SCAD"><img src="https://img.shields.io/github/stars/HeZhuoer/SCAD.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Sun Yat-sen University<br>
+      • Agent Name: SCAD, Base Model: ViT-B/16, Strategy: Diffusion models<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>Autonoma: A Hierarchical Multi-Agent Framework for End-to-End Workflow Automation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19270"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HKUST-KnowComp/Agent-R"><img src="https://img.shields.io/github/stars/HKUST-KnowComp/Agent-R.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Hong Kong University of Science and Technology<br>
+      • Agent Name: Agent-R, Base Model: Llama-2-7b, Mistral-7B, Strategy: Retrospective Self-Correction<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 40%;"><strong>DuCCAE: A Hybrid Engine for Immersive Conversation via Collaboration, Augmentation, and Evolution</strong></td>
+    <td style="width: 15%;">
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.19248"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/XueyangZhao/Awesome-LLM-based-Agent"><img src="https://img.shields.io/github/stars/XueyangZhao/Awesome-LLM-based-Agent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nankai University<br>
+      • Paper Number: 118<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 40%;"><strong>Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
