@@ -1507,6 +1507,290 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.07277"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/SweetGUOguo/Android_Coach"><img src="https://img.shields.io/github/stars/SweetGUOguo/Android_Coach.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Agent Name: ANDROIDCOACH, Base Model: UI-TARS-1.5-7B, Strategy: Online RL with Single State Multiple Actions (SSMA)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.07223"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: CyCraft AI Lab, Taiwan<br>
+      • Benchmark Name: TRACESAFE-BENCH, Task Number: 1080, Dataset Source: Berkeley Function Calling Leaderboard (BFCL) and LLM-assisted mutation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.07165"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: George Washington University<br>
+      • Agent Name: T-STAR, Base Model: Qwen2.5-3B-Instruct, Phi-4-mini-instruct-3.8B, Strategy: Surgical Policy Optimization, In-Context Thought Grafting, Reinforcement Learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06811"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/PKU-RL/Agent-R"><img src="https://img.shields.io/github/stars/PKU-RL/Agent-R.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Agent Name: Agent-R, Base Model: Llama-3-8B-Instruct, Strategy: Reflection-Augmented Self-Play<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>PoC-Adapt: Semantic-Aware Automated Vulnerability Reproduction with LLM Multi-Agents and Reinforcement Learning-Driven Adaptive Policy</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06618"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Information Technology, Ho Chi Minh City<br>
+      • Agent Name: PoC-Adapt, Base Model: Gemini-2.5-Pro, Strategy: Prompt, RL<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06550"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/xiaohou521/skillsieve"><img src="https://img.shields.io/github/stars/xiaohou521/skillsieve.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Imperial College London<br>
+      • Benchmark Name: SkillSieve benchmark, Task Number: 49592, Dataset Source: ClawHub archive, Snyk ToxicSkills, ClawHavoc samples, human review<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>Neural Computers</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06425"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://metauto.ai/neuralcomputer"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meta AI<br>
+      • Agent Name: NC CLIGen, Base Model: Wan2.1, Strategy: Action-conditioned video diffusion<br>
+      • Agent Name: NC GUIWorld, Base Model: Wan2.1, Strategy: Action-conditioned video diffusion<br>
+      • Benchmark Name: CLIGen, Task Number: 823,989, Dataset Source: asciinema .cast trajectories and vhs scripts<br>
+      • Benchmark Name: GUIWorld, Task Number: 1500, Dataset Source: Desktop interaction traces and Claude CUA (Anthropic) trajectories<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>MTA-Agent: An Open Recipe for Multimodal Deep Search Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06376"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/SalesforceAIResearch/MTA-Agent"><img src="https://img.shields.io/github/stars/SalesforceAIResearch/MTA-Agent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Salesforce AI Research<br>
+      • Agent Name: MTA-Agent, Base Model: Qwen3-VL-32B-Instruct, Strategy: RL (DAPO)<br>
+      • Benchmark Name: MTA-Vision-DeepSearch-test, Task Number: 178, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06367"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Wisconsin-Madison<br>
+      • Agent Name: WebSP-Eval agentic framework, Base Model: Gemini-3-Pro, Gemini-2.5-Pro, Gemini-2.5-Flash, Claude-Sonnet-4.5, Claude-Haiku-4.5, GPT-5.1, GPT-5-mini, Gemma-3-27B, Strategy: Prompt<br>
+      • Benchmark Name: WebSP-Eval, Task Number: 200, Dataset Source: manually crafted<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06182"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/inclusionAI/UI-Venus/tree/VenusBench-Mobile"><img src="https://img.shields.io/github/stars/tree/VenusBench-Mobile.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Ant Group<br>
+      • Benchmark Name: VenusBench-Mobile, Task Number: 149 primary tasks and 80 variations, Dataset Source: manual construction and annotation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06177"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/huyuelin/WebExpert"><img src="https://img.shields.io/github/stars/huyuelin/WebExpert.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
+      • Agent Name: WebExpert, Base Model: QwQ-32B, Strategy: SFT, preference optimization, experience-conditioned planning, retrieval-augmented generation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06132"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://claw-eval.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Benchmark Name: Claw-Eval, Task Number: 300, Dataset Source: human-verified tasks<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>Gym-Anything: Turn any Software into an Agent Environment</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06126"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://cmu-l3.github.io/gym-anything"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: CMU<br>
+      • Agent Name: Ours (2B distilled), Base Model: Qwen3-VL-2B-Thinking, Strategy: SFT<br>
+      • Agent Name: Test-Time Auditing (TTA) Agent, Base Model: Gemini 3 Flash, Strategy: Prompt<br>
+      • Benchmark Name: CUA-World, Task Number: 12,103, Dataset Source: LLM synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 40%;"><strong>The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase</strong></td>
     <td style="width: 15%;">
