@@ -1508,6 +1508,92 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/iOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.08529"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Virginia<br>
+      • Agent Name: Facai, Base Model: , Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>ClawBench: Can AI Agents Complete Everyday Online Tasks?</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.08523"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://claw-bench.com"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of British Columbia<br>
+      • Benchmark Name: CLAWBENCH, Task Number: 153, Dataset Source: human demonstration<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Android-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.08455"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ZJU-REAL/KnowU-Bench"><img src="https://img.shields.io/github/stars/ZJU-REAL/KnowU-Bench.svg?style=social&label=Star"></a><br>
+      <a href="https://zju-real.github.io/KnowU-Bench"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Benchmark Name: KnowU-Bench, Task Number: 192, Dataset Source: LLM-driven user simulator grounded in structured profiles<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>SkillClaw: Let Skills Evolve Collectively with Agentic Evolver</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.08377"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: DreamX Team<br>
+      • Agent Name: SkillClaw, Base Model: Qwen3-Max, Strategy: Prompt<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
     <td style="width: 40%;"><strong>HiRO-Nav: Hybrid ReasOning Enables Efficient Embodied Navigation</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
