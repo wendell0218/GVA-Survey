@@ -1508,6 +1508,223 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>Parallax: Why AI Agents That Think Must Never Act</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Windows-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.12986"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/openparallax/openparallax"><img src="https://img.shields.io/github/stars/openparallax/openparallax.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Independent Researcher<br>
+      • Agent Name: OpenParallax, Base Model: Claude Haiku 4.5, Strategy: Prompt<br>
+      • Benchmark Name: Assume-Compromise Evaluation, Task Number: 337, Dataset Source: synthetic<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>Towards Long-horizon Agentic Multimodal Search</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.12890"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/RUCAIBox/LMM-Searcher"><img src="https://img.shields.io/github/stars/RUCAIBox/LMM-Searcher.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Renmin University of China<br>
+      • Agent Name: LMM-Searcher, Base Model: Qwen3-VL-Thinking-30A3B, Strategy: SFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.12867"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Alibaba<br>
+      • Agent Name: QuarkMedSearch, Base Model: Tongyi DeepResearch 30B-A3B, Strategy: Two-stage SFT and RLVR<br>
+      • Benchmark Name: QuarkMedSearch Benchmark, Task Number: 140, Dataset Source: LLM synthesis and open-source benchmark filtering with expert human verification<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.12666"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Jiaotong University<br>
+      • Agent Name: Triton-GRPO-32B, Base Model: Qwen2.5-Coder-32B-Instruct, Strategy: Progressive training curriculum (SFT, ORPO for discrimination, and GRPO for consistency)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.12374"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/NVIDIA-NeMo/Nemotron"><img src="https://img.shields.io/github/stars/NVIDIA-NeMo/Nemotron.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: NVIDIA<br>
+      • Agent Name: Nemotron 3 Super, Base Model: Nemotron 3 Super 120B-A12B, Strategy: SFT, RL (RLVR, SWE-RL, RLHF)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.12284"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: National University of Singapore<br>
+      • Agent Name: WebAgentGuard, Base Model: Qwen3-VL-Instruct, Strategy: reasoning-intensive supervised fine-tuning (SFT) and Group Relative Policy Optimization (GRPO)<br>
+      • Benchmark Name: synthetic multimodal dataset, Task Number: 1000, Dataset Source: LLM synthesis (GPT-5)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>AlphaEval: Evaluating Agents in Production</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.12162"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/GAIR-NLP/AlphaEval"><img src="https://img.shields.io/github/stars/GAIR-NLP/AlphaEval.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: SII<br>
+      • Benchmark Name: AlphaEval, Task Number: 94, Dataset Source: sourced from seven companies deploying AI agents in their core business<br>
+      • Paper Number: 106<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.11978"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Wisconsin–Madison<br>
+      • Benchmark Name: HORIZON, Task Number: 700+, Dataset Source: The benchmark is constructed by systematically extending tasks from existing suites like WebArena, AgentBench, MAC-SQL, and Isaac Sim using controlled horizon extension methods.<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/macOS-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.11950"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Illinois Urbana-Champaign<br>
+      • Agent Name: AnyPoC, Base Model: Claude Sonnet 4.5, Claude Sonnet 4.6, Opus 4.5, Opus 4.6, GPT-5.3-Codex, Strategy: Multi-agent framework featuring dedicated Analyzer, Generator, and Checker agents with an iterative synthesis-execution-validation loop and a self-evolving knowledge base.<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 40%;"><strong>ProbeLogits: Kernel-Level LLM Inference Primitives for AI-Native Operating Systems</strong></td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
+      <a><img src="https://img.shields.io/badge/Linux-yellow"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Agent-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.11943"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Independent Researcher<br>
+      • Agent Name: Anima OS agents, Base Model: Qwen2.5-7B-Instruct, Strategy: ProbeLogits<br>
+      • Benchmark Name: OS action benchmark, Task Number: 260, Dataset Source: human-annotated<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
     <td style="width: 40%;"><strong>ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection</strong></td>
     <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Web-yellow"></a><br>
